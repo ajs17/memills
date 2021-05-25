@@ -2,11 +2,4 @@ baseURL = "https://memills.com/"
 languageCode = "en-us"
 title = "M. E. Mills"
 publishDir = "docs" 
-theme =["memills-theme", "hugo-min-components"]
-[module]
-  [[module.imports]]
-    path = "github.com/ajs17/hugo-min-components"
-
-
-
-
+theme ="memills-theme"
