@@ -1,0 +1,29 @@
+
+---
+
+title: 
+date: 2021-04-29
+
+type: "trans-page" # transcribed/OCR'd page
+page-img: 34.jpg
+
+seq-num: 34
+raw-text:
+
+page-num:
+
+---
+
+fulltext:barefooted. From early spring to late fall, boys and girls went barefoot; most adults did part of the time. Going shoeless for pasturing cows on frosty, late fall mornings, youngsters would chase the cows up to warm their feet where the animal had lain.
+
+Buttons were hard to come by, so substitutes were fashioned from thread; safety pins were a later invention. Men’s pants opened at the sides and their shirts buttoned at the back; both were homemade.
+
+Mothers fashioned caps for boys from scraps of material, or of straw for summer wear. Some caps were made of skins, as the famed coonskin cap. All alike wore knitted caps.
+
+Later, leather boots were extensively worn, both for work and for dress; in fact, it was not until after the Civil War that shoes displaced leather boots when rubber footwear became available. Dress boots were made of grain leather, but work boots were fabricated from the split leather. Far from waterproof, they were liberally greased with tallow to overcome this deficiency, but in wet weather the wearer was never dry footed. At night they were tugged off with the aid of a bootjack and willing hands, then filled with oats to absorb the moisture overnight. In cold weather these boots hardened on the wearer’s feet and were most difficult to pull off; to put them on the toe of the boot was kicked against a door jamb as the struggling wearer pulled on the two “pulls” with which each boot was necessarily equipped.
+
+Well-to-do country squires wore grain-leather boots that were kept shined with a mixture of lamp black bonded with the white of an egg. Generally, trouser legs were tucked into the boot tops which came to just below the knee; for dress-up occasions pants legs were worn over the boot. Boots and shoes were made by cordwainers from the farmer’s own leather, and soles were attached with wooden pegs made in pegmills. Footwear was repaired by cobblers.
+
+Up until 1820, footwear was made so as to fit either foot. About mid-century rubber footwear began to appear, along
+
+24 
