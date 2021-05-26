@@ -12,3 +12,7 @@ github.com/ajs17/hugo-min-components v0.0.0-20210526000012-a8c145c03f7a h1:/ILdR
 github.com/ajs17/hugo-min-components v0.0.0-20210526000012-a8c145c03f7a/go.mod h1:jZXY5a1OZrcgh+oVOFFHN3dR9jYL49VOwBZNHHsFZ7g=
 github.com/ajs17/hugo-min-components v0.0.0-20210526000400-f854914fec00 h1:x1PKOXd88GihUKqdFVowdXEy+ieMC+ylDGWRvfEN6eY=
 github.com/ajs17/hugo-min-components v0.0.0-20210526000400-f854914fec00/go.mod h1:jZXY5a1OZrcgh+oVOFFHN3dR9jYL49VOwBZNHHsFZ7g=
+github.com/ajs17/hugo-min-components v0.0.0-20210526005728-97336820f8c8 h1:4C467ZdvQDrruTXsTEz6qdMgny4GFEfsgYRwCb59uYE=
+github.com/ajs17/hugo-min-components v0.0.0-20210526005728-97336820f8c8/go.mod h1:jZXY5a1OZrcgh+oVOFFHN3dR9jYL49VOwBZNHHsFZ7g=
+github.com/ajs17/hugo-min-components v0.0.0-20210526010248-97defdd76e3f h1:/lfjq8UOTLE/FcAtieXL4qY0gUwFdoBOqLGCVkYcH8s=
+github.com/ajs17/hugo-min-components v0.0.0-20210526010248-97defdd76e3f/go.mod h1:jZXY5a1OZrcgh+oVOFFHN3dR9jYL49VOwBZNHHsFZ7g=
