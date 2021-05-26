@@ -2,4 +2,22 @@ baseURL = "https://memills.com/"
 languageCode = "en-us"
 title = "M. E. Mills"
 publishDir = "docs" 
-theme = ["memills-theme", "github.com/ajs17/hugo-min-components"]
+
+# theming and reusable code
+[module]
+  [[module.imports]]
+    path = "github.com/ajs17/hugo-min-components"
+  [[module.imports]]
+    path = "memills-theme"
+
+# see https://blog.fullstackdigital.com/how-to-use-hugo-template-variables-in-scss-files-in-2018-b8a834accce
+# color scheme for base theme
+[params]
+    backgroundColor = " #4D3636"
+    subtleBackColor = "#807373" 
+    foregroundColor = "white"
+    accentColor = "#4D3636"
+    accentColor2 = "#66806D"
+    activeLinkColor = "white"
+    visitedLinkColor = "#808080"   
+    fontFamily = "Optima, Candara, Calibri, Arial, sans-serif"
