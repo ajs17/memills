@@ -10,14 +10,6 @@ publishDir = "docs"
   [[module.imports]]
     path = "memills-theme"
 
-# see https://blog.fullstackdigital.com/how-to-use-hugo-template-variables-in-scss-files-in-2018-b8a834accce
-# color scheme for base theme
-[params]
-    backgroundColor = " #4D3636"
-    subtleBackColor = "#807373" 
-    foregroundColor = "white"
-    accentColor = "#4D3636"
-    accentColor2 = "#66806D"
-    activeLinkColor = "white"
-    visitedLinkColor = "#808080"   
-    fontFamily = "Optima, Candara, Calibri, Arial, sans-serif"
+
+
+

@@ -1,0 +1,13 @@
+# see https://blog.fullstackdigital.com/how-to-use-hugo-template-variables-in-scss-files-in-2018-b8a834accce
+# https://discourse.gohugo.io/t/how-to-override-css-classes-with-hugo/3033/2
+# color scheme for base theme
+[params]
+    [params.customStyles]
+        backgroundColor = "#4D3636"  
+        subtleBackColor = "#807373" 
+        foregroundColor = "white"
+        accentColor = "#4D3636"
+        accentColor2 = "#66806D"
+        activeLinkColor = "white"
+        visitedLinkColor = "#808080"   
+        fontFamily = "Optima, Candara, Calibri, Arial, sans-serif"

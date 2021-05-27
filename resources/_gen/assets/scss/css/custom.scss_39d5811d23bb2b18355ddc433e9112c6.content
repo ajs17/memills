@@ -100,6 +100,3 @@ th, td {
 
 thead, tfoot, tr:nth-child(even) {
   background: #807373; }
-
-aside {
-  display: none; }
