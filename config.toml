@@ -2,6 +2,7 @@ baseURL = "https://memills.com/"
 languageCode = "en-us"
 title = "M. E. Mills"
 publishDir = "docs" 
+enableGitInfo = true
 
 # theming and reusable code
 [module]
