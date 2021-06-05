@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "M. E. Mills"
 publishDir = "docs" 
 enableGitInfo = true
+footnoteReturnLinkContents = "↩"
+lastmod = [":fileModTime", ":default"] # auto populates lastmod date
 
 # theming and reusable code
 [module]
@@ -11,6 +13,28 @@ enableGitInfo = true
   [[module.imports]]
     path = "memills-theme"
 
-
-
-
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2

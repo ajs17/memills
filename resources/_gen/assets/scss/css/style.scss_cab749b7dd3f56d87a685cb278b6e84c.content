@@ -103,3 +103,8 @@ thead, tfoot, tr:nth-child(even) {
 
 aside {
   display: none; }
+
+a, a:hover, a:visited {
+  /* text-decoration: underline; */
+  font-style: italic;
+  font-weight: normal; }
