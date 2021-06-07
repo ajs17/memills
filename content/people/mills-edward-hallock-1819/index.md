@@ -62,34 +62,7 @@ Notes:
 
 ### M. E. Mills 
 
-Despite its title, this exceptionally well written account by Molly Adams is more about the M. E. Mills store than it is about Emily herself.
 
-
-<figure>
-<img src="images/a-note-on-emily-mills.jpg">
-<blockquote>
-    
-<h5>A Note on Emily Mills</h5>
-
-{{% include "images/a-note-on-emily-mills.md" %}}
-
-
-</blockquote>
-
-<figcaption>— <cite>Molly Adams</cite></figcaption>
-
-<footer>
-Notes:
-
-  - The "old postoffice" is present-day 484 Brooktondale Road.
-  - "TNT" refers to the store that is presently Brookton's Market and was owned by the Mulks in early 1900's.  See [Historical Names]({{< relref "#historical-names" >}})
-
-  - The source of the quotes about the Mills' home are from the property deeds of the time. 
-  - The source of the quote in the last paragraph about extending credit is taken from E. D. Shurter's tribute in the Ithaca Journal.
-  - Erratum: Hannah Mills was Emily's step-mother.
-</footer>
-
-</figure>
 
 ## Appendix
 
@@ -111,6 +84,24 @@ Caroline Valley Community Church:
 
 Brookton's Market:
 
+### A Note on Emily Mills by Molly Adams
+
+Despite its title, this exceptional account by Molly Adams is more about the M. E. Mills store than it is about Emily herself.
+
+{{% mefigure "images/a-note-on-emily-mills.jpg" "Molly Adams" %}}
+
+<footer>
+Notes:
+
+  - The "old postoffice" is present-day 484 Brooktondale Road.
+  - "TNT" refers to the store that is presently Brookton's Market and was owned by the Mulks in early 1900's.  See [Historical Names]({{< relref "#historical-names" >}})
+
+  - The source of the quotes about the Mills' home are from the property deeds of the time. 
+  - The source of the quote in the last paragraph about extending credit is taken from E. D. Shurter's tribute in the Ithaca Journal.
+  - Erratum: Hannah Mills was Emily's step-mother.
+</footer>
+
+{{% /mefigure %}}
 
 ### Churches in Corfu 
 
@@ -131,4 +122,13 @@ The following histories were provided via personal correspondence with Allan Sta
   There was a lot of dissention in the church by 1831. Two factions of Presbyterians and the Congregationalists were doing a lot of bickering. The Genesee Presbytery recommended that the church be dissolved. Later in 1831, the church was disbanded and the "Presbyterian Church of N. Pembroke" was formed. Most of the records of the first church were destroyed. In 1834, it was renamed the "Corfu United Presbyterian Church." The Congregationalist's never did reform.
   </blockquote>
   <figcaption>— <cite>Allan Starkweather, Corfu Town Historian.</cite></figcaption>
+</figure>
+
+
+
+
+
+<nav class="setoff">
+
+{{< section-contents "#appendix" "h2" "h3" >}}
 </figure>

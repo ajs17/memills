@@ -5,6 +5,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+	<script
+  src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
+  integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
+  crossorigin="anonymous"></script>
+
 	
 	
 	
@@ -14,7 +19,7 @@
 	
 		
 	
-	<link href="/css/style.min.07d7eba4f7c4538aeda5f5fabee95623b7460759c0344b6f5ed975eafe3fb2c8.css" rel="stylesheet" integrity="sha256-B9frpPfEU4rtpfX6vulWI7dGB1nANEtvXtl16v4/ssg="/>
+	<link href="/css/style.min.89835d650c68f422173ae7f4dfa6578753c8b12bbadc1f50185fb3928f6d9c76.css" rel="stylesheet" integrity="sha256-iYNdZQxo9CIXOuf036ZXh1PIsSu63B9QGF+zko9tnHY="/>
 
 	<title>The Family of Edward H. Mills.</title>
 	
@@ -47,6 +52,7 @@
     <li><a href="#appendix">Appendix</a>
       <ul>
         <li><a href="#historical-names">Historical Names</a></li>
+        <li><a href="#a-note-on-emily-mills-by-molly-adams">A Note on Emily Mills by Molly Adams</a></li>
         <li><a href="#churches-in-corfu">Churches in Corfu</a></li>
       </ul>
     </li>
@@ -57,8 +63,8 @@
 		<article>
 			<h1>The Family of Edward H. Mills.</h1>
 			Last Update:
-			<time datetime="Sat Jun 60 67:610:108 5050 -0400" class="text-muted">
-			Saturday, Jun 5, 2021
+			<time datetime="Sun Jun 60 67:610:108 6060 -0400" class="text-muted">
+			Sunday, Jun 6, 2021
 			</time>	
 			<div>
 				<h2 id="genealogy-of-edward-h-mills">Genealogy of Edward H. Mills</h2>
@@ -102,11 +108,24 @@
 <h2 id="horace-f-mills">Horace F. Mills</h2>
 <h2 id="mary-emily-mills">Mary Emily Mills</h2>
 <h3 id="m-e-mills">M. E. Mills</h3>
-<p>Despite its title, this exceptionally well written account by Molly Adams is more about the M. E. Mills store than it is about Emily herself.</p>
+<h2 id="appendix">Appendix</h2>
+<h3 id="historical-names">Historical Names</h3>
+<p>Brooktondale:</p>
+<ul>
+<li>from late 1700&rsquo;s: Cantineville or Cantine&rsquo;s Mill and a number of other variants.</li>
+<li>1840: Mott&rsquo;s Corners (often spelled Motts Corners)</li>
+<li>1883: Brookton</li>
+<li>1926: Brooktondale</li>
+</ul>
+<p>As a nod to Brooktondale&rsquo;s history, several local businesses have adopted &ldquo;Brookton&rdquo; as part of their name, most notably Brookton&rsquo;s Market.</p>
+<p>Brooktondale Road:</p>
+<p>Caroline Valley Community Church:</p>
+<p>Brookton&rsquo;s Market:</p>
+<h3 id="a-note-on-emily-mills-by-molly-adams">A Note on Emily Mills by Molly Adams</h3>
+<p>Despite its title, this exceptional account by Molly Adams is more about the M. E. Mills store than it is about Emily herself.</p>
 <figure>
-<img src="images/a-note-on-emily-mills.jpg">
-<blockquote>
-<h5>A Note on Emily Mills</h5>
+<img src="/people/mills-edward-hallock-1819/images/a-note-on-emily-mills_hudbea795098320af2d1bd807e82a2306a_2962815_800x0_resize_q75_box.jpg" width="800" height="758">
+<blockquote><h4 id="a-note-on-emily-mills">A Note on Emily Mills</h4>
 <p>Before David VanDeMark&rsquo;s mother Grace died, he had found in her sewing
 machine (which had been acquired from Clara Lockwood) a little leatherette booklet
 labeled on the outside &ldquo;M. E. MILLS, DEALER IN DRY GOODS, GROCERIES, HARDWARE
@@ -163,19 +182,6 @@ Notes:
 </ul>
 </footer>
 </figure>
-<h2 id="appendix">Appendix</h2>
-<h3 id="historical-names">Historical Names</h3>
-<p>Brooktondale:</p>
-<ul>
-<li>from late 1700&rsquo;s: Cantineville or Cantine&rsquo;s Mill and a number of other variants.</li>
-<li>1840: Mott&rsquo;s Corners (often spelled Motts Corners)</li>
-<li>1883: Brookton</li>
-<li>1926: Brooktondale</li>
-</ul>
-<p>As a nod to Brooktondale&rsquo;s history, several local businesses have adopted &ldquo;Brookton&rdquo; as part of their name, most notably Brookton&rsquo;s Market.</p>
-<p>Brooktondale Road:</p>
-<p>Caroline Valley Community Church:</p>
-<p>Brookton&rsquo;s Market:</p>
 <h3 id="churches-in-corfu">Churches in Corfu</h3>
 <p>The following histories were provided via personal correspondence with Allan Starkweather, Corfu Town Historian:</p>
 <figure>
@@ -189,7 +195,46 @@ Notes:
   </blockquote>
   <figcaption>— <cite>Allan Starkweather, Corfu Town Historian.</cite></figcaption>
 </figure>
-<section class="footnotes" role="doc-endnotes">
+<nav class="setoff">
+
+
+  
+
+<script>
+jQuery(document).ready(function () {
+    var ToC =
+  "<nav role='navigation' class='section-contents'>" +
+    "<ul>";
+
+    var newLine, el, title, link;
+
+    $("#appendix").nextUntil("h2").filter("h3").each(function() {
+    
+      el = $(this);
+      title = el.text();
+      link = "#" + el.attr("id");
+    
+      newLine =
+        "<li>" +
+          "<a href='" + link + "'>" +
+            title +
+          "</a>" +
+        "</li>";
+    
+      ToC += newLine;
+    
+    });
+
+    ToC +=
+   "</ul>" +
+  "</nav>";
+
+  $(ToC).insertAfter("#appendix");
+
+});
+</script>
+
+</figure><section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">

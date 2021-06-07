@@ -6,6 +6,10 @@ enableGitInfo = true
 footnoteReturnLinkContents = "↩"
 lastmod = [":fileModTime", ":default"] # auto populates lastmod date
 
+[params]
+  ImageResize = "800x"
+
+
 # theming and reusable code
 [module]
   [[module.imports]]

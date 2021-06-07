@@ -1,3 +1,5 @@
+#### A Note on Emily Mills
+
 Before David VanDeMark's mother Grace died, he had found in her sewing
 machine (which had been acquired from Clara Lockwood) a little leatherette booklet
 labeled on the outside "M. E. MILLS, DEALER IN DRY GOODS, GROCERIES, HARDWARE
