@@ -125,10 +125,4 @@ The following histories were provided via personal correspondence with Allan Sta
 </figure>
 
 
-
-
-
-<nav class="setoff">
-
 {{< section-contents "#appendix" "h2" "h3" >}}
-</figure>
