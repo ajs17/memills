@@ -24,7 +24,7 @@ Notes:
   - Jonas was Edward's father's name.
   - Edward had a sister named Emily that he may have named his daughter after.
 
-[^1]: Brookton was renamed to Brooktondale in 1926. See [Historical Names]({{< relref "#historical-names" >}})
+[^1]: Brookton was renamed to Brooktondale in 1926. See [Historical Names]({{< relref "#historical-names" >}}). In general, I will use "Brooktondale" unless in the given context, the historical name will make more sense. Since death records obviously reference historical names, I have preserved them here so as not to create confusion. 
 
 ### Burials
 
@@ -47,6 +47,20 @@ Notes:
 Notes:
   - Variations of Edward's middle name exist, such as "Hallioch" and "Halloch" however these seem to be errors as Edward's middle name appears to be taken from his mother's maiden name: "Hallock."
 
+### E. H. Mills & Co., Corfu NY 
+
+{{% mefigure "images/1866-corfu-po-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." %}}
+
+{{% mefigure "images/1866-corfu-business-directory.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
+
+{{% mefigure "images/1876-corfu-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
+
+{{% mefigure "images/1876-corfu-map-notes.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
+
+{{% mefigure "images/1899-corfu-fire.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
+
+
+
 ## Mary Ann Mills 
 
 Notes:
@@ -62,9 +76,47 @@ Notes:
 
 ### M. E. Mills 
 
+In [A Note on Emily Mills](#a-note-on-emily-mills),
 
+It is interesting to note that in the sales ledgers, the store was closed on Sundays, but if Christmas fell on any other day of the week, the store was open and had a fairly typical flow of customers.
+
+These records show us how Emily's store accounting evolved over time, beginning with small changes after Edward died and by the 1920's, her business records are quite a bit more complete and sophisticated. In addition to the normal sales ledgers that look very similar to Edward's entries decades before, these are more modern books that also racked suppliers and were much more structured. These books had "specimen" pages to teach how to use the forms within.
+
+<hr>
 
 ## Appendix
+
+### Unanswered Questions and Areas of Further Research
+
+  - More precise birthdates and birthplaces for Jonas, Horace, Emily.
+  - Jonas' and Horace's full middle names.
+  - Photo of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
+
+Horace's Death:
+  - Presumably why the family moved *away from* Corfu?
+  - But why *to* Mott's Corners?
+  - The nature of Horace's death, and was alcohol a significant factor? Presumably this will never be knowable, but perhaps there will be clues in the Good Templars notebooks.
+
+Planned:
+  - Photo inventory and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move.
+  - Research Emily's baptism, possibly contacting descendents of Annis Ford Eastman for information on that event. 
+  
+
+### Physical Artifacts Remaining
+
+The original structures of both the Mills' store in Brooktondale and the Mills' home in Brooktondale still exist at the time I write this. 
+
+Maps of Corfu from the time show the locations of E. H. Mills and the Mills' home in 1866.
+
+We actually have copious amounts of Emily's handwriting spanning many decades:
+  - The sales ledgers of M. E. Mills from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store some decades later, thanks to Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph them. See [Mill's Store Ledgers](). 
+  - A complete notebook of meeting minutes for the temperance organization The Independent Order of Good Templars, beginning in the early 1880's. (Also, form)
+
+The storefront of M. E. Mills is visible in the background, mostly obstructed, in photos that feature the Shurter Hotel next door (between the Mills' store and the lower bridge over Six Mile Creek in Brookton). 
+
+In a book of local history that Gertrude Conant created for her son, there is a photo that includes the front of M. E. Mills, with the Mills' home in the background, taken approximately 1915. So far, we have only seen a photo of this photo, and the store front appears to be over-exposed, hiding much detail. It is expected that this book will be donated to the Caroline Historian in the future, and we will be able to get a better look at it. We are also hopeful that an original print and/or negative exists somewhere in the collection.
+
+[A Note on Emily Mills](#a-note-on-emily-mills), mentions "a little leatherette booklet" identified with M. E. Mills, and I am attempting to locate it.
 
 ### Historical Names
 
@@ -88,6 +140,8 @@ Brookton's Market:
 
 Despite its title, this exceptional account by Molly Adams is more about the M. E. Mills store than it is about Emily herself.
 
+Shortly after I moved into the Mills' home in Brooktondale, Molly Adams visited me to sign me up for the Old Mill newsletter, and to give me the following history of Emily Mills and her store. I have since been told that this was a ritual Molly performed with other newcomers. Although I read this "Note" with some interest initially, I didn't appreciate its importance until several years too late to ask Molly to teach me more. I at least had the foresight to save it somewhere I could find it again years later when I needed it. I revisit this often, still mining it for clues about Emily, trying to learn what Molly knew.
+
 {{% mefigure "images/a-note-on-emily-mills.jpg" "Molly Adams" %}}
 
 <footer>
@@ -95,13 +149,18 @@ Notes:
 
   - The "old postoffice" is present-day 484 Brooktondale Road.
   - "TNT" refers to the store that is presently Brookton's Market and was owned by the Mulks in early 1900's.  See [Historical Names]({{< relref "#historical-names" >}})
-
   - The source of the quotes about the Mills' home are from the property deeds of the time. 
   - The source of the quote in the last paragraph about extending credit is taken from E. D. Shurter's tribute in the Ithaca Journal.
   - Erratum: Hannah Mills was Emily's step-mother.
 </footer>
 
 {{% /mefigure %}}
+
+### Deeds for the Mills' Home in Brooktondale
+
+{{% mefigure "images/475-deed-pg-1.jpg" /%}}
+{{% mefigure "images/475-deed-pg-2.jpg" /%}}
+{{% mefigure "images/475-deed-pg-3.jpg" /%}}
 
 ### Churches in Corfu 
 
