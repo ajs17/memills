@@ -1,0 +1,1 @@
+Jonas Mills of Brookton, was suddenly taken very ill last Saturday and died on Tuesday. His burial occurred to-day.

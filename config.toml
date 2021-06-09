@@ -39,6 +39,6 @@ lastmod = [":fileModTime", ":default"] # auto populates lastmod date
       unsafe = true
       xhtml = false
   [markup.tableOfContents]
-    endLevel = 3
+    endLevel = 2
     ordered = false
     startLevel = 2

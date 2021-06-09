@@ -3,13 +3,12 @@ title: "The Family of Edward H. Mills."
 date: "2021-05-25"
 ---
 
-
-## Genealogy of Edward H. Mills
+## Genealogy
 
 **Edward Hallock Mills** (born Smithtown NY, Mar 25, 1819, died Brookton[^1] NY, Jan 1, 1908).
 
-Wife: **Mary Ann (Pike) Mills** (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850 in Hempstead by [Rev N C Locke of Christ's Presbyterian Church at South Hempstead, Long Island, NY.](http://longislandgenealogy.com/firstPresHempstead/18051858.html) : "Edward H Mills of Factoryville Staten Island to Mary Ann Pike of Hempstead."
- 
+Wife: **Mary Ann (Pike) Mills** (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850. 
+
 Children:
   - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, Oct 14, 1885).
   - **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, October 27, 1876).
@@ -17,7 +16,7 @@ Children:
   
 None of Edward's children married or had children.
 
-Wife: **Hannah (Thatcher) Eastman Mills** (1825?, died Brooktondale NY, Feb 25, 1917). Married on Dec 30, 1896. (No children)
+Wife: **Hannah (Thatcher) Eastman Mills** (1825?, died Brooktondale NY, Feb 25, 1917). Married on Dec 30, 1896. (No children from the marriage to Edward.)
 
 Notes:
   - Edward's middle name Hallock was his Mother's maiden name.
@@ -69,12 +68,16 @@ A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
 
 ## Mary Ann Mills 
 
+{{% mefigure "images/1851-01-03-Brooklyn-Daily-Eagle.jpg" "Jan 03, 1851, The Brooklyn Daily Eagle via newspapers.com." "400x" /%}}
+
 Notes:
   - Mary Ann's maiden name is sometimes mis-transcribed as "Pine."
 
 
 
 ## Jonas E. Mills 
+
+{{% mefigure "images/1885-10-15-ithaca-daily-journal.jpg" "Oct 15, 1885, The Ithaca Daily Journal via nyshistoricnewspapers.org." "400x" /%}}
 
 ## Horace F. Mills 
 
@@ -93,7 +96,7 @@ As you read these accounts, note that Emily died at the age of 76...
 This moving tribute was authored by none other than E. D. Shurter, a former Cornell professor and Caroline native who was also a nationally renowned orator and author.
 {{% mefigure "images/1937-11-11-ithaca-journal.jpg" "Nov 11, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
 
-{{% mefigure "images/1937-11-26-ithaca-journal.jpg" "Nov 26, 1937, The Ithaca Journal via newspapers.com." /%}}
+{{% mefigure "images/1937-11-26-ithaca-journal.jpg" "Nov 26, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
 
 ### M. E. Mills 
 
@@ -105,7 +108,7 @@ These records show us how Emily's store accounting evolved over time, beginning 
 
 ## Hannah Mills 
 
-{{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." /%}}
+{{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." "400x" /%}}
 
 <hr>
 
@@ -157,7 +160,7 @@ Brooktondale:
   - from late 1700's: Cantineville or Cantine's Mill and a number of other variants.
   - 1840: Mott's Corners (often spelled Motts Corners)
   - 1883: Brookton
-  - 1926: Brooktondale
+  - Feb 16, 1926: Brooktondale
 
 As a nod to Brooktondale's history, several local businesses have adopted "Brookton" as part of their name, most notably Brookton's Market.
 
