@@ -49,13 +49,19 @@ Notes:
 
 ### E. H. Mills & Co., Corfu NY 
 
+The following two images are a map and associated business directory from 1866 showing the E. H. Mills & Co. as well as the Mills' home in Corfu:
+
 {{% mefigure "images/1866-corfu-po-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." %}}
 
 {{% mefigure "images/1866-corfu-business-directory.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
 
+By 1876, the year that Horace died, Corfu had grown, but E. H. Mills & Co. and the Mills' home are still there:
+
 {{% mefigure "images/1876-corfu-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
 
 {{% mefigure "images/1876-corfu-map-notes.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
+
+A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
 
 {{% mefigure "images/1899-corfu-fire.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
 
@@ -74,6 +80,21 @@ Notes:
 
 ## Mary Emily Mills
 
+As you read these accounts, note that Emily died at the age of 76...
+
+{{% mefigure "images/1937-10-15-ithaca-journal.jpg" "Oct 15, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+
+{{% mefigure "images/1937-11-03-ithaca-journal.jpg" "Nov 03, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+
+{{% mefigure "images/1937-11-04-ithaca-journal.jpg" "Nov 04, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+
+{{% mefigure "images/1937-11-05-ithaca-journal.jpg" "Nov 05, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+
+This moving tribute was authored by none other than E. D. Shurter, a former Cornell professor and Caroline native who was also a nationally renowned orator and author.
+{{% mefigure "images/1937-11-11-ithaca-journal.jpg" "Nov 11, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+
+{{% mefigure "images/1937-11-26-ithaca-journal.jpg" "Nov 26, 1937, The Ithaca Journal via newspapers.com." /%}}
+
 ### M. E. Mills 
 
 In [A Note on Emily Mills](#a-note-on-emily-mills),
@@ -82,9 +103,21 @@ It is interesting to note that in the sales ledgers, the store was closed on Sun
 
 These records show us how Emily's store accounting evolved over time, beginning with small changes after Edward died and by the 1920's, her business records are quite a bit more complete and sophisticated. In addition to the normal sales ledgers that look very similar to Edward's entries decades before, these are more modern books that also racked suppliers and were much more structured. These books had "specimen" pages to teach how to use the forms within.
 
+## Hannah Mills 
+
+{{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." /%}}
+
 <hr>
 
 ## Appendix
+
+### Notes for Future Researchers
+
+other Horace Mills, EH Mills & Co.
+
+There is another Horace F. Mills in upstate New York in the 1800's, who does not appear to be related to this Mills family. That Horace Mills was born in 1847, lived in Penn Yan NY, attended the University at Albany in 1861 but left to serve in the Civil War, ultimately rising to the rank of Major in the 9th USCT. Several photos can be found of him online.
+
+A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shurter in the Cornell University Library archives did not yield any photos or other documentation related to the Mills family. In fact, the Brookton/Caroline related materials were in the minority, and there were few original photographic prints overall.
 
 ### Unanswered Questions and Areas of Further Research
 
