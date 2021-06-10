@@ -1,6 +1,6 @@
 1908 Deaths Continued
 
-Edward Hallioch Mills Died Jan 1st 1908 at 3 o'clock in the afternoon. He was born at Smithtown L.I. March 25, 1819 - lacking less than 3 mos. of 89 yrs.
+Edward Hallioch[sic] Mills Died Jan 1st 1908 at 3 o'clock in the afternoon. He was born at Smithtown L.I. March 25, 1819 - lacking less than 3 mos. of 89 yrs.
 
 In March 1879 He came to Brookton from Corfu N.Y. with his family and has lived among us nearly 29 years.
 

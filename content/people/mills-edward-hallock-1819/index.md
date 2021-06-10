@@ -259,7 +259,7 @@ Notes:
 
 This baptism took place in the final year of Edward's life. He and his second wife Hannah had both been members of the Church for just over a decade at that point, and depending on Edward's health at that time, we can assume that he and Hannah would have been present for the ceremony that day.
 
-It is interesting to note the care taken to quote the scripture verse used in the sermon, which uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
+It is interesting to note the care taken to quote the scripture verse used in the sermon, as it is a translation that uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
 
 <figure>
 <blockquote>Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.</blockquote>
@@ -269,7 +269,7 @@ This event and its recording are unusual in several respects, and deserving of f
 
 The Reverend Annis Ford Eastman made history by becoming one of the first women ordained in a Congregational Church while she was pastor of Brookton Congregational Church (now Caroline Valley Community Church) from 1889 to 1891. The Reverend wrote of her time in Brookton, including an account of her ordination, in "The Making of a Woman Minister" in the book **Enjoyment of Living** by her son Max Eastman. The Church's historical records also include an account of her ordination, including the names of the members of the "picked council" she refers to in her account. The Church's records indicate that the Reverend did return to Brookton periodically in the years after she left. The Reverend would die in 1910 after a period of ill health, so this would have been one of her last return visits.
 
-At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only official member of the Church, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me."
+At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only membber of the family who was officially a member of the Church, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me."
 
 As mentioned in [A Note on Emily Mills](#a-note-on-emily-mills), Jessie (Shurter) Brewer would eventually purchase the Mills' home and M. E. Mills after Emily's death.
 
