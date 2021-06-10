@@ -7,10 +7,10 @@ date: "2021-05-25"
 
 **Edward Hallock Mills** (born Smithtown NY, Mar 25, 1819, died Brookton[^1] NY, Jan 1, 1908).
 
-Wife: **Mary Ann (Pike) Mills** (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850. 
+Wife: **Mary Ann (Pine or Pike) Mills** (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850. 
 
 Children:
-  - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, Oct 14, 1885).
+  - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, Oct 13, 1885).
   - **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, October 27, 1876).
   - **Mary Emily Mills** who went by "Emily" and often signed her name as "M. Emily Mills" (born Staten Island NY, 1861, died Brooktondale NY, Nov 3, 1937).
   
@@ -36,6 +36,7 @@ Notes:
 
 ## Edward Hallock Mills
 
+
 <figure>
   <blockquote>
   The body of E. H. MILLS, who conducted a general store in Corfu over twenty-five years ago, was brought on Friday evening from Ithaca and buried in Evergreen Hill cemetery. The Rev. W.W. Robinson conducting the services. The body was accompanied by Mr. Mills daughter, MISS EMILY MILLS. Mr. Mills was 89 years old. 
@@ -45,6 +46,17 @@ Notes:
 
 Notes:
   - Variations of Edward's middle name exist, such as "Hallioch" and "Halloch" however these seem to be errors as Edward's middle name appears to be taken from his mother's maiden name: "Hallock."
+
+
+### Combined Church Obituary Entry for Edward and Mary Ann 
+
+{{% mefigure "images/mills-edward-mary-cvcc-obit.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church."  %}}
+<footer>
+
+</footer>
+{{ /mefigure }}
+
+
 
 ### E. H. Mills & Co., Corfu NY 
 
@@ -68,11 +80,10 @@ A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
 
 ## Mary Ann Mills 
 
+{{% mefigure "images/mills-mary-cvcc-join.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church." /%}}
+
+
 {{% mefigure "images/1851-01-03-Brooklyn-Daily-Eagle.jpg" "Jan 03, 1851, The Brooklyn Daily Eagle via newspapers.com." "400x" /%}}
-
-Notes:
-  - Mary Ann's maiden name is sometimes mis-transcribed as "Pine."
-
 
 
 ## Jonas E. Mills 
@@ -100,23 +111,29 @@ This moving tribute was authored by none other than E. D. Shurter, a former Corn
 
 ### M. E. Mills 
 
-In [A Note on Emily Mills](#a-note-on-emily-mills),
-
 It is interesting to note that in the sales ledgers, the store was closed on Sundays, but if Christmas fell on any other day of the week, the store was open and had a fairly typical flow of customers.
 
 These records show us how Emily's store accounting evolved over time, beginning with small changes after Edward died and by the 1920's, her business records are quite a bit more complete and sophisticated. In addition to the normal sales ledgers that look very similar to Edward's entries decades before, these are more modern books that also racked suppliers and were much more structured. These books had "specimen" pages to teach how to use the forms within.
 
 ## Hannah Mills 
 
-{{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." "400x" /%}}
+{{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." "400x" %}}
+<footer>
+Notes:
+
+  - The "late residence" referred to is obviously the Mills' home.
+<footer>
+{{% /mefigure %}}
+
+{{% mefigure "images/mills-hannah-cvcc-obit.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church." /%}}
+
+
 
 <hr>
 
 ## Appendix
 
 ### Notes for Future Researchers
-
-other Horace Mills, EH Mills & Co.
 
 There is another Horace F. Mills in upstate New York in the 1800's, who does not appear to be related to this Mills family. That Horace Mills was born in 1847, lived in Penn Yan NY, attended the University at Albany in 1861 but left to serve in the Civil War, ultimately rising to the rank of Major in the 9th USCT. Several photos can be found of him online.
 
@@ -133,24 +150,33 @@ Horace's Death:
   - But why *to* Mott's Corners?
   - The nature of Horace's death, and was alcohol a significant factor? Presumably this will never be knowable, but perhaps there will be clues in the Good Templars notebooks.
 
+Church Records and Baptism:
+  - Entries mentioning Emily or Edward before they officially joined?  
+  - Any information on this event from Park Church, any diaries of Reverend Ford Eastman?
+  - Is there significance to the date? Easter was on 3/31 in 1907. 4/7 did fall on a Sunday
+  - Catalog all information about Reverend Annis Ford Eastman, including her return trips, see if Emily's baptism was the Rev's last visit to Brookton.
+  - Look at Ithaca papers on, immediately after that day?
+  
 Planned:
   - Photo inventory and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move.
   - Research Emily's baptism, possibly contacting descendents of Annis Ford Eastman for information on that event. 
+  - The dimenions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
   
 
 ### Physical Artifacts Remaining
 
 The original structures of both the Mills' store in Brooktondale and the Mills' home in Brooktondale still exist at the time I write this. 
 
+There are relevant photos taken from the hills above and behind the Mills' store that show the roof and outline of the building. The storefront of M. E. Mills is visible in the background, mostly obstructed, in photos that feature the Shurter Hotel next door (the Shurter Hotel sat between the Mills' store and the lower bridge over Six Mile Creek in Brookton). 
+
+In a book of local history that Gertrude Conant created for her son, there is a photo that includes the front of M. E. Mills, with the Mills' home in the background, purportedly taken approximately 1915. So far, we have only seen a photo of this photo, it appears quite small, and the store front appears to be over-exposed, hiding much detail. It is expected that this book will be donated to the Caroline Historian in the future, and we will be able to get a better look at it. We are also hopeful that an original print and/or negative exists somewhere in the collection. 
+
 Maps of Corfu from the time show the locations of E. H. Mills and the Mills' home in 1866.
 
 We actually have copious amounts of Emily's handwriting spanning many decades:
-  - The sales ledgers of M. E. Mills from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store some decades later, thanks to Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph them. See [Mill's Store Ledgers](). 
-  - A complete notebook of meeting minutes for the temperance organization The Independent Order of Good Templars, beginning in the early 1880's. (Also, form)
-
-The storefront of M. E. Mills is visible in the background, mostly obstructed, in photos that feature the Shurter Hotel next door (between the Mills' store and the lower bridge over Six Mile Creek in Brookton). 
-
-In a book of local history that Gertrude Conant created for her son, there is a photo that includes the front of M. E. Mills, with the Mills' home in the background, taken approximately 1915. So far, we have only seen a photo of this photo, and the store front appears to be over-exposed, hiding much detail. It is expected that this book will be donated to the Caroline Historian in the future, and we will be able to get a better look at it. We are also hopeful that an original print and/or negative exists somewhere in the collection.
+  - A complete notebook of meeting minutes for the temperance organization The Independent Order of Good Templars, beginning in the early 1880's. There is also an original copy of a form filed with the organization. These items are kept in the Tompkins County Historical Society archives.
+  - The sales ledgers of M. E. Mills general store from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store several decades later, thanks to then owner Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph several of the books. The ledgers are in excellent condition, and we can match Emily's handwriting to the known examples from the Good Templars notes. See [Mill's Store Ledgers](). 
+  
 
 [A Note on Emily Mills](#a-note-on-emily-mills), mentions "a little leatherette booklet" identified with M. E. Mills, and I am attempting to locate it.
 
@@ -219,5 +245,36 @@ The following histories were provided via personal correspondence with Allan Sta
   <figcaption>— <cite>Allan Starkweather, Corfu Town Historian.</cite></figcaption>
 </figure>
 
+
+
+### The Baptism of Emily Mills
+
+Emily Mills and Jessie Shurter were baptized in the same ceremony, officiated by none other than the Reverend Annis Ford Eastman.
+
+{{% mefigure "images/mills-emily-cvcc-baptism.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church." %}}
+<footer>
+Notes:
+
+  - In 1907, April 7th fell on the Sunday after Easter.
+
+  - The uneven pen strokes and differences in intensity of ink show that the original record was written in fountain pen, with the lighter, marginal notes added later with lead pencil. The consistency of the pencil marks suggests these notes were all added at the same time. 
+</footer>
+{{% /mefigure %}}
+
+This baptism took place in the final year of Edward's life. He and his second wife Hannah had both been members of the Church for just over a decade at that point, and depending on Edward's health at that time, we can assume that he and Hannah would have been present for the ceremony that day.
+
+It is interesting to note the care taken to quote the scripture verse used in the sermon, which uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
+
+<figure>
+<blockquote>Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.</blockquote>
+<figcaption>— <cite>Luke 13:24, King James Bible</cite></figcaption>
+
+This event and its recording are unusual in several respects, and deserving of further investigation. The record itself is quite unique in the amount of detail compared to similar records elsewhere in the same book. The number of people being baptized in one event also seems unusual for a congregation that size (it seemed more typical to have a small handful of people baptized in a year, and to not necessarily be grouped together) and may be related to the other notable fact: that eleven of the fifteen people are unmarried women (and two others were first degree relatives of women in that group of eleven). Add to this, the fact that Reverend Annis Ford Eastman returned to officiate this event, and a rough outline of what was happening begins to suggest itself, along with the significance that the cited scripture would have for the Reverend and these women.
+
+The Reverend Annis Ford Eastman made history by becoming one of the first women ordained in a Congregational Church while she was pastor of Brookton Congregational Church (now Caroline Valley Community Church) from 1889 to 1891. The Reverend wrote of her time in Brookton, including an account of her ordination, in "The Making of a Woman Minister" in the book **Enjoyment of Living** by her son Max Eastman. The Church's historical records also include an account of her ordination, including the names of the members of the "picked council" she refers to in her account. The Church's records indicate that the Reverend did return to Brookton periodically in the years after she left. The Reverend would die in 1910 after a period of ill health, so this would have been one of her last return visits.
+
+At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only official member of the Church, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me."
+
+As mentioned in [A Note on Emily Mills](#a-note-on-emily-mills), Jessie (Shurter) Brewer would eventually purchase the Mills' home and M. E. Mills after Emily's death.
 
 {{< section-contents "#appendix" "h2" "h3" >}}
