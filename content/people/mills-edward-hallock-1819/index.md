@@ -60,10 +60,9 @@ Notes:
 
 ## Mary Ann Mills 
 
-{{% mefigure "images/mills-mary-cvcc-join.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church." /%}}
-
-
 {{% mefigure "images/1851-01-03-Brooklyn-Daily-Eagle.jpg" "Jan 03, 1851, The Brooklyn Daily Eagle via newspapers.com." "400x" /%}}
+
+{{% mefigure "images/mills-mary-cvcc-join.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church." /%}}
 
 
 ## Jonas E. Mills 
