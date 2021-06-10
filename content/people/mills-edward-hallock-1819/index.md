@@ -36,6 +36,7 @@ Notes:
 
 ## Edward Hallock Mills
 
+Edward H. Mills was co-owner of [**E. H. Mills & Co.**](#e-h-mills--co-corfu-ny) general store in Corfu, NY and later, [**E. H. Mills**](#e-h-mills-and-m-e-mills-brookton) general store in Mott's Corners/Brookton NY.
 
 <figure>
   <blockquote>
@@ -44,39 +45,18 @@ Notes:
   <figcaption>— <cite>Jan 6, 1908, Batavia Daily News.</cite></figcaption>
 </figure>
 
-Notes:
-  - Variations of Edward's middle name exist, such as "Hallioch" and "Halloch" however these seem to be errors as Edward's middle name appears to be taken from his mother's maiden name: "Hallock."
+
 
 
 ### Combined Church Obituary Entry for Edward and Mary Ann 
 
 {{% mefigure "images/mills-edward-mary-cvcc-obit.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church."  %}}
 <footer>
+Notes:
 
+  - Variations of Edward's middle name exist, such as "Hallioch" and "Halloch" however these seem to be errors as Edward's middle name appears to be taken from his mother's maiden name: "Hallock."
 </footer>
-{{ /mefigure }}
-
-
-
-### E. H. Mills & Co., Corfu NY 
-
-The following two images are a map and associated business directory from 1866 showing the E. H. Mills & Co. as well as the Mills' home in Corfu:
-
-{{% mefigure "images/1866-corfu-po-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." %}}
-
-{{% mefigure "images/1866-corfu-business-directory.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
-
-By 1876, the year that Horace died, Corfu had grown, but E. H. Mills & Co. and the Mills' home are still there:
-
-{{% mefigure "images/1876-corfu-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
-
-{{% mefigure "images/1876-corfu-map-notes.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
-
-A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
-
-{{% mefigure "images/1899-corfu-fire.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
-
-
+{{% /mefigure %}}
 
 ## Mary Ann Mills 
 
@@ -109,12 +89,6 @@ This moving tribute was authored by none other than E. D. Shurter, a former Corn
 
 {{% mefigure "images/1937-11-26-ithaca-journal.jpg" "Nov 26, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
 
-### M. E. Mills 
-
-It is interesting to note that in the sales ledgers, the store was closed on Sundays, but if Christmas fell on any other day of the week, the store was open and had a fairly typical flow of customers.
-
-These records show us how Emily's store accounting evolved over time, beginning with small changes after Edward died and by the 1920's, her business records are quite a bit more complete and sophisticated. In addition to the normal sales ledgers that look very similar to Edward's entries decades before, these are more modern books that also racked suppliers and were much more structured. These books had "specimen" pages to teach how to use the forms within.
-
 ## Hannah Mills 
 
 {{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." "400x" %}}
@@ -128,6 +102,29 @@ Notes:
 {{% mefigure "images/mills-hannah-cvcc-obit.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church." /%}}
 
 
+## E. H. Mills & Co., Corfu NY 
+
+The following two images are a map and associated business directory from 1866 showing the E. H. Mills & Co. as well as the Mills' home in Corfu:
+
+{{% mefigure "images/1866-corfu-po-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." %}}
+
+{{% mefigure "images/1866-corfu-business-directory.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
+
+By 1876, the year that Horace died, Corfu had grown, but E. H. Mills & Co. and the Mills' home are still there:
+
+{{% mefigure "images/1876-corfu-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
+
+{{% mefigure "images/1876-corfu-map-notes.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
+
+A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
+
+{{% mefigure "images/1899-corfu-fire.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
+
+## E. H. Mills and M. E. Mills, Brookton
+
+It is interesting to note that in the sales ledgers, the store was closed on Sundays, but if Christmas fell on any other day of the week, the store was open and had a fairly typical flow of customers.
+
+These records show us how Emily's store accounting evolved over time, beginning with small changes after Edward died and by the 1920's, her business records are quite a bit more complete and sophisticated. In addition to the normal sales ledgers that look very similar to Edward's entries decades before, these are more modern books that also racked suppliers and were much more structured. These books had "specimen" pages to teach how to use the forms within.
 
 <hr>
 
