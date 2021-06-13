@@ -50,7 +50,7 @@ Edward H. Mills was co-owner of [**E. H. Mills & Co.**](#e-h-mills--co-corfu-ny)
 
 ### Combined Church Obituary Entry for Edward and Mary Ann 
 
-{{% mefigure "images/mills-edward-mary-cvcc-obit.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church."  %}}
+{{% mefigure "images/mills-edward-mary-cvcc-obit.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used with permisson from Caroline Valley Community Church."  %}}
 <footer>
 Notes:
 
@@ -60,37 +60,46 @@ Notes:
 
 ## Mary Ann Mills 
 
-{{% mefigure "images/1851-01-03-Brooklyn-Daily-Eagle.jpg" "Jan 03, 1851, The Brooklyn Daily Eagle via newspapers.com." "400x" /%}}
+{{% mefigure "images/1851-01-03-Brooklyn-Daily-Eagle.jpg" "Jan 03, 1851, The Brooklyn Daily Eagle via newspapers.com." "400" /%}}
 
-{{% mefigure "images/mills-mary-cvcc-join.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church." /%}}
+{{% mefigure "images/mills-mary-cvcc-join.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used with permisson from Caroline Valley Community Church." /%}}
 
 
 ## Jonas E. Mills 
 
-{{% mefigure "images/1885-10-15-ithaca-daily-journal.jpg" "Oct 15, 1885, The Ithaca Daily Journal via nyshistoricnewspapers.org." "400x" /%}}
+{{% mefigure "images/1885-10-15-ithaca-daily-journal.jpg" "Oct 15, 1885, The Ithaca Daily Journal via nyshistoricnewspapers.org." "400" /%}}
 
 ## Horace F. Mills 
 
 ## Mary Emily Mills
 
+{{% mefigure "images/mills-emily-arthurs-home-magazine.jpg" "July-December, 1887, **Arthur's Home Magazine**, Volume 56, Page 106, accessed via [Google Books](&https://books.google.com/books?id=5S4ZAAAAYAAJ&pg=PA106&lpg=PA106) ." "400" /%}}
+
+
 As you read these accounts, note that Emily died at the age of 76...
 
-{{% mefigure "images/1937-10-15-ithaca-journal.jpg" "Oct 15, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+{{% mefigure "images/1937-10-15-ithaca-journal.jpg" "Oct 15, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
-{{% mefigure "images/1937-11-03-ithaca-journal.jpg" "Nov 03, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+{{% mefigure "images/1937-11-03-ithaca-journal.jpg" "Nov 03, 1937, The Ithaca Journal via newspapers.com." "400" %}}
+<footer>
+Notes:
 
-{{% mefigure "images/1937-11-04-ithaca-journal.jpg" "Nov 04, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+  - According to an entry in the [Late August - EarlySeptember 2016 edition of the **History Happenings" newsletter published by the Tompkins County History Center](https://myemail.constantcontact.com/History-Happenings---Late-August---Early-September-2016.html?soid=1103133034468&aid=9svvB-OfDhg), "January 1914 Ithaca Memorial Hospital opened on Quarry Street and in January 1948 responsibility was assumed by Tompkins County and renamed as Tompkins County Memorial Hospital." This building today is owned by Cornell University and used for student dormitoriees.
+<footer>
+{{% /mefigure %}}
 
-{{% mefigure "images/1937-11-05-ithaca-journal.jpg" "Nov 05, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+{{% mefigure "images/1937-11-04-ithaca-journal.jpg" "Nov 04, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
+
+{{% mefigure "images/1937-11-05-ithaca-journal.jpg" "Nov 05, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
 This moving tribute was authored by none other than E. D. Shurter, a former Cornell professor and Caroline native who was also a nationally renowned orator and author.
-{{% mefigure "images/1937-11-11-ithaca-journal.jpg" "Nov 11, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+{{% mefigure "images/1937-11-11-ithaca-journal.jpg" "Nov 11, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
-{{% mefigure "images/1937-11-26-ithaca-journal.jpg" "Nov 26, 1937, The Ithaca Journal via newspapers.com." "400x" /%}}
+{{% mefigure "images/1937-11-26-ithaca-journal.jpg" "Nov 26, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
 ## Hannah Mills 
 
-{{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." "400x" %}}
+{{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." "400" %}}
 <footer>
 Notes:
 
@@ -98,14 +107,13 @@ Notes:
 <footer>
 {{% /mefigure %}}
 
-{{% mefigure "images/mills-hannah-cvcc-obit.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church." /%}}
-
+{{% mefigure "images/mills-hannah-cvcc-obit.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used with permisson from Caroline Valley Community Church." /%}}
 
 ## E. H. Mills & Co., Corfu NY 
 
 The following two images are a map and associated business directory from 1866 showing the E. H. Mills & Co. as well as the Mills' home in Corfu:
 
-{{% mefigure "images/1866-corfu-po-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." %}}
+{{% mefigure "images/1866-corfu-po-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
 
 {{% mefigure "images/1866-corfu-business-directory.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
 
@@ -119,11 +127,13 @@ A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
 
 {{% mefigure "images/1899-corfu-fire.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
 
+The Mills' home in Corfu no longer exists.
+
 ## E. H. Mills and M. E. Mills, Brookton
 
 It is interesting to note that in the sales ledgers, the store was closed on Sundays, but if Christmas fell on any other day of the week, the store was open and had a fairly typical flow of customers.
 
-These records show us how Emily's store accounting evolved over time, beginning with small changes after Edward died and by the 1920's, her business records are quite a bit more complete and sophisticated. In addition to the normal sales ledgers that look very similar to Edward's entries decades before, these are more modern books that also racked suppliers and were much more structured. These books had "specimen" pages to teach how to use the forms within.
+These records show us how Emily's store accounting evolved over time, beginning with small changes after Edward died and by the 1920's, her business records are quite a bit more complete and sophisticated. In addition to the normal sales ledgers that look very similar to Edward's entries decades before, these are more modern books that also tracked suppliers and were much more structured. These books had "specimen" pages to teach how to use the forms within.
 
 <hr>
 
@@ -214,6 +224,10 @@ Notes:
 
 {{% /mefigure %}}
 
+### Gertrude Conant's Recollections
+
+{{% mefigure "images/conant-gertrude-1.jpg" "Gertrude Conant, used with permission."  /%}}
+
 ### Deeds for the Mills' Home in Brooktondale
 
 {{% mefigure "images/475-deed-pg-1.jpg" /%}}
@@ -247,17 +261,21 @@ The following histories were provided via personal correspondence with Allan Sta
 
 Emily Mills and Jessie Shurter were baptized in the same ceremony, officiated by none other than the Reverend Annis Ford Eastman.
 
-{{% mefigure "images/mills-emily-cvcc-baptism.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used here with permisson from Caroline Valley Community Church." %}}
+{{% mefigure "images/mills-emily-cvcc-baptism.jpg" "Entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used with permisson from Caroline Valley Community Church." %}}
 <footer>
 Notes:
 
-  - In 1907, April 7th fell on the Sunday after Easter.
-
   - The uneven pen strokes and differences in intensity of ink show that the original record was written in fountain pen, with the lighter, marginal notes added later with lead pencil. The consistency of the pencil marks suggests these notes were all added at the same time. 
+
 </footer>
 {{% /mefigure %}}
 
-This baptism took place in the final year of Edward's life. He and his second wife Hannah had both been members of the Church for just over a decade at that point, and depending on Edward's health at that time, we can assume that he and Hannah would have been present for the ceremony that day.
+In 1907, April 7th fell on the Sunday after Easter. It was to be the final year of Edward's life. He and his second wife Hannah had both been members of the Church for just over a decade at that point, and depending on Edward's health at that time, we can assume that he and Hannah would have been present for the ceremony that day.
+
+
+{{% baptismtable "baptism.csv" %}}
+
+
 
 It is interesting to note the care taken to quote the scripture verse used in the sermon, as it is a translation that uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
 
@@ -267,10 +285,54 @@ It is interesting to note the care taken to quote the scripture verse used in th
 
 This event and its recording are unusual in several respects, and deserving of further investigation. The record itself is quite unique in the amount of detail compared to similar records elsewhere in the same book. The number of people being baptized in one event also seems unusual for a congregation that size (it seemed more typical to have a small handful of people baptized in a year, and to not necessarily be grouped together) and may be related to the other notable fact: that eleven of the fifteen people are unmarried women (and two others were first degree relatives of women in that group of eleven). Add to this, the fact that Reverend Annis Ford Eastman returned to officiate this event, and a rough outline of what was happening begins to suggest itself, along with the significance that the cited scripture would have for the Reverend and these women.
 
+I could not find an account of this baptism in the Ithaca Journal, but there is this entry over a week later in the Elmira Gazette and Free Press, that, despite some glaring innaccuracies that can be explained, appears to reference the event:
+
+{{% mefigure "images/1907-04-17-elmira-gazette-and-free-press.jpg" "Apr 17, 1907, **Elmira Gazette and Free Press.**" "400" %}}
+<footer>
+Notes:
+
+  - Brookton was often confused with Brocton and  Brooklyn, and that is the reason for adopting the name Brooktondale. See [Historical Names](#historical-names). Otherwise, the use of "village" doesn't make sense.
+  - It is referencing the wrong weekend, perhaps just a result of the time between writing and publishing.
+  - The reference to the Denmans is likely Richard L. Denman (1848-1915) and his wife Adelaide (1852-1947).
+</footer>
+{{% /mefigure %}}
+
 The Reverend Annis Ford Eastman made history by becoming one of the first women ordained in a Congregational Church while she was pastor of Brookton Congregational Church (now Caroline Valley Community Church) from 1889 to 1891. The Reverend wrote of her time in Brookton, including an account of her ordination, in "The Making of a Woman Minister" in the book **Enjoyment of Living** by her son Max Eastman. The Church's historical records also include an account of her ordination, including the names of the members of the "picked council" she refers to in her account. The Church's records indicate that the Reverend did return to Brookton periodically in the years after she left. The Reverend would die in 1910 after a period of ill health, so this would have been one of her last return visits.
 
-At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only membber of the family who was officially a member of the Church, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me."
+At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me."
 
-As mentioned in [A Note on Emily Mills](#a-note-on-emily-mills), Jessie (Shurter) Brewer would eventually purchase the Mills' home and M. E. Mills after Emily's death.
+
+
+
+### More information about Emily's Baptism 
+
+The Deacons are:
+
+  - Cantine Lounsbery
+  - Harvey Smiley
+  - [Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson) (1834-1910):
+      - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Caroline Valley Community Church records from the time have a record of Orange and Ada Munson moving to Erin NY Aug 30, 1918 and needing a letter to transfer to the Methodist Church there.
+
+**Jessie (Shurter) Brewer (1881-1974)**
+
+  -Married Lewis William Brewer (1882-1963).
+  -As mentioned in [A Note on Emily Mills](#a-note-on-emily-mills), Jessie (Shurter) Brewer grew up in the Shurter Hotel next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills after Emily's death.
+
+
+**Susie C. (Westfall) Lawrence (1885-1977)**
+
+  - Married Woodley Lawrence (1885-1931).
+
+
+**Lettie Delphene Personius (1892-1909)**
+
+  - Lettie Personius, aged 16 years, died at City Hospital yesterday of gangrenous appendicitis. Miss Personious was the daughter of Postmaster Personius of Caroline Depot, who was killed by a Lackawanna freight train near his home on Dec. 14, 1906. 
+
 
 {{< section-contents "#appendix" "h2" "h3" >}}
+
+<!--
+
+auction also on the 20th
+10/10 also on 10/12,13, 1914
+4/6,7, 1915

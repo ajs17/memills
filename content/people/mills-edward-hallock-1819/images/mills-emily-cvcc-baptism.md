@@ -12,7 +12,7 @@ April 7, 1907. The following names were added to this Church roll, 15 in all -
 
   " Ellen E. Lounsbery     (Denman)
 
-  " Bettie Personius     Dead
+  " Lettie Personius     Dead
 
   " Pearl Annis     letter
 
@@ -34,4 +34,4 @@ April 7, 1907. The following names were added to this Church roll, 15 in all -
   
   Rev. Annis F. Eastman of Park Ch. Elmira N.Y. (a former Pastor) received them into the Ch. Baptism by sprinkling, except Miss Johnston who had been immersed a short time previous. 
 
-  The sermon was from the text "Strive to enter in at the straight-gate" Luke 13-24. Communion service at the close. Three Deacons present, Cantine Lounsbery, Harvey Smiley + [unclear]
+  The sermon was from the text "Strive to enter in at the straight-gate" Luke 13-24. Communion service at the close. Three Deacons present, Cantine Lounsbery, Harvey Smiley + O. Munson

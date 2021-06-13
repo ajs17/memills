@@ -7,7 +7,7 @@ footnoteReturnLinkContents = "↩"
 lastmod = [":fileModTime", ":default"] # auto populates lastmod date
 
 [params]
-  ImageResize = "800x"
+  ImageMaxWidth = "800"
 
 
 # theming and reusable code
