@@ -41,8 +41,7 @@ h2 {
 
 a {
   color: white;
-  text-decoration: none;
-  font-weight: bold; }
+  text-decoration: none; }
 
 a:hover {
   text-decoration: underline; }
@@ -122,5 +121,4 @@ aside {
   display: none; }
 
 a, a:hover, a:visited {
-  text-decoration: underline;
-  font-weight: normal; }
+  text-decoration: underline; }

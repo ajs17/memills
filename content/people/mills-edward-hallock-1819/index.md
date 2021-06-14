@@ -3,11 +3,30 @@ title: "The Family of Edward H. Mills."
 date: "2021-05-25"
 ---
 
+## Information Yet To Be Incorporated
+
+Several major areas are still missing from this history that are all very valuable to better understanding Emily:
+
+  - Horace's death.
+  - Temperance activity.
+  - Mills family history in Long Island.
+  - Fill out Hannah's first marriage, children.
+  - Many more newspaper clippings about Hannah and Emily.
+  - Ellen Gould.
+  - Mills' store sales ledgers.
+  - E. H. Mills & Co. in Gloversville.
+  - Summary of census data.
+  - More context of Emily's baptism.
+  - References to other secondary historical accounts mentioning Emily. 
+  - General information about Brooktondale during Emily's life.
+
+I have collected the information, its just a matter of getting it organized here.
+
 ## Genealogy
 
 **Edward Hallock Mills** (born Smithtown NY, Mar 25, 1819, died Brookton[^1] NY, Jan 1, 1908).
 
-Wife: **Mary Ann (Pine or Pike) Mills** (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850. 
+Wife: **Mary Ann (Pine) Mills** (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850. 
 
 Children:
   - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, Oct 13, 1885).
@@ -76,9 +95,11 @@ Notes:
 {{% mefigure "images/mills-emily-arthurs-home-magazine.jpg" "July-December, 1887, **Arthur's Home Magazine**, Volume 56, Page 106, accessed via [Google Books](&https://books.google.com/books?id=5S4ZAAAAYAAJ&pg=PA106&lpg=PA106) ." "400" /%}}
 
 
-As you read these accounts, note that Emily died at the age of 76...
+Emily fell and broke her hip while on her way to services at Brookton Congregational Church on October 10, 1927. She would die on November 3 of the same year, at 76 years old.
 
 {{% mefigure "images/1937-10-15-ithaca-journal.jpg" "Oct 15, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
+
+{{% mefigure "images/1937-10-20-ithaca-journal.jpg" "Oct 20, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
 {{% mefigure "images/1937-11-03-ithaca-journal.jpg" "Nov 03, 1937, The Ithaca Journal via newspapers.com." "400" %}}
 <footer>
@@ -92,10 +113,21 @@ Notes:
 
 {{% mefigure "images/1937-11-05-ithaca-journal.jpg" "Nov 05, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
-This moving tribute was authored by none other than E. D. Shurter, a former Cornell professor and Caroline native who was also a nationally renowned orator and author.
+This moving tribute was authored by none other than E. D. Shurter, a former Cornell professor and Caroline native who was also a nationally renowned orator and author. This is Emily's only obituary and is referenced elsewhere as such.
+
 {{% mefigure "images/1937-11-11-ithaca-journal.jpg" "Nov 11, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
 {{% mefigure "images/1937-11-26-ithaca-journal.jpg" "Nov 26, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
+
+{{% mefigure "images/1938-01-19-ithaca-journal.jpg" "Jan 19, 1938, The Ithaca Journal via newspapers.com." "400" %}}
+<footer>
+Notes:
+
+  - The reference to "lot of said M. E. Mills" seems to be a ontinued reference to the house lot and using "M. E. Mills" as just an abbreviation of Emily's name and not an explicit reference to the store. That is the most logical way to read the sentence, and also, I don't believe that Emily owned the real estate of the store. 
+  - An identical notice also ran the next day, Jan 20, 1938, in the Ithaca Journal.
+</footer>
+{{% /mefigure %}}
+
 
 ## Hannah Mills 
 
@@ -131,6 +163,8 @@ The Mills' home in Corfu no longer exists.
 
 ## E. H. Mills and M. E. Mills, Brookton
 
+Two articles in the Jul 14, 1934 (page 3) and Nov 20, 1934 (page  5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendents of the accused.
+
 It is interesting to note that in the sales ledgers, the store was closed on Sundays, but if Christmas fell on any other day of the week, the store was open and had a fairly typical flow of customers.
 
 These records show us how Emily's store accounting evolved over time, beginning with small changes after Edward died and by the 1920's, her business records are quite a bit more complete and sophisticated. In addition to the normal sales ledgers that look very similar to Edward's entries decades before, these are more modern books that also tracked suppliers and were much more structured. These books had "specimen" pages to teach how to use the forms within.
@@ -138,6 +172,18 @@ These records show us how Emily's store accounting evolved over time, beginning 
 <hr>
 
 ## Appendix
+
+### Distribution
+
+To preserve this information, and as an aid to future researchers, the following organizations should receive a copy of this information:
+
+  - Town of Caroline History Room
+  - Tompkins County History Center
+  - Caroline Valley Community Church
+  - Cornell University for possible inclusion with other Caroline materials.
+  - Town of Corfu Historians
+  - Smithtown Historical Society
+  - Mills Pond?
 
 ### Notes for Future Researchers
 
@@ -173,7 +219,7 @@ Planned:
 
 The original structures of both the Mills' store in Brooktondale and the Mills' home in Brooktondale still exist at the time I write this. 
 
-There are relevant photos taken from the hills above and behind the Mills' store that show the roof and outline of the building. The storefront of M. E. Mills is visible in the background, mostly obstructed, in photos that feature the Shurter Hotel next door (the Shurter Hotel sat between the Mills' store and the lower bridge over Six Mile Creek in Brookton). 
+There are relevant photos taken from the hills above and behind the Mills' store that show the roof and outline of the building. The storefront of M. E. Mills is visible in the background, mostly obstructed, in photos that feature the Shurter House next door (the Shurter House sat between the Mills' store and the lower bridge over Six Mile Creek in Brookton). 
 
 In a book of local history that Gertrude Conant created for her son, there is a photo that includes the front of M. E. Mills, with the Mills' home in the background, purportedly taken approximately 1915. So far, we have only seen a photo of this photo, it appears quite small, and the store front appears to be over-exposed, hiding much detail. It is expected that this book will be donated to the Caroline Historian in the future, and we will be able to get a better look at it. We are also hopeful that an original print and/or negative exists somewhere in the collection. 
 
@@ -215,7 +261,7 @@ Shortly after I moved into the Mills' home in Brooktondale, Molly Adams visited 
 <footer>
 Notes:
 
-  - The "old postoffice" is present-day 484 Brooktondale Road.
+  - The "old postoffice" and prior to that, the location of M. E. Mills, is present-day 484 Brooktondale Road.
   - "TNT" refers to the store that is presently Brookton's Market and was owned by the Mulks in early 1900's.  See [Historical Names]({{< relref "#historical-names" >}})
   - The source of the quotes about the Mills' home are from the property deeds of the time. 
   - The source of the quote in the last paragraph about extending credit is taken from E. D. Shurter's tribute in the Ithaca Journal.
@@ -223,6 +269,14 @@ Notes:
 </footer>
 
 {{% /mefigure %}}
+
+In the Caroline History Room, there is a copy of Molly's familiar-looking research notes that organizes her research on the Mills family and forms the basis of the more narrative "Note" above. Although largely a repetition of what is in the "Note" and elsewhere, this document is important as it contains further historical context and most importantly, indicates the sources of the quotes in the "Note":
+
+{{% mefigure "images/a-note-on-emily-mills-research-notes.jpg" "Molly Adams via Caroline History Room files." %}}
+
+The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner would be, and was designed specifically to pique interest in Emily. Thank you Molly, you were a great teacher, I wish I had been a better student.
+
+
 
 ### Gertrude Conant's Recollections
 
@@ -266,24 +320,21 @@ Emily Mills and Jessie Shurter were baptized in the same ceremony, officiated by
 Notes:
 
   - The uneven pen strokes and differences in intensity of ink show that the original record was written in fountain pen, with the lighter, marginal notes added later with lead pencil. The consistency of the pencil marks suggests these notes were all added at the same time. 
-
 </footer>
 {{% /mefigure %}}
 
 In 1907, April 7th fell on the Sunday after Easter. It was to be the final year of Edward's life. He and his second wife Hannah had both been members of the Church for just over a decade at that point, and depending on Edward's health at that time, we can assume that he and Hannah would have been present for the ceremony that day.
-
-
-{{% baptismtable "baptism.csv" %}}
-
-
 
 It is interesting to note the care taken to quote the scripture verse used in the sermon, as it is a translation that uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
 
 <figure>
 <blockquote>Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.</blockquote>
 <figcaption>— <cite>Luke 13:24, King James Bible</cite></figcaption>
+</figure>
 
 This event and its recording are unusual in several respects, and deserving of further investigation. The record itself is quite unique in the amount of detail compared to similar records elsewhere in the same book. The number of people being baptized in one event also seems unusual for a congregation that size (it seemed more typical to have a small handful of people baptized in a year, and to not necessarily be grouped together) and may be related to the other notable fact: that eleven of the fifteen people are unmarried women (and two others were first degree relatives of women in that group of eleven). Add to this, the fact that Reverend Annis Ford Eastman returned to officiate this event, and a rough outline of what was happening begins to suggest itself, along with the significance that the cited scripture would have for the Reverend and these women.
+
+{{% baptismtable "baptism.csv" %}}
 
 I could not find an account of this baptism in the Ithaca Journal, but there is this entry over a week later in the Elmira Gazette and Free Press, that, despite some glaring innaccuracies that can be explained, appears to reference the event:
 
@@ -297,26 +348,28 @@ Notes:
 </footer>
 {{% /mefigure %}}
 
-The Reverend Annis Ford Eastman made history by becoming one of the first women ordained in a Congregational Church while she was pastor of Brookton Congregational Church (now Caroline Valley Community Church) from 1889 to 1891. The Reverend wrote of her time in Brookton, including an account of her ordination, in "The Making of a Woman Minister" in the book **Enjoyment of Living** by her son Max Eastman. The Church's historical records also include an account of her ordination, including the names of the members of the "picked council" she refers to in her account. The Church's records indicate that the Reverend did return to Brookton periodically in the years after she left. The Reverend would die in 1910 after a period of ill health, so this would have been one of her last return visits.
 
-At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me."
+
+At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
 
 
 
 
 ### More information about Emily's Baptism 
 
-The Deacons are:
+**Reverend Annis Ford Eastman** officiated the ceremony. She made history by becoming one of the first women ordained in a Congregational Church while she was pastor of Brookton Congregational Church (now Caroline Valley Community Church) from 1889 to 1891. The Reverend wrote of her time in Brookton, including an account of her ordination, in "The Making of a Woman Minister" in the book **Enjoyment of Living** by her son Max Eastman. The Church's historical records also include an account of her ordination, including the names of the members of the "picked council" she refers to in her account. The Church's records indicate that the Reverend did return to Brookton periodically in the years after she left. The Reverend would die in 1910 after a period of ill health, so this would have been one of her last return visits.
 
-  - Cantine Lounsbery
-  - Harvey Smiley
-  - [Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson) (1834-1910):
+The Deacons listed are:
+
+  - **Cantine Lounsbery**
+  - **Harvey Smiley**
+  - **[Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson)** (1834-1910):
       - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Caroline Valley Community Church records from the time have a record of Orange and Ada Munson moving to Erin NY Aug 30, 1918 and needing a letter to transfer to the Methodist Church there.
 
 **Jessie (Shurter) Brewer (1881-1974)**
 
-  -Married Lewis William Brewer (1882-1963).
-  -As mentioned in [A Note on Emily Mills](#a-note-on-emily-mills), Jessie (Shurter) Brewer grew up in the Shurter Hotel next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills after Emily's death.
+  - Married Lewis William Brewer (1882-1963).
+  - As mentioned in [A Note on Emily Mills](#a-note-on-emily-mills), Jessie (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills after Emily's death.
 
 
 **Susie C. (Westfall) Lawrence (1885-1977)**
@@ -326,7 +379,7 @@ The Deacons are:
 
 **Lettie Delphene Personius (1892-1909)**
 
-  - Lettie Personius, aged 16 years, died at City Hospital yesterday of gangrenous appendicitis. Miss Personious was the daughter of Postmaster Personius of Caroline Depot, who was killed by a Lackawanna freight train near his home on Dec. 14, 1906. 
+  - Lettie Personius, aged 16 years, died at City Hospital yesterday of gangrenous appendicitis. Miss Personious was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on Dec. 14, 1906. 
 
 
 {{< section-contents "#appendix" "h2" "h3" >}}
