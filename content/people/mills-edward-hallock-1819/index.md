@@ -18,6 +18,7 @@ Several major areas are still missing from this history that are all very valuab
   - Summary of census data.
   - More context of Emily's baptism.
   - References to other secondary historical accounts mentioning Emily. 
+  - More legal research on deeds for Mills' home and store, estates, etc.
   - General information about Brooktondale during Emily's life.
 
 I have collected the information, its just a matter of getting it organized here.
@@ -57,14 +58,14 @@ Notes:
 
 Edward H. Mills was co-owner of [**E. H. Mills & Co.**](#e-h-mills--co-corfu-ny) general store in Corfu, NY and later, [**E. H. Mills**](#e-h-mills-and-m-e-mills-brookton) general store in Mott's Corners/Brookton NY.
 
+{{% mefigure "images/1908-01-06-ithaca-daily-journal.png" "Jan 6, 1908, The Ithaca Daily Journal, p.3" "400"/%}}
+
 <figure>
   <blockquote>
   The body of E. H. MILLS, who conducted a general store in Corfu over twenty-five years ago, was brought on Friday evening from Ithaca and buried in Evergreen Hill cemetery. The Rev. W.W. Robinson conducting the services. The body was accompanied by Mr. Mills daughter, MISS EMILY MILLS. Mr. Mills was 89 years old. 
   </blockquote>
-  <figcaption>— <cite>Jan 6, 1908, Batavia Daily News.</cite></figcaption>
+  <figcaption>— <cite>Jan 6, 1908, Batavia Daily News.</cite>Image currently unavailable, text courtesy of Allan Starkweather, Corfu Village Historian. </figcaption>
 </figure>
-
-
 
 
 ### Combined Church Obituary Entry for Edward and Mary Ann 
@@ -95,7 +96,7 @@ Notes:
 {{% mefigure "images/mills-emily-arthurs-home-magazine.jpg" "July-December, 1887, **Arthur's Home Magazine**, Volume 56, Page 106, accessed via [Google Books](&https://books.google.com/books?id=5S4ZAAAAYAAJ&pg=PA106&lpg=PA106) ." "400" /%}}
 
 
-Emily fell and broke her hip while on her way to services at Brookton Congregational Church on October 10, 1927. She would die on November 3 of the same year, at 76 years old.
+Emily fell and broke her hip while on her way to services at Brookton Congregational Church on October 10, 1937. She would die on November 3 of the same year, at 76 years old.
 
 {{% mefigure "images/1937-10-15-ithaca-journal.jpg" "Oct 15, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
@@ -272,7 +273,7 @@ Notes:
 
 In the Caroline History Room, there is a copy of Molly's familiar-looking research notes that organizes her research on the Mills family and forms the basis of the more narrative "Note" above. Although largely a repetition of what is in the "Note" and elsewhere, this document is important as it contains further historical context and most importantly, indicates the sources of the quotes in the "Note":
 
-{{% mefigure "images/a-note-on-emily-mills-research-notes.jpg" "Molly Adams via Caroline History Room files." %}}
+{{% mefigure "images/a-note-on-emily-mills-research-notes.jpg" "Molly Adams via Caroline History Room files." /%}}
 
 The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner would be, and was designed specifically to pique interest in Emily. Thank you Molly, you were a great teacher, I wish I had been a better student.
 
@@ -290,7 +291,7 @@ The date of these notes suggests that perhaps the "Note" that Molly gave me was 
 
 ### Churches in Corfu 
 
-The following histories were provided via personal correspondence with Allan Starkweather, Corfu Town Historian:
+The following histories were provided via personal correspondence with Allan Starkweather, Corfu Village Historian:
 
 <figure>
   <blockquote>
@@ -306,7 +307,7 @@ The following histories were provided via personal correspondence with Allan Sta
   
   There was a lot of dissention in the church by 1831. Two factions of Presbyterians and the Congregationalists were doing a lot of bickering. The Genesee Presbytery recommended that the church be dissolved. Later in 1831, the church was disbanded and the "Presbyterian Church of N. Pembroke" was formed. Most of the records of the first church were destroyed. In 1834, it was renamed the "Corfu United Presbyterian Church." The Congregationalist's never did reform.
   </blockquote>
-  <figcaption>— <cite>Allan Starkweather, Corfu Town Historian.</cite></figcaption>
+  <figcaption>— <cite>Allan Starkweather, Corfu Village Historian.</cite></figcaption>
 </figure>
 
 
@@ -386,6 +387,53 @@ The Deacons listed are:
 
 <!--
 
-auction also on the 20th
 10/10 also on 10/12,13, 1914
 4/6,7, 1915
+
+
+- **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, October 27, 1876).
+
+
+calvin mills, check against gloverville 
+https://nyshistoricnewspapers.org/lccn/sn83031157/1894-03-21/ed-1/seq-3/#date1=01/01/1879&city=&date2=12/31/1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=4&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+---
+The daily news., July 21, 1882, Page 1, Image 1
+About The daily news. (Batavia, N.Y.) 1881-current
+
+
+https://nyshistoricnewspapers.org/lccn/sn83030756/1882-07-21/ed-1/seq-1/#date1=01%2F01%2F1810&city=&date2=12%2F31%2F1910&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=0&words=Emily+Mills&proxdistance=5&county=Genesee&to_year=1910&rows=20&ortext=&from_year=1810&proxtext=emily+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+---
+Ithaca daily journal., January 15, 1909, Page 7, Image 7
+About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1909-01-15/ed-1/seq-7/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1915&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=0&words=Emily+Mills&proxdistance=5&county=Tompkins&to_year=1915&rows=20&ortext=&from_year=1879&proxtext=emily+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+---
+Ithaca daily journal., December 06, 1913, Page 11, Image 11
+About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1913-12-06/ed-1/seq-11/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1915&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=1&words=Emily+Mills&proxdistance=5&county=Tompkins&to_year=1915&rows=20&ortext=&from_year=1879&proxtext=emily+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+
+
+---
+Ithaca daily journal., January 06, 1908, Page 3, Image 3
+About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1908-01-06/ed-1/seq-3/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=0&words=EDWARD+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+---
+Ithaca daily journal., March 18, 1897, Page 6, Image 6
+About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1897-03-18/ed-1/seq-6/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=1&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+
+---
+Ithaca daily journal., October 14, 1896, Page 6, Image 6
+About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1896-10-14/ed-1/seq-6/#date1=01/01/1879&city=&date2=12/31/1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=2&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
