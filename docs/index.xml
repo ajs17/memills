@@ -36,12 +36,23 @@ Church records have an obituary.</description>
     
     <item>
       <title></title>
+      <link>https://memills.com/people/osburn-william/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://memills.com/people/osburn-william/</guid>
+      <description>From the Bicentennial Book: William Osburn was born on March 11, 1906, the son of Walter Grant Osburn, and has been a lifelong resident of Speedsville. He retired from National Cash Register in 1971. He, like his father, grandfather and uncles, is a very good carpenter. Besides being an excellent gardener and &amp;ldquo;history collector&amp;rdquo;, he is fondly known by all the residents of Speedsville as the unofficial &amp;ldquo;town historian&amp;rdquo;. He has written many articles for the DeWitt Historical Society and the book The Hills of Caroline.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://memills.com/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://memills.com/test/</guid>
       <description>&amp;ldquo;firstname middlename lastname&amp;rdquo; birthdate deathdate Looking for file with the naming convention:
-{{ meref &amp;ldquo;adam joseph smith&amp;rdquo; 1971 }}</description>
+{{ meref &amp;ldquo;adam joseph smith&amp;rdquo; 1971 }}
+  OrderEntered Single Womanat Baptism? Full Identity
+(sorting by original last name) Age atBaptism(+/-1) Age firstMarried(+/-1) Age atDeath(+/-1)     1  X  Marian Hart Tobey (1847-1915)  60  na  68    2  X  Alma (Personius) Leonard (1880-1925)  27  29  45    3  X  Jessie M.</description>
     </item>
     
   </channel>

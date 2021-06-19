@@ -1,0 +1,53 @@
+
+{{ $csvfile := .Get 0  }}
+{{ $theyear := 1907 }}
+
+<table id="baptism">
+    {{ range $i, $r := getCSV "," $csvfile }}
+        {{ if eq $i 0 }}
+<thead>
+    <tr>
+    <th data-sort="int" data-sort-default="desc">Order<br/>Entered</th>
+    <th style="text-align: right;">Single Woman<br/>at Baptism?</th>
+    <th data-sort="string" style="text-align: left;" data-sort-default="desc">Full Identity<br> (sorting by original last name)</th>
+    <th data-sort="int" data-sort-default="desc">Age at<br/>Baptism<br/>(+/-1)</th>
+    <th data-sort="int" data-sort-default="desc">Age first<br/>Married<br/>(+/-1)</th>
+    <th data-sort="int" data-sort-default="desc">Age at<br/>Death<br/>(+/-1)</th>
+    </tr>
+</thead>
+<tbody>
+        {{ else }}
+<tr>
+<td data-sort-value="{{ index $r 0 }}" style="text-align: center;" >
+{{ index $r 0 }}
+</td>
+<td style="text-align: right;">
+{{ if eq "Miss" (index $r 3) }}<strong>X</strong>{{ else }}&nbsp;{{ end }}
+</td>
+<td data-sort-value="{{ index $r 5 }}">
+<a href="{{ index $r 15 }}">{{ index $r 4 }}</a>
+({{ index $r 6 }}-{{ index $r 7 }})
+</td>
+<td data-sort-value="{{ index $r 8 }}" style="text-align: center;">
+{{ int (index $r 8) }}
+</td>
+<td data-sort-value="{{ index $r 12 }} "style="text-align: center;">
+{{ index $r 12 }}
+</td>
+<td data-sort-value="{{ index $r 9 }}" style="text-align: center;">
+{{ index $r 9 }}
+</td>
+
+</tr>
+        {{ end }}
+    {{ end }}
+</tbody>
+</table>
+
+<script>
+    jQuery(document).ready(function () {
+        $("#baptism").stupidtable();
+    });
+</script>
+
+

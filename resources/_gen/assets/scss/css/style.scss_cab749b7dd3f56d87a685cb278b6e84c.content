@@ -53,6 +53,9 @@ a:visited {
 hr {
   color: #4D3636; }
 
+ul {
+  margin-top: 0; }
+
 .menu {
   padding: 0; }
 
@@ -92,7 +95,7 @@ blockquote {
 figure {
   padding-left: 0;
   margin-left: 0;
-  padding-bottom: 2em; }
+  padding-bottom: 1em; }
 
 figure img {
   margin-bottom: 0; }
@@ -108,6 +111,7 @@ figcaption {
   margin-top: 0; }
 
 table {
+  width: 100%;
   margin: auto;
   border-top: 1px solid white;
   border-bottom: 1px solid white; }

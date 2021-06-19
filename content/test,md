@@ -1,8 +1,0 @@
-
-"firstname middlename lastname" birthdate deathdate 
-  Looking for file with the naming convention:
-
-
-{{ relate "adam joseph smith" 1971 }}
-
-{{ relate "adam joseph smith" 1971 3000 }}
