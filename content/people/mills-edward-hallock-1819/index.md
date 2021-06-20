@@ -27,7 +27,7 @@ I have already collected much of this information, its just a matter of getting 
 
 ## Genealogy
 
-**Edward Hallock Mills** (born Smithtown NY, Mar 25, 1819, died Brookton[^1] NY, Jan 1, 1908).
+**Edward Hallock Mills** (born Smithtown NY, Mar 25, 1819, died Brookton NY, Jan 1, 1908).
 
 Wife: **Mary Ann (Pine) Mills** (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850. 
 
@@ -41,11 +41,11 @@ None of Edward's children married or had children.
 Wife: **Hannah (Thatcher) Eastman Mills** (1825?, died Brooktondale NY, Feb 25, 1917). Married on Dec 30, 1896. (No children from the marriage to Edward.)
 
 Notes:
+  - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name.
   - Jonas was Edward's father's name.
-  - Edward had a sister named Emily that he may have named his daughter after.
-
-[^1]: Brookton was renamed to Brooktondale in 1926. See [Historical Names]({{< relref "#historical-names" >}}). In general, I will use "Brooktondale" unless in the given context, the historical name will make more sense. Since death records obviously reference historical names, I have preserved them here so as not to create confusion. 
+  - Edward had a sister named Emily who may have lent her name to Edward's daughter.
+ 
 
 ### Burials
 
@@ -92,16 +92,30 @@ Notes:
 
 ## Horace F. Mills 
 
-Horace is the single biggest mystery in the family, all the more so because his death seems to be a pivotal event in the family's history.
+Horace is the single biggest mystery in the family, all the more so because his death seems to be a pivotal event in the family's history:
 
-Presumably, the fact that the family moved away from Corfu a few years after his death is more than coincidental, but that is speculation. However, this could also explain why Emily was so active in the temperance movement, if alcohol was a factor in Horace's death.
+{{% mefigure "images/evergreen-hill-cemetery-51.jpg" "Evergreen Hills Cemetery, Corfu, directory listing, cropped image, page 51 is indicated in original, received by email May 21, 2021, personal correspondence with Diana Reding, Library Director at Corfu Public Library."  %}}
+<footer>
+Notes:
 
-And a very big mystery relevant to the Caroline audience in particular, is why they chose Mott's Corners as their next destination? At this point, I have only a few vague
+  - Obviously, Edward's date of death is incorrect. The only connection with Jan 6 is the publication of his obituaries.
 
+</footer>
+{{% /mefigure %}}
+
+Presumably, the fact that the family moved away from Corfu a few years after his death is more than coincidental, but that is speculation. However, this could also explain why Emily was so active in the [temperance movement](#temperance-activity), if alcohol was a factor in Horace's death.
 
 It is unlikely that the exact details of Horace's death would have ever been recorded, but I continue to search for clues:
 
   - I have contacted the Batavia Daily News for help as they may have old editions that have not yet been digitized and made publicly available, and therefore, currently outside my ability to pursue in any other way. Although there may not be an account of his death, he may be featured in other reporting that may shed light on his life circumstances. (Then again, it appears that suicides were regularly reported on in that time.)
+  - I have taken an initial photographic inventory of every page of the Good Templars meeting minutes and will read these more closely for clues.
+
+And a very big mystery relevant to the Caroline audience in particular, is why they chose Mott's Corners as their next destination? At this point, I have only a few vague theories to explore.
+
+  - If the Caroline area was a particularly active area for Temperance, that could have been a draw. But, it is unclear if anyone in Emily's family were involved in temperance.
+  - They knew someone who lived Mott's Corners.
+  - Perhaps Edward sold products from the mills and factories of Mott's Corners in his store and knew of it that way? 
+
 
 ## Mary Emily Mills
 
@@ -167,7 +181,30 @@ Notes:
 
 ## E. H. Mills & Co., Corfu NY 
 
-The following two images are a map and associated business directory from 1866 showing the E. H. Mills & Co. as well as the Mills' home in Corfu:
+Not much is known of E. H. Mills & Co. of Corfu:
+
+<figure>
+<blockquote>
+The E.H. Mills General store was on the NE corner of Main and Allegheny in Corfu.  It was open from 1866-1880. The building burned to the ground in a fire in 1899.  It is now the site of the M&T Bank building.
+</blockquote>
+<figcaption>
+— <cite>May 20, 2021, Personal correspondence with Allan Starkweather, Corfu Village Historian</cite>
+</figcaption>
+</figure>
+
+{{% mefigure "images/1869-Gazetteer-Business-Directory-Genesee-County-inset.jpg" "**Gazetteer and Business Directory of Genesee County, NY, 1869-70** via [ancestry.com](https://www.ancestry.com/imageviewer/collections/2469/images/41199_1220706242_4221-00194?treeid=&personid=&rc=&usePUB=true&_phsrc=GfK30&_phstart=successSource&pId=1440026982)." %}}
+<footer>
+Notes:
+
+  - Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine.
+
+</footer>
+{{% /mefigure %}}
+
+
+The following map images and associated business directory show both the E. H. Mills & Co. general store as well as the Mills' home in Corfu in the same locations in 1866 and 1876:
+
+{{% mefigure "images/1866-darien-center.jpg" "Cropped version of map accessed via [rootsweb.com](http://sites.rootsweb.com/~nycleroy/Maps/DarienCity600.pdf)." /%}}
 
 {{% mefigure "images/1866-corfu-po-map.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
 
@@ -221,7 +258,10 @@ A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shu
 
   - More precise birthdates and birthplaces for Jonas, Horace, Emily.
   - Jonas' and Horace's full middle names.
+  - Corroborate Horace's date of death, as Evergreen Hill Cemetery directory listing is the only source of a date and given the mistakes in Edward's listing, I can't be completely confident in it.
+  - Is Charles M. Pine, co-owner of E. H. Mills & Co. in Corfu, related to Edward's wife Mary Ann, whose maiden name is Pine?
   - Photo of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
+  - Find the leather booklet mentioned by Molly Adams, at one time in the Caroline History Room, and photograph it.
 
 Horace's Death:
   - Presumably why the family moved *away from* Corfu?
@@ -233,9 +273,9 @@ Church Records and Baptism:
   - Any information on this event from Park Church, any diaries of Reverend Ford Eastman?
   - Is there significance to the date? Easter was on 3/31 in 1907. 4/7 did fall on a Sunday
   - Catalog all information about Reverend Annis Ford Eastman, including her return trips, see if Emily's baptism was the Rev's last visit to Brookton.
-  - Look at Ithaca papers on, immediately after that day?
   
 Planned:
+  - research deeds on Mill's home and Mill's store prior to 1900.
   - Photo inventory and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move.
   - Research Emily's baptism, possibly contacting descendents of Annis Ford Eastman for information on that event. 
   - The dimenions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
@@ -323,6 +363,17 @@ Notes:
 
 ### Churches in Corfu 
 
+We know that Mary Ann was a member of the Presbyterian Church in Corfu, but the interconnections with the Congregationalists is interesting nonetheless:
+
+<figure>
+<blockquote>
+The Congregationalist Church was active in Corfu from 1810-1830s. It never had its own building. It spent a few years as part of the Presbyterian Church,  then ceased to exist.
+</blockquote>
+<figcaption>
+— <cite>May 20, 2021, personal correspondence with Allan Starkweather, Corfu Village Historian</cite>
+</figcaption>
+</figure>
+
 The following histories were provided via personal correspondence with Allan Starkweather, Corfu Village Historian:
 
 <figure>
@@ -342,6 +393,15 @@ The following histories were provided via personal correspondence with Allan Sta
   <figcaption>— <cite>Allan Starkweather, Corfu Village Historian.</cite></figcaption>
 </figure>
 
+<figure>
+<blockquote>
+I do not have any records from the church on hand, prior to the early 1900s.  Our church started in 1814, which means she would have been involved in our church at the very early years of our church opening as Pembroke Society. 
+
+I did send out a message to see if there are still any records from the start of the church, but truth be told, back then, record keeping wasn't exactly a big thing. and if anything was still available, it would have been transferred over, and over again. 
+</blockquote>
+<figcaption><cite>May 21, 2020, personal correspondence with Ken Rumble, Church Office Secretary for Corfu United Presbyterian Church:</cite>
+</figcaption>
+</figure>
 
 
 ### The Baptism of Emily Mills
@@ -366,6 +426,8 @@ It is interesting to note the care taken to quote the scripture verse used in th
 </figure>
 
 This event and its recording are unusual in several respects, and deserving of further investigation. The record itself is quite unique in the amount of detail compared to similar records elsewhere in the same book. The number of people being baptized in one event also seems unusual for a congregation that size (it seemed more typical to have a small handful of people baptized in a year, and to not necessarily be grouped together) and may be related to the other notable fact: that eleven of the fifteen people are unmarried women (and two others were first degree relatives of women in that group of eleven). Add to this, the fact that Reverend Annis Ford Eastman returned to officiate this event, and a rough outline of what was happening begins to suggest itself, along with the significance that the cited scripture would have for the Reverend and these women.
+
+The following is a summary of information about the participants. Click on column headers to affect the sort order accordingly.
 
 <figure>
 {{% baptismtable "baptism.csv" %}}
@@ -400,7 +462,7 @@ At the time that the Reverend Ford Eastman was pastor of Brookton Congregational
 The Deacons listed are:
 
   - **[Cantine Lounsbery](https://www.findagrave.com/memorial/89338791/cantine-lounsbery)** (1831-1910)
-  - **[Harvey Smiley]()**
+  - **[Harvey Smiley](https://www.findagrave.com/memorial/24763291/harvey-smiley)** (?-1917)
   - **[Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson)** (1834-1910):
       - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Caroline Valley Community Church records from the time have a record of Orange and Ada Munson moving to Erin NY Aug 30, 1918 and needing a letter to transfer to the Methodist Church there.
 

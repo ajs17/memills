@@ -73,6 +73,9 @@ nav {
   width: 50%;
   min-width: 250px; }
 
+nav ul {
+  padding-top: 1em; }
+
 img, iframe, video {
   max-width: 100%;
   width: auto\9;
