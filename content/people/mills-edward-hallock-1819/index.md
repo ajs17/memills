@@ -104,8 +104,6 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
 
 ## Edward Hallock Mills
 
-{{% mefigure "images/1897-03-18-ithaca-daily-journal.png" "Mar 18, 1897, **Ithaca Daily Journal.Png.**" "400" /%}}
-
 Edward H. Mills was co-owner of [**E. H. Mills & Co.**](#e-h-mills--co-corfu-ny) general store in Corfu, NY and later, [**E. H. Mills**](#e-h-mills-and-m-e-mills-brookton) general store in Mott's Corners/Brookton NY.
 
 {{% mefigure "images/1908-01-06-ithaca-daily-journal.png" "Jan 6, 1908, The Ithaca Daily Journal, p.3" "400"/%}}
@@ -181,6 +179,8 @@ Note: due to the level of detail given to the context of this story, I am choosi
 <footer>
 {{% /mefigure %}}
 
+{{% mefigure "images/1913-12-06-ithaca-journal.png" "Dec 6, 1913, **The Ithaca Journal**" "400" /%}}
+
 Emily fell and broke her hip while on her way to services at Brookton Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 76 years old.
 
 {{% mefigure "images/1937-10-15-ithaca-journal.jpg" "Oct 15, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
@@ -245,6 +245,31 @@ Age: 72
 </figcaption>
 </figure>
 
+My impressions of Hannah are that she was an active and outgoing woman who was much loved in the community.
+
+{{% mefigure "images/1914-01-17-ithaca-journal.jpg" "Jan 17, 1914, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1914-05-22-ithaca-journal.jpg" "May 22, 1914, **The Ithaca Journal**" "400" /%}}
+
+Hannah apparently had what must have been of very worrying health episode. This is the first mention of Ellen Gould, and it seems quite probable that this is an accounting of the circumstances of her coming to live in the Mills Home, to care for Emily's elderly step-mother which Emily herself, as a business owner, would not have had adequate time to do. 
+
+{{% mefigure "images/1914-10-26-ithaca-journal.jpg" "Oct 26, 1914, **The Ithaca Journal**" "400" /%}}
+
+
+{{% mefigure "images/1914-10-31-ithaca-journal.jpg" "Oct 31, 1914, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1914-11-03-ithaca-journal.jpg" "Nov 3, 1914, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1914-11-07-ithaca-journal.jpg" "Nov 7, 1914, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1914-11-12-ithaca-journal.jpg" "Nov 12, 1914, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1914-12-05-ithaca-journal.jpg" "Dec 5, 1914, **The Ithaca Journal**" "400" /%}}
+
+
+
+
+
 
 {{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." "400" %}}
 <footer>
@@ -301,13 +326,35 @@ A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
 
 The Mills' home in Corfu no longer exists.
 
-## E. H. Mills and M. E. Mills, Brookton
+## E. H. Mills and M. E. Mills, Mott's Corners and Brookton
 
-Two articles in the Jul 14, 1934 (page 3) and Nov 20, 1934 (page  5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendents of the accused.
+It is really in Brookton where we get a sense of the family's finances through property deeds, reported estate information and the Mills store ledgers. The Mills likely always made a fairly modest, if stable, income from their small general stores.
+
+This event took place at a time when Emily was identified as "clerk" in E. H. Mills:
+
+{{% mefigure "images/1897-03-18-ithaca-daily-journal.png" "Mar 18, 1897, **Ithaca Daily Journal.**" "400" /%}}
 
 It is interesting to note that in the sales ledgers, the store was closed on Sundays, but if Christmas fell on any other day of the week, the store was open and had a fairly typical flow of customers.
 
 These records show us how Emily's store accounting evolved over time, beginning with small changes after Edward died and by the 1920's, her business records are quite a bit more complete and sophisticated. In addition to the normal sales ledgers that look very similar to Edward's entries decades before, these are more modern books that also tracked suppliers and were much more structured. These books had "specimen" pages to teach how to use the forms within.
+
+We know a great deal about Emily through the activities of M. E. Mills, which Emily made a community focal point as a natural consequence of her many interests and activities, and intentional or not, had to have been excellent marketing for her store. (My impressions are that Emily did indeed consider every opportunity to volunteer her store for free press and increased foot traffic.)
+
+{{% mefigure "images/1914-02-23-ithaca-journal.jpg" "Feb 23, 1914, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1914-03-24-ithaca-journal.jpg" "Mar 24, 1914, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1914-10-10-ithaca-journal.jpg" "Oct 10, 1914, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1914-10-23-ithaca-journal.jpg" "Oct 23, 1914, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1914-11-14-ithaca-journal.jpg" "Nov 14, 1914, **The Ithaca Journal**" "400" %}}
+<footer>
+A large advertisement in The Ithaca Journal for White House Coffee lists area stores where the product can be purchased, M. E. Mills among them.
+</footer>
+{{% /mefigure %}}
+
+Two articles in the Jul 14, 1934 (page 3) and Nov 20, 1934 (page  5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendents of the accused.
 
 <hr>
 
