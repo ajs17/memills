@@ -8,16 +8,12 @@ date: "2021-05-25"
 
 Several major areas are still missing from this history that are all very valuable to better understanding Emily:
 
-  - Horace's death.
+  - Mills' store sales ledgers.
   - Temperance activity.
-  - Mills family history in Long Island.
   - Fill out Hannah's first marriage, children.
   - Many more newspaper clippings about Hannah and Emily.
   - Ellen Gould.
-  - Mills' store sales ledgers.
-  - E. H. Mills & Co. in Gloversville.
   - Summary of census data.
-  - More context of Emily's baptism.
   - References to other secondary historical accounts mentioning Emily. 
   - More legal research on deeds for Mills' home and store, estates, etc.
   - General information about Brooktondale during Emily's life.
@@ -26,6 +22,39 @@ Several major areas are still missing from this history that are all very valuab
 I have already collected much of this information, its just a matter of getting it organized here.
 
 ## Genealogy
+
+By corroborating data from [Caroline Valley Community Church's historical records](#combined-church-obituary-entry-for-edward-and-mary-ann) as well as information about Edward's parents in the official recoreds of his marriage to [Hannah](http://localhost:1313/people/mills-edward-hallock-1819/#hannah-mills), Edward H. Mills is identified in a partial entry on an extensive genealogy: [Descendants of George Mills of Yorkshire and Long Island, New York](millsancestry.org). The site is now defunct and the contact information for it is no longer valid, however, I was able to locate its creator on Facebook to let him know about this documentation on Edward. 
+
+Beginning with Edward's parents:
+
+<figure>
+<blockquote>
+
+<span>583.</span> [Jonas Davis Mills](https://www.findagrave.com/memorial/138421270/jonas-d.-mills) (George , Isaac , Isaac , Timothy , Jonathan , George ) was born on 2 May 1795. He died on 30 Jan 1882.
+
+Jonas married (1) [Mary Hallock](https://www.findagrave.com/memorial/138421346/mary-p.-mills) on 25 Dec 1818 in , Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827.
+
+They had the following children:
+
+- 1029	M	i	Thomas James Mills was born on 13 Feb 1817.
+- 1030	M	ii	Edward H. Mills was born on 25 Mar 1819.
+- 1031	F	iii	Emily Tabitha Mills was born on 19 Jun 1821. She died on 11 Apr 1849.
+
+Jonas married (2) Mary Platt Mills daughter of Jedediah Mills and Elizabeth Mills on 25 Apr 1831. Mary was born on 30 Jan 1801 in Long Island, New York. She died on 18 Jun 1881.
+
+They had the following children:
+
+- 1032	F	iv	Sarah Maria Mills is printed as #623.
+- 1033	M	v	Robert Sydney Mills is printed as #624.
+</blockquote>
+<figcaption>
+— <cite>
+[Descendants of George Mills of Yorkshire and Long Island, New York](millsancestry.org)
+</cite>
+</figcaption>
+</figure>
+
+And to this we can add Edward's branch to its ultimate conclusion:
 
 **Edward Hallock Mills** (born Smithtown NY, Mar 25, 1819, died Brookton NY, Jan 1, 1908).
 
@@ -46,6 +75,23 @@ Notes:
   - Jonas was Edward's father's name.
   - Edward had a sister named Emily who may have lent her name to Edward's daughter.
  
+Edward H. Mills' ancestors were early settlers of the Town of Smithtown and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
+
+ <figure>
+ <blockquote>
+It was Timothy Mills who bought the land from one of our town founder's sons in 1693, according to "Colonel Rockwell's Scrap-Book" published by the Smithtown Historical Society in 1968. As the sons of Timothy Mills married, houses were built around the pond found on the land.
+
+In the early 1700s, the area became known as Mills Pond. According to the Smithtown Township Arts Council's website, the area was originally called Cuttscunsuck, which means two small ponds in the Algonquian language.
+ </blockquote>
+ <figcaption>
+ <cite>— <a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>
+ </cite>
+ </figcaption>
+ <footer>
+
+ The original [Mills Pond House](https://www.millspondgallery.org/history-of-mills-pond-house) still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
+ </footer>
+ </figure>
 
 ### Burials
 
@@ -121,7 +167,7 @@ And a very big mystery relevant to the Caroline audience in particular, is why t
 
 {{% mefigure "images/1882-07-21-batavia-daily-news.png" "Jul 21, 1882, The Batavia Daily News via newspapers.com" "400" %}}
 <footer>
-This was an entry in the "Corfu Mentions." column for "Corfu, June 20" the date is presumably a mis-print.
+The entry above appeared in the "Corfu Mentions." column for "Corfu, June 20" the date is presumably a mis-print.
 </footer>
 {{% /mefigure %}}
 
@@ -168,6 +214,36 @@ Notes:
 
 
 ## Hannah Mills 
+
+Barbara Kone compiled information on Caroline Marriages at CarolineHistorian.org that lists Edward's marriage to Hannah and identifies Edward's parents:
+
+
+<figure>
+<blockquote>
+<pre>
+Reg. Num.: 216 
+Date: Dec 30, 1896 
+Name of Groom: MILLS, Edward H 
+Residence: Brookton 
+Age: 77 
+Occupation: Merchant 
+Place of Birth: Smithtown
+Father's Name: MILLS, Jonas D
+Mother's Maiden: HALLOCK (Halloch),Mary
+Name Num.: 2 Marr. 
+Name of Bride: EASTMAN, Hannah 
+Married Name: Mills 
+Residence: Brookton 
+Age: 72
+</pre>
+</blockquote>
+<figcaption>
+— <cite>
+<a href="https://storage.googleapis.com/wzukusers/user-27930635/documents/5d5c4f9eb1e78I79rYeM/Caroline_marriages.pdf">Caroline Marriages</a>
+</cite>
+</figcaption>
+</figure>
+
 
 {{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." "400" %}}
 <footer>
@@ -249,6 +325,12 @@ To preserve this information, and as an aid to future researchers, the following
   - Mills Pond?
 
 ### Notes for Future Researchers
+
+There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversville NY in the 1880's that was a "knitting factory" and one that is written about in some detail in local historical accounts. This appears to be a completely different family based on the following city directories that list family members who are unaccounted for in the Mills Genealogy and are not documented in anything else we know about the Mills. 
+
+{{% mefigure "images/1882-gloversville-directory-p85.jpg" "**The Gloversville, Johnstown and Kingsboro Directory for 1882-3**, p85." /%}}
+
+{{% mefigure "images/1886-gloversville-directory-p77.jpg" "**Gloversville, Johnstown City Directory 1886**, p77" /%}}
 
 There is another Horace F. Mills in upstate New York in the 1800's, who does not appear to be related to this Mills family. That Horace Mills was born in 1847, lived in Penn Yan NY, attended the University at Albany in 1861 but left to serve in the Civil War, ultimately rising to the rank of Major in the 9th USCT. Several photos can be found of him online.
 
@@ -404,6 +486,10 @@ I did send out a message to see if there are still any records from the start of
 </figure>
 
 
+### Edward H. Mills and E. H. Mills & Co. in Gloversville NY 
+
+
+
 ### The Baptism of Emily Mills
 
 Emily Mills and Jessie Shurter were baptized in the same ceremony, officiated by none other than the Reverend Annis Ford Eastman.
@@ -446,8 +532,8 @@ I could not find an account of this baptism in the Ithaca Journal, but there is 
 Notes:
 
   - Brookton was often confused with Brocton and  Brooklyn, and that is the reason for adopting the name Brooktondale. See [Historical Names](#historical-names). Otherwise, the use of "village" doesn't make sense.
-  - It is referencing the wrong weekend, perhaps just a result of the time between writing and publishing.
-  - The reference to the Denmans is likely Richard L. Denman (1848-1915) and his wife Adelaide (1852-1947).
+  - It is referencing the wrong weekend, but it is also a relative time reference, and perhaps the difference is just a result of the time between writing and publishing.
+  - The reference to the Denmans would seem to be Richard L. Denman (1848-1915) and his wife Adelaide (1852-1947). 
 </footer>
 {{% /mefigure %}}
 
@@ -466,7 +552,6 @@ The Deacons listed are:
   - **[Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson)** (1834-1910):
       - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Caroline Valley Community Church records from the time have a record of Orange and Ada Munson moving to Erin NY Aug 30, 1918 and needing a letter to transfer to the Methodist Church there.
 
-It may be worth noting that both Harvey Smiley and Orange Munson were two of the 
 
 **Jessie (Shurter) Brewer (1881-1974)**
 

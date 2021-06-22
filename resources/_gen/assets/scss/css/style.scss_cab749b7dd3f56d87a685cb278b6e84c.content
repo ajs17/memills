@@ -53,7 +53,7 @@ a:visited {
 hr {
   color: #4D3636; }
 
-ul {
+footer ul {
   margin-top: 0; }
 
 .menu {
@@ -73,9 +73,6 @@ nav {
   width: 50%;
   min-width: 250px; }
 
-nav ul {
-  padding-top: 1em; }
-
 img, iframe, video {
   max-width: 100%;
   width: auto\9;
@@ -83,16 +80,18 @@ img, iframe, video {
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
-  margin: 16px; }
+  margin: 1em; }
 
 main {
   hyphens: auto; }
 
 blockquote {
+  max-width: 100%;
+  width: auto\9;
+  margin: 1em -1em 1em 1em;
+  padding: 3px 1em 3px;
   background: #807373;
   border-left: 5px solid white;
-  padding: 3px 1em 3px;
-  margin: 16px;
   hyphens: none; }
 
 figure {
@@ -104,7 +103,7 @@ figure img {
   margin-bottom: 0; }
 
 figcaption, figure footer {
-  padding-left: 3em;
+  padding-left: 1em;
   font-size: 90%; }
 
 figure footer {

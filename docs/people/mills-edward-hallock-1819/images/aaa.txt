@@ -1,5 +1,4 @@
 /home/ajs17/Dropbox/business/code/hugo/memills/content/people/mills-edward-hallock-1819/images
-evergreen-hill-cemetery-51.md  does not exist, creating
 
 
 ALL EMPTY MDS
@@ -9,6 +8,9 @@ ALL EMPTY MDS
 1869-Gazetteer-Business-Directory-Genesee-County.md
 1876-corfu-map-notes.md
 1876-corfu-map.md
+1882-gloversville-directory-p85.md
+1883-07-06-good-templars.md
+1886-gloversville-directory-p77.md
 1897-03-18-ithaca-daily-journal.md
 1899-corfu-fire.md
 1913-12-06-ithaca-daily-journal.md
@@ -81,6 +83,9 @@ mills-emily-arthurs-home-magazine.md
 
 IMAGES TO BE ADDED TO CONTENT
 {{% mefigure "images/1869-Gazetteer-Business-Directory-Genesee-County.jpg" "Jan 1, 0001, **Eer Business Directory Genesee County.Jpg.**" "400" /%}}
+{{% mefigure "images/1882-gloversville-directory-p85.jpg" "Jan 1, 0001, **Sville Directory P85.Jpg.**" "400" /%}}
+{{% mefigure "images/1883-07-06-good-templars.jpg" "Jul 6, 1883, **Good Templars.Jpg.**" "400" /%}}
+{{% mefigure "images/1886-gloversville-directory-p77.jpg" "Jan 1, 0001, **Sville Directory P77.Jpg.**" "400" /%}}
 {{% mefigure "images/1897-03-18-ithaca-daily-journal.png" "Mar 18, 1897, **Ithaca Daily Journal.Png.**" "400" /%}}
 {{% mefigure "images/1913-12-06-ithaca-daily-journal.png" "Dec 6, 1913, **Ithaca Daily Journal.Png.**" "400" /%}}
 {{% mefigure "images/1914-01-17-ithaca-journal.jpg" "Jan 17, 1914, **Ithaca Journal.Jpg.**" "400" /%}}
@@ -141,7 +146,6 @@ IMAGES TO BE ADDED TO CONTENT
 {{% mefigure "images/1936-06-23-ithaca-journal.jpg" "Jun 23, 1936, **Ithaca Journal.Jpg.**" "400" /%}}
 {{% mefigure "images/1937-02-09-ithaca-journal.jpg" "Feb 9, 1937, **Ithaca Journal.Jpg.**" "400" /%}}
 {{% mefigure "images/conant-gertrude-2.jpg" "Jan 1, 0001, **Rude 2.Jpg.**" "400" /%}}
-{{% mefigure "images/evergreen-hill-cemetery-51.jpg" "Jan 1, 0001, **Ill Cemetery 51.Jpg.**" "400" /%}}
 {{% mefigure "images/george-jansen-ehmills-entry.jpg" "Jan 1, 0001, **En Ehmills Entry.Jpg.**" "400" /%}}
 {{% mefigure "images/good-templars-form-inside.jpg" "Jan 1, 0001, **Rs Form Inside.Jpg.**" "400" /%}}
 {{% mefigure "images/good-templars-form-outside.jpg" "Jan 1, 0001, **Rs Form Outside.Jpg.**" "400" /%}}
