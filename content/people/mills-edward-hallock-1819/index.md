@@ -104,6 +104,8 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
 
 ## Edward Hallock Mills
 
+{{% mefigure "images/1897-03-18-ithaca-daily-journal.png" "Mar 18, 1897, **Ithaca Daily Journal.Png.**" "400" /%}}
+
 Edward H. Mills was co-owner of [**E. H. Mills & Co.**](#e-h-mills--co-corfu-ny) general store in Corfu, NY and later, [**E. H. Mills**](#e-h-mills-and-m-e-mills-brookton) general store in Mott's Corners/Brookton NY.
 
 {{% mefigure "images/1908-01-06-ithaca-daily-journal.png" "Jan 6, 1908, The Ithaca Daily Journal, p.3" "400"/%}}
@@ -215,8 +217,7 @@ Notes:
 
 ## Hannah Mills 
 
-Barbara Kone compiled information on Caroline Marriages at CarolineHistorian.org that lists Edward's marriage to Hannah and identifies Edward's parents:
-
+Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward's marriage to Hannah and identifies Edward's parents:
 
 <figure>
 <blockquote>
@@ -267,6 +268,8 @@ The E.H. Mills General store was on the NE corner of Main and Allegheny in Corfu
 — <cite>May 20, 2021, Personal correspondence with Allan Starkweather, Corfu Village Historian</cite>
 </figcaption>
 </figure>
+
+E. H. Mills & Co. was also referred to, on the maps at least, as "Mills Cash Store" or just simply "Cash Store."
 
 {{% mefigure "images/1869-Gazetteer-Business-Directory-Genesee-County-inset.jpg" "**Gazetteer and Business Directory of Genesee County, NY, 1869-70** via [ancestry.com](https://www.ancestry.com/imageviewer/collections/2469/images/41199_1220706242_4221-00194?treeid=&personid=&rc=&usePUB=true&_phsrc=GfK30&_phstart=successSource&pId=1440026982)." %}}
 <footer>
