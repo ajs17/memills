@@ -23,16 +23,16 @@ I have already collected much of this information, its just a matter of getting 
 
 ## Genealogy
 
-By corroborating data from [Caroline Valley Community Church's historical records](#combined-church-obituary-entry-for-edward-and-mary-ann) as well as information about Edward's parents in the official recoreds of his marriage to [Hannah](http://localhost:1313/people/mills-edward-hallock-1819/#hannah-mills), Edward H. Mills is identified in a partial entry on an extensive genealogy: [Descendants of George Mills of Yorkshire and Long Island, New York](millsancestry.org). The site is now defunct and the contact information for it is no longer valid, however, I was able to locate its creator on Facebook to let him know about this documentation on Edward. 
+By corroborating data from [Caroline Valley Community Church's historical records](#combined-church-obituary-entry-for-edward-and-mary-ann) as well as information about Edward's parents in the official records of his marriage to [Hannah](http://localhost:1313/people/mills-edward-hallock-1819/#hannah-mills), Edward H. Mills is identified in a partial entry on an extensive genealogy covering eight generations of Mills: [Descendants of George Mills of Yorkshire and Long Island, New York](http://millsancestry.org) at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, I was able to locate its creator on Facebook to let him know about this documentation on Edward. 
 
-Beginning with Edward's parents:
+Beginning with Edward's parents, according to an archived version of data from MillsAncestry.org:
 
 <figure>
 <blockquote>
 
 <span>583.</span> [Jonas Davis Mills](https://www.findagrave.com/memorial/138421270/jonas-d.-mills) (George , Isaac , Isaac , Timothy , Jonathan , George ) was born on 2 May 1795. He died on 30 Jan 1882.
 
-Jonas married (1) [Mary Hallock](https://www.findagrave.com/memorial/138421346/mary-p.-mills) on 25 Dec 1818 in , Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827.
+Jonas married (1) Mary Hallock on 25 Dec 1818 in , Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827.
 
 They had the following children:
 
@@ -40,7 +40,7 @@ They had the following children:
 - 1030	M	ii	Edward H. Mills was born on 25 Mar 1819.
 - 1031	F	iii	Emily Tabitha Mills was born on 19 Jun 1821. She died on 11 Apr 1849.
 
-Jonas married (2) Mary Platt Mills daughter of Jedediah Mills and Elizabeth Mills on 25 Apr 1831. Mary was born on 30 Jan 1801 in Long Island, New York. She died on 18 Jun 1881.
+Jonas married (2) [Mary Platt Mills](https://www.findagrave.com/memorial/138421346/mary-p.-mills) daughter of Jedediah Mills and Elizabeth Mills on 25 Apr 1831. Mary was born on 30 Jan 1801 in Long Island, New York. She died on 18 Jun 1881.
 
 They had the following children:
 
@@ -49,16 +49,16 @@ They had the following children:
 </blockquote>
 <figcaption>
 — <cite>
-[Descendants of George Mills of Yorkshire and Long Island, New York](millsancestry.org)
+<a href="http://millsancestry.org">Descendants of George Mills of Yorkshire and Long Island, New York</a>
 </cite>
 </figcaption>
 </figure>
 
 And to this we can add Edward's branch to its ultimate conclusion:
 
-**Edward Hallock Mills** (born Smithtown NY, Mar 25, 1819, died Brookton NY, Jan 1, 1908).
+<span>1030.</span> **Edward Hallock Mills** (born Smithtown NY, Mar 25, 1819, died Brookton NY, Jan 1, 1908).
 
-Wife: **Mary Ann (Pine) Mills** (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850. 
+Edward married (1) **Mary Ann (Pine) Mills** (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850. 
 
 Children:
   - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, Oct 13, 1885).
@@ -67,15 +67,17 @@ Children:
   
 None of Edward's children married or had children.
 
-Wife: **Hannah (Thatcher) Eastman Mills** (1825?, died Brooktondale NY, Feb 25, 1917). Married on Dec 30, 1896. (No children from the marriage to Edward.)
+Edward married (2) **Hannah (Thatcher) Eastman Mills** (1825?, died Brooktondale NY, Feb 25, 1917). Married on Dec 30, 1896. 
+
+  - No children.
 
 Notes:
+  - Edward's parents were married while Edward was in utero and his older brother Thomas was already a toddler.
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name.
-  - Jonas was Edward's father's name.
-  - Edward had a sister named Emily who may have lent her name to Edward's daughter.
+  - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
  
-Edward H. Mills' ancestors were early settlers of the Town of Smithtown and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
+Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
 
  <figure>
  <blockquote>
@@ -89,7 +91,7 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
  </figcaption>
  <footer>
 
- The original [Mills Pond House](https://www.millspondgallery.org/history-of-mills-pond-house) still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
+ The original [Mills Pond House](https://www.millspondgallery.org/history-of-mills-pond-house) that Timothy built still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
  </footer>
  </figure>
 
@@ -115,6 +117,11 @@ Edward H. Mills was co-owner of [**E. H. Mills & Co.**](#e-h-mills--co-corfu-ny)
   <figcaption>— <cite>Jan 6, 1908, Batavia Daily News.</cite>Image currently unavailable, text courtesy of Allan Starkweather, Corfu Village Historian. </figcaption>
 </figure>
 
+{{% mefigure "images/george-jansen-ehmills-entry.jpg" "Photograph of page from one of the notebooks of George Jansen (1847-1936), currently owned by The History Center in Tompkins County." "400" %}}
+<footer>
+This would seem to be the page and entry that Molly Adams mistook for a reference to Emily in "Town of Caroline" Chapter Two of <strong>The Towns of Tompkins County</strong>, Jane Marsh Dieckmann editor, 1998, p61-62: "From 1908 to 1925 an itinerant worker named George Jansen, who dug gardens, painted rooms or houses, washed dishes, or "kept house" when an owner went on a trip, recorded events in Brookton along with the daily weather. He noted the death of Emily Mills, who had continued her father's store for thirty years, extending credit to many needy individuals." George passed nearly two years before Emily.
+</footer>
+{{% /mefigure %}}
 
 ### Combined Church Obituary Entry for Edward and Mary Ann 
 
@@ -180,6 +187,25 @@ Note: due to the level of detail given to the context of this story, I am choosi
 {{% /mefigure %}}
 
 {{% mefigure "images/1913-12-06-ithaca-journal.png" "Dec 6, 1913, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1918-10-15-ithaca-journal.jpg" "Oct 15, 1918, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1924-05-10-ithaca-journal.jpg" "May 10, 1924,**The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1924-10-14-ithaca-journal.jpg" "Oct 14, 1924, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1926-10-30-ithaca-journal.jpg" "Oct 30, 1926,  **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1931-02-02-ithaca-journal.jpg" "Feb 2, 1931,  **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1935-12-05-ithaca-journal.jpg" "Dec 5, 1935,  **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1936-06-22-ithaca-journal.jpg" "Jun 22, 1936,  **The Ithaca Journal**""400" /%}}
+
+{{% mefigure "images/1936-06-23-ithaca-journal.jpg" "Jun 23, 1936, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1937-02-09-ithaca-journal.jpg" "Feb 9, 1937,  **The Ithaca Journal**" "400" /%}}
+
 
 Emily fell and broke her hip while on her way to services at Brookton Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 76 years old.
 
@@ -266,20 +292,59 @@ Hannah apparently had what must have been of very worrying health episode. This 
 
 {{% mefigure "images/1914-12-05-ithaca-journal.jpg" "Dec 5, 1914, **The Ithaca Journal**" "400" /%}}
 
+{{% mefigure "images/1915-01-12-ithaca-journal.jpg" "Jan 12, 1915, **The Ithaca Journal**" "400" /%}}
 
+{{% mefigure "images/1915-02-09-ithaca-journal.jpg" "Feb 9, 1915, **The Ithaca Journal**" "400" /%}}
 
+{{% mefigure "images/1915-02-12-ithaca-journal.jpg" "Feb 12, 1915, **The Ithaca Journal**" "400" /%}}
 
+{{% mefigure "images/1915-02-22-ithaca-journal.jpg" "Feb 22, 1915, **The Ithaca Journal**" "400" /%}}
 
+{{% mefigure "images/1915-03-03-ithaca-journal.jpg" "Mar 3, 1915, **The Ithaca Journal**" "400" /%}}
 
-{{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." "400" %}}
-<footer>
-Notes:
+{{% mefigure "images/1916-05-23-ithaca-journal.jpg" "May 23, 1916, **The Ithaca Journal**" "400" /%}}
 
-  - The "late residence" referred to is obviously the Mills' home.
-<footer>
-{{% /mefigure %}}
+{{% mefigure "images/1917-02-26-ithaca-journal.jpg" "Feb 26, 1917, The Ithaca Journal via newspapers.com." "400" /%}}
+
+{{% mefigure "images/1917-02-27-ithaca-journal.jpg" "Feb 27, 1917, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1917-03-03-ithaca-journal.jpg" "Mar 3, 1917, **The Ithaca Journal**" "400" /%}}
 
 {{% mefigure "images/mills-hannah-cvcc-obit.jpg" "Digitally scanned entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used with permisson from Caroline Valley Community Church." /%}}
+
+{{% mefigure "images/1917-03-28-ithaca-journal.jpg" "Mar 28, 1917, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1917-05-08-ithaca-journal.jpg" "May 8, 1917, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1917-06-16-ithaca-journal.jpg" "Jun 16, 1917, **The Ithaca Journal**" "400" /%}}
+
+## Ellen Gould 
+
+{{% mefigure "images/1917-03-20-ithaca-journal.jpg" "Mar 20, 1917, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1917-12-13-ithaca-journal.jpg" "Dec 13, 1917, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1919-08-15-ithaca-journal.jpg" "Aug 15, 1919, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1919-08-23-ithaca-journal.jpg" "Aug 23, 1919, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1923-04-24-ithaca-journal.jpg" "Apr 24, 1923, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1924-02-27-ithaca-journal.jpg" "Feb 27, 1924, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1924-09-04-ithaca-journal.jpg" "Sep 4, 1924, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1925-01-14-ithaca-journal.jpg" "Jan 14, 1925, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1925-03-11-ithaca-journal.jpg" "Mar 11, 1925, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1925-04-08-ithaca-journal.jpg" "Apr 8, 1925, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1925-12-17-ithaca-journal.jpg" "Dec 17, 1925, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1926-01-12-ithaca-journal.jpg" "Jan 12, 1926, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1926-04-07-ithaca-journal.jpg" "Apr 7, 1926, **The Ithaca Journal**" "400" /%}}
 
 ## E. H. Mills & Co., Corfu NY 
 
@@ -354,11 +419,41 @@ A large advertisement in The Ithaca Journal for White House Coffee lists area st
 </footer>
 {{% /mefigure %}}
 
+{{% mefigure "images/1915-07-24-ithaca-journal.jpg" "Jul 24, 1915, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1916-08-08-ithaca-journal.jpg" "Aug 8, 1916, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1915-04-07-ithaca-journal.jpg" "Apr 7, 1915, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1925-03-13-ithaca-journal.jpg" "Mar 13, 1925, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1935-10-25-ithaca-journal.jpg" "Oct 25, 1935, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1935-10-28-ithaca-journal.jpg" "Oct 28, 1935, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1935-10-29-ithaca-journal.jpg" "Oct 29, 1935, **The Ithaca Journal**" "400" /%}}
+
+{{% mefigure "images/1936-06-20-ithaca-journal.jpg" "Jun 20, 1936, **The Ithaca Journal**" "400" /%}}
+
 Two articles in the Jul 14, 1934 (page 3) and Nov 20, 1934 (page  5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendents of the accused.
 
 <hr>
 
 ## Temperance Activity 
+
+<figure>
+<blockquote>
+Temperance groups don't appear to be very strong here. The only mention I found was the "Royal Templars of Temperance" who began meeting in 1878. They didn't seem to be very powerful. No date was given as to when they ceased to exist.
+</blockquote>
+<figcaption>
+— <cite>Personal correspondence with Allan Starkweather, Corfu Village Historian</cite>
+</figcaption>
+</figure>
+
+
+{{% mefigure "images/good-templars-form-inside.jpg" "Apr 30, 1886 Quarterly Returns for Independent Order of Good Templars High Bridge Lodge No. 296. Filled in and signed by Emily." /%}}
+{{% mefigure "images/good-templars-form-outside.jpg" "Apr 30, 1886 Quarterly Returns for Independent Order of Good Templars High Bridge Lodge No. 296. Filled in by Emily." /%}}
+
 
 ## Appendix
 
@@ -388,9 +483,11 @@ A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shu
 
 ### Unanswered Questions and Areas of Further Research
 
-  - More precise birthdates and birthplaces for Jonas, Horace, Emily.
+  - More precise birthdates and birthplaces for Jonas, Horace, Emily, Hannah.
   - Jonas' and Horace's full middle names.
   - Corroborate Horace's date of death, as Evergreen Hill Cemetery directory listing is the only source of a date and given the mistakes in Edward's listing, I can't be completely confident in it.
+  - Who were the sources for the gossip columns in those years?
+  - Did Emily write Hannah's obituary?
   - Is Charles M. Pine, co-owner of E. H. Mills & Co. in Corfu, related to Edward's wife Mary Ann, whose maiden name is Pine?
   - Photo of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
   - Find the leather booklet mentioned by Molly Adams, at one time in the Caroline History Room, and photograph it.
