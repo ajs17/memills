@@ -80,7 +80,8 @@ img, iframe, video {
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
-  margin: 1em; }
+  margin: 1em;
+  padding-bottom: 1em; }
 
 main {
   hyphens: auto; }
@@ -88,8 +89,8 @@ main {
 blockquote {
   max-width: 100%;
   width: auto\9;
-  margin: 1em -1em 1em 1em;
-  padding: 3px 1em 3px;
+  margin: 0 -1em 1em 1em;
+  padding: 1em;
   background: #807373;
   border-left: 5px solid white;
   hyphens: none; }
@@ -97,7 +98,7 @@ blockquote {
 figure {
   padding-left: 0;
   margin-left: 0;
-  padding-bottom: 1em; }
+  padding-bottom: 2em; }
 
 figure img {
   margin-bottom: 0; }
