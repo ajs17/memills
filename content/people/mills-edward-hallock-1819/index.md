@@ -77,6 +77,12 @@ Notes:
   - Edward's middle name Hallock was his Mother's maiden name.
   - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
  
+The [Mills home deeds](#deeds-for-the-mills-home-in-brooktondale) from the time of Emily's death list the following as cousins of Emily's and possible heirs:
+  - Alonzo Mills
+  - George E. Mills
+  - Clarissa Etsall
+  - Mary Hunting Smith
+
 Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
 
  <figure>
@@ -139,6 +145,8 @@ Notes:
 
 {{% mefigure "images/mills-mary-cvcc-join.jpg" "Digitally photographed entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used with permisson from Caroline Valley Community Church." /%}}
 
+{{% mefigure "images/1895-12-31-daily-news-p1.png" "Dec 31, 1895, The Daily News (Batavia, NY), p1." /%}}
+
 ## Jonas E. Mills 
 
 {{% mefigure "images/1885-10-15-ithaca-daily-journal.jpg" "Oct 15, 1885, The Ithaca Daily Journal via nyshistoricnewspapers.org." "400" /%}}
@@ -186,7 +194,13 @@ Note: due to the level of detail given to the context of this story, I am choosi
 <footer>
 {{% /mefigure %}}
 
-{{% mefigure "images/1913-12-06-ithaca-journal.png" "Dec 6, 1913, **The Ithaca Journal**" "400" /%}}
+{{% mefigure "images/1913-12-06-ithaca-daily-journal.png" "Dec 6, 1913, **The Ithaca Daily Journal**" "400" %}}
+<footer>
+Notes:
+
+  - I believe "Miss Esther Vorhis" is a reference to Charlotte Esther (Vorhis) Pancoe (1893-1964). Charlotte was baptized with Emily, and a Jan 28, 1960 article on p3 of The Ithaca Journal references a "Mrs. Esther Vorhis Pancoe of Brooktondale" indicating Charlotte did not always go by her first name. Charlotte married George W. Pancoe (1895-1969) in 1918.
+</footer>
+{{% /mefigure %}}
 
 {{% mefigure "images/1918-10-15-ithaca-journal.jpg" "Oct 15, 1918, **The Ithaca Journal**" "400" /%}}
 
@@ -584,6 +598,14 @@ Notes:
 </footer>
 {{% /mefigure %}}
 
+{{% mefigure "images/conant-gertrude-2.jpg" "Gertrude Conant, used with permission."  %}}
+<footer>
+Notes:
+
+  - As mentioned in a newspaper clipping above, Dr. Lockwood and his wife lived for a time in the apartment above M. E. Mills while his house was being "reconstructed" from May 1 to late October, 1926.
+</footer>
+{{% /mefigure %}}
+
 ### Deeds for the Mills' Home in Brooktondale
 
 {{% mefigure "images/475-deed-pg-1.jpg" /%}}
@@ -678,8 +700,8 @@ I could not find an account of this baptism in the Ithaca Journal, but there is 
 <footer>
 Notes:
 
-  - Brookton was often confused with Brocton and  Brooklyn, and that is the reason for adopting the name Brooktondale. See [Historical Names](#historical-names). Otherwise, the use of "village" doesn't make sense.
-  - It is referencing the wrong weekend, but it is also a relative time reference, and perhaps the difference is just a result of the time between writing and publishing.
+  - Brookton was often confused with Brocton and even Brooklyn, and that is the reason for adopting the name Brooktondale. See [Historical Names](#historical-names). Otherwise, the use of "village" doesn't make sense.
+  - It is referencing the wrong weekend, but it is also a relative time reference, and perhaps the difference is just a result of the text not being updated in the time between writing and its delayed publishing.
   - The reference to the Denmans would seem to be Richard L. Denman (1848-1915) and his wife Adelaide (1852-1947). 
 </footer>
 {{% /mefigure %}}
@@ -770,3 +792,9 @@ About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
 
 https://nyshistoricnewspapers.org/lccn/sn83031157/1896-10-14/ed-1/seq-6/#date1=01/01/1879&city=&date2=12/31/1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=2&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
 
+
+The daily news., December 31, 1895, Page 1, Image 1
+About The daily news. (Batavia, N.Y.) 1881-current
+https://nyshistoricnewspapers.org/lccn/sn83030756/1895-12-31/ed-1/seq-1/#date1=01%2F01%2F1725&city=&date2=12%2F31%2F2019&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=18&words=Brookton&proxdistance=5&county=Genesee&to_year=2019&rows=20&ortext=&from_year=1725&proxtext=brookton&phrasetext=&andtext=&dateFilterType=range&page=3
+
+1895-12-31-daily-news-p1.png
