@@ -1,0 +1,1 @@
+Christmas seals are for sale by Mrs. Charles Mulks, Miss Emily Mills and Mrs. Tillie McWhorter.

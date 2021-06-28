@@ -198,7 +198,7 @@ Note: due to the level of detail given to the context of this story, I am choosi
 <footer>
 Notes:
 
-  - I believe "Miss Esther Vorhis" is a reference to Charlotte Esther (Vorhis) Pancoe (1893-1964). Charlotte was baptized with Emily, and a Jan 28, 1960 article on p3 of The Ithaca Journal references a "Mrs. Esther Vorhis Pancoe of Brooktondale" indicating Charlotte did not always go by her first name. Charlotte married George W. Pancoe (1895-1969) in 1918.
+  - "Miss Esther Vorhis" is a reference to Charlotte Esther (Vorhis) Pancoe (1893-1964) who descendents have confirmed went by Esther.  See also a Jan 28, 1960 article on p3 of The Ithaca Journal that references a "Mrs. Esther Vorhis Pancoe of Brooktondale." Esther was [baptized with Emily](#the-baptism-of-emily-mills), where she is listed as "C. Esther Vorhis" and she married George W. Pancoe (1895-1969) in 1918.
 </footer>
 {{% /mefigure %}}
 
@@ -375,15 +375,11 @@ The E.H. Mills General store was on the NE corner of Main and Allegheny in Corfu
 
 E. H. Mills & Co. was also referred to, on the maps at least, as "Mills Cash Store" or just simply "Cash Store."
 
-{{% mefigure "images/1869-Gazetteer-Business-Directory-Genesee-County-inset.jpg" "**Gazetteer and Business Directory of Genesee County, NY, 1869-70** via [ancestry.com](https://www.ancestry.com/imageviewer/collections/2469/images/41199_1220706242_4221-00194?treeid=&personid=&rc=&usePUB=true&_phsrc=GfK30&_phstart=successSource&pId=1440026982)." %}}
-<footer>
-Notes:
+{{% mefigure "images/1869-Gazetteer-Business-Directory-Genesee-County-inset.jpg" "**Gazetteer and Business Directory of Genesee County, NY, 1869-70** via [ancestry.com](https://www.ancestry.com/imageviewer/collections/2469/images/41199_1220706242_4221-00194?treeid=&personid=&rc=&usePUB=true&_phsrc=GfK30&_phstart=successSource&pId=1440026982)." "400" /%}}
 
-  - Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine.
+Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine. There is a Charles Pine that married Almira Jane Loper in 1835 in South Hempstead, New York, and elsewhere, his middle name appears to be Mills:
 
-</footer>
-{{% /mefigure %}}
-
+{{% mefigure "images/1835-02-21-charles-pine.jpg" "U.S., Newspaper Extractions from the Northeast, 1704-1930, accessed via Ancestry.com." /%}}
 
 The following map images and associated business directory show both the E. H. Mills & Co. general store as well as the Mills' home in Corfu in the same locations in 1866 and 1876:
 
@@ -493,6 +489,8 @@ There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversvill
 
 There is another Horace F. Mills in upstate New York in the 1800's, who does not appear to be related to this Mills family. That Horace Mills was born in 1847, lived in Penn Yan NY, attended the University at Albany in 1861 but left to serve in the Civil War, ultimately rising to the rank of Major in the 9th USCT. Several photos can be found of him online.
 
+Yet another Horace F. Mills lived iun Wawayanda, NY mentioned in Port Jervis newspapers in the 1870's and 1880's. He was married to M. J. Mills and had a daughter Bertha who died at four months old.
+
 A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shurter in the Cornell University Library archives did not yield any photos or other documentation related to the Mills family. In fact, the Brookton/Caroline related materials were in the minority, and there were few original photographic prints overall.
 
 ### Unanswered Questions and Areas of Further Research
@@ -584,8 +582,6 @@ In the Caroline History Room, there is a copy of Molly's familiar-looking resear
 {{% mefigure "images/a-note-on-emily-mills-research-notes.jpg" "Molly Adams via Caroline History Room files." /%}}
 
 The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner would be, and was designed specifically to pique interest in Emily. Thank you Molly, you were a great teacher, I wish I had been a better student.
-
-
 
 ### Gertrude Conant's Recollections
 
@@ -706,13 +702,13 @@ Notes:
 </footer>
 {{% /mefigure %}}
 
-At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
+At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. During the Reverend's tenure, she would also give occassional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
 
 
 
 ### More information about Emily's Baptism 
 
-**Reverend Annis Ford Eastman** officiated the ceremony. She made history by becoming one of the first women ordained in a Congregational Church while she was pastor of Brookton Congregational Church (now Caroline Valley Community Church) from 1889 to 1891. The Reverend wrote of her time in Brookton, including an account of her ordination, in "The Making of a Woman Minister" in the book **Enjoyment of Living** by her son Max Eastman. The Church's historical records also include an account of her ordination, including the names of the members of the "picked council" she refers to in her account. The Church's records indicate that the Reverend did return to Brookton periodically in the years after she left. The Reverend would die in 1910 after a period of ill health, so this would have been one of her last return visits.
+**Reverend Annis Ford Eastman** officiated the ceremony. She made history by becoming one of the first women ordained in a Congregational Church while she was pastor of Brookton Congregational Church (now Caroline Valley Community Church) from 1889 to 1891. The Reverend wrote of her time in Brookton, including an account of her ordination, in "The Making of a Woman Minister" in the book **Enjoyment of Living** by her son Max Eastman. The Church's historical records also include an account of her ordination, including the names of the members of the "picked council" she refers to in her account. The Church's records indicate that the Reverend did return to Brookton periodically in the years after she left. The Reverend would die in 1910 after a period of ill health, so this would have been one of her last return visits to Brookton.
 
 The Deacons listed are:
 
@@ -721,6 +717,7 @@ The Deacons listed are:
   - **[Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson)** (1834-1910):
       - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Caroline Valley Community Church records from the time have a record of Orange and Ada Munson moving to Erin NY Aug 30, 1918 and needing a letter to transfer to the Methodist Church there.
 
+Selected data on the participants:
 
 **Jessie (Shurter) Brewer (1881-1974)**
 
@@ -736,6 +733,11 @@ The Deacons listed are:
 **Lettie Delphene Personius (1892-1909)**
 
   - Lettie Personius, aged 16 years, died at City Hospital yesterday of gangrenous appendicitis. Miss Personious was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on Dec. 14, 1906. 
+
+**Charlotte Esther (Vorhis) Pancoe (1893-1964)**
+
+  - Descendents confirm she commonly went by Esther.
+  - Married George W. Pancoe (1895-1969).
 
 
 {{< section-contents "#appendix" "h2" "h3" >}}
