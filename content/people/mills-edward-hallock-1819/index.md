@@ -1,5 +1,6 @@
 ---
-title: "The Family of Edward H. Mills."
+title: "The Family of Edward H. Mills"
+description: "An attempt to document all extant information on the family of Edward H. Mills (1819-1908), with particular emphasis on his daughter Emily Mills (1861-1937)."
 date: "2021-05-25"
 ---
 
