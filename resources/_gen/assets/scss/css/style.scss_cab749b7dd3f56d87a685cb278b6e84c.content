@@ -128,6 +128,11 @@ th, td {
 thead, tfoot, tr:nth-child(even) {
   background: #807373; }
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table; }
+
 aside {
   display: none; }
 

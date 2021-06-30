@@ -3,6 +3,9 @@ title: "The Family of Edward H. Mills."
 date: "2021-05-25"
 ---
 
+<article>
+
+<article>
 
 ## Information Yet To Be Incorporated
 
@@ -20,6 +23,9 @@ Several major areas are still missing from this history that are all very valuab
   - Aknowledge the many people who have helped me along the way...
 
 I have already collected much of this information, its just a matter of getting it organized here.
+
+</article>
+<article>
 
 ## Genealogy
 
@@ -77,7 +83,7 @@ Notes:
   - Edward's middle name Hallock was his Mother's maiden name.
   - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
  
-The [Mills home deeds](#deeds-for-the-mills-home-in-brooktondale) from the time of Emily's death list the following as cousins of Emily's and possible heirs:
+The [Mills home deeds](#deeds-for-the-mills-home-in-brooktondale) from the time of Emily's death list the following as cousins of Emily's as possible heirs:
   - Alonzo Mills
   - George E. Mills
   - Clarissa Etsall
@@ -101,6 +107,8 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
  </footer>
  </figure>
 
+<article>
+
 ### Burials
 
 [Edward](https://www.findagrave.com/memorial/75958691/edward-h-mills), [Mary Ann](https://www.findagrave.com/memorial/75958702/mary-ann-mills), [Jonas](https://www.findagrave.com/memorial/75958930/jonas-e-mills ) and [Horace](https://www.findagrave.com/memorial/75958913/horace-f-mills) are interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu, NY 14036.
@@ -108,7 +116,10 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
 [Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850.
 
 [Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
+</article>
 
+</article>
+<article>
 
 ## Edward Hallock Mills
 
@@ -129,7 +140,10 @@ This would seem to be the page and entry that Molly Adams mistook for a referenc
 </footer>
 {{% /mefigure %}}
 
-### Combined Church Obituary Entry for Edward and Mary Ann 
+</article>
+<article>
+
+## Combined Church Obituary Entry for Edward and Mary Ann 
 
 {{% mefigure "images/mills-edward-mary-cvcc-obit.jpg" "Digitally photographed entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used with permisson from Caroline Valley Community Church."  %}}
 <footer>
@@ -139,6 +153,9 @@ Notes:
 </footer>
 {{% /mefigure %}}
 
+</article>
+<article>
+
 ## Mary Ann Mills 
 
 {{% mefigure "images/1851-01-03-Brooklyn-Daily-Eagle.jpg" "Jan 03, 1851, The Brooklyn Daily Eagle via newspapers.com." "400" /%}}
@@ -147,9 +164,15 @@ Notes:
 
 {{% mefigure "images/1895-12-31-daily-news-p1.png" "Dec 31, 1895, The Daily News (Batavia, NY), p1." /%}}
 
+</article>
+<article>
+
 ## Jonas E. Mills 
 
 {{% mefigure "images/1885-10-15-ithaca-daily-journal.jpg" "Oct 15, 1885, The Ithaca Daily Journal via nyshistoricnewspapers.org." "400" /%}}
+
+</article>
+<article>
 
 ## Horace F. Mills 
 
@@ -177,6 +200,8 @@ And a very big mystery relevant to the Caroline audience in particular, is why t
   - They knew someone who lived Mott's Corners.
   - Perhaps Edward sold products from the mills and factories of Mott's Corners in his store and knew of it that way? 
 
+</article>
+<article>
 
 ## Mary Emily Mills
 
@@ -221,7 +246,7 @@ Notes:
 {{% mefigure "images/1937-02-09-ithaca-journal.jpg" "Feb 9, 1937,  **The Ithaca Journal**" "400" /%}}
 
 
-Emily fell and broke her hip while on her way to services at Brookton Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 76 years old.
+Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 76 years old.
 
 {{% mefigure "images/1937-10-15-ithaca-journal.jpg" "Oct 15, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
@@ -231,7 +256,7 @@ Emily fell and broke her hip while on her way to services at Brookton Congregati
 <footer>
 Notes:
 
-  - According to an entry in the [Late August - Early September 2016 edition of the **History Happenings" newsletter published by the Tompkins County History Center](https://myemail.constantcontact.com/History-Happenings---Late-August---Early-September-2016.html?soid=1103133034468&aid=9svvB-OfDhg), "January 1914 Ithaca Memorial Hospital opened on Quarry Street and in January 1948 responsibility was assumed by Tompkins County and renamed as Tompkins County Memorial Hospital." This building today is owned by Cornell University and used for student dormitoriees.
+  - According to an entry in the [Late August - Early September 2016 edition of the **History Happenings** newsletter published by the Tompkins County History Center](https://myemail.constantcontact.com/History-Happenings---Late-August---Early-September-2016.html?soid=1103133034468&aid=9svvB-OfDhg), "January 1914 Ithaca Memorial Hospital opened on Quarry Street and in January 1948 responsibility was assumed by Tompkins County and renamed as Tompkins County Memorial Hospital." This building today is owned by Cornell University and used for student dormitories.
 <footer>
 {{% /mefigure %}}
 
@@ -249,11 +274,12 @@ This moving tribute was authored by none other than E. D. Shurter, a Brookton na
 <footer>
 Notes:
 
-  - The reference to "lot of said M. E. Mills" seems to be a ontinued reference to the house lot and using "M. E. Mills" as just an abbreviation of Emily's name and not an explicit reference to the store. That is the most logical way to read the sentence, and also, I don't believe that Emily owned the real estate of the store. 
   - An identical notice also ran the next day, Jan 20, 1938, in the Ithaca Journal.
 </footer>
 {{% /mefigure %}}
 
+</article>
+<article>
 
 ## Hannah Mills 
 
@@ -285,13 +311,28 @@ Age: 72
 </figcaption>
 </figure>
 
+
+The 1896 New York State Marriage Index also traces Hannah back to her maiden name, with the identfication number 25877:
+
+<figure class="clearfix">
+<div style="float: left">
+{{% mefigure "images/1896-nys-marriage-index-241.jpg" "New York State Marriage Index, 1896, accessed via ancestry.com." "200" /%}}
+</div>
+<div style="float: left">
+{{% mefigure "images/1896-nys-marriage-index-563.jpg" "New York State Marriage Index, 1896, accessed via ancestry.com." "200" /%}}
+</div>
+<div style="float: left">
+{{% mefigure "images/1896-nys-marriage-index-816.jpg" "New York State Marriage Index, 1896, accessed via ancestry.com." "200" /%}}
+</div>
+</figure>
+
 My impressions of Hannah are that she was an active and outgoing woman who was much loved in the community.
 
 {{% mefigure "images/1914-01-17-ithaca-journal.jpg" "Jan 17, 1914, **The Ithaca Journal**" "400" /%}}
 
 {{% mefigure "images/1914-05-22-ithaca-journal.jpg" "May 22, 1914, **The Ithaca Journal**" "400" /%}}
 
-Hannah apparently had what must have been of very worrying health episode. This is the first mention of Ellen Gould, and it seems quite probable that this is an accounting of the circumstances of her coming to live in the Mills Home, to care for Emily's elderly step-mother which Emily herself, as a business owner, would not have had adequate time to do. 
+Hannah apparently had what must have been of very worrying health episode. This is the first mention I have found of [Ellen Gould](#ellen-gould), and it seems quite probable that this is an accounting of the circumstances of her coming to live in the Mills Home, to care for Emily's elderly step-mother which Emily herself, as a business owner, would not have had adequate time to do. Ellen was already well known to the Mills as she was also a member of the W.C.T.U.
 
 {{% mefigure "images/1914-10-26-ithaca-journal.jpg" "Oct 26, 1914, **The Ithaca Journal**" "400" /%}}
 
@@ -332,6 +373,9 @@ Hannah apparently had what must have been of very worrying health episode. This 
 
 {{% mefigure "images/1917-06-16-ithaca-journal.jpg" "Jun 16, 1917, **The Ithaca Journal**" "400" /%}}
 
+</article>
+<article>
+
 ## Ellen Gould 
 
 {{% mefigure "images/1917-03-20-ithaca-journal.jpg" "Mar 20, 1917, **The Ithaca Journal**" "400" /%}}
@@ -359,6 +403,9 @@ Hannah apparently had what must have been of very worrying health episode. This 
 {{% mefigure "images/1926-01-12-ithaca-journal.jpg" "Jan 12, 1926, **The Ithaca Journal**" "400" /%}}
 
 {{% mefigure "images/1926-04-07-ithaca-journal.jpg" "Apr 7, 1926, **The Ithaca Journal**" "400" /%}}
+
+</article>
+<article>
 
 ## E. H. Mills & Co., Corfu NY 
 
@@ -400,6 +447,9 @@ A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
 {{% mefigure "images/1899-corfu-fire.jpg" "Courtesy of Allan Starkweather, Corfu Village Historian. Scanned from photocopy of document with Allan's annotations." /%}}
 
 The Mills' home in Corfu no longer exists.
+
+</article>
+<article>
 
 ## E. H. Mills and M. E. Mills, Mott's Corners and Brookton
 
@@ -449,6 +499,9 @@ Two articles in the Jul 14, 1934 (page 3) and Nov 20, 1934 (page  5) issues of T
 
 <hr>
 
+</article>
+<article>
+
 ## Temperance Activity 
 
 <figure>
@@ -464,8 +517,12 @@ Temperance groups don't appear to be very strong here. The only mention I found 
 {{% mefigure "images/good-templars-form-inside.jpg" "Apr 30, 1886 Quarterly Returns for Independent Order of Good Templars High Bridge Lodge No. 296. Filled in and signed by Emily." /%}}
 {{% mefigure "images/good-templars-form-outside.jpg" "Apr 30, 1886 Quarterly Returns for Independent Order of Good Templars High Bridge Lodge No. 296. Filled in by Emily." /%}}
 
+</article>
+<article>
 
 ## Appendix
+
+<article>
 
 ### Distribution
 
@@ -478,6 +535,9 @@ To preserve this information, and as an aid to future researchers, the following
   - Town of Corfu Historians
   - Smithtown Historical Society
   - Mills Pond?
+
+</article>
+<article>
 
 ### Notes for Future Researchers
 
@@ -492,6 +552,9 @@ There is another Horace F. Mills in upstate New York in the 1800's, who does not
 Yet another Horace F. Mills lived iun Wawayanda, NY mentioned in Port Jervis newspapers in the 1870's and 1880's. He was married to M. J. Mills and had a daughter Bertha who died at four months old.
 
 A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shurter in the Cornell University Library archives did not yield any photos or other documentation related to the Mills family. In fact, the Brookton/Caroline related materials were in the minority, and there were few original photographic prints overall.
+
+</article>
+<article>
 
 ### Unanswered Questions and Areas of Further Research
 
@@ -521,6 +584,8 @@ Planned:
   - Research Emily's baptism, possibly contacting descendents of Annis Ford Eastman for information on that event. 
   - The dimenions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
   
+</article>
+<article>
 
 ### Physical Artifacts Remaining
 
@@ -539,6 +604,9 @@ We actually have copious amounts of Emily's handwriting spanning many decades:
 
 [A Note on Emily Mills](#a-note-on-emily-mills), mentions "a little leatherette booklet" identified with M. E. Mills, and I am attempting to locate it.
 
+</article>
+<article>
+
 ### Historical Names
 
 Brooktondale:
@@ -556,6 +624,9 @@ Caroline Valley Community Church:
 
 
 Brookton's Market:
+
+</article>
+<article>
 
 ### A Note on Emily Mills by Molly Adams
 
@@ -583,6 +654,9 @@ In the Caroline History Room, there is a copy of Molly's familiar-looking resear
 
 The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner would be, and was designed specifically to pique interest in Emily. Thank you Molly, you were a great teacher, I wish I had been a better student.
 
+</article>
+<article>
+
 ### Gertrude Conant's Recollections
 
 {{% mefigure "images/conant-gertrude-1.jpg" "Gertrude Conant, used with permission."  %}}
@@ -602,11 +676,17 @@ Notes:
 </footer>
 {{% /mefigure %}}
 
+</article>
+<article>
+
 ### Deeds for the Mills' Home in Brooktondale
 
 {{% mefigure "images/475-deed-pg-1.jpg" /%}}
 {{% mefigure "images/475-deed-pg-2.jpg" /%}}
 {{% mefigure "images/475-deed-pg-3.jpg" /%}}
+
+</article>
+<article>
 
 ### Churches in Corfu 
 
@@ -650,10 +730,8 @@ I did send out a message to see if there are still any records from the start of
 </figcaption>
 </figure>
 
-
-### Edward H. Mills and E. H. Mills & Co. in Gloversville NY 
-
-
+</article>
+<article>
 
 ### The Baptism of Emily Mills
 
@@ -704,7 +782,8 @@ Notes:
 
 At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. During the Reverend's tenure, she would also give occassional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
 
-
+</article>
+<article>
 
 ### More information about Emily's Baptism 
 
@@ -742,6 +821,10 @@ Selected data on the participants:
 
 {{< section-contents "#appendix" "h2" "h3" >}}
 
+</article>
+</article>
+
+</article>
 <!--
 
 10/10 also on 10/12,13, 1914
