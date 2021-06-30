@@ -8,7 +8,8 @@ lastmod = [":fileModTime", ":default"] # auto populates lastmod date
 
 [params]
   ImageMaxWidth = "800"
-
+  analyticsid = "G-8FWTQLRQHV"
+  additionalmetatags = "<meta name=\"msvalidate.01\" content=\"39A8A303812800B8DB236F6C8F9C78CB\" />" 
 
 # theming and reusable code
 [module]
