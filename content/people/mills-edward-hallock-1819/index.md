@@ -706,13 +706,13 @@ The following histories were provided via personal correspondence with Allan Sta
 
 <figure>
   <blockquote>
-  <h5>Congregationalist Church</h5>
+  <h4>Congregationalist Church</h4>
 
   The Rev. John Spencer established a Congregationalist Church at Long's Corners [Corfu] in 1810. It was the first religious society in the Pembroke area. A permanent building was never built, they would occasionally meet at various homes. The Rev. Spencer had trouble finding people who were interested in religion. It was said that, "religion had not gone west of the Genesee River."
 
   When the Presbyterian Church was founded in 1817 the Congregationalists combined with them. By the 1840s most of them were gone.
 
-  <h5>Presbyterian Church</h5>
+  <h4>Presbyterian Church</h4
 
   The Rev. Hugh Wallis Founded the Presbyterian Church at Long's Corners [Corfu] in 1817. The constitution for the "First Presbyterian Society in Pembroke" drawn up in 1818. They build a building at 63 Allegany in 1831. And it is still in use today.
   
@@ -820,10 +820,9 @@ Selected data on the participants:
   - Married George W. Pancoe (1895-1969).
 
 
+</article>
+</article>
+
+</article>
+
 {{< section-contents "#appendix" "h2" "h3" >}}
-
-</article>
-</article>
-
-</article>
-

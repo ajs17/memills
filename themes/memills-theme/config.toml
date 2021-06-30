@@ -4,7 +4,7 @@
 [params]
     [params.customStyles]
         backgroundColor = "#4D3636"  
-        subtleBackColor = "#807373" 
+        subtleBackColor = "#664747" 
         foregroundColor = "white"
         accentColor = "#4D3636"
         accentColor2 = "#66806D"
