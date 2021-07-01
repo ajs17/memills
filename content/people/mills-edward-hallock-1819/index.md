@@ -15,13 +15,12 @@ Several major areas are still missing from this history that are all very valuab
   - Mills' store sales ledgers.
   - Temperance activity.
   - Fill out Hannah's first marriage, children.
-  - Many more newspaper clippings about Hannah and Emily.
   - Ellen Gould.
   - Summary of census data.
   - References to other secondary historical accounts mentioning Emily. 
   - More legal research on deeds for Mills' home and store, estates, etc.
   - General information about Brooktondale during Emily's life.
-  - Aknowledge the many people who have helped me along the way...
+  - Acknowledge the many people who have helped me along the way...
 
 I have already collected much of this information, its just a matter of getting it organized here.
 
