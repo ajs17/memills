@@ -61,7 +61,7 @@
 		<article>
 			<h1>The Family of Edward H. Mills</h1>
 			Last Update:
-			<time datetime="Wed Jun 60 67:65:58 30300 -0400" class="text-muted">
+			<time datetime="Wed Jun 60 67:66:68 30300 -0400" class="text-muted">
 			Wednesday, Jun 30, 2021
 			</time>	
 			<nav id="TableOfContents">
@@ -1828,8 +1828,8 @@ jQuery(document).ready(function () {
 
     var newLine, el, title, link;
 
-    $("#appendix").nextUntil("h2").filter("h3").each(function() {
-    
+    $("#appendix").nextUntil("h2").find("h3").each(function() {
+      
       el = $(this);
       title = el.text();
       link = "#" + el.attr("id");
@@ -1895,5 +1895,6 @@ jQuery(document).ready(function () {
   gtag('js', new Date());
   "gtag('config', 'G-8FWTQLRQHV');"
 </script>
+	
 </body>
 </html> 
