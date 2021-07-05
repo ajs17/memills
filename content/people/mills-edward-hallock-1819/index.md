@@ -15,8 +15,8 @@ Several major areas are still missing from this history that are all very valuab
   - Mills' store sales ledgers.
   - Temperance activity.
   - Fill out Hannah's first marriage, children.
-  - Ellen Gould.
-  - Summary of census data.
+  - more on Ellen Gould.
+  - Hallockville
   - References to other secondary historical accounts mentioning Emily. 
   - More legal research on deeds for Mills' home and store, estates, etc.
   - General information about Brooktondale during Emily's life.
@@ -69,15 +69,16 @@ Edward married (1) **Mary Ann (Pine) Mills** (born Hempstead NY, Feb 8, 1819, di
 Children:
   - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, Oct 13, 1885).
   - **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, October 27, 1876).
-  - **Mary Emily Mills** who went by "Emily" and often signed her name as "M. Emily Mills" (born Staten Island NY, 1861, died Brooktondale NY, Nov 3, 1937).
+  - **Mary Emily Mills** who went by "Emily" and often signed her name as "M. Emily Mills" (born Staten Island NY, Dec 1858, died Brooktondale NY, Nov 3, 1937).
   
 None of Edward's children married or had children.
 
-Edward married (2) **Hannah (Thatcher) Eastman Mills** (1825?, died Brooktondale NY, Feb 25, 1917). Married on Dec 30, 1896. 
+Edward married (2) **Hannah (Thatcher) Eastman Mills** (May 1824, died Brooktondale NY, Feb 25, 1917). Married on Dec 30, 1896. 
 
   - No children.
 
 Notes:
+  - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries. The birthdates in particular are based on the 1900 census, which contradict Emily's gravestone.
   - Edward's parents were married while Edward was in utero and his older brother Thomas was already a toddler.
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name.
@@ -121,7 +122,69 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
 </article>
 <article>
 
+## Census Data
+
+The following represents a summary of all of the data that I have been able to access. 
+
+{{% metable "census-data.csv" "census-all" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" %}}
+
+The source documents are:
+
+<figure class="clearfix">
+<div style="float: left">
+{{% mefigure "images/census/census-1870-us.jpg" "1870, **United States Federal Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+</figure>
+<figure class="clearfix">
+<div style="float: left">
+{{% mefigure "images/census/census-1875-nysa.jpg" "1875, **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+<div style="float: left">
+{{% mefigure "images/census/census-1875-nysb.jpg" "1875 **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+</figure>
+<figure class="clearfix">
+<div style="float: left">
+{{% mefigure "images/census/census-1880-us.jpg" "1880, **United States Federal Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+</figure>
+<figure class="clearfix">
+<div style="float: left">
+{{% mefigure "images/census/census-1892-nys.jpg" "1892, **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+<div style="float: left">
+{{% mefigure "images/census/census-1892b-nys.jpg" "1892 **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+</figure>
+<figure class="clearfix">
+<div style="float: left">
+{{% mefigure "images/census/census-1900-us.jpg" "1900, **United States Federal Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+<div style="float: left">
+{{% mefigure "images/census/census-1910-us.jpg" "1910, **United States Federal Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+</figure>
+<figure class="clearfix">
+<div style="float: left">
+{{% mefigure "images/census/census-1915-nys.jpg" "1915, **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+</figure>
+<figure class="clearfix">
+<div style="float: left">
+{{% mefigure "images/census/census-1920-us.jpg" "1920, **United States Federal Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+<div style="float: left">
+{{% mefigure "images/census/census-1930-us.jpg" "1930, **United States Federal Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+</div>
+</figure>
+</article>
+<article>
+
 ## Edward Hallock Mills
+
+{{% metable "census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Edward" %}}
+
+{{% mefigure "images/1863-edward-civil-war-draft.jpg" "Jun 1863, **U.S., Civil War Draft Registrations Records, 1863-1865**, accessed via ancestry.com." /%}}
 
 Edward H. Mills was co-owner of [**E. H. Mills & Co.**](#e-h-mills--co-corfu-ny) general store in Corfu, NY and later, [**E. H. Mills**](#e-h-mills-and-m-e-mills-brookton) general store in Mott's Corners/Brookton NY.
 
@@ -158,6 +221,8 @@ Notes:
 
 ## Mary Ann Mills 
 
+{{% metable "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Mary" %}}
+
 {{% mefigure "images/1851-01-03-Brooklyn-Daily-Eagle.jpg" "Jan 03, 1851, The Brooklyn Daily Eagle via newspapers.com." "400" /%}}
 
 {{% mefigure "images/mills-mary-cvcc-join.jpg" "Digitally photographed entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used with permisson from Caroline Valley Community Church." /%}}
@@ -169,12 +234,16 @@ Notes:
 
 ## Jonas E. Mills 
 
+{{% metable "census-data.csv" "census-jonas" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Jonas" %}}
+
 {{% mefigure "images/1885-10-15-ithaca-daily-journal.jpg" "Oct 15, 1885, The Ithaca Daily Journal via nyshistoricnewspapers.org." "400" /%}}
 
 </article>
 <article>
 
 ## Horace F. Mills 
+
+{{% metable "census-data.csv" "census-horace" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Horace" %}}
 
 Horace is the single biggest mystery in the family, all the more so because his death seems to be a pivotal event in the family's history:
 
@@ -204,6 +273,14 @@ And a very big mystery relevant to the Caroline audience in particular, is why t
 <article>
 
 ## Mary Emily Mills
+
+{{% metable "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" %}}
+
+Emily was likely named for one of her ancestors, although, as the name Mary is quite common within both the Mills and Hallock families, there are several candidates for whom. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she would typically use "M. Emily Mills", particularly in later years.
+
+There are only two primary sources that assert Emily's date of birth: her gravestone that states the year was 1861—which has since been the commonly accepted date for obvious reasons—and an entry in the 1900 US census where Emily indicates it was "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetieme, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolve to 1858 as indicated in the "Computed birthyear" column above. Given that these were self-reported by Emily, and we don't know the origin of the (I might add, less specific) 1861 date (Emily may have died before making funeral arrangements), December 1858 seems the more accurate date and will be used going forward, implying the grave stone is in error.
+
+Further research will obviously need to be done, but ultimately, Emily's exact date of birth (and that of her brothers) may be lost, as she was born during a notoriously bad period for the recording and preservation of birth records. 
 
 {{% mefigure "images/1882-07-21-batavia-daily-news.png" "Jul 21, 1882, The Batavia Daily News via newspapers.com" "400" %}}
 <footer>
@@ -246,9 +323,15 @@ Notes:
 {{% mefigure "images/1937-02-09-ithaca-journal.jpg" "Feb 9, 1937,  **The Ithaca Journal**" "400" /%}}
 
 
-Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 76 years old.
+Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 78 years old, a few weeks shy of 79 years old..
 
-{{% mefigure "images/1937-10-15-ithaca-journal.jpg" "Oct 15, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
+{{% mefigure "images/1937-10-15-ithaca-journal.jpg" "Oct 15, 1937, The Ithaca Journal via newspapers.com." "400" %}}
+<footer>
+Notes:
+
+  - Although the age given here does not match any proposed birth year for Emily, it is still closer to 1858, being off by as little as 13 months from that year, and in fact errs on the side of being older still, further calling 1861 into question. 
+<footer>
+{{% /mefigure %}}
 
 {{% mefigure "images/1937-10-20-ithaca-journal.jpg" "Oct 20, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
@@ -256,6 +339,7 @@ Emily fell and broke her hip while on her way to services at Brooktondale Congre
 <footer>
 Notes:
 
+  - This would seem to give Emily's correct age if she were born Dec 1858.
   - According to an entry in the [Late August - Early September 2016 edition of the **History Happenings** newsletter published by the Tompkins County History Center](https://myemail.constantcontact.com/History-Happenings---Late-August---Early-September-2016.html?soid=1103133034468&aid=9svvB-OfDhg), "January 1914 Ithaca Memorial Hospital opened on Quarry Street and in January 1948 responsibility was assumed by Tompkins County and renamed as Tompkins County Memorial Hospital." This building today is owned by Cornell University and used for student dormitories.
 <footer>
 {{% /mefigure %}}
@@ -267,6 +351,9 @@ Notes:
 This moving tribute was authored by none other than E. D. Shurter, a Brookton native who was at different times, an attorney, a college professor and a nationally renowned orator and author. This is Emily's only known obituary and is referenced elsewhere as such:
 
 {{% mefigure "images/1937-11-11-ithaca-journal.jpg" "Nov 11, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
+
+The professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, we can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't know some of the most important aspects of Emily's life, most notably, her charity, One senses that the professor understood he was writing what would be the definitive statement of her life for the ages, and indeed, in several histories where Emily is mentioned, her only description consists of the text of this tribute, in its entirety, without further comment. 
+
 
 {{% mefigure "images/1937-11-26-ithaca-journal.jpg" "Nov 26, 1937, The Ithaca Journal via newspapers.com." "400" /%}}
 
@@ -547,9 +634,12 @@ There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversvill
 
 {{% mefigure "images/1886-gloversville-directory-p77.jpg" "**Gloversville, Johnstown City Directory 1886**, p77" /%}}
 
+The members of this family can just barely be made out in the [1875 New York State Census in Fulton County](images/census/census-1875-nysb.jpg). Edward Hallock's family are accounted for in the [same census in Genesee County](images/census/census-1875-nysa.jpg).
+
 There is another Horace F. Mills in upstate New York in the 1800's, who does not appear to be related to this Mills family. That Horace Mills was born in 1847, lived in Penn Yan NY, attended the University at Albany in 1861 but left to serve in the Civil War, ultimately rising to the rank of Major in the 9th USCT. Several photos can be found of him online.
 
-Yet another Horace F. Mills lived iun Wawayanda, NY mentioned in Port Jervis newspapers in the 1870's and 1880's. He was married to M. J. Mills and had a daughter Bertha who died at four months old. Perhaps most frustrating of all is an unrelated Horace Mills listed in the 1850 United Stated Federal Census as a one year old living in Darien, which is very close to Corfu. If this Horace was still living in the area at the same time as Edward's son, and especially being of similar age, extra care should be taken to identify any reporting on "Horace Mills" at the time in the local papers.
+Yet another Horace F. Mills lived iun Wawayanda, NY mentioned in Port Jervis newspapers in the 1870's and 1880's. He was married to M. J. Mills and had a daughter Bertha who died at four months old. Perhaps most frustrating of all is an unrelated Horace Mills listed in the [1850 United Stated Federal Census](images/census/census-1850-us.jpg
+) as a one year old living in Darien, which is very close to Corfu. If this Horace was still living in the area at the same time as Edward's son, and especially being of similar age, extra care should be taken to identify any reporting on "Horace Mills" at the time in the local papers.
 
 A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shurter in the Cornell University Library archives did not yield any photos or other documentation related to the Mills family. In fact, the Brookton/Caroline related materials were in the minority, and there were few original photographic prints overall.
 
@@ -559,6 +649,7 @@ A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shu
 ### Unanswered Questions and Areas of Further Research
 
   - More precise birthdates and birthplaces for Jonas, Horace, Emily, Hannah.
+  - What is the source of "1961" as birth year on Emily's gravestone.
   - Jonas' and Horace's full middle names.
   - Corroborate Horace's date of death, as Evergreen Hill Cemetery directory listing is the only source of a date and given the mistakes in Edward's listing, I can't be completely confident in it.
   - Who were the sources for the gossip columns in those years?
@@ -652,7 +743,7 @@ In the Caroline History Room, there is a copy of Molly's familiar-looking resear
 
 {{% mefigure "images/a-note-on-emily-mills-research-notes.jpg" "Molly Adams via Caroline History Room files." /%}}
 
-The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner would be, and was designed specifically to pique interest in Emily. Thank you Molly, you were a great teacher, I wish I had been a better student.
+The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner would be, and was designed specifically to pique interest in Emily. 
 
 </article>
 <article>

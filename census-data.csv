@@ -1,0 +1,28 @@
+"year","type","town","firstname","name","age","Computed-birthyear","Relation-to-head","occupation","industry","Real-estate-value","Personal-estate-value","birthdate","birthplace","Attended-school-in-last-year","over-21-m","other"
+1870,"US","Pembroke","Edward","Mills Edward",51,,,"Dry goods dealer",,1000,5350,,"New York",,"x",
+1870,"US","Pembroke","Mary","Mills Mary A. ",51,,,"Keeping house",,,500,,"New York",,,
+1870,"US","Pembroke","Jonas","Mills Jonas E.",18,,,"At home",,,,,"New York","x",,
+1870,"US","Pembroke","Horace","Mills Horace F. ",15,,,"Clerk in dry goods store",,,,,"New York","x",,
+1870,"US","Pembroke","Emily","Mills Mary E. ",11,1858,,"At school",,,,,"New York","x",,
+1875,"NYS","Pembroke","Edward","Edward H Mills",56,,,"Merchant",,800,,,"Long Island",,,
+1875,"NYS","Pembroke","Mary","Mary A Mills",56,,"Wife",,,,,,"Long Island",,,
+1875,"NYS","Pembroke","Jonas","Jonas E Mills",22,,"Son",,,,,,"Staten Island",,,
+1875,"NYS","Pembroke","Horace","Horace F Mills",20,,"Son",,,,,,"Staten Island",,,
+1875,"NYS","Pembroke","Emily","Emma M Mills",16,1858,"Daughter",,,,,,"Staten Island",,,
+1880,"US","Caroline","Edward","Mills Edward. H.",61,,,"Merchant",,,,,"New York",,,
+1880,"US","Caroline","Mary","Mills Mary. A. ",61,,"Wife","Keeping house",,,,,"New York",,,
+1880,"US","Caroline","Jonas","Mills Jonas. E.",28,,"Son","Clerk in Store",,,,,"New York",,,
+1880,"US","Caroline","Emily","Mills Em. Emily.",20,1859,"Daughter",,,,,,"New York",,,
+1892,"NYS","Caroline","Edward","E. H. Mills",73,,,"Merchant",,,,,,,,
+1892,"NYS","Caroline","Mary","Mary A. Mills",73,,,,,,,,,,,
+1892,"NYS","Caroline","Emily","Emily Mills",34,1857,,"Clerk",,,,,,,,
+1900,"US","Caroline Town","Edward","Mills Edward",81,,"Head","Dealer in general mdse.",,,,"Mch 1819","New York",,,
+1900,"US","Caroline Town","Hannah","Mills Hannah",76,,"Wife",,,,,"May 1824","England",,,"Hannah indicates she is the mother of 2 children, none living."
+1900,"US","Caroline Town","Emily","Mills Mary E",41,1858,"Daughter","Saleswoman (General store)",,,,"Dec 1858","New York",,,
+1910,"US","Caroline Town","Hannah","Mills Hannah",85,,"Head","None",,,,,"Eng. English",,,
+1910,"US","Caroline Town","Emily","Mills Emily",51,1858,"Step-daughter","Merchant","Country Store",,,,"New York",,,"Hannah indicates she is the mother of 2 children, none living."
+1915,"NYS","Caroline","Hannah","Mills Hannah",91,,,"House work",,,,,"England English",,,"Parenthetical note indicates road name is “76 Road”. Hannah indicates 85 years as US citizen."
+1915,"NYS","Caroline","Emily","Mills Emily M. ",56,1858,,"Merchant",,,,,"US",,,
+1920,"US","Caroline","Emily","Mills Mary E. ",61,1858,"Head","Manager","General Store",,,,"New York",,,"Parenthetical note indicates road name is “Brookton Road”"
+1920,"US","Caroline","Ellen","Gould, Ellen J.",71,,"Servant","Servant",,,,,"New York",,,
+1930,"US","Caroline Township","Emily","Mills, Mary E.",71,1858,"Head","Proprietor","Grocery Store",1200,,,"New York",,,

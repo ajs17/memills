@@ -117,24 +117,41 @@ table {
   width: 100%;
   margin: auto;
   border-top: 1px solid white;
-  border-bottom: 1px solid white; }
+  border-bottom: 1px solid white;
+  margin-top: 2em;
+  margin-bottom: 3em; }
 
 table thead th {
   border-bottom: 1px solid white; }
 
 th, td {
-  padding: 5px; }
+  padding: 5px;
+  text-align: left; }
 
 thead, tfoot, tr:nth-child(even) {
   background: #664747; }
+
+table caption {
+  font-style: normal;
+  font-weight: bold; }
+
+table cite {
+  font-style: italic;
+  font-weight: normal; }
 
 .clearfix::after {
   content: "";
   clear: both;
   display: table; }
 
+.clearfix {
+  display: flow-root; }
+
 aside {
   display: none; }
 
 a, a:hover, a:visited {
   text-decoration: underline; }
+
+table {
+  font-size: 90%; }
