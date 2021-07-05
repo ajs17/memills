@@ -137,10 +137,10 @@ The source documents are:
 </figure>
 <figure class="clearfix">
 <div style="float: left">
-{{% mefigure "images/census/census-1875-nysa.jpg" "1875, **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+{{% mefigure "images/census/census-1875a-nys.jpg" "1875, **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
 </div>
 <div style="float: left">
-{{% mefigure "images/census/census-1875-nysb.jpg" "1875 **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+{{% mefigure "images/census/census-1875b-nys.jpg" "1875 **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
 </div>
 </figure>
 <figure class="clearfix">
@@ -150,7 +150,7 @@ The source documents are:
 </figure>
 <figure class="clearfix">
 <div style="float: left">
-{{% mefigure "images/census/census-1892-nys.jpg" "1892, **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
+{{% mefigure "images/census/census-1892a-nys.jpg" "1892, **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
 </div>
 <div style="float: left">
 {{% mefigure "images/census/census-1892b-nys.jpg" "1892 **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "200" /%}}
@@ -279,6 +279,8 @@ And a very big mystery relevant to the Caroline audience in particular, is why t
 Emily was likely named for one of her ancestors, although, as the name Mary is quite common within both the Mills and Hallock families, there are several candidates for whom. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she would typically use "M. Emily Mills", particularly in later years.
 
 There are only two primary sources that assert Emily's date of birth: her gravestone that states the year was 1861—which has since been the commonly accepted date for obvious reasons—and an entry in the 1900 US census where Emily indicates it was "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetieme, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolve to 1858 as indicated in the "Computed birthyear" column above. Given that these were self-reported by Emily, and we don't know the origin of the (I might add, less specific) 1861 date (Emily may have died before making funeral arrangements), December 1858 seems the more accurate date and will be used going forward, implying the grave stone is in error.
+
+{{% mefigure "images/census/census-1900-us-inset.jpg" "1900, **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" /%}}
 
 Further research will obviously need to be done, but ultimately, Emily's exact date of birth (and that of her brothers) may be lost, as she was born during a notoriously bad period for the recording and preservation of birth records. 
 
@@ -867,7 +869,7 @@ Notes:
 
   - Brookton was often confused with Brocton and even Brooklyn, and that is the reason for adopting the name Brooktondale. See [Historical Names](#historical-names). Otherwise, the use of "village" doesn't make sense.
   - It is referencing the wrong weekend, but it is also a relative time reference, and perhaps the difference is just a result of the text not being updated in the time between writing and its delayed publishing.
-  - The reference to the Denmans would seem to be Richard L. Denman (1848-1915) and his wife Adelaide (1852-1947). 
+  - The reference to the Denmans would seem to be Richard L. Denman (1848-1915) and his wife Adelaide (1852-1947).  At this time, Richard was a trustee of the church.
 </footer>
 {{% /mefigure %}}
 
