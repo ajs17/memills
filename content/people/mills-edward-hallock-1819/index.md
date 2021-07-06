@@ -188,14 +188,9 @@ The source documents are:
 
 Edward H. Mills was co-owner of [**E. H. Mills & Co.**](#e-h-mills--co-corfu-ny) general store in Corfu, NY and later, [**E. H. Mills**](#e-h-mills-and-m-e-mills-brookton) general store in Mott's Corners/Brookton NY.
 
-{{% mefigure "images/1908-01-06-ithaca-daily-journal.png" "Jan 6, 1908, The Ithaca Daily Journal, p.3" "400"/%}}
+{{% mefigure "images/1908-01-06-ithaca-daily-journal.png" "Jan 6, 1908, The Ithaca Daily Journal, p.3" "400" /%}}
 
-<figure>
-  <blockquote>
-  The body of E. H. MILLS, who conducted a general store in Corfu over twenty-five years ago, was brought on Friday evening from Ithaca and buried in Evergreen Hill cemetery. The Rev. W.W. Robinson conducting the services. The body was accompanied by Mr. Mills daughter, MISS EMILY MILLS. Mr. Mills was 89 years old. 
-  </blockquote>
-  <figcaption>— <cite>Jan 6, 1908, Batavia Daily News.</cite>Image currently unavailable, text courtesy of Allan Starkweather, Corfu Village Historian. </figcaption>
-</figure>
+{{% mefigure "images/1908-01-06-batavia-daily-news-p4.png" "Jan 6, 1908, The Daily News, Batavia, N.Y." "400" /%}}
 
 {{% mefigure "images/george-jansen-ehmills-entry.jpg" "Photograph of page from one of the notebooks of George Jansen (1847-1936), currently owned by The History Center in Tompkins County." "400" %}}
 <footer>
@@ -236,7 +231,9 @@ Notes:
 
 {{% metable "census-data.csv" "census-jonas" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Jonas" %}}
 
-{{% mefigure "images/1885-10-15-ithaca-daily-journal.jpg" "Oct 15, 1885, The Ithaca Daily Journal via nyshistoricnewspapers.org." "400" /%}}
+{{% mefigure "images/1885-10-15-ithaca-daily-journal.jpg" "Oct 15, 1885, The Ithaca Daily Journal accessed via nyshistoricnewspapers.org." "400" /%}}
+
+{{% mefigure "images/1885-10-16-batavia-daily-news-p1.png" "Oct 16, 1885, The Daily News, Batavia, N.Y., p1, accessed via nyshistoricnewspapers.org" "400" /%}}
 
 </article>
 <article>
@@ -278,7 +275,7 @@ And a very big mystery relevant to the Caroline audience in particular, is why t
 
 Emily was likely named for one of her ancestors, although, as the name Mary is quite common within both the Mills and Hallock families, there are several candidates for whom. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she would typically use "M. Emily Mills", particularly in later years.
 
-There are only two primary sources that assert Emily's date of birth: her gravestone that states the year was 1861—which has since been the commonly accepted date for obvious reasons—and an entry in the 1900 US census where Emily indicates it was "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetieme, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolve to 1858 as indicated in the "Computed birthyear" column above. Given that these were self-reported by Emily, and we don't know the origin of the (I might add, less specific) 1861 date (Emily may have died before making funeral arrangements), December 1858 seems the more accurate date and will be used going forward, implying the grave stone is in error.
+There are only two primary sources that assert Emily's date of birth: her gravestone that states the year was 1861—which has since been the accepted date for obvious reasons—and an entry in the 1900 US census where Emily indicates it was "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetieme, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolve to 1858 as indicated in the "Computed birthyear" column above. Given that these were self-reported by Emily, and we don't know the origin of the (I might add, less specific) 1861 date (Emily may have died before making funeral arrangements), December 1858 seems the more accurate date and will be used going forward, implying the grave stone is in error.
 
 {{% mefigure "images/census/census-1900-us-inset.jpg" "1900, **United States Federal Census** accessed via [ancestry.com](https://www.ancestry.com)" /%}}
 

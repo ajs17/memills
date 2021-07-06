@@ -2,7 +2,7 @@
 
 Edward Hallioch[sic] Mills Died Jan 1st 1908 at 3 o'clock in the afternoon. He was born at Smithtown L.I. March 25, 1819 - lacking less than 3 mos. of 89 yrs.
 
-In March 1879 He came to Brookton from Corfu N.Y. with his family and has lived among us nearly 29 years.
+In Mar. 1879 He came to Brookton from Corfu N.Y. with his family and has lived among us nearly 29 years.
 
 He united with this Ch Dec. 13, 1896. A few remarks were made by Rev. Woodworth, Jan 3. The trend of thought was that a good man had gone - to which every heart present I feel sure responded. His interest in this Ch was unwavering and his loss seems irreparable. His body was taken to Corfu where his first wife and two sons are buried.
 
