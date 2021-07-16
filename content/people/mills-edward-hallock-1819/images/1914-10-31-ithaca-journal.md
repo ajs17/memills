@@ -1,1 +1,0 @@
-Mrs. Ellen Gould is caring for Mrs. Hannah Mills who is still very feeble.

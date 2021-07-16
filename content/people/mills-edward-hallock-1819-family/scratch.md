@@ -1,0 +1,1054 @@
+---
+title: "Scratch"
+date: "2021-05-25"
+toc: false
+draft: true
+---
+
+
+"Good of the Order" 
+Brookton, Dec 14, 1883
+Bro Arthur Denman was next on the list- but he said his selection was of teh solemn order, and not quite suited to the occasion. Bro Sanders encouraged him by saying, it will be funny when you read it but he still hesitated, so the next was called.
+
+
+...
+By this time Bro A. Denman had decided to experiment on us with his solemn article. The title sounded like ["free mind], there were one or two hindrances before he was fairly started which added to the interest. It was as solemn and awful as we had been led to suspect. Many of the members were quite hysterical at the close of it.
+
+
+
+
+
+______________________________________________________________________
+Strategies:
+  - Ellen Gould looked like her, lived with her.
+  - Socialized with Anna Mulks.
+      (no descendants)
+  - Friend of E. D. Shurter, Jessie Shurter/Brewer took over ownership of home and store
+      (neither has any descendents)
+  - Church and affiliated organizations. 
+  - Temperance organizations. 
+  - Pembroke
+  - through Hannah?
+  - "Mrs. Spaulding" in the church cleaning photo is mis-identified? (Maybe this woman is too old to be Emily at approximately 50?)
+  - Why did they move (Horace's death?), and why Brookton? Did they have an existing connection to Brookton such as family? (Or perhaps through the church, perhaps through Edward's business dealings?)
+  - Cornell Library:
+      - E. D. Shurter scrapbooks
+      - other brooktondale, caroline info, (diary of Charles Freer Mulks)
+  - Dr. Lockwood?
+  - Most likely sources:
+      - Molly Adams, Gertrude Conant
+      - Alice Shurter was an amateur photographer?
+
+
+
+
+
+-----------------------
+Mrs. Spaulding 
+
+Is Mrs. Spaulding: Lucy (Boyce) Spaulding? She is Mrs. B. Fl Spaulding:
+
+Quick cemetery listing:
+  SPAULDING, Benjamin F. 1834 -1862  Co.  132 Reg't N. Y. Vol.
+  SPAULDING, Lucy BOYCE his wife 1834 - 1923
+
+
+## Ellen Gould
+
+
+-----
+https://www.findagrave.com/memorial/94969285/leslie-h.-predmore
+Leslie H. Predmore
+Ellen > Myron Predmore > Harold W. Predmore > Leslie H. Predmore (deceased, wife Evelyn is still alive)(
+
+Les is survived by his loving wife of 41 years, Evelyn; their children and spouses, Sandra and Larry Blinn, Candor, Kathlyn and Wayne Hinkle, Brooktondale; eight grandchildren; one brother and sister-in-law, David and Joyce Predmore, Raleigh, NC; Ellen Louesa Predmore Paetowseveral aunts, nieces, nephews and cousins.
+
+* Evelyn Predmore in Willseyville or Candor (Les's great grandmother)
+    26 Tallow Hill Rd, Willseyville, NY, 13864-1425
+    
+      Landline number
+      (607) 659-7096
+
+      Mobile number
+      (607) 743-6346
+
+      Email
+      corcorankm@hotmail.com
+      
+contacted on Facebook 2021-05-14      
+Evelyn, I am doing historical research on two women who lived in my home in the early 1900's: Ellen Gould (1848-1929) and Emily Mills (1861-1937), and I realize this is a long-shot, but I'm hoping you can help. If I am correct, Ellen Gould (who was Ellen Predmore by a previous marriage to William Predmore) was your late husband's great grandmother. (As I understand it, Ellen had a son Myron whose son Harold was Les' father?) I am interested in any biographical information you may have on Ellen and are willing to share, but in particular, I am interested in any photos you may have of her, and I am hopeful that a photo of Ellen may also show Emily, whether she is identified or not. I have been researching both women for a while now, and so far, there are no known photos of either.
+
+-----
+
+
+Ellen Louesa Predmore Paetow
+BIRTH	10 Dec 1897
+Ellis, Tompkins County, New York, USA
+DEATH	2 Mar 1983 (aged 85)
+https://www.findagrave.com/memorial/157025660/ellen-louesa-paetow
+
+Ellen Gould < Irvin Hazen Predmore < Ellen Paetow < Raymond Paetow Jr. 
+
+PAETOW, Raymond E.: 
+d. Monday, July 1, 1946. Survived by wife, Mrs. Ellen PREDMORE PAETOW, a son, Raymond Jr. 3 sisters, Mrs. John O'BYRNE, Mrs. Holmes PARSHALL, and Mrs. Collier V. HAMMOND. All of Ithaca.
+
+ROHRER, Jennie CORNELIUS: 	
+d. Wednesday 16 Apr 1947. Survived by husband, Clarence ROHRER, a daughter Mrs. Ellen PREDMORE PAETOW of Ithaca, 2 sons, Clarence W. PREDMORE of Groton and Herbert D. PREDMORE of Belleville, NJ. 2 sisters, Mrs. Clara MOTT and Mrs. Agnes MILLER both of Ithaca. 2 brothers, Myron CORNELIUS and Dana CORNELIUS, both of Ithaca.
+
+(http://tompkins.nygenweb.net/vitals/tobit001.htm)
+
+
+
+Herbert David Predmore
+BIRTH	12 May 1892
+Dryden, Tompkins County, New York, USA
+DEATH	9 Aug 1952 (aged 60)
+
+https://www.findagrave.com/memorial/61796099/herbert-david-predmore
+
+Ellen Gould < Irvin Hazen Predmore < Herbert David Predmore < ?
+
+Ellen Gould < Irvin Hazen Predmore < Clarence William Predmore < Genevieve Predmore Coggshall < ? 
+                                                               < Erven Charles Predmore < ?
+
+
+https://www.beckerfamilyfuneral.com/obituary/3109494
+
+Survivors include son, David (Carol) Coggshall, Clermont and daughter, Carol Coggshall, Ocala. Three grandchildren; Krista (Jeff) Carter, Sarah (Cory) Carter, and David (Latoya) Coggshall, Jr.; four great-granddaughters and one great-grandson; sister-in-law Sara Repper. Special thanks to daughter Carol Coggshall and Teresa Garner, Mrs. Coggshall's longtime caregivers.
+
+Ellen Gould < Irvin Hazen Predmore < Clarence William Predmore  < Genevieve Predmore Coggshall < David Coggshall in Clermont FL. (great great grandmother
+
+Ellen Predmore/Gould (1848-1929), wife of William L. Predmore (1842-1884) in her first marriage < Irvin Hazen Predmore (1866-1904) < Clarence William Predmore(1888-1978)  < Genevieve Predmore Coggshall (1916-2012)  < Carol Coggshall in Ocala FL.
+
+4221 SE 14th Pl
+Ocala, FL 34471
+
+ccoggshall@yahoo.com * 
+carolc3430@webtv.net
+ccoggshall@att.net
+ccoggshall@hotmail.com
+
+
+Carol, I am doing historical research on someone who lived in my home in Brooktondale NY (then known as Brookton) in the early 1900's who I think may be your great great grandmother. She was known as Ellen Gould (1848-1929) at the time, but her first marriage was to William Predmore (1842-1884). (I can share with you the genealogy as I understand it, if you want.) I am curious to learn any biographical information you have on her, photos, whatever you may have and are willing to share. I am also curious to see if there are photos of her with another woman that she lived with at the time: Emily Mills. I have been researching both women for a while now and so far, there are no known photos of either. I realize its a long-shot, but in my desperation, I am reaching out to descendants of Ellen for help (Emily has no direct descendants). Thank you in advance for any help you can provide.
+
+
+----
+
+Hi Adam. Yes, Ellen Andrews Predmore Gould is my great great grandmother. I will check but I don't think I have any pictures of Ellen. My mother was born in 1916 and had only two memories of Ellen. That she was very proper and spoke with an English accent. I have no information regarding Emily Mills. I would be glad to see your information regarding Ellen. I'll check with my cousin to see if they might know anything about Ellen. Their grandmother was named after Ellen. And I'll look back thru family photos to be sure there are no photos. Feel free to email me at Coggshallca@aol.com. Thank you for taking the time to reach out to me. I'll let you know what I find. It may be a few weeks before I have any answers.
+
+
+Thank you very much for checking! (I know its an exteme long-shot.) I don't know much about Ellen either, but I do have a documented personal recollection that she and Emily looked similar. (And Emily is described as a small woman with her hair in a bun, and it sounds like they had similar personalities.) I also think that Ellen may have come to live in the home to help care for Hannah Mills, Emily's elderly step-mother who had been widowed recently. It appears Ellen was active in the Baptist Church and may have lived with Emily for some years, possibly some time after Hannah's death in 1917, so it seems she may have lived here for roughly a decade or possibly more.(My address is 475 Brooktondale Road, Brooktondale, NY., although the home has been added onto over the years, so it won't looks very similar. If you want, I can email you the document I mentioned, which has a very small, grainy photo of the home and the street from the early 1900's. Most of what I know of her (and Emily) aside from genealogy, comes from the newspapers of the day and their neighborhood "gossip" sections! If I learn anything significant, I can certainly send it along to you (and in general, I need to organize what I have so far, its now much, but scattered bits of data in multiple places). It is interesting to hear that she had an English accent, as I thought I saw reference to her immigration, but I wasn't sure the identify matched. Do you know if her maiden name was Thather? So far I have only found one other set of Ellen's descendants and have been in contact with Evelyn Predmore in Willseyville whose late husband Les was (I think) a great grandson of Ellen. I also have a photo of Myron Predmore's farm if you are interested, which was next to the old train station in Brooktondale, and sadly, is now a gravel pit.
+
+2021-05-18 Email
+
+coggshallca@aol.com
+10:32 AM (46 minutes ago)
+to me
+
+Hi Adam
+ 
+I’ve reread your Facebook messages and email and I have a few thoughts.
+ 
+First: How wonderful that you are interested in the history of your house. I’ll gladly give you any information I might have that can be of help to you. But, you have to agree to let me visit you the next time I’m in the area. My parent grew up in Groton and I have lots of family in the Ithaca, Cortland, Slaterville Springs and Eliss Hollow area. (although most of my visits are in cemeteries). I would love to meet Evelyn Predmore.
+My dad’s grandparents owned a farm west of Groton. I visit the current owners every time I’m in the area. They have done wonders with the old farm house.
+ 
+My GG Grandmother Ellen’s maiden name was Andrews. The name Thather does not appear in any of my genealogical records. My Dad was the genealogist in the family. So everything I have added is all based on his paper records. And he seldom researched the wives or husbands of direct line family members. To difficult when information was only obtained by writing letters and waiting for replies. And as you have probably already figured out census records are not always accurate.
+ 
+I must apologize but I’m getting ready to leave on a trip. I’ll be back in 10 days and will have time to pull out all the old photo albums to look for pictures. And properly look at my records. But it appears that Ellen moved to Caroline/Brooktondale area only after William died. Perhaps to live with or near her daughter Ina who lived in Caroline or Myron who lived in Brooktondale.  It appears Alfred Gould, Ellen’s 2nd husband already lived in Caroline. And I do see based on census records Ellen lived as a servant with Emily Mills.
+Don’t give up on me. I’ll be back in touch.
+Thank you for reaching out to me.
+P.S. How did you determine my relationship to Ellen? 
+
+
+I'm thrilled you reached out to me. Usually I'm the one sending an email. I have a template made up. Hi______, you don't know me but Ancestry says we are ___th cousins. I see __________ on your tree. How are you related to them? Crazy, right??
+Ellen Louesa Predmore Paetow is my Great Aunt. She was my grandfather Clarence Predmore's sister. Ellen passed away in 1983. And I do know that Ellen was named after her grandmother Ellen Andrews Predmore. She was a wonderful person. Ellen has 2 daughters and I have reached out to them to see if they have any information about Ellen Andrews. I don't expect that they will. Also I faintly remember Myron Predmore. Probably some pictures here of Myron and my grandparents. And maybe Ellen. 
+Paul Predmore was one of Myron's sons. When Paul died he lived at 608 Valley Road, Brooktondale. 
+Hope some of this helps. I look forward to hearing how your travels back in time turn out.
+
+
+
+----
+also on facebook:
+
+Michelle Paul  and Corina Cory Predmore
+
+Michelle Paul
+These are my 3rd GG through Raymond Predmore.
+Raymond Predmore and Lawrence Crispell are cousins.
+Ruby Welch had two children with Raymond Predmore, Patty, and Raylynn. She also had 7 children with Lawrence.
+
+Corina Cory Predmore
+Michelle Paul Raymond Predmore Sr is my grandfather Young Ray is my uncle! My father is Hector Predmore who lived on harford road until his passing in 2013! My step mother Diana Predmore still lives on the property
+## Pembroke
+
+1870 census 
+
+
+Home in 1870:	Pembroke, Genesee, New York
+Post Office:	West Batavia
+Lists age as 11?
+
+Inferred Father: Edward Mills
+Inferred Mother:	Mary A Mills
+
+Household Members	Age
+Edward Mills 51
+Mary A Mills 51
+Jonas E Mills 18
+Horace F Mills 15
+Mary E Mills	11
+
+Pembroke in 1875 NYS census
+Brooktondale in 1880 US census
+
+
+Town of Batavia Historian
+
+
+https://genesee.nygenweb.net/churches.html
+
+
+http://www.gahwny.org/historians-genesee.html
+Pembroke Town Co-HIstorian
+Allan Starkweather
+66 W. Main St. Lot 38
+Corfu, NY 14036
+585-599-4195
+astarky38@gmail.com
+
+
+
+
+corfulibrary@nioga.org
+
+
+2021-05-21 response
+
+
+Corfu Free Library
+Attachments
+7:43 PM (1 hour ago)
+to me
+
+Hello,
+
+The Corfu Public Library has limited resources in the local history and genealogy section.  I searched for any mention of Horace Mills via the Richmond Library website but was unable to locate anything (https://www.batavialibrary.org/localhistory?qt-guide=2#qt-guide).  They have issues of local newspapers on microfilm but I am unsure what dates are available.  I attached the entry from Evergreen Hill Cemetery but I am thinking that the Historical Society already provided you with a copy.  Sorry to have not been of more assistance.  Good luck with your search.  Diana
+
+Diana Reding
+Library Director
+Corfu Public Library
+(585) 599-3321
+
+---
+
+
+http://corfuny.com/about-corfu/corfu-history/
+
+Randolph Kinne opened a store on the northeast corner (where M&T Bank now stands); later called Ogden's Corners, as Alfred E. Ogden operated it from 1881. This building burned in Corfu's first large fire in 1899, and the lot sat vacant until the bank was built in 1927.
+
+...
+
+Corfu United Presbyterian Church
+In 1817, the Rev. Hugh Wallis, a missionary under the Holland Land Company, found a religious society already established in the Pembroke township. He gathered together some more people and formed a congregation under the authority of the Presbyterian Church. As was the custom with Land Companies, four acres was granted for an established congregation to build a house of worship. The church sold the land in "London," now the Lover's Lane Road area) for $400 and used it towards the construction of a building at Longs Corners. The present sanctuary in Corfu was begun in 1829 and had a seating capacity of 100 persons. Over a spht in doctrine the church dissolved. The new church immediately arising was called the Presbyterian Church in North Pembroke. Because of the rough times during the Civil War not much is known of the church history between 1834-1870. Like most churches of the time it barely kept its head above water while the women supported the meeting house in the absence of men. They oftentimes went into debt-an elder holding a note for the church. He was repaid in time and gave the interest free. The largest debt contracted was $25 for the repair of pew cushions. It took the ladies five years to repay the note held by Elder Whittlesey. After the war a large revival was held. That and a large movement to the mid- west changed the church rolls drastically. In 1887 there was a large scale move towards discipline and inactive members were excommunicated. Several cases were tried before session. About this time session indicated the evils of Sunday newspapers to the congregation.
+
+In 1910 the Methodist and Universalist Churches disbanded strengthening the Presbyterian congregation. The turn of the century was a time of prosperity. In 1903 Cyrus Carrier became clerk of the session. In 1953 he was honored for over 50 years of well-kept books. In 1928 Rev. William Easton was called to pastor the church. He held the distinction of the longest pastorate in the church's history — 15 years. Before that pastors continued their relationship with the church for an average of 3 or 4 years. Rev. Paul Hagen came as a supply minister in 1943 and was asked to' stay in 1944. In 1947 Dr. Bergen accepted the call to the ministry, at that time the attendance was 240 members. In 1955, when his ministry was ended with his death the membership was 240. Rev. Sheldon Dodds supplied and in 1957 Rev. George Fritting was called as pastor. He was followed by Rev. James Bower in 1963 and Rev. Richard Murdoch in 1967.Rev. Charles Alexander has served since 2003.
+
+----
+
+
+Ken Rumble
+Church Office Secretary
+   ---  ---  ---  ---  
+Corfu United Presbyterian Church
+63 Alleghany Road
+PO Box 159
+Corfu, New York 14036
+   ---  ---  ---  ---  
+Office Hours: 10AM to 2PM (Monday - Friday)
+   ---  ---  ---  ---  
+Phone: 585.599.6414
+E-Mail: office@corfuchurch.org
+Website: www.corfuchurch.organization
+
+ 
+---
+
+http://genesee.nygenweb.net/Cemeteries/Pembroke%20-%20Corfu%20-%20Evergreen%20Cemetery.html
+
+Mills Edward H. 1819 6 Jan 1908 89y Husband of Mary Ann Mills..
+Mills Horace F. 1854 27 Oct 1876 Son of Edward H. & Mary Ann Mills.
+Mills Jonas E. 1852 1885 Son of Edward H. & Mary Ann Mills.
+Mills Mary Ann 1819 1895 Wife of Edward H. Mills.
+
+
+---
+
+
+MILLS, INA HOLDRIDGE 
+https://genesee.nygenweb.net/Churches/Batavia%20-%20St%20James%20Church%201815-1965.pdf
+
+
+
+
+## Hannah
+
+
+Marriage
+1897
+Hannah Wacker
+(1824–1917)
+Ancestry has Emily's birth as December 1858! (Based on 1880 US census as source)
+
+
+Hannah Wacker
+1824–1917
+BIRTH 1824 • England
+DEATH 25 FEB 1917 • Brookton, NY
+
+Mother was Elizabeth Wacker (1790-?)
+Death of Husband Charles C. Eastman(1807–1890)
+22 May 1890 • Danby, Tompkins, New York, USA
+
+Hannah lived in Danby in 1880 census
+
+Hannah had no children from her previous marriage to Charles.
+
+http://www.gahwny.org/historians-genesee.html
+
+
+## Cornell Library
+
+Subject searches:
+  - Caroline (N.Y.): https://newcatalog.library.cornell.edu/catalog?utf8=%E2%9C%93&click_to_search=true&total=5&q=caroline+%28N.Y.%29&search_field=subject
+  - Brooktondale (N.Y.): https://newcatalog.library.cornell.edu/?click_to_search=true&commit=search&q=%22Brooktondale+%28N.Y.%29%22&search_field=subject_cts
+  
+A History of Caroline Township in Tompkins County, State of New York, United States of America
+
+
+--------
+church questions
+
+# James Robinson and Edward Robinson, start and end dates.
+# Robinson residence?
+# Anything more on Robinons.
+# Emily, photos, Sunday School teaching, piano
+# Other Mills family? Edward, Mary, Hannah, Jonas.
+# Mrs. (S. G.?) Spaulding 
+# Church membership from 1900-1920?
+# dates of spring cleaning in 1910,1911
+# Annis Ford Eastman being ordained? (1889-1891). The florid gentleman, "big men"
+
+TRANSCRIPTIONS
+
+From book labelled "CONGREGATIONAL CHURCH 1868-1933 Minutes of meetings & Membership"
+
+Different entries are separated by "---".(Book contains handwritten founding document of Congregational Church of Motts Corners! Book appears to have been rebound at least once as the binding covers handwritten text.)
+
+
+
+### Mary and Edward  
+
+
+---
+Millspond Gallery website inquiry
+
+
+
+Mills Pond Gallery <executivedirector@stacarts.org>
+8:01 PM (1 hour ago)
+to me
+
+Sorry, we do not have any information that would assist you. All info we have is posted on our website https://www.millspondgallery.org/history-of-mills-pond-house
+I suggest you contact the Smithtown Historical Society...perhaps they will be able to assist you.
+The Smithtown Library also has much that may help you.
+http://smithtownhistorical.org/
+https://smithlib.org/
+
+
+---
+
+1875 census seems to indicate all children were born in staten island
+possibly factoryville? today called West New Brighton Staten Island
+richmond county
+http://longislandgenealogy.com/index.html#Researched
+
+Hallockville?
+https://hallockville.org/about/history/#tab-id-6
+
+Brooklyn Daily Eagle may be the best newspaper to check for Staten Island news.
+
+Jonas E. Mills (1852 - Oct 14, 1885)
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1885-10-15/ed-1/seq-3.pdf?__cf_chl_captcha_tk__=d99335999e641678f40bedef09f9f5705be70084-1621624928-0-ASdx7Ts8WJlnFO2iIMcP2ybnX9ZUyWIPHZR3UVC9sLkEyWdwf8I2asmZlRJFZoM4_KXx9uoZSGTeTRywfmwsR5uqP1Gyf-T6Or6gRO8rrtHtsRXeHuT3eU7Lf3e37yAPnuf0VwZrdaQRzpuDnWRwDY6rY0dNUxfDogsceaG4-Uw89hSv3TPvPBNwvZJIHNoaA3wiGTuIO8HaGxaK4skNsxmjvCduC2ceJ-GHeFnYN2m82HBuiT4JwfNwyPf8Anmz9CSeQ0plu5V0N4bNRhIGSIy_9mZd0EoATyorGE_1va330DqB3w5JcpdFVSJFQMPJC4c4m_91N6P1LSKoIfonDiuBZQ99ueRVDMyfzjO5pkEEUWLVQzIc2lRrcWO8Kizpj9ClGwrc5207Vo_c4D39mcDPcDFFRAZwJB417s8JrDOpyiMXC_ElggSQaZ7FMGC-Ot6l0X1SCKGD6whRs7lj9hNmgm7Jo3z0Db3lUazxedL6mbI3C-5yu33zVhYPB8tbU8bnDPsIq6OT354UFBBseAqwUziSKwB_226haxJ1R-0aJrBAiZS43hqgOWU4BrAurVO8cEfFt5fKiFww7-Vwro8JnafQtNapZ2b_KMGGWO1kQ5NDSbfRW5HUok5UApYKIsF05UAWItI60hbQULLIprCU7GHg89W3Pxq9iKx3vQO2iL-xq4LSmnb4R2xbqmYeonamVIkQj8fCdUUjeu9DqNdNj48LSIF1KWA5h6HKfrVc
+
+Ithaca daily journal., October 15, 1885
+Jonas Mills of Brookton, was suddenly taken very ill last Saturday and died on Tuesday. His burial occurred to-day. 
+
+
+----
+
+Horace F. Mills (1854 - October 27, 1876)
+
+https://www.familysearch.org/wiki/en/Genesee_County,_New_York_Genealogy#Church_Records
+
+
+E. H. Mills & Co: 1866-1880.
+
+
+---
+
+https://en.wikipedia.org/wiki/Calvary_Presbyterian_Church_(Staten_Island)
+https://calvarypresbyterianchurchofsi.org/
+info@calvarypresbyterianchurchofsi.org
+718-981-5657
+
+2021-05-21 response:
+
+calvarypresby@verizon.net
+8:29 PM (1 hour ago)
+to me
+
+Hi! I am the church secretary of Calvary Presbyterian Church, Margaret Wegener. Currently we are closed due to Covid. We plan to reopen in June at which time I will check the church registers for any information pertaining to your research.
+Off the top of my head, the church is about 148 or so years old. The members did meet in houses prior to the building going up. Records of that time are not likely to be in the current church.
+It is possible that the family attended First Presbyterian Church which has been closed for some time. I understand their records are archived somewhere by Presbytery.
+I will be in touch when I am able to get into the church office.
+Margaret
+
+----
+
+http://www.linkpendium.com/halloch-family/
+
+https://www.myheritage.com/research?formId=collection_10701%3AsearchFormDef&formMode=1&action=query&exactSearch=0&useTranslation=1&colId=10701&qname=Name+fn.jonas+ln.mills+fnmo.1&qbirth=Event+et.birth+ey.1852&qdeath=Event+et.death+ey.1885+epmo.similar&csrf_token=T_0njfk860474a4ae9_zagvc74260404894.1621699895.24b56750e4dd160c3b795aee0c5421d3
+Jonas E. Mills (1852-1885):  New York State Death Index, 1880-1956
+
+
+Death and marriage notices, Tompkins County, New York, 1870-1890 1996
+Greene-Young, Nancy E.
+ Book Bowie, Md. : Heritage Books, 1996. English.
+ Olin Library F127.T7 G74x 1996
+ 
+Name:	Jonas E. Mills
+Death Date:	14 Oct 1885
+Death Place:	Brookton
+Certificate Number:	23992
+
+
+
+E: ebenezer
+Mills Edward H., (E. H. Mills & Co.,) r Alvord House.
+
+T2ie GlovcrsTille Knitting Works, F. ^V. Belden, Propri- 
+■etor, Manufacturer of Kuit Goods, Glove Backs and Wrists.— Prominent among the industries of Gloversville may be mentioned the Gloversville Knitting Works, conducted under the proprietorship of Mr. F. W. Belden, succeeding the firm of Belden & Preston, who ivere extensive manufacturers of knit goods, such as glove wrists and backs and everything that pertains to knit goods in the glove line as well as stockinet. The house enjoys a national reputation for the superior quality of their output. The business was originally established in 1880 by Messrs. E. H. Mills & Co., the succeeding firm, Messrs. Belden & Preston, taking the 
+control in January, 1887. The works comprise a two-story building, 30 X 90 feet in dimensions, thoroughly equipped with new and improved machinery, operated by steam power, and provided with every modem convenience tending to facilitate and insure rapid and perfect production.
+
+Charles O. Mills 
+ gloversville
+F: Frances?
+
+
+Ellen Jane (Andrews) Predmore Gould
+1848–1929 (m. 1893)
+
+https://www.findagrave.com/memorial/35944445/ellen-jane-predmore
+
+
+Photos:
+
+No known photos of any family members exist. The Rare and Manuscript Collection at Cornell contains seven boxes of scrapbooks created by E. D. Shurter and his wife Alice that have Brooktondale related content according to the catalog entry, so I am hopeful Emily and perhaps her store will be docuemented there: https://newcatalog.library.cornell.edu/catalog/2087800 .
+
+The only known photo of M. E. Mills store front is from a 1915 photo in a book Gertrude Conant created for her son Ralph. The photo also shows the Mills home in the photo, and contains personal  
+
+
+Physical artifacts:
+
+Tompkins County Historical Society:
+  - An entry in the notebooks of George Jansen record the death of Edward H. Mills. 
+  - Independent Order of Good Templars notebook of meeting minutes in Emily Mill's handwriting, signed by Emily.
+  - Independent Order of Good Templars form in Emily Mill's handwriting.
+  
+Other:
+  - "A Note on Emily Mills" by Molly Adams makes reference to a leather booklet. 
+        - Note: "TNT" is the former site of Mulks store and would later become Brookton's Market.
+        - Errata: Hannah is Emily's step-mother.
+      
+  - A Caroline citizen has ledgers taken from the basement of Mills' store. Comparisons with known samples of Emily Mills' handwriting from the meeting minutes of Independent Order of Good Templars confirms these are the sales records and credit account ledgers of M. E. Mills general store. There were many volumes over many years.
+  - Other ledgers from a general store, very similar in nature to the known Mills ledgers mentioned above, are housed at the Town of Caroline History Room. It is indicated they were donated by Frank Proto, who at the time owned the "old postoffce," the former location of the Mills store. When asked for more specifics, Barbara Kone said they were "from the mill" presumably referring to present Dalebrook apartments, which are built on the grist mill foundation. These ledgers have the same form factor and appear to use the same bookkeepping methods as M. E. Mills' ledgers, although this is perhaps to be expected. If they are more Mills ledgers, they would date to the time of Edward's ownership of the store. A more thorough examination is needed but so far, we have not found a clear example of Emily's handwriting in these books as we would expect, as we know that Emily was a clerk in her father's store in the early 1890's and was likely so from the time of Jonas' death. In fact, there appear to be multiple people's handwriting in these second set of books, suggesting these are more likely to belong to Mulk's store.
+        
+
+
+http://www.oocities.org/millsancestry/9/index.html
+Genealogy of Edward H. Mills (1819-1908) parents and siblings.
+
+583. Jonas Davis Mills (George , Isaac , Isaac , Timothy , Jonathan , George ) was born on 2 May 1795. He died on 30 Jan 1882.
+
+Jonas married (1) Mary Hallock on 25 Dec 1818 in , Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827.
+
+They had the following children:
+
+ 	1029	M	i	  Thomas James Mills was born on 13 Feb 1817.
+ 	1030	M	ii	Edward H. Mills was born on 25 Mar 1819.
+ 	1031	F	iii	Emily Tabitha Mills was born on 19 Jun 1821. She died on 11 Apr 1849.
+ 	
+Jonas married (2) Mary Platt Mills daughter of Jedediah Mills and Elizabeth Mills on 25 Apr 1831. Mary was born on 30 Jan 1801 in Long Island, New York. She died on 18 Jun 1881.
+
+They had the following children:
+
+ 	1032	F	iv	Sarah Maria Mills is printed as #623.
+ 	1033	M	v	  Robert Sydney Mills is printed as #624.
+
+Edward is ultimately descended from:
+
+  24. Timothy Mills (Jonathan , George ) was born in 1667 in Jamaica, Long Island, Queens Co., New York. He died on 30 Mar 1751 in Mills Pond, Smithtown, Long Island, New York. 
+
+The family were early settlers of Long Island. The Mills Pond District is named for them, and there is a Mills family cemetery there as well. Edward shares ancestry with William Wickam Mills
+
+I've located the man who created the Mills genealogy, and at the very least can give him some information about the family. 
+
+Looking back at my Market history, it looks like in the 1890's, the store was owned by Frank Vorhis, and I believe he owned the grist mill lot at the time as well. That fits with what Barbara said, that the books "came from the mill" and I could try to confirm that with Frank Proto. That would all make sense then, and would indicate these are the books of the Market from the time of Frank Vorhis, before Mulks bought it. We may have samples of Frank's handwriting in the history room that we could compare against those books? And if we confirm these are not Mills' books, then its an interesting look into the bookkeeping practices of the day, as Vorhis and MIlls would appear to have learned the same basic method separately.
+
+
+## Preservation
+
+As an aid to future researchers, the following organizations should receive a copy of this information:
+
+  - Town of Caroline History Room
+  - Tompkins County Historical Society
+  - Caroline Valley Community Church
+  - Cornell University for possible inclusion with other Caroline materials.
+  - Town of Corfu Historical Society
+  - Smithtown Historical Society
+  - Mills Pond
+  - Does Mills Cemetery have an association?
+
+
+475 Brooktondale Road 
+  - aka the "Mills Place" and at one time "Bridge's House?"
+  - From 7/21/1909 deed: "Being a part of the grist mill lot and bounded as follows: Beginning in the center of the Creek Road eighty-two links easterly from the center of the bridge crossing the Mill race;..."  - There are several old survey maps in my abstract of title also.
+OWNERSHIP HISTORY (My abstract of title only goes back to 1909 and references the 1903 transfer in its notes. Unless otherwise indicated, my abstract of title is the source of the information below.) 
+  
+  - Built in 1865, according to real estate listing.
+  - The property was originally part of the mill lot.
+  - 1891: Esther Vorhis, according to "A Note on Emily Mills"  
+  - ? William B. Wolcott (mentioned in BF068524-001)
+  - ? Edward and Amanda S. Lounsbery
+  - 1903, January 5: Edward H. Mills (husband of H
+  annah and father to Emily below, died January 1, 1908)
+  - 1909, July 21: Hannah Mills and Mary Emily Mills (known as Emily) (Hannah died leaving Emily sole owner. Emily died November 3, 1937.)
+  - 1938, July 31: Lewis and Jessie M. Brewer (Lewis died September 10, 1963, leaving Jessie sole owner)
+  - 1969, July 12: C. (Charles or Cornelius?) Dalton Jones and Clara B. Jones
+  - 1979, November 14:	Lawrence E. and Janet L. Lattin (Janet operated a daycare in the home.)
+  - 1992, August 27: Andrea Talmadge (and her partner John Callaghan who also lived there but was not named in any deeds.)
+  - 2007, December 19: Adam J. Smith
+
+I have had contact over the years with Andrea Talmadge, who gave me some details about the past layout of the house and earlier renovations made. She also kept a history of changes she made to the house that she gave to me, and I have similarly recorded the changes I have made for the next person. I've never been in contact with the Lattins, but last I knew, they are still living in Caroline
+
+Here are a few remembrances from my correspondences with Andrea that folks might find interesting.
+
+Both Andrea Talmadge and Frank Proto have told me that the property between 475 and Dalebrook Apartments was the location of a mill pond and the mill race flowed across Brooktondale Road and on through the Anderson's at 476 Brooktondale Road (the empty field between them and the Todi's) and back into Six Mile Creek. (Is this the "C. Mill" indicated on the 1866 Mott's Corners map, with the line being the mill race?)
+
+The land in both places is slowly but continuously sinking because it was filled in with boulders. From Andrea: "Early on after moving there, I did have the unique and wonderful opportunity to meet an elderly man - Carl English who stopped by to chat while I was gardening. (Carl died in 1996 at 86 years old) He and his brothers were paid (when they were young lads) to fill that area in after the creek was re-routed and the mills were gone. This fill-in, while successful, resulted in fairly unstable land."
+
+"Gracie Van Demark (yes, as in Van Demark Rd, ) told me that B'dale Rd and Valley Rd were not connected as they are now.  A large white house used to be somewhere between the old post office building and the Brookton Market - it was moved in order to re-arrange the course of 6 Mile Creek as well as the roads. [Andrea mentioned that the "large white house" was moved down Brooktondale Road, past where the Novelli's live today.] 
+
+"There was a bridge near 475 giving it the nickname "bridge's house" or something like that." (A reference to the mill race bridge mentioned in the 1909 deed?)
+
+
+    
+----
+
+
+Caroline Valley Community Church
+The other surviving church in Brooktondale is the Caroline Valley Community Church, formerly the Caroline Valley Federated Church, formerly the Brookton Congregational Church. Members of the Old Reformed Church of America and the Brookton Methodist Church together formed the congregation in 1863. The building was the Varna Presbyterian Church, purchased and moved to a foundation built for the Methodist Church. The kerosene lamps were replaced by acetylene lights in 1921 and then by electric lights in 1925. The original steeple was blown down in a wind storm in 1925 and a new fiberglass steeple was lifted by crane and placed on the roof in 1977. The bell from the Dutch Reformed Church was installed in the steeple, completing our circle of church recycling. In 1890 the church had 96 members, dropping to 43 in 1910, the church now has 87 members. Today the church hosts the Christmas Country Store crafts fair each November and generally has a dinner on election night. (https://tompkinscountyny.gov/node/218)
+
+
+
+
+High Bridge Lodge No 296 in the Village of Brookton, Town of Caroline, Tompkins County NY.
+
+for the years: 1905-1914
+Reverend James Richards Robinson Sr. (1846-1914)
+Mary Emily Mills (1861-1937) known as Emily
+
+
+What is the title "W.S."? (Presumably some type of Secretary?)
+Would records indicate where 
+
+historical center Geneva Il, 
+curator pat hanson 630-232-2989
+iogtpark@aol.com
+
+----  
+  
+   
+-----
+
+https://pocketsights.com/tours/tour/Brooktondale-The-Historic-Hamlet-of-Brooktondale-2179
+
+The homes and buildings on this tour appeared on Historic Ithaca's That Old House Tour in 2014.
+
+The hamlet of Brooktondale has seen many name changes since it was settled as a Military Tract land grant. By the early 1800s it was known as Cantinesville (or Cantine’s Mill), after General John Cantine. General Cantine arrived in central New York in 1789 and received a Military Tract parcel along Six Mile Creek, including land that is now Slaterville and Brooktondale. His son, John Jr., built a log cabin in 1798 in the Brooktondale area. In 1800 General Cantine built a gristmill near the cabin. A few years later, in 1804, John Jr. put up the first frame house in Cantinesville, cleared land, and grew crops to provide work for the mill. The first bridge across the creek was built above the mill in 1825.
+
+In 1825 Cantinesville was transformed when William Mott II bought John Cantine’s property. The town, called Mott’s Hollow or Mottville, became Mott’s Corners with the opening of a post office in 1836. Mott owned six mills, several stores, and a furniture factory. He also built houses for families who cleared and farmed his land and produced lumber for him. In 1834 Mott built a new grist mill on the south side of Six Mile Creek and erected a grand Greek Revival-style house across the street.
+
+Other businesses in Mott's Corners included a tannery, a foundry, a brickyard, and a gun shop. Workers began to lay rail tracks near Mott’s Corners as early as 1870, allowing industry to expand in the area. In 1889 a “spidery” steel bridge replaced the “burly” wooden railroad trestle that had spanned the valley.
+
+The name of the town was changed to Brookton in 1883 because of confusion with a Mottsville near Syracuse. In 1926 the name changed again, this time to its current name of Brooktondale.
+
+Brooktondale has a long farming history due to its abundant silt loam soil. After the Civil War, the newly constructed railroads transported the area’s ample agricultural products to other parts of the state. Hay, wheat, milk, and cheese were all shipped to New York City via train. Today several “Century Farms” surround Brooktondale; these farms have remained in the same family for more than 100 years.
+
+Throughout the early twentieth century, Brooktondale was threatened by flooding, with residents moving many houses from precarious locations along the creek banks to higher ground. A severe flood in 1905 damaged many of the buildings lining Six Mile Creek, leading to a reduction in milling and industry in the hamlet. At the same time, the introduction of electricity reduced the need for water power provided by the creek.
+
+During World War I, family farms were unable to produce large yields due to labor shortages. During the Depression, many area farms were abandoned and then reclaimed by New York State. In 1935, the last train ran through Brooktondale and the trestle was demolished in 1936.
+
+After World War II, Brooktondale grew as a residential area less dependent on farming, with more residents commuting to work in Ithaca. Today, both the Community Center (built in 1964) and Brookton’s Market serve as gathering places for what is now a primarily residential neighborhood.
+
+Text adapted from Molly Adams, “Town of Caroline” in the Towns of Tompkins County: From Podunk to the Magnetic Springs, edited by Jane Marsh Dieckman, 1998; Molly Adams, A Brooktondale Neighborhood, 2006; Barbara B. Mix Kone, A History of the Town of Caroline, People, Progress, Pride 1794-1994, 1994.
+
+https://www.findagrave.com/memorial/75958691/edward-h-mills
+ Edward H. Mills
+ 
+
+
+
+----------------------------
+Ancestry
+
+  Emily
+  https://www.ancestry.com/discoveryui-content/view/3780588:6742?queryId=19cd50c569a9840b5a5e9ebbb4b664a3&_phsrc=HLE6&_phstart=successSource
+  
+  Census as:
+      - "Em Emily Mills"
+      - "Emma M. Mills"
+  
+  Mary Ann Mills lived in Brooktondale! see 1880 census
+    1870: home in Pembroke, Genesee, NY, (West Batavia post office)
+    June 1, 1875, NYS census, Pembroke, Genesee, New York, USA
+
+  BROTHER!  Jonas E. Mills (1852-1885)
+  https://www.ancestry.com/discoveryui-content/view/39423218:6742?queryId=19cd50c569a9840b5a5e9ebbb4b664a3&_phsrc=HLE6&_phstart=successSource
+  1880 census: clerk in store (blank for occupation for emily in 1880 census) Edward listed as "merchant"
+  https://www.findagrave.com/memorial/75958930/jonas-e-mills  
+  
+  BROTHER! Horace F. Mills (1854-1876)
+    1870: Pembroke, Genesee, New York, Clerk In Dry Goods Store
+    listed in NYS census June 1 1875 (died by 1876)
+
+(1854 is birth date on stone)
+Look at text of stone and dates, no stone before Jonas, or replaced?
+
+
+
+------------------
+Hannah (1825?-Feb 25, 1917)
+
+Maiden name Thatcher? Ancestry also has "Wacker" but this is likely mis-transcribed from Thather?
+
+1824, england?
+
+Also a Hannah Eastman born 1843, living in Danby, daughter?
+
+1870, 1880 census: Danby residence , SPOUSE'S NAME:	Chs. C. Eastman (Charles or Chas), farmer, (August 5, 1807 - May 22, 1890)
+
+1892 census, still living in Danby
+
+Married Dec 30, 1896 (reference 25877 - same for edward mills, hannah thatcher, same date)
+
+Confirms that maiden name is Thatcher. 
+
+
+
+NAME OCCUPATION CENSUS
+MILLS, E.H. Merchant 1892
+MILLS, Edward Dealer in General Mdse. 1900
+MILLS, Emily Clerk 1892
+MILLS, Mary E. General store 1900
+MILLS, (or Milks or Miler), E.H. Merchant 1905 (double-check, this must be Emily)
+MILLS, Emily M. Merchant 1915
+MILLS, Emily M. merchant 1925
+
+
+
+https://gw.geneanet.org/ottopalfenier?lang=fr&m=N&v=MILLS
+
+http://longislandgenealogy.com/firstPresHempstead/18051858.html Does confirm wedding date "Dec. 29. Edward H. Mills of Staten Island to Mary Ann Pine."
+
+
+CHRIST'S PRESBYTERIAN CHURCH AT SOUTH HEMPSTEAD, L. I., N. Y.
+
+Christ's Presbyterian Church at South Hempstead, Long Island, NY.
+
+Mar 29 another date seen for Edward's dob, but no citation for it, no other info about him, seems likely a simple error.
+
+hallioch halloch hallock
+
+Hallock!
+
+
+https://myfamilysearch.net/getperson.php?personID=I4770&tree=2005217a
+https://www.wikitree.com/genealogy/Mills-Descendants-15458
+https://www.wikitree.com/wiki/Mills-18086
+
+
+Millsancestry.org
+
+Descendants of George Mills
+Sponsored Search
+George Mills married Tabatha Davis (16 Feb 1774 - 11 Jan 1830) on 17 Jun 1792 and is the father of 4 children and the grandfather of 8 grandchildren. Listed below are details on up to five generations of descendants. Also see George's DNA Descendants and Family Tree & Genealogy Tools for more views.
+
+Anna Mills ancestors (14 Jun 1793 - 20 Mar 1794) [no children]
+Jonas Davis Mills ancestors descendants (02 May 1795 - 30 Jan 1882) m. Mary Hallock (08 Dec 1798 - 02 Mar 1827) on 25 Feb 1818. m. Mary Platt Mills (30 Jan 1801 - 18 Jun 1881) on 25 Apr 1831.
+Edward Hallock Mills ancestors (24 Mar 1819)
+Emily Tabitha (Mills) Huntting ancestors (19 Jun 1821 - 11 Apr 1849) m. John Smith Huntting (12 Dec 1817 - 21 Nov 1893) on Nov 1843.
+Thomas James Mills ancestors (03 Feb 1827)
+Sarah Maria Mills ancestors (21 Sep 1832 - 25 Apr 1834) [no children]
+Robert Sidney Mills ancestors (11 Nov 1835 - 15 Jan 1912) m. Esther Hinman Losea (22 Aug 1832 - 27 Jan 1911) on 21 Jul 1858.
+Jesse Mills ancestors descendants (15 Sep 1797 - 06 Dec 1871) m. Martha Smith (01 Apr 1803 - 02 Dec 1845) on 28 Jan 1824.
+Anna Bryant (Mills) Smith ancestors (06 Dec 1824) m. Edwin A. Smith (08 Apr 1806) on 11 Jan 1844.
+Egbert Smith Mills ancestors (abt 1825)
+George E. Mills ancestors (abt 1829 - abt 19 Oct 1853)
+George Phillips Mills ancestors (31 May 1801 - 06 Mar 1868) m. Sarah Hallock (05 Mar 1809 - 06 Mar 1868) on 1 Jan 1833.
+
+
+https://archive.org/stream/earlymarriagerec00inclem/earlymarriagerec00inclem_djvu.txt
+New. Windsor. N. Y. 
+Mills, Mary and Jonas Mills, 25 April, 1831, Smithtown. 
+
+
+
+
+Smithtown Cemetery
+Smithtown, Suffolk County, New York, USA
+
+http://www.oocities.org/millsancestry/9/pafg11.htm#332
+This seems to corroborate obituary in CVCC notes. Date of birth is March 25, 1819. This is also the source cited for the information above, further supporting 
+
+millsancestry@yahoo.com (address no longer works)
+
+
+Digging Deeper
+MILLS-L, a surname based genealogy mailing listfor the Mills surname, only. Click on your choice below and type SUBSCRIBE into the body of the message.
+Subscribe to the regular list at Mills-L-Request@rootsweb.com
+Subscribe to the same list in Digest format (same messages bundled into larger email files) at Mills-D-Request@rootsweb.com
+Researcher's Page, people who may be able to help you.
+Papers and other material dealing with the Mills surname from old issues of Mills Ancestry, et al.
+Pictures, maps and scanned things.
+Mills Forum: genealogy by surname at Genforum. Posted questions and answers. Lots of people.
+Please email me any material you think suitable for this section, and I will include it here. I can scan maps, pictures and other graphics. Email me with your questions, et al.
+
+
+
+https://www.oocities.org/millsancestry/9/pafg07.htm#215
+Prepared by:
+Michael Mills
+
+151. William Wickham Mills (Jonathan , Timothy , Jonathan , George ) was born in 1759. He died on 2 Feb 1825 in Mills Pond, Smithtown, Long Island, New York. He was buried in Mills Graveyard, Mills Pond, Smithtown, Li, Ny.
+
+William married (1) Mary Heathcoate. Mary died in 1800.
+
+William married (2) Deborah Stott.
+
+They had the following children:
+
++	329	F	i	Eliza Ann Mills was born on 24 Jan 1802. She died on 9 Jul 1865.
+
+The William Wickam Mills that built the Mills Homestead died in 1865?
+
+326. William Wickham Mills (Jacob , Jonathan , Timothy , Jonathan , George ) was born on 3 Sep 1797 in Wallkill, Orange Co., New York. He died on 6 Jan 1865 in Smithtown, Long Island, New York. He was buried in Mills Graveyard, Mills Pond, Smithtown, Li, Ny.
+
+William married Eliza Ann Mills daughter of William Wickham Mills and Deborah Stott. Eliza was born on 24 Jan 1802. She died on 9 Jul 1865. She was buried in Mills Graveyard, Mills Pond, Smithtown, Li, Ny.
+
+They had the following children:
+
+ 	663	M	i	Washington Mills was born on 16 Oct 1822. He died on 10 Nov 1885. He was buried in Mills Graveyard, Mills Pond, Smithtown, Li, Ny.
+ 	664	F	ii	Amanda Moscrop Mills.
+ 	665	M	iii	Theodore Mills.
+ 	666	M	iv	William Wickham Mills.
+ 	667	M	v	Oscar Bullus Mills was born on 24 Dec 1830. He died on 31 Mar 1889. He was buried in Mills Graveyard, Mills Pond, Smithtown, Li, Ny.
+ 	668	M	vi	Horatio W. Mills was born on 21 Oct 1837. He died on 28 Jun 1880. He was buried in Mills Graveyard, Mills Pond, Smithtown, Li, Ny.
+ 	669	M	vii	Wilford Irving Mills was born on 4 Nov 1840. He died on 17 Jun 1897. He was buried in Mills Graveyard, Mills Pond, Smithtown, Li, Ny.
+ 	670	F	viii	Josephine S. Mills was born on 18 Apr 1842. She died on 21 Jul 1888. She was buried in Mills Graveyard, Mills Pond, Smithtown, Li, Ny.
+ 	
+
+
+
+24. Timothy Mills (Jonathan , George ) was born in 1667 in Jamaica, Long Island, Queens Co., New York. He died on 30 Mar 1751 in Mills Pond, Smithtown, Long Island, New York. (builder of original house in Mills Pond, restored and added on by William Wickham Mills.
+
+Timothy married (1) Elizabeth.
+
++	69	M	i	Isaac Mills was born on 13 Mar 1697. He died on 8 Jul 1767.
+
+Isaac married Hannah Miller in 1719 in Mills Pond, Smithtown, Long Island, New York. Hannah was born on 6 Aug 1698. She died on 16 May 1777.
+
+    > +	130	M	ii	Isaac Mills was born on 19 Feb 1727. He died on 23 Apr 1783. 	            
+     	            
+    Isaac married Sarah (Sarey) Phillips on 14 Feb 1754 in Mills Pond, Smithtown, Long Island, New York. Sarah was born on 26 Feb 1732 in Smithtown, Long Island, New York. She died on 29 Apr 1790 in Mills Pond, Smithtown, Long Island, New York.
+          > +	256	M	iii	William Mills was born on 27 Aug 1757. He died on 12 Jun 1837.
+     	    > +	260	M	vii	George Mills was born on 23 Aug 1765. He died on 18 Mar 1846.
+     	        > +	583	M	ii	Jonas Davis Mills was born on 2 May 1795. He died on 30 Jan 1882.
+     	            > 1030	M	ii	Edward H. Mills was born on 25 Mar 1819.
+
+
+
+
+
+24. Timothy Mills (Jonathan , George ) was born in 1667 in Jamaica, Long Island, Queens Co., New York. He died on 30 Mar 1751 in Mills Pond, Smithtown, Long Island, New York.
+  
+  Timothy married (2) Sarah Longbotham.
+
+      +	73	M	v	Jonathan Mills was born on 23 Oct 1710. He died on 28 Oct 1798.
+
+      Jonathan married (1) Ruth Rudyard on 13 Apr 1737 in Jamaica, Long Island, Queens Co., New York. Ruth was born about 1716. She died on 16 Dec 1748. She was buried in Mills Graveyard, Mills Pond, Smithtown, Li, Ny.
+
+      +	148	M	iv	Jacob Mills was born on 25 Dec 1746. He died in 1841.
+
+      Jacob married Catherine Denton on 27 Dec 1773. Catherine died in 1851 in Scotchtown, Orange Co., New York.
+
+            +	326	M	x	William Wickham Mills was born on 3 Sep 1797. He died on 6 Jan 1865.
+            ***builder of Mills Homestead
+            
+      Jonathan married (2) Dorothy Miller on 25 Jan 1756. Dorothy was born about 1717. She died on 23 Sep 1789. She was buried in Mills Graveyard, Mills Pond, Smithtown, Li, Ny.
+
+        > +	151	M	vii	William Wickham Mills was born in 1759. He died on 2 Feb 1825.      
+      
+
+The Mills family, early settlers of the Town of Smithtown, developed a rural agricultural community around Mills Pond. Occupied by the prosperous Mills family until 1976, this area is a rare survival of an agricultural hamlet once common on Long Island. William Wickham Mills inherited the family land and began to construct the Mills Pond House in 1838. He was a man of wealth and social prominence, being a successful farmer, stock breeder, and business man. He invested extensively in land and novel enterprises, such as the Long Island Railroad.
+
+
+
+Much of his genealogy relates to the Suffolk County branch of the family, descendants of Timothy Mills who settled at Smithtown in 1693. The other branch remained at Jamaica. Members of both branches were fairly numerous during the 18th and first half of the 19th centuries, but are now greatly reduced. Among the early settlers of Jamaica was George Mills born in 1585 and died aged 89, Oct. 17, 1674 at Jamaica. He was probably a descendant of John Mills who was made freeman of Boston in 1632. Children were Samuel and Nathaniel who died Nov. 4, 1728. Samuel Mills was born in 1631, married in 1658 and was reputed to have had 16 children. He died at Jamaica March 9, 1726, aged 95. Among his children was Timothy. Timothy Mills born at Jamaica in 1667, was the progenitor of the Suffolk Co. Mills and moved to that part of Smithtown since called Mills Pond in 1693. He died March 30th 1751 aged 84. His will bears date of March 16, 1741. He married first Elizabeth, family name unknown and secondly Sarah Longbotham. The settlement of Mills Pond is a collection of dignified old houses surrounding a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor. Mr. Dubois Smith, a grandson of William Wickham Mills, is the present owner of the Pond and the Mills homestead. (as found in Genealogies of Long Island Families) 
+
+
+Hannah Eastman:
+Step-sons survived:
+  - Cyrus Eastman, Caroline (1843 - 
+  - John N Eastman, Willseyville (May 1835 - May 24, 1921)
+
+  Polly (Coy) Eastman (Feb 18, 1808 - Dec 3, 1862) (first wife of Charles)
+  
+All known children of Charles and Polly  
+  Amos Eastman (December 20, 1830 - August 10, 1910) Wife Rachel, Civil War vet? wife, Martha
+  https://www.findagrave.com/memorial/37542371/john-n-eastman
+  
+  Sheffield Eastman (August 20, 1832 - May 22, 1858)
+  John N Eastman, Willseyville (May 1835 - May 24, 1921) Spouse: Martha https://www.findagrave.com/memorial/37542371/john-n-eastman
+  Charles H Eastman (Jr?)
+  Juliett Eastman
+  Hannah Eastman (Daughter)
+  Cyrus Eastman, Caroline (1843-
+  
+  https://tompkins.nygenweb.net/cemeteries/morriscem.htm
+  
+------------------
+Jessie M Shurter/Brewer
+
+June 27, 1881 - Sept 16, 1974
+
+BIRTH DATE:	1882
+MARRIAGE DATE:	27 Jun 1923 in Danby
+Lewis W. Brewer
+
+1900 census shows frank and charles mulks in household--they lived in the hotel?
+
+1915, NYS census lists George E. Jansen in Household
+
+
+
+--------
+Mrs. Ellen J. Gould (March 27, 1848 - October 31, 1929)
+
+Born in England
+Maiden name: Ellen Jane Andrews?
+
+Married Alfred Gould (1831 - March 6, 1909) in 1894.
+  - He fought in Civil War, worked on RR at Caroline Depot.
+  - Interred at Cooper Cemetery
+  - https://www.findagrave.com/memorial/97137745/alfred-gould
+      	
+Ellen Jane Andrews Predmore
+1848–1929 (m. 1893)
+
+Photo	
+Azuba Ann Bishop Gould
+1825–1891
+  
+  
+Ellen was his second wife? (Third wife?)
+Children:
+  -  Myron Predmore?
+  
+Ellen was married to William L. Predmore
+  https://www.findagrave.com/memorial/35944445/ellen-jane-predmore
+
+In Brooktondale through mid-20's?
+
+1920 census: Occupation: servant Industry:
+
+"Brookton Road"
+
+Her daughter Ina Predmore married Archie Kenyon of Geneva.
+
+Glenn C Kenyon had one son, Glenn H Kenyon. He died in 2003. I don't see that Glenn H Kenyon had any children. However, he did live in brooktondale.
+
+Ellen married twice. Predmore then Gould.
+
+
+
+------
+Louise Ward (Shurter) Henderson
+
+https://www.findagrave.com/memorial/202342877/louise-henderson
+
+
+Name:	Louise Henderson
+Race:	White
+Age at Death:	83
+Birth Date:	3 Dec 1888
+Death Date:	24 Aug 1972
+Death Place:	Volusia, Florida, United States
+
+
+BIRTH	unknown
+DEATH	24 Aug 1972
+Daytona Beach, Volusia County, Florida, USA
+BURIAL	
+Walnut Grove Cemetery
+Onondaga Hill, Onondaga County, New York, USA
+PLOT	S1-L4
+MEMORIAL ID	202342877 · View Source
+
+
+
+---------
+Judith Lee Hallock
+
+
+Dear Mr. Adam Smith:
+
+Our member list does not include a person named Judith Lee Hallock, nor are we familiar with this person as a volunteer, visitor, or researcher. We do not maintain contact information for authors published in our Register (now the Journal), whose submissions come from across the country, and we especially do not have this information for an issue published nearly a decade ago.
+
+If you would like to visit our research library to access our Hallock and Mills family history materials to research Mary yourself, you are welcome to make an appointment. We are open Weds. to Sat., 12;30 pm to 4:30 pm, by appointment only (closed July 3 for holiday weekend). You are advised to schedule your appointment as far in advance as possible because available dates fill up quickly.
+
+The Suffolk County Historical Society research library also offers a 2-hour remote research service for $35 (non-member). The fee pays for our time to search the collection up to two hours, but we cannot guarantee we will find the information you seek. We would need to know more about your *specific research question(s)* in order to accept a remote research order.
+
+Note that a simple Google search shows a Judith Lee Hallock, age 81, living in Coram, NY, but I have no idea if she is the same person you seek. You did not specify a birth year or any other identifying information.
+
+You might also reach out to the Riverhead Town Historian, as well as to the Hallockville Museum Farm in Riverhead, where a Riverhead Hallock descendant/historian (on the board of trustees) may be able to assist you.
+
+I hope you find this information helpful. Thank you for your interest in our genealogy collection.
+
+Best regards,
+
+Wendy Polhemus-Annibell, M.S.
+Head Research Librarian
+SUFFOLK COUNTY HISTORICAL SOCIETY LIBRARY ARCHIVES
+300 West Main St.  Riverhead, NY 11901
+631.727.2881 x103
+Email: wannibell@schs-museum.org
+Website: www.suffolkcountyhistoricalsociety.org
+Facebook: https://www.facebook.com/SuffolkCountyHistory
+Instagram: @SuffolkCountyHistory
+Subscribe to Photo of the Week at our website!
+
+
+Adam: We would need to have a research telephone interview before discussing how to pay. You can call anytime Weds. to Sat., 12:30 pm to 4:20 pm: 631-727-2881 x103.
+
+Call Hallockville and they will put you in touch with the appropriate person on their board.
+
+
+----
+
+
+<!--
+
+10/10 also on 10/12,13, 1914
+4/6,7, 1915
+
+
+- **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, October 27, 1876).
+
+
+calvin mills, check against gloverville 
+https://nyshistoricnewspapers.org/lccn/sn83031157/1894-03-21/ed-1/seq-3/#date1=01/01/1879&city=&date2=12/31/1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=4&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+---
+The daily news., July 21, 1882, Page 1, Image 1
+About The daily news. (Batavia, N.Y.) 1881-current
+
+
+https://nyshistoricnewspapers.org/lccn/sn83030756/1882-07-21/ed-1/seq-1/#date1=01%2F01%2F1810&city=&date2=12%2F31%2F1910&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=0&words=Emily+Mills&proxdistance=5&county=Genesee&to_year=1910&rows=20&ortext=&from_year=1810&proxtext=emily+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+ 
+---
+Ithaca daily journal., January 15, 1909, Page 7, Image 7
+About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1909-01-15/ed-1/seq-7/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1915&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=0&words=Emily+Mills&proxdistance=5&county=Tompkins&to_year=1915&rows=20&ortext=&from_year=1879&proxtext=emily+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+---
+Ithaca daily journal., December 06, 1913, Page 11, Image 11
+About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1913-12-06/ed-1/seq-11/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1915&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=1&words=Emily+Mills&proxdistance=5&county=Tompkins&to_year=1915&rows=20&ortext=&from_year=1879&proxtext=emily+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+
+
+---
+Ithaca daily journal., January 06, 1908, Page 3, Image 3
+About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1908-01-06/ed-1/seq-3/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=0&words=EDWARD+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+---
+Ithaca daily journal., March 18, 1897, Page 6, Image 6
+About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1897-03-18/ed-1/seq-6/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=1&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+
+---
+Ithaca daily journal., October 14, 1896, Page 6, Image 6
+About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
+
+https://nyshistoricnewspapers.org/lccn/sn83031157/1896-10-14/ed-1/seq-6/#date1=01/01/1879&city=&date2=12/31/1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=2&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
+
+
+The daily news., December 31, 1895, Page 1, Image 1
+About The daily news. (Batavia, N.Y.) 1881-current
+https://nyshistoricnewspapers.org/lccn/sn83030756/1895-12-31/ed-1/seq-1/#date1=01%2F01%2F1725&city=&date2=12%2F31%2F2019&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=18&words=Brookton&proxdistance=5&county=Genesee&to_year=2019&rows=20&ortext=&from_year=1725&proxtext=brookton&phrasetext=&andtext=&dateFilterType=range&page=3
+
+1895-12-31-daily-news-p1.png
+
+
+
+
+mention of emily's store
+from The Ithaca Daily Journal, 26 Aug 1909, pg 5
+
+Ancestry.com. U.S., Civil War Draft Registrations Records, 1863-
+
+
+
+
+I'm thinking it must be Emily's neice: She was also a Mary Emily with a mother Mary, so it seems reasonable she would have also gone by her middle name, which in full, would seem to be Emily Hunting:
+
+I'm thinking it must be Emily's neice: She was also a Mary Emily with a mother Mary, so it seems reasonable she would have also gone by her middle name, which in full, would seem to be Emily Hunting:
+
+Emily Tabitha (Mills) Huntting (1821–1849) -- this is Edward's sister
+married John Smith Huntting (1817–1893)
+
+    child: Mary Halliock (Huntting) Smith (1845–1938)  -- Emily's cousin, named after their Grandmother
+    married: Henry Chatfield Smith (1843–1896)
+
+        child: Mary Emily Huntting (Smith) Cross (1875-1924)  - Emily's neice
+        married: James M. Cross ()
+
+Or I could be reaching. But at the very least, this would seem to be the Mary Huntting Cross mentioned in the Mills home deeds on my website.
+
+
+James Cross (NOT HIM, this is james w. cross)
+BIRTH	unknown
+DEATH	11 May 1946
+BURIAL	
+Holy Cross Cemetery
+Brooklyn, Kings County (Brooklyn), New York, USA  Show Map
+PLOT	St. Joseph, System: CEM, Section: JOSE, Row: 28, Plot: 201
+MEMORIAL ID	172050485 · View Source

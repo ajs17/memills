@@ -1,3 +1,9 @@
+---
+title: "William Osburn"
+date: "2021-05-25"
+toc: false
+draft: true
+---
 
 ## From the Bicentennial Book:
 

@@ -1,1 +1,0 @@
-The Congregational meeting will be held at the home of Mrs. Hannah Mills.

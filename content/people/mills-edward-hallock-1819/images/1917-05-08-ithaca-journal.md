@@ -1,1 +1,0 @@
-Dr. and Mrs. W. A. Smith attended the burial of their aunt Mrs. Hannah Mills at Kline Cemetery last Wednesday.

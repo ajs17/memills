@@ -1,4 +1,9 @@
-
+---
+title: "Annis Ford Eastman"
+date: "2021-05-25"
+toc: false
+draft: true
+---
 
 https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/eastman-annis-ford-1852-1910
 

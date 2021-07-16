@@ -1,1 +1,0 @@
-Miss Emily Mills, is visiting friends in town.

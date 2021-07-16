@@ -1,1 +1,0 @@
-Mrs. Hannah Mills is very feeble.

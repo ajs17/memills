@@ -1,4 +1,10 @@
-   
+---
+title: "E. D. Shurter"
+date: "2021-05-25"
+toc: false
+draft: true
+---
+
 Here are a few more items from the scrapbooks of Edwin DuBois Shurter (1863-1946 and his wife Alice (Burtt) Shurter (1870–1951). Edwin and Alice were both committed scrapbookers, collecting items and creating their scrapbooks independently at first, and then together once they were married. They clearly had great affection for each other, spending every spare moment together enjoying the finer things in life, including traveling, seeing concerts and plays, etc. Alice's personality in particular comes shining through, as she had a clever and whimsical sense of humor and probably kept the professor on his toes!
 
 In the attached travel photo, date and location unknown, I will leave it to you to decide if Edwin is playing the role of someone who is sitting on top of the world or if he is reluctantly indulging Alice. My sense is that Edwin was a very willing "partner in crime" with Alice and any protesting he may have done would be purely for show!

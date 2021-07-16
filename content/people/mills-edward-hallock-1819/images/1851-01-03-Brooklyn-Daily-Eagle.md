@@ -1,1 +1,0 @@
-At Hempstead, L. I., Dec. 29, by the Rev. N.C. Locke, Mr. Edward H. Mills of Factoryville, S. I., to Miss Mary Ann Pine of the former place.

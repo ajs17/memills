@@ -1,1 +1,0 @@
-The Bible study class of the Congregational Church met at the home of Miss Emily Mills, Wednesday evening. "Receiving the Holy Spirit," was the topic. The next meeting will be held at the church and the Gospel of John will be taken for a study.

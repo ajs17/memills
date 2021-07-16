@@ -1,1 +1,0 @@
-Mrs. Hanna Mills spent the day at the home of the Rev. Charles Bogardus. Mrs. Mills is a remarkable woman as she will be ninety years old next May.

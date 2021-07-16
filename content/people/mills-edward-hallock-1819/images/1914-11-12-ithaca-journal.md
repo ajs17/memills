@@ -1,1 +1,0 @@
-Mrs. Hannah Mills, who has been so ill, is slowly recovering. 

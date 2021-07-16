@@ -1,1 +1,0 @@
-Mrs. Gould is keeping house for Miss Emily Mills.

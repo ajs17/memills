@@ -1,1 +1,0 @@
-Miss Esther Vohis and Miss Emily Mills were in Ithaca Wednesday.
