@@ -8,7 +8,7 @@ hugo --gc
 hugo mod get -u
 
 # regenerate static site 
-hugo -D
+hugo 
 
 # add new files and
 # delete files removed by Hugo garbage collection ( with -A)
