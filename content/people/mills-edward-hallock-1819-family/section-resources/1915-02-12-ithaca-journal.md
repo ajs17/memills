@@ -1,5 +1,5 @@
 ---
-citation: "Feb 12, 1915, **The Ithaca Journal**"
+citation: "12 Feb 1915, The Ithaca Journal (Ithaca, NY), p9, newspapers.com"
 ---
 **MRS. HANNAH MILLS, 91, STAUNCH W.C.T.U**
 

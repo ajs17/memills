@@ -1,5 +1,5 @@
 ---
-citation: "Feb 9, 1915, **The Ithaca Journal**"
+citation: "09 Feb 1915, The Ithaca Journal (Ithaca, NY), p9, newspapers.com"
 ---
 **BROOKTON**
 

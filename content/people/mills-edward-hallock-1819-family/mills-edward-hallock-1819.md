@@ -1,6 +1,7 @@
 ---
 title: "Edward Hallock Mills"
 summary: "Edward H. Mills was the patriarch of the family and a merchant, co-owning *E. H. Mills & Co.* in Cofu NY and owning *E. H. Mills* in Motts Corners/Brookton NY."
+weight: 1
 ---
 
 {{% metable "census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Edward" %}}

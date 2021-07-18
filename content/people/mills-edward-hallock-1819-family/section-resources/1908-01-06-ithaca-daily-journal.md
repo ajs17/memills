@@ -1,5 +1,5 @@
 ---
-citation: "Jan 6, 1908, The Ithaca Daily Journal, p3, accessed via nyshistoricnewspapers.com."
+citation: "06 Jan 1908, The Ithaca Daily Journal (Ithaca, NY), p3, nyshistoricnewspapers.org"
 ---
 EDWARD H. MILLS.
 

@@ -2,12 +2,11 @@
 title: "The Family of Edward H. Mills of Brooktondale New York"
 description: "An attempt to document all extant information on the family of Edward H. Mills (1819-1908), with particular emphasis on his daughter Emily Mills (1861-1937)."
 date: "2021-05-25"
-
+hideAutoListDisplay: true
 cascade:
     defaultPageBundle: "/people/mills-edward-hallock-1819-family/section-resources"
 
 ---
-
 ## Genealogy
 
 By corroborating data from [Caroline Valley Community Church's historical records](#combined-church-obituary-entry-for-edward-and-mary-ann) as well as information about Edward's parents in the official records of his marriage to [Hannah](http://localhost:1313/people/mills-edward-hallock-1819/#hannah-mills), Edward H. Mills is identified in a partial entry on an extensive genealogy covering eight generations of Mills: [Descendants of George Mills of Yorkshire and Long Island, New York](http://millsancestry.org) at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, I was able to locate its creator on Facebook to let him know about this documentation on Edward. 
@@ -101,7 +100,6 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
 [Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850.
 
 [Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
-</article>
 
 
 ## Census Data
@@ -112,55 +110,22 @@ The following represents a summary of all of the data that I have been able to a
 
 The source documents are:
 
-<figure class="clearfix">
-<div style="float: left">
+<div class="gallery">
 {{% mefig "census/census-1870-us" "200" /%}}
-</div>
-</figure>
-<figure class="clearfix">
-<div style="float: left">
 {{% mefig "census/census-1875a-nys" "200" /%}}
-</div>
-<div style="float: left">
 {{% mefig "census/census-1875b-nys" "200" /%}}
-</div>
-</figure>
-<figure class="clearfix">
-<div style="float: left">
 {{% mefig "census/census-1880-us" "200" /%}}
-</div>
-</figure>
-<figure class="clearfix">
-<div style="float: left">
 {{% mefig "census/census-1892a-nys" "200" /%}}
-</div>
-<div style="float: left">
 {{% mefig "census/census-1892b-nys" "200" /%}}
-</div>
-</figure>
-<figure class="clearfix">
-<div style="float: left">
 {{% mefig "census/census-1900-us" "200" /%}}
-</div>
-<div style="float: left">
 {{% mefig "census/census-1910-us" "200" /%}}
-</div>
-</figure>
-<figure class="clearfix">
-<div style="float: left">
 {{% mefig "census/census-1915-nys" "200" /%}}
-</div>
-</figure>
-<figure class="clearfix">
-<div style="float: left">
 {{% mefig "census/census-1920-us" "200" /%}}
-</div>
-<div style="float: left">
 {{% mefig "census/census-1930-us" "200" /%}}
 </div>
-</figure>
-</article>
 
+{{% list-children "" "Family Members" %}}
+{{% list-children "features" %}}
 
 ### Physical Artifacts Remaining
 
@@ -200,14 +165,14 @@ Horace's Death:
 
 Church Records and Baptism:
   - Entries mentioning Emily or Edward before they officially joined?  
-  - Any information on this event from Park Church, any diaries of Reverend Ford Eastman?
+  - Any information on this event from Park Church, any diaries of Reverend Ford Eastman? (Contacted.)
   - Is there significance to the date? Easter was on 3/31 in 1907. 4/7 did fall on a Sunday
   - Catalog all information about Reverend Annis Ford Eastman, including her return trips, see if Emily's baptism was the Rev's last visit to Brookton.
   
 Planned:
-  - research deeds on Mill's home and Mill's store prior to 1900.
-  - Photo inventory and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move.
-  - Research Emily's baptism, possibly contacting descendents of Annis Ford Eastman for information on that event. 
+  - research deeds on Mill's home and Mill's store prior to 1900. When did the Mills start living there? Survey maps that show mill race? Who owned the Mills store real estate?
+  - Photo inventory and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move. (Begun.)
+  - Research Emily's baptism, possibly contacting descendents of Annis Ford Eastman for information on that event. Check church records again: was this the Reverend's very last visit to Brookton? Letters exist at Univ of Ill library between the Reverend and her family.
   - The dimenions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
   
 
@@ -239,3 +204,4 @@ Several major areas are still missing from this history that are all very valuab
   - Acknowledge the many people who have helped me along the way...
 
 I have already collected much of this information, its just a matter of getting it organized here.
+

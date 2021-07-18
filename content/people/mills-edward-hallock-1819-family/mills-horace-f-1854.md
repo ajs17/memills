@@ -1,6 +1,7 @@
 ---
 title: "Horace F. Mills"
 date: "2021-05-25"
+weight: 3
 ---
 
 {{% metable "census-data.csv" "census-horace" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Horace" %}}

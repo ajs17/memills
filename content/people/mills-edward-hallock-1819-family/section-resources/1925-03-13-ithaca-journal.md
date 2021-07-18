@@ -1,3 +1,6 @@
 ---
-citation: "Mar 13, 1925, **The Ithaca Journal**"
+citation: "13 Mar 1925, The Ithaca Journal (Ithaca, NY), p12, newspapers.com"
 ---
+**BROOKTON**
+
+Brookton, March 13.—Mrs. Libbie Peck has sold to Dr. B. F. Lockwood the building occupied by Miss Emily M. Mills. Miss Mills will continue to occupy the building as before. 

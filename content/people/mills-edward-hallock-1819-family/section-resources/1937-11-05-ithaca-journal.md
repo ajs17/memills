@@ -1,5 +1,5 @@
 ---
-citation: "Nov 05, 1937, The Ithaca Journal via newspapers.com."
+citation: "05 Nov 1937, The Ithaca Journal (Ithaca, NY), p17, newspapers.com"
 ---
 **Ladies Aid Meets**
 

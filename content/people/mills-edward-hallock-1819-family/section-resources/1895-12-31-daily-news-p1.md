@@ -1,5 +1,5 @@
 ---
-citation: "Dec 31, 1895, The Daily News (Batavia, NY), p1, accessed via nyshistoricnewspapers.com."
+citation: "31 Dec 1895, The Daily News (Batavia, NY), p1, nyshistoricnewspapers.org"
 ---
 **DEATH OF MRS. E. H. MILLS.**
 

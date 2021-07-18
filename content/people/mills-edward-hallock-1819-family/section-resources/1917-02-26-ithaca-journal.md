@@ -1,5 +1,5 @@
 ---
-citation: "Feb 26, 1917, The Ithaca Journal via newspapers.com." 
+citation: "26 Feb 1917, The Ithaca Journal (Ithaca, NY), p5, newspapers.com" 
 ---
 **Hannah Mills**
 

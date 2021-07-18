@@ -2,6 +2,7 @@
 title: "Mary Emily Mills"
 summary: "Mary Emily Mills, better known as Emily, was owner of M. E. Mills general store in Brookton/Brooktondale NY. Known for her charity, Emily was a devoted member of the Congregational Church where she taught Sunday School and played piano. Emily was also active in local temperance organizations."
 date: "2021-05-25"
+weight: 5
 ---
 
 
@@ -143,93 +144,6 @@ Notes:
   - As mentioned in a newspaper clipping above, Dr. Lockwood and his wife lived for a time in the apartment above M. E. Mills while his house was being "reconstructed" from May 1 to late October, 1926.
 </footer>
 {{% /mefig %}}
-
-
-### The Baptism of Emily Mills
-
-Emily Mills and Jessie Shurter were baptized in the same ceremony, officiated by none other than the Reverend Annis Ford Eastman.
-
-{{% mefig "mills-emily-cvcc-baptism" %}}
-<footer>
-Notes:
-
-  - The uneven pen strokes and differences in intensity of ink show that the original record was written in fountain pen, with the lighter, marginal notes added later with lead pencil. The consistency of the pencil marks suggests these notes were all added at the same time. 
-</footer>
-{{% /mefig %}}
-
-In 1907, April 7th fell on the Sunday after Easter. It was to be the final year of Edward's life. He and his second wife Hannah had both been members of the Church for just over a decade at that point, and depending on Edward's health at that time, we can assume that he and Hannah would have been present for the ceremony that day.
-
-It is interesting to note the care taken to quote the scripture verse used in the sermon, as it is a translation that uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
-
-<figure>
-<blockquote>Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.</blockquote>
-<figcaption>— <cite>Luke 13:24, King James Bible</cite></figcaption>
-</figure>
-
-This event and its recording are unusual in several respects, and deserving of further investigation. The record itself is quite unique in the amount of detail compared to similar records elsewhere in the same book. The number of people being baptized in one event also seems unusual for a congregation that size (it seemed more typical to have a small handful of people baptized in a year, and to not necessarily be grouped together) and may be related to the other notable fact: that eleven of the fifteen people are unmarried women (and two others were first degree relatives of women in that group of eleven). Add to this, the fact that Reverend Annis Ford Eastman returned to officiate this event, and a rough outline of what was happening begins to suggest itself, along with the significance that the cited scripture would have for the Reverend and these women.
-
-The following is a summary of information about the participants. Click on column headers to affect the sort order accordingly.
-
-<figure>
-{{% baptismtable "baptism.csv" %}}
-<footer>
-Notes:
-
-  - Despite how it appears on her tombstone, Alleine was married to Harry Van Order (1891-1918) first on Dec 17, 1910, then married William Lyman Peck (1875-1960) on Jan 23, 1935.
-  - Louise Ward (Shurter) Henderson is the neice of E. D. Shurter.
-</footer>
-</figure>
-
-I could not find an account of this baptism in the Ithaca Journal, but there is this entry over a week later in the Elmira Gazette and Free Press, that, despite some glaring innaccuracies that can be explained, appears to reference the event:
-
-{{% mefig "1907-04-17-elmira-gazette-and-free-press" "400" %}}
-<footer>
-Notes:
-
-  - Brookton was often confused with Brocton and even Brooklyn, and that is the reason for adopting the name Brooktondale. See [Historical Names](#historical-names). Otherwise, the use of "village" doesn't make sense.
-  - It is referencing the wrong weekend, but it is also a relative time reference, and perhaps the difference is just a result of the text not being updated in the time between writing and its delayed publishing.
-  - The reference to the Denmans would seem to be Richard L. Denman (1848-1915) and his wife Adelaide (1852-1947).  At this time, Richard was a trustee of the church.
-</footer>
-{{% /mefig %}}
-
-At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. During the Reverend's tenure, she would also give occassional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
-
-</article>
-<article>
-
-### More information about Emily's Baptism 
-
-**Reverend Annis Ford Eastman** officiated the ceremony. She made history by becoming one of the first women ordained in a Congregational Church while she was pastor of Brookton Congregational Church (now Caroline Valley Community Church) from 1889 to 1891. The Reverend wrote of her time in Brookton, including an account of her ordination, in "The Making of a Woman Minister" in the book **Enjoyment of Living** by her son Max Eastman. The Church's historical records also include an account of her ordination, including the names of the members of the "picked council" she refers to in her account. The Church's records indicate that the Reverend did return to Brookton periodically in the years after she left. The Reverend would die in 1910 after a period of ill health, so this would have been one of her last return visits to Brookton.
-
-The Deacons listed are:
-
-  - **[Cantine Lounsbery](https://www.findagrave.com/memorial/89338791/cantine-lounsbery)** (1831-1910)
-  - **[Harvey Smiley](https://www.findagrave.com/memorial/24763291/harvey-smiley)** (?-1917)
-  - **[Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson)** (1834-1910):
-      - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Caroline Valley Community Church records from the time have a record of Orange and Ada Munson moving to Erin NY Aug 30, 1918 and needing a letter to transfer to the Methodist Church there.
-
-Selected data on the participants:
-
-**Jessie (Shurter) Brewer (1881-1974)**
-
-  - Married Lewis William Brewer (1882-1963).
-  - As mentioned in [A Note on Emily Mills](#a-note-on-emily-mills), Jessie (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills after Emily's death.
-
-
-**Susie C. (Westfall) Lawrence (1885-1977)**
-
-  - Married Woodley Lawrence (1885-1931).
-
-
-**Lettie Delphene Personius (1892-1909)**
-
-  - Lettie Personius, aged 16 years, died at City Hospital yesterday of gangrenous appendicitis. Miss Personious was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on Dec. 14, 1906. 
-
-**Charlotte Esther (Vorhis) Pancoe (1893-1964)**
-
-  - Descendents confirm she commonly went by Esther.
-  - Married George W. Pancoe (1895-1969).
-
 
 
 {{< section-contents "#appendix" "h2" "h3" >}}

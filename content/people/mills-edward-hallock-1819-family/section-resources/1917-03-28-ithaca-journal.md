@@ -1,5 +1,5 @@
 ---
-citation: "Mar 28, 1917, **The Ithaca Journal**"
+citation: "28 Mar 1917, The Ithaca Journal (Ithaca, NY), p5, newspapers.com"
 ---
 **$4,000 ESTATE GOES TO NIECES AND NEPHEWS**
 

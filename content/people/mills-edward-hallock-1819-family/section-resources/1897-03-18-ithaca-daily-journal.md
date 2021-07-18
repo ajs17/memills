@@ -1,5 +1,5 @@
 ---
-citation: "Mar 18, 1897, **Ithaca Daily Journal.**"
+citation: "18 Mar 1897, The Ithaca Daily Journal (Ithaca, NY), p6, nyshistoricnewspapers.org"
 ---
 **COURT RECORD**
 

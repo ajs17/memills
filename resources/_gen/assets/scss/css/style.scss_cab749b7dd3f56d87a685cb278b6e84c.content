@@ -28,16 +28,29 @@ body {
 h1 {
   font-size: 2.63rem;
   line-height: 3.26rem;
-  padding-top: 0.286rem;
-  margin-bottom: 0.333rem;
-  font-weight: bolder; }
+  padding-top: 0.235rem;
+  margin-bottom: 0.147rem; }
+
+section article h1 {
+  font-size: 1.63rem;
+  line-height: 2rem;
+  padding-top: 0.654rem;
+  margin-bottom: 0.346rem; }
+
+section article h2 {
+  font-size: 1rem;
+  line-height: 1.63rem;
+  padding-top: 0.5rem;
+  margin-bottom: 1.13rem; }
+
+section article time {
+  display: none; }
 
 h2 {
   font-size: 1.63rem;
   line-height: 2rem;
   padding-top: 0.654rem;
-  margin-bottom: 0.346rem;
-  font-weight: normal; }
+  margin-bottom: 0.346rem; }
 
 a {
   color: white;
@@ -53,8 +66,17 @@ a:visited {
 hr {
   color: #4D3636; }
 
+footer {
+  margin-top: 3em; }
+
 footer ul {
   margin-top: 0; }
+
+nav {
+  min-width: 250px; }
+
+nav.nav-pages-lower {
+  padding-top: 2em; }
 
 .menu {
   padding: 0; }
@@ -66,12 +88,9 @@ footer ul {
   padding: 5px;
   border-radius: 5px; }
 
-nav {
-  background: #664747;
-  margin: 16px;
-  padding: 1em 2em;
-  width: 50%;
-  min-width: 250px; }
+.home-link {
+  font-weight: bold;
+  padding-right: 1em; }
 
 img, iframe, video {
   max-width: 100%;
@@ -95,10 +114,16 @@ blockquote {
   border-left: 5px solid white;
   hyphens: none; }
 
+.gallery {
+  display: flow-root; }
+
+.gallery > figure {
+  float: left; }
+
 figure {
   padding-left: 0;
   margin-left: 0;
-  padding-bottom: 2em; }
+  padding-bottom: .5em; }
 
 figure img {
   margin-bottom: 0; }
@@ -143,9 +168,6 @@ table cite {
   content: "";
   clear: both;
   display: table; }
-
-.clearfix {
-  display: flow-root; }
 
 aside {
   display: none; }

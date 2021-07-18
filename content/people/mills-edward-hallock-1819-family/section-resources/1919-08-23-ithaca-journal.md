@@ -1,5 +1,5 @@
 ---
-citation: "Aug 23, 1919, **The Ithaca Journal**"
+citation: "23 Aug 1919, The Ithaca Journal (Ithaca, NY), p6, newspapers.com"
 ---
 **Brookton**
 

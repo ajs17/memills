@@ -1,5 +1,6 @@
 ---
 title: "Mills' Home in Brooktondale"
+weight: 2
 ---
 
 The Mills Home in Brooktondale is located at present-day (2021) 475 Brooktondale Road.

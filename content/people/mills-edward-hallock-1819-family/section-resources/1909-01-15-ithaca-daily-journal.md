@@ -1,5 +1,5 @@
 ---
-citation: "Jan 15, 1909, The Ithaca Daily Journal"
+citation: "15 Jan 1909, The Ithaca Daily Journal (Ithaca, NY), p7, nyshistoricnewspapers.org"
 ---
 
 ...

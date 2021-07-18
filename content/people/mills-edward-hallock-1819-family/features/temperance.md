@@ -1,5 +1,6 @@
 ---
 title: "Temperance Activity"
+weight: 5
 ---
 
 <figure>

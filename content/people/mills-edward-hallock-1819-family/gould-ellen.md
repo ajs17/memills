@@ -1,6 +1,7 @@
 ---
 title: "Ellen Gould"
 date: "2021-05-25"
+weight: 7
 ---
 
 {{% mefig "1917-03-20-ithaca-journal" "400" /%}}

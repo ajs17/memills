@@ -1,5 +1,6 @@
 ---
 title: "E. H. Mills & Co., Corfu NY"
+weight: 6
 ---
 
 Not much is known of E. H. Mills & Co. of Corfu:

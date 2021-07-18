@@ -1,5 +1,5 @@
 ---
-citation: "Dec 13, 1917, **The Ithaca Journal**"
+citation: "13 Dec 1917, The Ithaca Journal (Ithaca, NY), p7, newspapers.com"
 ---
 **Brookton Heights**
 

@@ -1,5 +1,5 @@
 ---
-citation: "Jan 19, 1938, The Ithaca Journal via newspapers.com."
+citation: "19 Jan 1938, The Ithaca Journal (Ithaca, NY), p15, newspapers.com"
 ---
 **Auctions**
 

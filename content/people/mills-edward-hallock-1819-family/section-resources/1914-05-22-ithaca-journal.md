@@ -1,5 +1,5 @@
 ---
-citation: "May 22, 1914, **The Ithaca Journal**"
+citation: "22 May 1914, The Ithaca Journal (Ithaca, NY), p11, newspapers.com"
 ---
 **NINETIETH BIRTHDAY IS DULY OBSERVED**
 

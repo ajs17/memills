@@ -1,5 +1,5 @@
 ---
-citation: "Apr 17, 1907, **Elmira Gazette and Free Press.**" 
+citation: "17 Apr 1907, Elmira Gazette and Free Press (Elmira, NY), p5, newspapers.com"
 ---
 **SOUTHSIDE PERSONALS
 

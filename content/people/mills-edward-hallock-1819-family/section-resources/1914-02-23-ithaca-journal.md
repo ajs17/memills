@@ -1,3 +1,3 @@
 ---
-citation: "Feb 23, 1914, **The Ithaca Journal**"
+citation: "23 Feb 1914, The Ithaca Journal (Ithaca, NY), p9, newspapers.com"
 ---

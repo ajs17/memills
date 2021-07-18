@@ -1,5 +1,5 @@
 ---
-citiation: "Nov 03, 1937, The Ithaca Journal via newspapers.com."
+citiation: "03 Nov 1937, The Ithaca Journal (Ithaca, NY), p2, newspapers.com"
 ---
 **Miss Emily Mills**
 

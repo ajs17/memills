@@ -1,5 +1,5 @@
 ---
-citation: "May 23, 1916, **The Ithaca Journal**"
+citation: "23 May 1916, The Ithaca Journal (Ithaca, NY), p9, newspapers.com"
 ---
 **THOUGH NINETY-TWO YET DOES HOUSEWORK**
 

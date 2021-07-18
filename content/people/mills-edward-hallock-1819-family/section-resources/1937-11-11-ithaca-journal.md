@@ -1,5 +1,5 @@
 ---
-citation: "Nov 11, 1937, The Ithaca Journal via newspapers.com."
+citation: "11 Nov 1937, The Ithaca Journal (Ithaca, NY), p2, newspapers.com"
 ---
 **IN TRIBUTE TO EMILY MILLS**
 

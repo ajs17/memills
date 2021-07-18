@@ -970,54 +970,6 @@ Call Hallockville and they will put you in touch with the appropriate person on 
 calvin mills, check against gloverville 
 https://nyshistoricnewspapers.org/lccn/sn83031157/1894-03-21/ed-1/seq-3/#date1=01/01/1879&city=&date2=12/31/1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=4&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
 
----
-The daily news., July 21, 1882, Page 1, Image 1
-About The daily news. (Batavia, N.Y.) 1881-current
-
-
-https://nyshistoricnewspapers.org/lccn/sn83030756/1882-07-21/ed-1/seq-1/#date1=01%2F01%2F1810&city=&date2=12%2F31%2F1910&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=0&words=Emily+Mills&proxdistance=5&county=Genesee&to_year=1910&rows=20&ortext=&from_year=1810&proxtext=emily+mills&phrasetext=&andtext=&dateFilterType=range&page=1
- 
----
-Ithaca daily journal., January 15, 1909, Page 7, Image 7
-About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
-
-https://nyshistoricnewspapers.org/lccn/sn83031157/1909-01-15/ed-1/seq-7/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1915&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=0&words=Emily+Mills&proxdistance=5&county=Tompkins&to_year=1915&rows=20&ortext=&from_year=1879&proxtext=emily+mills&phrasetext=&andtext=&dateFilterType=range&page=1
-
----
-Ithaca daily journal., December 06, 1913, Page 11, Image 11
-About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
-
-https://nyshistoricnewspapers.org/lccn/sn83031157/1913-12-06/ed-1/seq-11/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1915&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=1&words=Emily+Mills&proxdistance=5&county=Tompkins&to_year=1915&rows=20&ortext=&from_year=1879&proxtext=emily+mills&phrasetext=&andtext=&dateFilterType=range&page=1
-
-
-
----
-Ithaca daily journal., January 06, 1908, Page 3, Image 3
-About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
-
-https://nyshistoricnewspapers.org/lccn/sn83031157/1908-01-06/ed-1/seq-3/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=0&words=EDWARD+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
-
----
-Ithaca daily journal., March 18, 1897, Page 6, Image 6
-About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
-
-https://nyshistoricnewspapers.org/lccn/sn83031157/1897-03-18/ed-1/seq-6/#date1=01%2F01%2F1879&city=&date2=12%2F31%2F1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=1&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
-
-
----
-Ithaca daily journal., October 14, 1896, Page 6, Image 6
-About Ithaca daily journal. (Ithaca, N.Y.) 1872-1913
-
-https://nyshistoricnewspapers.org/lccn/sn83031157/1896-10-14/ed-1/seq-6/#date1=01/01/1879&city=&date2=12/31/1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=2&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
-
-
-The daily news., December 31, 1895, Page 1, Image 1
-About The daily news. (Batavia, N.Y.) 1881-current
-https://nyshistoricnewspapers.org/lccn/sn83030756/1895-12-31/ed-1/seq-1/#date1=01%2F01%2F1725&city=&date2=12%2F31%2F2019&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=18&words=Brookton&proxdistance=5&county=Genesee&to_year=2019&rows=20&ortext=&from_year=1725&proxtext=brookton&phrasetext=&andtext=&dateFilterType=range&page=3
-
-1895-12-31-daily-news-p1.png
-
-
 
 
 mention of emily's store
