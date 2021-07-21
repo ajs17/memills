@@ -1,8 +1,11 @@
 ---
-title: "E. H. Mills and M. E. Mills, Mott's Corners and Brookton"
-summary: "Upon moving to Mott's Corners, Edward restarted *E. H, Mills* general store on his own, with his son Jonas working as clerk. Emily would eventually also work as clerk in the store, taking it over upon Edward's death as *M. E. Mills*."
-weight: 3
+title: "E. H. Mills and M. E. Mills General Stores"
+weight: 1
 ---
+
+Upon moving to Mott's Corners, Edward restarted his general store, now simply *E. H, Mills*, on his own, with his son Jonas working as clerk. Emily would eventually also work as clerk in the store, taking it over upon Edward's death and operating it as *M. E. Mills* until her death in 1937.
+
+<!--more-->
 
 It is really in Brookton where we get a sense of the family's finances through property deeds, reported estate information and the Mills store ledgers. The Mills likely always made a fairly modest, if stable, income from their small general stores.
 

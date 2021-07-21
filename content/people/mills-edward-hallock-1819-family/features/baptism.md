@@ -1,7 +1,11 @@
 ---
 title: "The Baptism of Emily Mills"
-weight: 4
+weight: 2
 ---
+
+April 7, 1907, fifteen people are baptized in a service officiated by Reverend Annis Ford Eastman on one of her last visits to Brookton. Eleven of the participants, including Emily Mills, were unmarried women. 
+
+<!--more-->
 
 {{% mefig "mills-emily-cvcc-baptism" /%}}
 
@@ -54,11 +58,9 @@ Selected data on the participants:
   - Married Lewis William Brewer (1882-1963).
   - Jessie (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills after Emily's death.
 
-
 **Susie C. (Westfall) Lawrence (1885-1977)**
 
   - Married Woodley Lawrence (1885-1931).
-
 
 **Lettie Delphene Personius (1892-1909)**
 

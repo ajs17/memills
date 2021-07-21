@@ -3,6 +3,10 @@ title: "E. H. Mills & Co., Corfu NY"
 weight: 6
 ---
 
+E. H. Mills & Co. general merchandise and dry goods in Corfu NY.
+
+<!--more-->
+
 Not much is known of E. H. Mills & Co. of Corfu:
 
 <figure>

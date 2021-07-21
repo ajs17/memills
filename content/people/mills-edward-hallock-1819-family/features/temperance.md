@@ -1,7 +1,11 @@
 ---
 title: "Temperance Activity"
-weight: 5
+weight: 4
 ---
+
+The temperance movement was a significant cultural phenomena of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. Emily, Hannah and Ellen were all active in temperance.
+
+<!--more-->
 
 <figure>
 <blockquote>
