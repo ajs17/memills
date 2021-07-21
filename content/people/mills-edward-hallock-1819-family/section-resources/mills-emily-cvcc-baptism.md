@@ -1,5 +1,8 @@
 ---
 citation: "Digitally scanned entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used with permisson from Caroline Valley Community Church."
+notes: >-
+  The uneven pen strokes and differences in intensity of ink show that the original record was written in fountain pen, with the lighter, marginal notes added later with lead pencil. The consistency of the pencil marks suggests these notes were all added at the same time. 
+
 ---
 April 7, 1907. The following names were added to this Church roll, 15 in all - 
 

@@ -11,13 +11,24 @@ lastmod = [":fileModTime", ":default"] # auto populates lastmod date
   analyticsid = "G-8FWTQLRQHV"
   additionalmetatags = "<meta name=\"msvalidate.01\" content=\"39A8A303812800B8DB236F6C8F9C78CB\" />" 
 
+# see https://blog.fullstackdigital.com/how-to-use-hugo-template-variables-in-scss-files-in-2018-b8a834accce
+# https://discourse.gohugo.io/t/how-to-override-css-classes-with-hugo/3033/2
+# color scheme for base theme
+    [params.customStyles]
+        backgroundColor = "#4D3636"  
+        subtleBackColor = "#664747" 
+        foregroundColor = "white"
+        accentColor = "#4D3636"
+        accentColor2 = "#66806D"
+        activeLinkColor = "white"
+        visitedLinkColor = "#808080"   
+        fontFamily = "Optima, Candara, Calibri, Arial, sans-serif"
+
 # theming and reusable code
 [module]
   [[module.imports]]
     path = "github.com/ajs17/hugo-min-components"
-  [[module.imports]]
-    path = "memills-theme"
-
+ 
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]

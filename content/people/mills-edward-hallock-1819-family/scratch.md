@@ -1004,3 +1004,21 @@ Holy Cross Cemetery
 Brooklyn, Kings County (Brooklyn), New York, USA  Show Map
 PLOT	St. Joseph, System: CEM, Section: JOSE, Row: 28, Plot: 201
 MEMORIAL ID	172050485 · View Source
+
+
+
+Mark Twain in Elmira:
+
+The famous author’s final public appearance in Elmira was at the Park
+Church on April 3, 1907, for the dedication of the Hope-Jones organ. It was not
+as a visiting lecturer or public speaker that Elmirans remember Mark Twain, but
+as a neighbor and friend. p63
+
+ Hecame again in 1907 to make a speech at the dedication of the Thomas K.
+Beecher Organ in Park Church. Mr. Beecher was pastor of Park Church
+during all of Twain’s Elmira period and they were great friends. p160
+
+His final public appearance in Elmira was at the Park Church on April 3, 1907.
+The aging author made a few humorous remarks at a demonstration of a new
+organ there. The event was reported in the press and described by W. Charles Barber in an article in the Chemung Historical Journal, Vol. 12, No. 3 (March,
+1967). 

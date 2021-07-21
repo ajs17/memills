@@ -1,5 +1,17 @@
 ---
 citation: "Molly Adams"
+notes: >- 
+    Notes:
+
+    - The "old postoffice" and prior to that, the location of M. E. Mills, is present-day 484 Brooktondale Road.
+  
+    - "TNT" refers to the store that is presently Brookton's Market and was owned by the Mulks in early 1900's.  
+    
+    - The source of the quotes about the Mills' home are from the property deeds of the time. 
+    
+    - The source of the quote in the last paragraph about extending credit is taken from E. D. Shurter's tribute in the Ithaca Journal.
+    
+    - Erratum: Hannah Mills was Emily's step-mother.
 ---
 #### A Note on Emily Mills
 

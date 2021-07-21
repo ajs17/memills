@@ -9,7 +9,8 @@ cascade:
 ---
 ## Genealogy
 
-By corroborating data from [Caroline Valley Community Church's historical records](#combined-church-obituary-entry-for-edward-and-mary-ann) as well as information about Edward's parents in the official records of his marriage to [Hannah](http://localhost:1313/people/mills-edward-hallock-1819/#hannah-mills), Edward H. Mills is identified in a partial entry on an extensive genealogy covering eight generations of Mills: [Descendants of George Mills of Yorkshire and Long Island, New York](http://millsancestry.org) at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, I was able to locate its creator on Facebook to let him know about this documentation on Edward. 
+Partial entries for Edward H. Mills exist in two known Mills family genealogies:
+By corroborating data from [Caroline Valley Community Church's historical records](#combined-church-obituary-entry-for-edward-and-mary-ann) as well as information about Edward's parents in the official records of his marriage to [Hannah]({{% ref "mills-hannah-1824" %}}), Edward H. Mills is identified in a partial entry on an extensive genealogy covering eight generations of Mills: [Descendants of George Mills of Yorkshire and Long Island, New York](http://millsancestry.org) at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, I was able to locate its creator on Facebook to let him know about this documentation on Edward. 
 
 Beginning with Edward's parents, according to an archived version of data from MillsAncestry.org:
 
@@ -53,7 +54,7 @@ Children:
   
 None of Edward's children married or had children.
 
-Edward married (2) **Hannah (Thatcher) Eastman Mills** (May 1824, died Brooktondale NY, Feb 25, 1917). Married on Dec 30, 1896. 
+Edward married (2) **Hannah (Thatcher) Eastman Mills** (21 May 1824, died Brookton NY, Feb 25, 1917). Married on Dec 30, 1896. 
 
   - No children.
 
@@ -68,7 +69,7 @@ Notes:
   - Edward's middle name Hallock was his Mother's maiden name.
   - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
  
-The [Mills home deeds](#deeds-for-the-mills-home-in-brooktondale) from the time of Emily's death list the following as cousins of Emily's as possible heirs:
+The [Mills home deeds]({{% ref "features/mills-home-brooktondale" %}}) from the time of Emily's death list the following as cousins of Emily's as possible heirs:
   - Alonzo Mills
   - George E. Mills
   - Clarissa Etsall
@@ -197,7 +198,7 @@ Several major areas are still missing from this history that are all very valuab
   - Temperance activity.
   - Fill out Hannah's first marriage, children.
   - more on Ellen Gould.
-  - Hallockville
+  - Hallockville, Factoryville
   - References to other secondary historical accounts mentioning Emily. 
   - More legal research on deeds for Mills' home and store, estates, etc.
   - General information about Brooktondale during Emily's life.

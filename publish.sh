@@ -1,14 +1,12 @@
 #!/bin/bash
 
-# run image processing garbage collection 
-# to delete old generated files no longer neeeded
-hugo --gc
-
 # update modules
 hugo mod get -u
 
 # regenerate static site 
-hugo 
+# run image processing garbage collection 
+# to delete old generated files no longer neeeded
+hugo --gc
 
 # add new files and
 # delete files removed by Hugo garbage collection ( with -A)

@@ -1,5 +1,7 @@
 ---
 citation:  "Digitally photographed entry in **Congregational Church 1868-1933 Minutes of meetings and Membership**, used with permisson from Caroline Valley Community Church."
+notes: >-
+    Variations of Edward's middle name exist, such as "Hallioch" and "Halloch" however these seem to be errors as Edward's middle name appears to be taken from his mother's maiden name: "Hallock."
 ---
 
 1908 Deaths Continued

@@ -1,5 +1,7 @@
 ---
 citation: "19 Jan 1938, The Ithaca Journal (Ithaca, NY), p15, newspapers.com"
+notes: >-
+    An identical notice ran the next day, Jan 20, 1938, in the Ithaca Journal.
 ---
 **Auctions**
 

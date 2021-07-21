@@ -3,19 +3,15 @@ title: "The Baptism of Emily Mills"
 weight: 4
 ---
 
-{{% mefig "mills-emily-cvcc-baptism" %}}
-<footer>
-Notes:
-
-  - The uneven pen strokes and differences in intensity of ink show that the original record was written in fountain pen, with the lighter, marginal notes added later with lead pencil. The consistency of the pencil marks suggests these notes were all added at the same time. 
-</footer>
-{{% /mefig %}}
+{{% mefig "mills-emily-cvcc-baptism" /%}}
 
 April 7th fell on the Sunday after Easter in 1907. It was to be the final year of Edward's life. He and his second wife Hannah had both been members of the Church for just over a decade at that point, and depending on Edward's health at that time, we can assume that he and Hannah would have been present for the ceremony that day.
 
 Reverend Annis Ford Eastman returned to Brookton to officiate. The Reverend made history by becoming one of the first women ordained in a Congregational Church while she was pastor of Brookton Congregational Church (now Caroline Valley Community Church) from 1889 to 1891. The Reverend wrote of her time in Brookton, including an account of her ordination, in "The Making of a Woman Minister" in the book **Enjoyment of Living** by her son Max Eastman. The Church's historical records also include an account of her ordination, including the names of the members of the "picked council" she refers to in her account. 
 
-The Church's records indicate that the Reverend did return to Brookton periodically in the years after she left, and this would have been no small honor for the Brookton Congregation, as after the Reverend left Brookton, she became a very prominent religious and literary figure in New York and beyond, lecturing widely and counting among her friends the Reverend Thomas Beecher, brother of Henry Ward Beecher and Harriet Beecher Stowe, and Mark Twain, for whom she wrote the eulogy for his funeral, but which had to be delivered by her husband due to the Reverend's declining health. The Reverend would die in 1910, so this would have been one of her last return visits to Brookton. So, needless to say, her presence on this day was planned well in advance by the Reverend, and it was a very signficant honor that hints at a rich context to this event that we can only speculate upon now.
+The Church's records indicate that the Reverend did return to Brookton periodically in the years after she left, and this would have been no small honor for the Brookton Congregation, as after the Reverend left Brookton, she became a very prominent religious and literary figure in New York and beyond, lecturing widely and counting among her friends the Reverend Thomas Beecher, brother of Henry Ward Beecher and Harriet Beecher Stowe, and Mark Twain, for whom she wrote the eulogy for his funeral service in Elmira, but which had to be delivered by her husband due to the Reverend's declining health. The Reverend would die in 1910, so this would have been one of her last return visits to Brookton. So, needless to say, her presence on this day was planned well in advance by the Reverend, and it was a very signficant honor that hints at a rich context to this event that we can only speculate upon now.
+
+(Interestingly, Mark Twain made his last visit to Elmira that very week, attending the dedication of a new organ at Park Church in Elmira on 03 Apr 1907. His remains would be buried in Woodlawn Cemetery Elmira exactly three years later.)
 
 It is interesting to note the care taken to quote the scripture verse used in the sermon, as it is a translation that uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
 
@@ -40,17 +36,7 @@ Notes:
 
 I could not find an account of this baptism in the Ithaca Journal, but there is this entry over a week later in the Elmira Gazette and Free Press, that, despite some glaring innaccuracies that can be explained, appears to reference the event:
 
-{{% mefig "1907-04-17-elmira-gazette-and-free-press" "400" %}}
-<footer>
-Notes:
-
-  - Brookton was often confused with Brocton and even Brooklyn, and that is the reason for adopting the name Brooktondale. See [Historical Names](#historical-names). Otherwise, the use of "village" doesn't make sense.
-  - It is referencing the wrong weekend, but it is also a relative time reference, and perhaps the difference is just a result of the text not being updated in the time between writing and its delayed publishing.
-  - The reference to the Denmans would seem to be Richard L. Denman (1848-1915) and his wife Adelaide (1852-1947).  At this time, Richard was a trustee of the church.
-</footer>
-{{% /mefig %}}
-
-
+{{% mefig "1907-04-17-elmira-gazette-and-free-press" "400" /%}}
 
 At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. During the Reverend's tenure, she would also give occassional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
 
@@ -66,7 +52,7 @@ Selected data on the participants:
 **Jessie (Shurter) Brewer (1881-1974)**
 
   - Married Lewis William Brewer (1882-1963).
-  - As mentioned in [A Note on Emily Mills](#a-note-on-emily-mills), Jessie (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills after Emily's death.
+  - Jessie (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills after Emily's death.
 
 
 **Susie C. (Westfall) Lawrence (1885-1977)**
