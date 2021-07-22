@@ -1022,3 +1022,37 @@ His final public appearance in Elmira was at the Park Church on April 3, 1907.
 The aging author made a few humorous remarks at a demonstration of a new
 organ there. The event was reported in the press and described by W. Charles Barber in an article in the Chemung Historical Journal, Vol. 12, No. 3 (March,
 1967). 
+
+
+---
+
+Presbyterian Historical Society; Philadelphia, Pennsylvania; U.S., Presbyterian Church Records, 1701-1907; Accession Number: 00-216 59C
+
+
+Description
+Title: A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica (ancestry.com. North America, Family Histories, 1500-2000 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.)
+
+https://www.history.pcusa.org/services/reference/reference-inquiries
+
+refdesk@history.pcusa.org
+
+I am doing historical research on a family that lived in Staten Island NY during the 1850's, and I am trying to discover exact dates of birth (and any other information of course) on the children:
+
+  - Jonas E. Mills (born Staten Island NY, 1852, died Brookton NY, Oct 13, 1885).
+  - Horace F. Mills (born Staten Island NY, 1854, died Corfu NY, October 27, 1876).
+  - Mary Emily Mills (born Staten Island NY, Dec 1858, died Brooktondale NY, Nov 3, 1937).
+
+Their parents are:
+
+  - Edward Hallock Mills (born Smithtown NY, Mar 25, 1819, died Brookton NY, Jan 1, 1908).
+  - Edward married (1) Mary Ann (Pine) Mills (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850.
+
+I believe that Mary Ann at least was a member of Calvary Presbyterian Church in Staten Island, as she was a devout Presbyterian. I have contacted the church directly, and they are helping me as well:
+
+  Hi! I am the church secretary of Calvary Presbyterian Church, Margaret Wegener. I will check the church registers for any information pertaining to your research. Off the top of my head, the church is about 148 or so years old. The members did meet in houses prior to the building going up. Records of that time are not likely to be in the current church. It is possible that the family attended First Presbyterian Church which has been closed for some time. I understand their records are archived somewhere by Presbytery. 
+
+However, as yet, she has not been able to find anything.
+
+Thank you in advance for any help you can provide. If you are interested, my research notes are at memills.com .
+
+sent 7/21/2021

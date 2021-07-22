@@ -1,5 +1,7 @@
 ---
 citation: "06 Jan 1908, The Ithaca Daily Journal (Ithaca, NY), p3, nyshistoricnewspapers.org"
+Notes: >-
+    An identical notice ran on 08 Jan 1908 in the Elmira Star Gazette (Elmira, NY), p5.
 ---
 EDWARD H. MILLS.
 

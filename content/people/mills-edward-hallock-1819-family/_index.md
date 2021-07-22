@@ -9,71 +9,73 @@ cascade:
 ---
 ## Genealogy
 
-Partial entries for Edward H. Mills exist in two known Mills family genealogies:
-By corroborating data from [Caroline Valley Community Church's historical records](#combined-church-obituary-entry-for-edward-and-mary-ann) as well as information about Edward's parents in the official records of his marriage to [Hannah]({{% ref "mills-hannah-1824" %}}), Edward H. Mills is identified in a partial entry on an extensive genealogy covering eight generations of Mills: [Descendants of George Mills of Yorkshire and Long Island, New York](http://millsancestry.org) at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, I was able to locate its creator on Facebook to let him know about this documentation on Edward. 
+Edward H. Mills has partial entries on at least two Mills family genealogies:
+  1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
+  2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-2000 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939.
 
-Beginning with Edward's parents, according to an archived version of data from MillsAncestry.org:
+<div class="gallery">
+{{% mefig "genealogy/1939-source2-pagea" "350" "img" /%}}
+{{% mefig "genealogy/1939-source2-pageb" "350" "img" /%}}
+</div>
 
-<figure>
+What follow is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents, and further supplementing with what we think we know of Edward's family.
+
 <blockquote>
 
 <span>583.</span> [Jonas Davis Mills](https://www.findagrave.com/memorial/138421270/jonas-d.-mills) (George , Isaac , Isaac , Timothy , Jonathan , George ) was born on 2 May 1795. He died on 30 Jan 1882.
 
-Jonas married (1) Mary Hallock on 25 Dec 1818 in , Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827.
+Jonas married (1) Mary Hallock [daughter of Thomas Hallock], on 25 Dec [Feb] 1818 in , Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827.
 
 They had the following children:
 
 - 1029	M	i	Thomas James Mills was born on 13 Feb 1817.
 - 1030	M	ii	Edward H. Mills was born on 25 Mar 1819.
-- 1031	F	iii	Emily Tabitha Mills was born on 19 Jun 1821. She died on 11 Apr 1849.
+- 1031	F	iii	Emily Tabitha Mills was born on 19 Jun 1821. She died on 11 Apr 1849. [mar. in Nov. 1843, John S. Huntting.]
 
-Jonas married (2) [Mary Platt Mills](https://www.findagrave.com/memorial/138421346/mary-p.-mills) daughter of Jedediah Mills and Elizabeth Mills on 25 Apr 1831. Mary was born on 30 Jan 1801 in Long Island, New York. She died on 18 Jun 1881.
+Jonas married (2) [Mary Platt Mills](https://www.findagrave.com/memorial/138421346/mary-p.-mills) daughter of Jedediah Mills and Elizabeth [(Mills)] Mills [of Mills Pond] on 25 Apr 1831. Mary was born on 30 Jan 1801 in Long Island, New York. She died on 18 Jun 1881.
 
 They had the following children:
 
-- 1032	F	iv	Sarah Maria Mills is printed as #623.
-- 1033	M	v	Robert Sydney Mills is printed as #624.
+- 1032	F	iv	Sarah Maria Mills is printed as #623. ...born on 21 Sep 1832. She died on 25 Apr 1834.
+- 1033	M	v	Robert Sydney Mills is printed as #624. ...born on 11 Nov 1835.
 </blockquote>
-<figcaption>
-— <cite>
-<a href="http://millsancestry.org">Descendants of George Mills of Yorkshire and Long Island, New York</a>
-</cite>
-</figcaption>
-</figure>
 
 And to this we can add Edward's branch to its ultimate conclusion:
 
-<span>1030.</span> **Edward Hallock Mills** (born Smithtown NY, Mar 25, 1819, died Brookton NY, Jan 1, 1908).
+<span>1030.</span> **Edward Hallock Mills** (born Smithtown NY, 25 Mar 1819, died Brookton NY, 01 Jan 1908).
 
-Edward married (1) **Mary Ann (Pine) Mills** (born Hempstead NY, Feb 8, 1819, died Brookton NY, Dec. 28, 1895). Married on Dec 29, 1850. 
+Edward married (1) **Mary Ann (Pine) Mills** (born Hempstead NY, 8 Feb 1819, died Brookton NY, 28 Dec 1895). Married on 29 Dec 1850. 
 
 Children:
-  - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, Oct 13, 1885).
-  - **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, October 27, 1876).
-  - **Mary Emily Mills** who went by "Emily" and often signed her name as "M. Emily Mills" (born Staten Island NY, Dec 1858, died Brooktondale NY, Nov 3, 1937).
+  - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, 14 Oct 1885).
+  - **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, 27 Oct 1876).
+  - **Mary Emily Mills** who went by "Emily" and often signed her name as "M. Emily Mills" (born Staten Island NY, Dec 1858, died Brooktondale NY, 3 Nov 1937).
   
 None of Edward's children married or had children.
 
-Edward married (2) **Hannah (Thatcher) Eastman Mills** (21 May 1824, died Brookton NY, Feb 25, 1917). Married on Dec 30, 1896. 
+Edward married (2) **Hannah (Thatcher) Eastman Mills** (21 May 1824, died Brookton NY, 12 Feb 1917). Married on 30 Dec 1896. 
 
   - No children.
-
-
- A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica
-
 
 Notes:
   - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries. The birthdates in particular are based on the 1900 census, which contradict Emily's gravestone.
   - Edward's parents were married while Edward was in utero and his older brother Thomas was already a toddler.
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
-  - Edward's middle name Hallock was his Mother's maiden name.
+  - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occassionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence,21 Jul 2021)
   - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
  
 The [Mills home deeds]({{% ref "features/mills-home-brooktondale" %}}) from the time of Emily's death list the following as cousins of Emily's as possible heirs:
   - Alonzo Mills
   - George E. Mills
   - Clarissa Etsall
-  - Mary Hunting Smith
+  - Mary Huntting Smith
+
+Mary Huntting Smith may be a reference to Emily's neice, or a descendent of Emily's neice:
+  - Edwards's sister Emily Tabitha (Mills) Huntting (1821–1849) married John Smith Huntting (1817–1893),
+  - their child Mary Halliock (Huntting) Smith (1845–1938), named after their Grandmother, married Henry Chatfield Smith (1843–1896),
+  - their child Mary Emily Huntting (Smith) Cross (1875-1924), Emily's neice, married: James M. Cross.
+
+She appears to be referenced in the sales records of the [Mills store]({{% ref "features/me-mills" %}}) by her full middle name "Emily Huntting".
 
 Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
 
@@ -102,6 +104,7 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
 
 [Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
 
+[Ellen Gould](https://www.findagrave.com/memorial/35944445/ellen-jane-predmore) is interred at Seneca Union Cemetery, Valois, NY.
 
 ## Census Data
 
@@ -142,7 +145,7 @@ We actually have copious amounts of Emily's handwriting spanning many decades:
   - A notebook of meeting minutes for the temperance organization The Independent Order of Good Templars, beginning in the early 1880's. A number of entries are written in Emily's hand while she was secretary. There is also an original copy of a form filed with the organization written by her. These items are kept in the Tompkins County Historical Society archives. 
   - The sales ledgers of M. E. Mills general store from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store several decades later, thanks to then owner Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph several of the books. The ledgers are in excellent condition, and we can match Emily's handwriting to the known examples from the Good Templars notes. 
   
-*A Note on Emily Mills*, mentions "a little leatherette booklet" M. E. Mills printed on it, and Molly's research notes indicate that this item was donated to the Caroline History Room, but as of an inquiry in 2021, it could not be located.
+*A Note on Emily Mills*, mentions "a little leatherette booklet" M. E. Mills printed on it, and Molly's research notes indicate that this item was donated to the Caroline History Room in March 2002, but as of an inquiry in 2021, it could not be located.
 
 A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shurter in the Cornell University Library archives did not yield any photos or other documentation related to the Mills family. In fact, the Brookton/Caroline related materials were in the minority, and there were few original photographic prints overall.
 
@@ -190,7 +193,6 @@ Planned:
   - Photo inventory and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move. (Begun.)
   - Research Emily's baptism, possibly contacting descendents of Annis Ford Eastman for information on that event. Check church records again: was this the Reverend's very last visit to Brookton? Letters exist at Univ of Ill library between the Reverend and her family.
   - The dimenions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
-  
 
 ## Distribution
 

@@ -20,7 +20,7 @@ The E.H. Mills General store was on the NE corner of Main and Allegheny in Corfu
 
 E. H. Mills & Co. was also referred to, on the maps at least, as "Mills Cash Store" or just simply "Cash Store."
 
-{{% mefig "1869-Gazetteer-Business-Directory-Genesee-County-inset" "400" /%}}
+{{% mefig "1869-Gazetteer-Business-Directory-Genesee-County-inset" "350" /%}}
 
 Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine. There is a Charles Pine that married Almira Jane Loper in 1835 in South Hempstead, New York, and elsewhere, his middle name appears to be Mills:
 

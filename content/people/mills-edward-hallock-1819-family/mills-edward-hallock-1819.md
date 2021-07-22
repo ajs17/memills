@@ -3,16 +3,16 @@ title: "Edward Hallock Mills"
 weight: 1
 ---
 
-Edward Hallock Mills, born 25 Mar 1819, Smithtown, NY, died 01 Jan 1908, Brookton, NY. Patriarch of the Mills family. Co-owner, general stores [**E. H. Mills & Co.**]({{% ref "features/corfu-eh-mills-co" %}} ) in Cofu NY and owner [**E. H. Mills**]({{% ref "features/me-mills" %}}) in Motts Corners/Brookton NY.
+Edward Hallock Mills, born 25 Mar 1819, Smithtown, NY, died 01 Jan 1908, Brookton, NY. Patriarch of the Mills family. Co-owner, general stores [**E. H. Mills & Co.**]({{% ref "features/corfu-eh-mills-co" %}}) in Cofu NY and owner [**E. H. Mills**]({{% ref "features/me-mills" %}}) in Motts Corners/Brookton NY.
 
 <!--more-->
 
 {{% metable "census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Edward" %}}
 
 {{% mefig "1863-edward-civil-war-draft" /%}}
-{{% mefig "1908-01-06-ithaca-daily-journal" "400" /%}}
-{{% mefig "1908-01-06-batavia-daily-news-p4" "400" /%}}
-{{% mefig "george-jansen-ehmills-entry" "400" /%}}
+{{% mefig "1908-01-06-ithaca-daily-journal" "350" /%}}
+{{% mefig "1908-01-06-batavia-daily-news-p4" "350" /%}}
+{{% mefig "george-jansen-ehmills-entry" "350" /%}}
 {{% mefig "mills-edward-mary-cvcc-obit" /%}}
 
 ## Notes for Future Researchers
@@ -24,11 +24,11 @@ There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversvill
 
 The members of this family can just barely be made out in the 1875 New York State Census in Fulton County:
 
-{{% mefig "census/census-1875b-nys" "400" /%}}
+{{% mefig "census/census-1875b-nys" "350" /%}}
 
  Edward Hallock's family are accounted for in the same census in Genesee County:
  
- {{% mefig "census/census-1875a-nys" "400" /%}}
+ {{% mefig "census/census-1875a-nys" "350" /%}}
  
 
 
