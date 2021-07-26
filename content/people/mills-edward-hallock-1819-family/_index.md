@@ -14,8 +14,8 @@ Edward H. Mills has partial entries on at least two Mills family genealogies:
   2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-2000 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
 
 <div class="gallery">
-{{% mefig "genealogy/1939-source2-pagea" "350" "img" /%}}
-{{% mefig "genealogy/1939-source2-pageb" "350" "img" /%}}
+{{% mefig "genealogy/1939-source2-pagea" "320" "img" /%}}
+{{% mefig "genealogy/1939-source2-pageb" "320" "img" /%}}
 </div>
 
 What follow is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents, and further supplementing with what we think we know of Edward's family.
