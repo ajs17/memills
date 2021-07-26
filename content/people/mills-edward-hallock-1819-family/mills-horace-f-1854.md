@@ -1,7 +1,7 @@
 ---
 title: "Horace F. Mills"
 date: "2021-05-25"
-weight: 3
+weight: 4
 ---
 
 Horace F. Mills, born 1854, Staten Island, NY, died 27 October 1876, Corfu NY. Second child of Edward H. and Mary Ann Mills.

@@ -54,6 +54,7 @@ As we can see from the reporting fo the day, sometime later in 1926 or early in 
 
 {{% mefig "ellen-gould/1926-09-25-ithaca-journal-p3" "350" /%}}
 {{% mefig "ellen-gould/1926-10-01-ithaca-journal-p3" "350" /%}}
+
 {{% mefig "ellen-gould/1926-11-04-ithaca-journal-p12" "350" /%}}
 {{% mefig "ellen-gould/1927-03-22-ithaca-journal-p12" "350" /%}}
 {{% mefig "ellen-gould/1927-03-30-ithaca-journal-p12" "350" /%}}
@@ -69,4 +70,4 @@ Ellen is [interred](https://www.findagrave.com/memorial/35944445/ellen-jane-pred
 
 ## Notes for Future Researchers
 
-In Gertrude Conant's recollections, she notes that Ellen Gould "looked a great deal like Miss Mills," so when looking for photos of either woman, one must be cautious not to mis-identify one for the other.
+In Gertrude Conant's recollections, she notes that Ellen Gould "looked a great deal like Miss Mills," so when looking for photos of either woman, one must be cautious not to mis-identify one for the other. For this reason, I have also been trying to find confirmed photos of Ellen, but after the usual inquiries and reaching out to her descendants, it seems that as with Emily, there are currently no known photos of Ellen.

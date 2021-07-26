@@ -41,17 +41,11 @@ Age: 72
 
 The 1896 New York State Marriage Index also traces Hannah back to her maiden name, with the identfication number 25877:
 
-<figure class="clearfix">
-<div style="float: left">
+<div class="gallery">
 {{% mefig "1896-nys-marriage-index-241" "200" /%}}
-</div>
-<div style="float: left">
 {{% mefig "1896-nys-marriage-index-563" "200" /%}}
-</div>
-<div style="float: left">
 {{% mefig "1896-nys-marriage-index-816" "200" /%}}
 </div>
-</figure>
 
 My impressions of Hannah are that she was an active and outgoing woman who was much loved in the community.
 

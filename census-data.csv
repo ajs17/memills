@@ -1,4 +1,10 @@
 "year","type","town","firstname","name","age","Computed-birthyear","Relation-to-head","occupation","industry","Real-estate-value","Personal-estate-value","birthdate","birthplace","Attended-school-in-last-year","over-21-m","other"
+1860,"US","Castleton","Bartlett","Bartlett Brown",27,,,"Merchant",,5000,2500,,"New York",,,
+1860,"US","Castleton","Edward","Edward H. Mills",42,,,"Clerk",,,,,"New York",,,
+1860,"US","Castleton","Mary","Mary A Mills",42,,,,,,,,"New York",,,
+1860,"US","Castleton","Jonas","Jonas E Mlls",8,,,,,,,,"New York","x",,
+1860,"US","Castleton","Horace","Horace F Mills",5,,,,,,,,"New York","x",,
+1860,"US","Castleton","Emily","Mary E Mills",1,1858,,,,,,,"New York",,,
 1870,"US","Pembroke","Edward","Mills Edward",51,,,"Dry goods dealer",,1000,5350,,"New York",,"x",
 1870,"US","Pembroke","Mary","Mills Mary A. ",51,,,"Keeping house",,,500,,"New York",,,
 1870,"US","Pembroke","Jonas","Mills Jonas E.",18,,,"At home",,,,,"New York","x",,

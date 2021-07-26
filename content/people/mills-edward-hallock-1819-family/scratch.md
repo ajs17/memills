@@ -316,8 +316,15 @@ Hannah had no children from her previous marriage to Charles.
 http://www.gahwny.org/historians-genesee.html
 
 
-## Cornell Library
 
+Mary T. Lathrop
+Mary T. Lathrap
+
+Bartlett Brown's grocery store is listed as being at "114 Broadway W N B" (West New Brighton) in the 1880's. Amazingly, Broadway, Castleton Avenue, Henderson Avenue, Burgher Avenue and Richmond Terrace all tertain the same names, courses and configurations today as they did on this map. The star locates 114 Broadway according to Google Maps (at approximately 40.63875603432967, -74.11794903168551). Of course we can't say for certain (yet) that this is the same location where Edward was clerk nor do we know where the residence was in relation to the store.
+
+
+## Cornell Library
+F
 Subject searches:
   - Caroline (N.Y.): https://newcatalog.library.cornell.edu/catalog?utf8=%E2%9C%93&click_to_search=true&total=5&q=caroline+%28N.Y.%29&search_field=subject
   - Brooktondale (N.Y.): https://newcatalog.library.cornell.edu/?click_to_search=true&commit=search&q=%22Brooktondale+%28N.Y.%29%22&search_field=subject_cts
@@ -967,13 +974,14 @@ Call Hallockville and they will put you in touch with the appropriate person on 
 - **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, October 27, 1876).
 
 
+
 calvin mills, check against gloverville 
 https://nyshistoricnewspapers.org/lccn/sn83031157/1894-03-21/ed-1/seq-3/#date1=01/01/1879&city=&date2=12/31/1908&searchType=advanced&SearchType=prox5&sequence=0&lccn=&index=4&words=Edward+H+Mills&proxdistance=5&county=Tompkins&to_year=1908&rows=20&ortext=&from_year=1879&proxtext=edward+h+mills&phrasetext=&andtext=&dateFilterType=range&page=1
 
 
 
 mention of emily's store
-from The Ithaca Daily Journal, 26 Aug 1909, pg 5
+from The Ithaca Daily Journal, 26 Aug 1909, pg 5, "Early History of Brookton Village"
 
 Ancestry.com. U.S., Civil War Draft Registrations Records, 1863-
 
@@ -1056,3 +1064,210 @@ However, as yet, she has not been able to find anything.
 Thank you in advance for any help you can provide. If you are interested, my research notes are at memills.com .
 
 sent 7/21/2021
+
+
+---
+staten island
+
+--
+charles m pine
+BIRTH	1812
+DEATH	8 Oct 1897 (aged 84–85)
+
+postmaster 16 Dec 1850 until 26 Oct 1853
+
+Richmond County
+(est. November 1, 1683, original county)
+Nineteenth Century Post Offices
+
+Empire State Postal History Society 
+
+https://www.findagrave.com/memorial/199952123/charles-m-pine
+
+Although Charles is listed as co-owner of E. H. Mills & Co. in Corfu, there is no evidence that he ever lived in Corfu, and may have simply been an investor in the business. By 1870, Charles is listed in the Federal Census as a retired grocer.
+
+
+Ch M Pine
+Gender:	Male
+Age:	39
+Birth Year:	abt 1811
+Birthplace:	New York
+Home in 1850:	Castleton, Richmond, New York, USA
+Occupation:	Farmer
+Industry:	Agriculture
+Real Estate:	4000
+Line Number:	23
+Dwelling Number:	89
+Family Number:	80
+
+Name:	Charles M Pine
+Age in 1870:	58
+Birth Date:	abt 1812
+Birthplace:	New York
+Dwelling Number:	1127
+Home in 1870:	Castleton, Richmond, New York
+Race:	White
+Gender:	Male
+Post Office:	Tompkinsville S I
+Occupation:	Grocer (Ret)
+Male Citizen Over 21:	Yes
+Personal Estate Value:	12000
+Real Estate Value:	12000
+Inferred Spouse:	
+Elmira J Pine
+Inferred Children:	
+C Theoda Pine
+
+
+Public Domain
+File:Richmond County (Staten Island) cropped from Richmond Queens Kings counties map by David Burr 1839.jpg
+Created: 1 January 1839
+
+David Burr - https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~296698~90068097
+
+https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~296698~90068097
+Map of the Counties of New York, Queens, Kings, and Richmond.
+
+Pub Title:
+An Atlas Of The State of New York, Containing A Map of the State And Of The Several Counties ... under the superintendance & direction of Simeon DeWitt, Surveyor General, pursuant to an Act of the Legislature, And also the Physical Geography of the State & of the several Counties & Statistical Tables of the Same, By David H. Burr. New York, Published by David H. Burr. 1829. RePublished At Ithaca, N.Y. By Stone And Clark With Corrections And Improvements. 1840. Engravd. by Rawdon, Clark & Co. Albany & Rawdon, Wright & Co., New York.
+
+
+Author:
+Burr, David H., 1803-1875
+Date:
+1839
+Short Title:
+Map of the Counties of New York, Queens, Kings, and Richmond.
+Publisher:
+Stone & Clark
+Publisher Location:
+Ithaca
+
+
+Bartlett Brown
+
+Title: Staten Island, New York, City Directory, 1890
+
+Source Information
+Ancestry.com. U.S., City Directories, 1822-1995 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2011.
+Original data:Original sources vary according to directory. The title of the specific directory being viewed is listed at the top of the image viewer page. Check the directory title page image for full title and publication information.
+
+
+Bartlett Brown
+in the Staten Island, New York Directory, 1886
+
+No record imageStaten Island, New York Directory, 1886
+ Report a problem
+DetailSource
+Name:	Bartlett Brown
+Location 1:	114 Bdway
+City:	Staten Island
+State:	NY
+Occupation:	grocer
+Year:	1886
+Location 2:	State n Casav, West New Brighton
+
+
+Name:	Bartlett Brown Sr
+Gender:	Male
+Race:	White
+Marital status:	Married
+Age:	69
+Birth Date:	abt 1833
+Birth Place:	USA
+Residence Street Address:	State St West Brighton
+Death Date:	24 Nov 1902
+Death Street Address:	State St West Brighton
+Death Place:	New York City, Richmond, New York, USA
+Death City Ward:	1
+Cause of Death:	Newgrowth of Panereas Abstructure ??Dice
+Burial Date:	27 Nov 1902
+Burial Place:	Moravian Cemetery
+Occupation:	Retired Grocer
+Father's Birth Place:	USA
+Mother's Birth Place:	USA
+Father:	Abram Brown
+Mother:	Hannah Brown
+Certificate Number:	1160
+
+Cemetery:	Moravian Cemetery
+Burial or Cremation Place:	New Dorp, Richmond County (Staten Island), New York, United States of America
+Has Bio?:	N
+URL:	
+https://www.findagrave.com/memorial/199802084/bartlett-brown
+
+Perhaps not surprisingly, there are lists of common city directory abbreviations online, and "h" stands for "house", as you might expect, and "n" could mean "North" but most likley should be read as "near". On the map, the intersection of Castleton Avenue and State is indicated. Further research is needed to know if this was also the location where the Mills lived, but there would seem to be a reasonable probability it is.
+
+
+
+
+Bartlett Brown, Factoryville in "Residence" column of tax assessment
+
+The National Archives and Records Administration; Washington, D.C.; Internal Revenue Assessment Lists for New York and New Jersey, 1862-1866; Series: M603; Roll: 38; Description: District 1; Annual Lists; 1862-1863; Record Group: 58, Records of the Internal Revenue Service, 1791 - 2006. image cropped from original, ancestry.com
+
+
+
+
+https://www.findagrave.com/memorial/199802084/bartlett-brown
+
+Sidney T. Brown, single, clerk born 1844
+
+civil war registration:
+National Archives and Records Administration (NARA); Washington, D.C.; Consolidated Lists of Civil War Draft Registration Records (Provost Marshal General's Bureau; Consolidated Enrollment Lists, 1863-1865); Record Group: 110, Records of the Provost Marshal General's Bureau (Civil War); Collection Name: Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records); NAI: 4213514; Archive Volume Number: 1 of 3
+
+Sarah A Brown
+BIRTH	1833
+DEATH	4 Sep 1916 (aged 82–83)
+BURIAL	
+Moravian Cemetery
+
+
+
+---- 
+charles pine
+
+
+Charles M Pine
+Gender:	Male
+Marriage Date:	5 Feb 1902
+Marriage Place:	Manhattan, New York, USA
+Spouse:	Nora Long
+Certificate Number:	2732
+
+Name:	Charles M. Pine
+Death Date:	8 Oct 1897
+Death Place:	Port Richmond, New York, USA
+
+
+Name:	Charles M Pine
+Birth Date:	1812
+Death Date:	8 Oct 1897
+Cemetery:	Moravian Cemetery
+Burial or Cremation Place:	New Dorp, Richmond County (Staten Island), New York, United States of America
+Has Bio?:	N
+URL:	
+https://www.findagrave.com/memorial/199952123/charles-m-pine
+
+---
+Charles M Pine
+Gender:	Male
+Residence Year:	1890
+Street Address:	183 Rich ter W N B
+Residence Place:	Staten Island, New York, USA
+Publication Title:	Staten Island, New York, City Directory, 1890
+
+Source Citation 
+Description
+Title: Staten Island, New York, City Directory, 1890
+
+Source Information
+Ancestry.com. U.S., City Directories, 1822-1995 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2011.
+Original data:Original sources vary according to directory. The title of the specific directory being viewed is listed at the top of the image viewer page. Check the directory title page image for full title and publication information.
+
+Source Description
+This database is a collection of city directories for various years and cities in the U.S. Generally a city directory will contain an alphabetical list of its citizens, listing the names of the heads of households, their addresses, and occupational information.
+
+
+---
+
+This database is a collection of city directories for various years and cities in the U.S. Generally a city directory will contain an alphabetical list of its citizens, listing the names of the heads of households, their addresses, and occupational information.

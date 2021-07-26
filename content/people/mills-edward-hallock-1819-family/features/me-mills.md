@@ -25,13 +25,7 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 {{% mefig "1914-03-24-ithaca-journal" "350" /%}}
 {{% mefig "1914-10-10-ithaca-journal" "350" /%}}
 {{% mefig "1914-10-23-ithaca-journal" "350" /%}}
-
-{{% mefig "1914-11-14-ithaca-journal" "350" %}}
-<footer>
-A large advertisement in The Ithaca Journal for White House Coffee lists area stores where the product can be purchased, M. E. Mills among them.
-</footer>
-{{% /mefig %}}
-
+{{% mefig "1914-11-14-ithaca-journal" "350"/ %}}
 {{% mefig "1915-07-24-ithaca-journal" "350" /%}}
 {{% mefig "1916-08-08-ithaca-journal" "350" /%}}
 {{% mefig "1915-04-07-ithaca-journal" "350" /%}}
