@@ -11,7 +11,7 @@ It is really in Brookton where we get a sense of the family's finances through p
 
 This event took place at a time when Emily was identified as "clerk" in E. H. Mills:
 
-{{% mefig "1897-03-18-ithaca-daily-journal" "350" /%}}
+{{% mefig "1897-03-18-ithaca-daily-journal" "300" /%}}
 
 *M. E. Mills* is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village".
 
@@ -21,20 +21,20 @@ These records show us how Emily's store accounting evolved over time, beginning 
 
 We know a great deal about Emily through the activities of M. E. Mills, which Emily made a community focal point as a natural consequence of her many interests and activities, and intentional or not, had to have been excellent marketing for her store. (My impressions are that Emily did indeed consider every opportunity to volunteer her store for free press and increased foot traffic.)
 
-{{% mefig "1914-02-23-ithaca-journal" "350" /%}}
-{{% mefig "1914-03-24-ithaca-journal" "350" /%}}
-{{% mefig "1914-10-10-ithaca-journal" "350" /%}}
-{{% mefig "1914-10-23-ithaca-journal" "350" /%}}
-{{% mefig "1914-11-14-ithaca-journal" "350"/ %}}
-{{% mefig "1915-07-24-ithaca-journal" "350" /%}}
-{{% mefig "1916-08-08-ithaca-journal" "350" /%}}
-{{% mefig "1915-04-07-ithaca-journal" "350" /%}}
-{{% mefig "1925-03-13-ithaca-journal" "350" /%}}
-{{% mefig "1926-04-07-ithaca-journal" "350" /%}}
-{{% mefig "1935-10-25-ithaca-journal" "350" /%}}
-{{% mefig "1935-10-28-ithaca-journal" "350" /%}}
-{{% mefig "1935-10-29-ithaca-journal" "350" /%}}
-{{% mefig "1936-06-20-ithaca-journal" "350" /%}}
+{{% mefig "1914-02-23-ithaca-journal" "300" /%}}
+{{% mefig "1914-03-24-ithaca-journal" "300" /%}}
+{{% mefig "1914-10-10-ithaca-journal" "300" /%}}
+{{% mefig "1914-10-23-ithaca-journal" "300" /%}}
+{{% mefig "1914-11-14-ithaca-journal" "300"/ %}}
+{{% mefig "1915-07-24-ithaca-journal" "300" /%}}
+{{% mefig "1916-08-08-ithaca-journal" "300" /%}}
+{{% mefig "1915-04-07-ithaca-journal" "300" /%}}
+{{% mefig "1925-03-13-ithaca-journal" "300" /%}}
+{{% mefig "1926-04-07-ithaca-journal" "300" /%}}
+{{% mefig "1935-10-25-ithaca-journal" "300" /%}}
+{{% mefig "1935-10-28-ithaca-journal" "300" /%}}
+{{% mefig "1935-10-29-ithaca-journal" "300" /%}}
+{{% mefig "1936-06-20-ithaca-journal" "300" /%}}
 
 Two articles in the Jul 14, 1934 (page 3) and Nov 20, 1934 (page  5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendents of the accused.
 

@@ -5,7 +5,7 @@ date: "2021-05-25"
 weight: 5
 ---
 
-Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937, who went by Emily, was the youngest child of Edward H. and Mary Ann Mills. Owner of [**M. E. Mills**]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the temperance movement and Sunday School teacher and piano player in Brooktonale Congregational Church.
+Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY, who went by Emily, was the youngest child of Edward H. and Mary Ann Mills. Owner of [**M. E. Mills**]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the temperance movement as well as Sunday School teacher and piano player in Brooktonale Congregational Church.
 
 <!--more-->
 
@@ -33,21 +33,21 @@ We don't know exactly when the family moved to Corfu; census records indicate th
 
 Emily would return to Corfu in later years to bury Jonas, Mary Ann and Edward. But it would seem that she also returned to visit her school friends, at least this one time, surely with many mixed emotions.
 
-{{% mefig "1882-07-21-batavia-daily-news" "350" /%}}
+{{% mefig "1882-07-21-batavia-daily-news" "300" /%}}
 
 The only thing we really know about Emily's earliest years in Mott's Corners/Brookton is that she was active in the local "lodge" of the [Independent Order of Good Templars]({{% ref "features/temperance" %}}), a local temperance organization. At least by the 1890's, she was working as a clerk in her father's store.
 
 And another glimpse into Emily's personal life:
 
-{{% mefig "mills-emily-arthurs-home-magazine" "350" /%}}
+{{% mefig "mills-emily-arthurs-home-magazine" "300" /%}}
 
 {{% mefig "1895-12-31-daily-news-p1" /%}}
 
 In 1907, Emily would officially join the membership roll of Brookton Congregational Church, along with 10 other single women, in a ceremony officiated by Reverend Annis Ford Eastman. Less than a year later, her father would pass and she would make another heartbreaking trip to Evergreen Hill Cemetery in Corfu.
 
 {{% mefig "mills-emily-cvcc-baptism" "800" "img,blockquote,figcaption" /%}}
-{{% mefig "1908-01-06-ithaca-daily-journal" "350" /%}}
-{{% mefig "1908-01-06-batavia-daily-news-p4" "350" /%}}
+{{% mefig "1908-01-06-ithaca-daily-journal" "300" /%}}
+{{% mefig "1908-01-06-batavia-daily-news-p4" "300" /%}}
 
 Edward died "intestate", without a will, and until 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills Home and Mills Store. Emily followed her father's example and renamed the store *M. E. Mills*. When Hannah passed less than a decade later, Emily would inherit everything.
 
@@ -78,35 +78,35 @@ These descriptions of Emily's demeanor are consistent with the personal recollec
 
 Due to the level of detail given to the context of this story, I am choosing to include the entire text and not just Emily's section:
 
-{{% mefig "1909-01-15-ithaca-daily-journal" "350" /%}}
-{{% mefig "1913-12-06-ithaca-daily-journal" "350" /%}}
-{{% mefig "1917-03-20-ithaca-journal" "350" /%}}
-{{% mefig "1918-10-15-ithaca-journal" "350" /%}}
-{{% mefig "1923-04-24-ithaca-journal" "350" /%}}
-{{% mefig "1924-05-10-ithaca-journal""350" /%}}
-{{% mefig "1924-10-14-ithaca-journal" "350" /%}}
-{{% mefig "1926-10-30-ithaca-journal" "350" /%}}
-{{% mefig "1931-02-02-ithaca-journal" "350" /%}}
-{{% mefig "1935-12-05-ithaca-journal" "350" /%}}
-{{% mefig "1936-06-22-ithaca-journal" "350" /%}}
-{{% mefig "1937-02-09-ithaca-journal" "350" /%}}
+{{% mefig "1909-01-15-ithaca-daily-journal" "300" /%}}
+{{% mefig "1913-12-06-ithaca-daily-journal" "300" /%}}
+{{% mefig "1917-03-20-ithaca-journal" "300" /%}}
+{{% mefig "1918-10-15-ithaca-journal" "300" /%}}
+{{% mefig "1923-04-24-ithaca-journal" "300" /%}}
+{{% mefig "1924-05-10-ithaca-journal""300" /%}}
+{{% mefig "1924-10-14-ithaca-journal" "300" /%}}
+{{% mefig "1926-10-30-ithaca-journal" "300" /%}}
+{{% mefig "1931-02-02-ithaca-journal" "300" /%}}
+{{% mefig "1935-12-05-ithaca-journal" "300" /%}}
+{{% mefig "1936-06-22-ithaca-journal" "300" /%}}
+{{% mefig "1937-02-09-ithaca-journal" "300" /%}}
 
 Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 78 years old, a few weeks shy of 79 years old..
 
-{{% mefig "1937-10-15-ithaca-journal" "350" /%}}
-{{% mefig "1937-10-20-ithaca-journal" "350" /%}}
-{{% mefig "1937-11-03-ithaca-journal" "350" /%}}
-{{% mefig "1937-11-04-ithaca-journal" "350" /%}}
-{{% mefig "1937-11-05-ithaca-journal" "350" /%}}
+{{% mefig "1937-10-15-ithaca-journal" "300" /%}}
+{{% mefig "1937-10-20-ithaca-journal" "300" /%}}
+{{% mefig "1937-11-03-ithaca-journal" "300" /%}}
+{{% mefig "1937-11-04-ithaca-journal" "300" /%}}
+{{% mefig "1937-11-05-ithaca-journal" "300" /%}}
 
 This moving tribute was authored by none other than E. D. Shurter, a Brookton native who was at different times, an attorney, a college professor and a nationally renowned orator and author. This is Emily's only known obituary and is referenced elsewhere as such:
 
-{{% mefig "1937-11-11-ithaca-journal" "350" /%}}
+{{% mefig "1937-11-11-ithaca-journal" "300" /%}}
 
 The professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, we can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't know some of the most important aspects of Emily's life, most notably, her charity, One senses that the professor understood he was writing what would be the definitive statement of her life for the ages, and indeed, in several histories where Emily is mentioned, her only description consists of the text of this tribute, in its entirety, without further comment. 
 
-{{% mefig "1937-11-26-ithaca-journal" "350" /%}}
-{{% mefig "1938-01-19-ithaca-journal" "350" /%}}
+{{% mefig "1937-11-26-ithaca-journal" "300" /%}}
+{{% mefig "1938-01-19-ithaca-journal" "300" /%}}
 
 ## Other Historical Accounts
 
@@ -141,7 +141,7 @@ This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosen
 The postoffice has moved at least 3 times. This is the 3rd site.Between the Post Office and the bridge sat the Shurter House which was moved.
 </blockquote>
 
-(I tried to faithfully reproduce the punctuation, spacing, etc. of the source.)
+(I tried to faithfully reproduce the punctuation, capitalization, spacing, etc. of the source.)
 
 *M. E. Mills* is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village".
 

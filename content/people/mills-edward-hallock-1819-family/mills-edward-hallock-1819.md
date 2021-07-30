@@ -11,7 +11,7 @@ Edward Hallock Mills, born 25 Mar 1819, Smithtown, NY, died 01 Jan 1908, Brookto
 
 From his birthplace of Smithtown NY, Edward would be living in [Factoryville (West New Brighton) Staten Island]({{% ref "features/staten-island" %}}) by the time he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in 1851.
 
-{{% mefig "1851-01-03-Brooklyn-Daily-Eagle" "350" /%}}
+{{% mefig "1851-01-03-Brooklyn-Daily-Eagle" "300" /%}}
 
 All of the Mills children would be born in Staten Island and the family would live there until at least the Summer of 1860, according to census data. By that point, Edward was working as a clerk in the grocery store of Bartlett Brown and living in his home adjoining the store. 
 
@@ -54,14 +54,14 @@ Age: 72
 </figure>
 
 <div class="gallery">
-{{% mefig "1896-nys-marriage-index-241" "200" /%}}
-{{% mefig "1896-nys-marriage-index-563" "200" /%}}
-{{% mefig "1896-nys-marriage-index-816" "200" /%}}
+{{% mefig "1896-nys-marriage-index-241" "150" /%}}
+{{% mefig "1896-nys-marriage-index-563" "150" /%}}
+{{% mefig "1896-nys-marriage-index-816" "150" /%}}
 </div>
 
-{{% mefig "1908-01-06-ithaca-daily-journal" "350" /%}}
-{{% mefig "1908-01-06-batavia-daily-news-p4" "350" /%}}
-{{% mefig "george-jansen-ehmills-entry" "350" /%}}
+{{% mefig "1908-01-06-ithaca-daily-journal" "300" /%}}
+{{% mefig "1908-01-06-batavia-daily-news-p4" "300" /%}}
+{{% mefig "george-jansen-ehmills-entry" "300" /%}}
 {{% mefig "mills-edward-mary-cvcc-obit" /%}}
 
 ## Notes for Future Researchers
@@ -73,11 +73,11 @@ There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversvill
 
 The members of this family can just barely be made out in the 1875 New York State Census in Fulton County:
 
-{{% mefig "census/census-1875b-nys" "350" /%}}
+{{% mefig "census/census-1875b-nys" "300" /%}}
 
  Edward Hallock's family are accounted for in the same census in Genesee County:
  
- {{% mefig "census/census-1875a-nys" "350" /%}}
+ {{% mefig "census/census-1875a-nys" "300" /%}}
  
 
 

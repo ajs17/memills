@@ -19,10 +19,10 @@ Temperance groups don't appear to be very strong here. The only mention I found 
 {{% mefig "good-templars-form-inside" /%}}
 {{% mefig "good-templars-form-outside" /%}}
 
-{{% mefig "1914-05-22-ithaca-journal" "350" /%}}
-{{% mefig "1915-02-09-ithaca-journal" "350" /%}}
-{{% mefig "1915-02-12-ithaca-journal" "350" /%}}
-{{% mefig "1917-02-27-ithaca-journal" "350" /%}}
+{{% mefig "1914-05-22-ithaca-journal" "300" /%}}
+{{% mefig "1915-02-09-ithaca-journal" "300" /%}}
+{{% mefig "1915-02-12-ithaca-journal" "300" /%}}
+{{% mefig "1917-02-27-ithaca-journal" "300" /%}}
 
-{{% mefig "1919-08-15-ithaca-journal" "350" /%}}
-{{% mefig "1919-08-23-ithaca-journal" "350" /%}}
+{{% mefig "1919-08-15-ithaca-journal" "300" /%}}
+{{% mefig "1919-08-23-ithaca-journal" "300" /%}}

@@ -1271,3 +1271,20 @@ This database is a collection of city directories for various years and cities i
 ---
 
 This database is a collection of city directories for various years and cities in the U.S. Generally a city directory will contain an alphabetical list of its citizens, listing the names of the heads of households, their addresses, and occupational information.
+
+
+
+---
+
+Good templars
+
+
+Donna Eschenbrenner
+7/26/2021 email
+to me
+
+Hi Adam,
+
+Unfortunately we don't have an accession number on that ledger, so we don't know the donor.
+
+Sincerely,

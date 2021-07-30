@@ -10,12 +10,12 @@ cascade:
 ## Genealogy
 
 Edward H. Mills has partial entries on at least two Mills family genealogies:
-  1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
-  2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-2000 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
+  1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 1503.
+  2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
 
 <div class="gallery">
-{{% mefig "genealogy/1939-source2-pagea" "320" "img" /%}}
-{{% mefig "genealogy/1939-source2-pageb" "320" "img" /%}}
+{{% mefig "genealogy/1939-source2-pagea" "300" "img" /%}}
+{{% mefig "genealogy/1939-source2-pageb" "300" "img" /%}}
 </div>
 
 What follow is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents, and further supplementing with what we think we know of Edward's family.
@@ -115,17 +115,17 @@ The following represents a summary of all of the data that I have been able to a
 The source documents are:
 
 <div class="gallery">
-{{% mefig "census/census-1860-us" "200" /%}}
-{{% mefig "census/census-1870-us" "200" /%}}
-{{% mefig "census/census-1875a-nys" "200" /%}}
-{{% mefig "census/census-1880-us" "200" /%}}
-{{% mefig "census/census-1892a-nys" "200" /%}}
-{{% mefig "census/census-1892b-nys" "200" /%}}
-{{% mefig "census/census-1900-us" "200" /%}}
-{{% mefig "census/census-1910-us" "200" /%}}
-{{% mefig "census/census-1915-nys" "200" /%}}
-{{% mefig "census/census-1920-us" "200" /%}}
-{{% mefig "census/census-1930-us" "200" /%}}
+{{% mefig "census/census-1860-us" "150" /%}}
+{{% mefig "census/census-1870-us" "150" /%}}
+{{% mefig "census/census-1875a-nys" "150" /%}}
+{{% mefig "census/census-1880-us" "150" /%}}
+{{% mefig "census/census-1892a-nys" "150" /%}}
+{{% mefig "census/census-1892b-nys" "150" /%}}
+{{% mefig "census/census-1900-us" "150" /%}}
+{{% mefig "census/census-1910-us" "150" /%}}
+{{% mefig "census/census-1915-nys" "150" /%}}
+{{% mefig "census/census-1920-us" "150" /%}}
+{{% mefig "census/census-1930-us" "150" /%}}
 </div>
 
 {{% list-children "" "Family Members" %}}
@@ -145,7 +145,7 @@ We actually have copious amounts of Emily's handwriting spanning many decades:
   - A notebook of meeting minutes for the temperance organization The Independent Order of Good Templars, beginning in the early 1880's. A number of entries are written in Emily's hand while she was secretary. There is also an original copy of a form filed with the organization written by her. These items are kept in the Tompkins County Historical Society archives. 
   - The sales ledgers of M. E. Mills general store from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store several decades later, thanks to then owner Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph several of the books. The ledgers are in excellent condition, and we can match Emily's handwriting to the known examples from the Good Templars notes. 
   
-*A Note on Emily Mills*, mentions "a little leatherette booklet" M. E. Mills printed on it, and Molly's research notes indicate that this item was donated to the Caroline History Room in March 2002, but as of an inquiry in 2021, it could not be located.
+*A Note on Emily Mills*, mentions "a little leatherette booklet" M. E. Mills printed on it, and Molly's research notes indicate that this item was donated to the Caroline History Room in March 1502, but as of an inquiry in 2021, it could not be located.
 
 A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shurter in the Cornell University Library archives did not yield any photos or other documentation related to the Mills family. In fact, the Brookton/Caroline related materials were in the minority, and there were few original photographic prints overall.
 

@@ -14,9 +14,9 @@ For our immediate purposes here, we will focus on the period of Ellen's life tha
 
 It isn't clear when Ellen started living in the Mills Home, but it would appear she lived there roughly a decade, or possibly a dozen years. In late 1914, when Ellen is first mentioned in relation to the Mills, Ellen had been widowed a second time, and it is in the final few years of Hannah's life. Ellen was getting older herself, and this arrangement would have greatly helped Emily care for Hannah, and also provided Ellen with additional social and financial support. It had the added benefit of being a short walk from her son Myron Predmore's farm, located near Brookton Depot, in the area where the gravel pit is today.
 
-{{% mefig "1914-10-26-ithaca-journal" "350" /%}}
-{{% mefig "1914-10-31-ithaca-journal" "350" /%}}
-{{% mefig "1914-12-05-ithaca-journal" "350" /%}}
+{{% mefig "1914-10-26-ithaca-journal" "300" /%}}
+{{% mefig "1914-10-31-ithaca-journal" "300" /%}}
+{{% mefig "1914-12-05-ithaca-journal" "300" /%}}
 
 Ellen would have been well known to Hannah in particular, as both were active in the local Women's Christian Temperance Union. Both women were born in England, and Ellen at least, spoke with an English accent. Ellen's temperament also sounds like it would have been very compatible with what we know of Hannah and Emily:
 
@@ -31,40 +31,40 @@ My mother was born in 1916 and had only two memories of Ellen. That she was very
 
 In Gertrude Conant's recollections, she makes reference to Ellen and her relationship with Emily in the years after Hannah's death:
 
-<blockquote style="width: 350px">[Emily] had a woman who lived in and kept house for and cooked the meals, and would stay in the store while she ate lunch and supper. I can't remember her name, but she looked a great deal like Miss Mills.</blockquote>
+<blockquote style="width: 300px">[Emily] had a woman who lived in and kept house for and cooked the meals, and would stay in the store while she ate lunch and supper. I can't remember her name, but she looked a great deal like Miss Mills.</blockquote>
 
-{{% mefig "conant-gertrude-1" "350" "img,figcaption" /%}}
+{{% mefig "conant-gertrude-1" "300" "img,figcaption" /%}}
 
 However, as the following reporting makes clear, the relationship between Emily and Ellen seems considerably more than that of employer and employee. They were likely well acquainted before Ellen moved in, and they would live together for more than a decade during which every major area of their lives seemed to have been intertwined, including many temperance and prayer meetings in the home. Ellen would tend the house and mind the store, and she and Emily also socialized together, although we don't know how regularly. The women were only a decade apart in age.
 
-{{% mefig "1917-03-20-ithaca-journal" "350" /%}}
-{{% mefig "1917-12-13-ithaca-journal" "350" /%}}
-{{% mefig "1919-08-15-ithaca-journal" "350" /%}}
-{{% mefig "1919-08-23-ithaca-journal" "350" /%}}
-{{% mefig "1923-04-24-ithaca-journal" "350" /%}}
-{{% mefig "1924-02-27-ithaca-journal" "350" /%}}
-{{% mefig "1924-09-04-ithaca-journal" "350" /%}}
-{{% mefig "1925-01-14-ithaca-journal" "350" /%}}
-{{% mefig "1925-03-11-ithaca-journal" "350" /%}}
-{{% mefig "1925-04-08-ithaca-journal" "350" /%}}
-{{% mefig "1925-12-17-ithaca-journal" "350" /%}}
-{{% mefig "1926-01-12-ithaca-journal" "350" /%}}
+{{% mefig "1917-03-20-ithaca-journal" "300" /%}}
+{{% mefig "1917-12-13-ithaca-journal" "300" /%}}
+{{% mefig "1919-08-15-ithaca-journal" "300" /%}}
+{{% mefig "1919-08-23-ithaca-journal" "300" /%}}
+{{% mefig "1923-04-24-ithaca-journal" "300" /%}}
+{{% mefig "1924-02-27-ithaca-journal" "300" /%}}
+{{% mefig "1924-09-04-ithaca-journal" "300" /%}}
+{{% mefig "1925-01-14-ithaca-journal" "300" /%}}
+{{% mefig "1925-03-11-ithaca-journal" "300" /%}}
+{{% mefig "1925-04-08-ithaca-journal" "300" /%}}
+{{% mefig "1925-12-17-ithaca-journal" "300" /%}}
+{{% mefig "1926-01-12-ithaca-journal" "300" /%}}
 
 As we can see from the reporting fo the day, sometime later in 1926 or early in 1927, Ellen moved out of the Mills home to live with her family for the last few years of her life. It looks as though she may have spent a signficant amount of time at her son Myron Predmore's home before finally settling with her daughter Clara. Ellen is mentione often in the "gossip columns" of the day, but these are some of the more telling stories as to where she was living:
 
-{{% mefig "ellen-gould/1926-09-25-ithaca-journal-p3" "350" /%}}
-{{% mefig "ellen-gould/1926-10-01-ithaca-journal-p3" "350" /%}}
+{{% mefig "ellen-gould/1926-09-25-ithaca-journal-p3" "300" /%}}
+{{% mefig "ellen-gould/1926-10-01-ithaca-journal-p3" "300" /%}}
 
-{{% mefig "ellen-gould/1926-11-04-ithaca-journal-p12" "350" /%}}
-{{% mefig "ellen-gould/1927-03-22-ithaca-journal-p12" "350" /%}}
-{{% mefig "ellen-gould/1927-03-30-ithaca-journal-p12" "350" /%}}
-{{% mefig "ellen-gould/1927-04-04-ithaca-journal-p12" "350" /%}}
+{{% mefig "ellen-gould/1926-11-04-ithaca-journal-p12" "300" /%}}
+{{% mefig "ellen-gould/1927-03-22-ithaca-journal-p12" "300" /%}}
+{{% mefig "ellen-gould/1927-03-30-ithaca-journal-p12" "300" /%}}
+{{% mefig "ellen-gould/1927-04-04-ithaca-journal-p12" "300" /%}}
 
 Although she had repeated boughts of illness, Ellen appears to have been active to the end:
 
-{{% mefig "ellen-gould/1929-10-02-ithaca-journal-p12" "350" /%}}
-{{% mefig "ellen-gould/1929-10-31-ithaca-journal-p5" "350" /%}}
-{{% mefig "ellen-gould/1929-11-07-ithaca-journal-p14" "350" /%}}
+{{% mefig "ellen-gould/1929-10-02-ithaca-journal-p12" "300" /%}}
+{{% mefig "ellen-gould/1929-10-31-ithaca-journal-p5" "300" /%}}
+{{% mefig "ellen-gould/1929-11-07-ithaca-journal-p14" "300" /%}}
 
 Ellen is [interred](https://www.findagrave.com/memorial/35944445/ellen-jane-predmore) at Seneca Union Cemetery, Valois, NY.
 
