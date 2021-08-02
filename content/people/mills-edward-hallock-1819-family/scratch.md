@@ -1226,19 +1226,6 @@ Moravian Cemetery
 ---- 
 charles pine
 
-
-Charles M Pine
-Gender:	Male
-Marriage Date:	5 Feb 1902
-Marriage Place:	Manhattan, New York, USA
-Spouse:	Nora Long
-Certificate Number:	2732
-
-Name:	Charles M. Pine
-Death Date:	8 Oct 1897
-Death Place:	Port Richmond, New York, USA
-
-
 Name:	Charles M Pine
 Birth Date:	1812
 Death Date:	8 Oct 1897
