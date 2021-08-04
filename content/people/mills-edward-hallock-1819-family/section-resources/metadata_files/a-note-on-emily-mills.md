@@ -38,7 +38,7 @@ store for 29 years (and was postmaster during the Cleveland administration), but
 don’t know if it was always in this location. The family lived across the street in a
 house built on "part of the Grist Mill Lot" [the Grist Mill foundation supports the
 current Dalebrook Apartments]. In 1891 the house was owned by Esther Vorhis, but
-twas occupied by E. H. Mills "as tenant." The house lot was measured starting at "the
+was occupied by E. H. Mills "as tenant." The house lot was measured starting at "the
 Center of the bridge crossing the Mill race." The property was sold to Mr. Mills by
 Edward and Amanda Lounsbery in 1903.
 

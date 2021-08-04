@@ -75,7 +75,7 @@ The members of this family can just barely be made out in the 1875 New York Stat
 
 {{% mefig "census/census-1875b-nys" "300" /%}}
 
- Edward Hallock's family are accounted for in the same census in Genesee County:
+Edward Hallock's family are accounted for in the same census in Genesee County:
  
  {{% mefig "census/census-1875a-nys" "300" /%}}
  

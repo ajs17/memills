@@ -10,7 +10,7 @@ cascade:
 ## Genealogy
 
 Edward H. Mills has partial entries on at least two Mills family genealogies:
-  1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 1503.
+  1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
   2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
 
 <div class="gallery">
