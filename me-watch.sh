@@ -1,5 +1,11 @@
 #!/bin/bash
-# run in the directory to watch
+# run in top level headless resource folder 
+# containing /data and /metadata folders
+# watch for new images and when one is found,
+# create a corresponding stub metadata file (if it doesn't already exist)
+# the filename of which is based on a naming convention on the image file
+#
+# and add the appropriate shortcode to the clipboard
 
 # SCRIPTDIR="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
@@ -11,9 +17,12 @@ touch $CITEFILE
 
 CLIP=`xclip -sel clip -o`
 echo "clip contains: $CLIP"
+# check to see if this looks like a URL
+# this prevents errors if the clipboard is overwritten 
+# with figure code still, or something else
 if [[ "$CLIP" =~ \.[a-z]{2,3}$ ]]; then
   echo "Setting clipped citation: $CLIP"
-  echo $CLIP > $CITEFILE
+  echo $CLIP >> $CITEFILE
 fi
 
 echo "$CLIP will now be used until changed with me-clip"
@@ -51,12 +60,13 @@ while true; do
       NAME=`echo $BASENAME | cut -c12-`
       NAME=${NAME//-/ }
       
-      CITE=`cat $CITEFILE`
+      SRCBASEDOMAIN=`tail -1 $CITEFILE`
       # echo "DATE is $DATE"
       # echo "NAME is $NAME"
 
-      MDCONTENT="---\ncitation: \"$DATE, $NAME, $CITE\"\n---\n"
+      MDCONTENT="---\ncitation: \"$DATE, $NAME, $SRCBASEDOMAIN\"\n---\n"
       echo -e $MDCONTENT > $MDFILE
+      echo "opening $MDFILE"
       code $MDFILE
     fi
     

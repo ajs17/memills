@@ -11,7 +11,7 @@ Edward Hallock Mills, born 25 Mar 1819, Smithtown, NY, died 01 Jan 1908, Brookto
 
 From his birthplace of Smithtown NY, Edward would be living in [Factoryville (West New Brighton) Staten Island]({{% ref "features/staten-island" %}}) by the time he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in 1851.
 
-{{% mefig "1851-01-03-Brooklyn-Daily-Eagle" "300" /%}}
+{{% mefig "1851-01-03-Brooklyn-Daily-Eagle" "400" /%}}
 
 All of the Mills children would be born in Staten Island and the family would live there until at least the Summer of 1860, according to census data. By that point, Edward was working as a clerk in the grocery store of Bartlett Brown and living in his home adjoining the store. 
 
@@ -59,10 +59,12 @@ Age: 72
 {{% mefig "1896-nys-marriage-index-816" "150" /%}}
 </div>
 
-{{% mefig "1908-01-06-ithaca-daily-journal" "300" /%}}
-{{% mefig "1908-01-06-batavia-daily-news-p4" "300" /%}}
-{{% mefig "george-jansen-ehmills-entry" "300" /%}}
+{{% mefig "george-jansen-ehmills-entry" "400" /%}}
+{{% mefig "1908-01-06-ithaca-daily-journal" "400" /%}}
+{{% mefig "1908-01-06-batavia-daily-news-p4" "400" /%}}
 {{% mefig "mills-edward-mary-cvcc-obit" /%}}
+
+Edward's death is recorded by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>.
 
 ## Notes for Future Researchers
 

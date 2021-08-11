@@ -16,7 +16,7 @@ The 1885 New York State Death Index lists Jonas as dying on October 14:
 
 However, the Ithaca Daily Journal reports he died on Tuesday, which in 1885 fell on the 13th. Both The Ithaca Daily Journal and The Daily News in Batavia agree that he was interred on Thursday 15 Oct 1885:
 
-{{% mefig "1885-10-15-ithaca-daily-journal" "300" /%}}
-{{% mefig "1885-10-16-batavia-daily-news-p1" "300" /%}}
+{{% mefig "1885-10-15-ithaca-daily-journal" "400" /%}}
+{{% mefig "1885-10-16-batavia-daily-news-p1" "400" /%}}
 
 Jonas is [interred](https://www.findagrave.com/memorial/75958930/jonas-e-mills) at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu, NY 14036.

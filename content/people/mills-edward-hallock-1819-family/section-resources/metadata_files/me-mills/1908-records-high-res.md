@@ -1,0 +1,28 @@
+---
+citation: "Dec 1907 - Jan 1908, E. H. Mills Family a/c, Mills Store Sales Journal #41, scanned image of book owned by Brooktondale collector."
+notes: >-
+    Notes:
+
+    - This page is the inside back cover of Volume 41 of the Mills store sales journals show the final days of E. H. Mills and the transition after Edward's death to M. E. Mills. These books are hardcover, cloth.
+
+    - While the normal sales logs are entered in the books as normal, the family account records start in the back and are filled in toward the front.
+
+    - The 22 Jan 1908 entry mentions Emily Hunting, who I believe may be a reference to Mary Emily Huntting (Smith) Cross (1875-1924), Emily's neice, whose mother was also named Mary, and so Emily's neice may have been called by her full middle name: "Emily Huntting" by family to distinguish her from her mother, just as Emily had. If this is Emily's neice, it is the only evidence of which I am aware that the Mills in Brookton kept in active contact with family in Long Island.
+
+    - The 23 Jan 1908 entry is presumably a reference to Ellen Gould.
+
+    - Note that we are essentially seeing Emily's grocery list after the fact. This is essentially a glimpse into her kitchen cupboard.
+---
+ 
+ (The following are selected transcriptions from 
+ the image adapted for this presentation format.)
+
+E. H. Mills Family a/c
+
+  - Died Jan 1st 1908
+  - 1908, Jan  6, Burial expenses, 33.17
+  - 1908, Jan 15, Tax on house (5.09)
+  - 1908, Jan 21, Paid Mr(s?) Woodworth for att. funeral, 3.00
+  - 1908, Jan 22, Lard (10) paid Emily Huntting, 10.00
+  - 1908, Jan 23, Sewing by Mrs. Gould,     0.75
+  - 1908, Feb 11, Paid Undertaker's bill, 63.00

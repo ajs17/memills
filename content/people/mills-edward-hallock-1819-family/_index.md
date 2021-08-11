@@ -14,8 +14,8 @@ Edward H. Mills has partial entries on at least two Mills family genealogies:
   2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
 
 <div class="gallery">
-{{% mefig "genealogy/1939-source2-pagea" "300" "img" /%}}
-{{% mefig "genealogy/1939-source2-pageb" "300" "img" /%}}
+{{% mefig "genealogy/1939-source2-pagea" "300" "img,link" /%}}
+{{% mefig "genealogy/1939-source2-pageb" "300" "img,link" /%}}
 </div>
 
 What follow is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents, and further supplementing with what we think we know of Edward's family.
@@ -53,7 +53,7 @@ Children:
   
 None of Edward's children married or had children.
 
-Edward married (2) **Hannah (Thatcher) Eastman Mills** (21 May 1824, died Brookton NY, 12 Feb 1917). Married on 30 Dec 1896. 
+Edward married (2) **Hannah (Thatcher) Eastman Mills** (born England, 21 May 1824, died Brookton NY, 12 Feb 1917). Married on 30 Dec 1896. 
 
   - No children.
 
@@ -143,7 +143,11 @@ Maps of Corfu from the time show the locations of E. H. Mills and the Mills' hom
 
 We actually have copious amounts of Emily's handwriting spanning many decades:
   - A notebook of meeting minutes for the temperance organization The Independent Order of Good Templars, beginning in the early 1880's. A number of entries are written in Emily's hand while she was secretary. There is also an original copy of a form filed with the organization written by her. These items are kept in the Tompkins County Historical Society archives. 
-  - The sales ledgers of M. E. Mills general store from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store several decades later, thanks to then owner Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph several of the books. The ledgers are in excellent condition, and we can match Emily's handwriting to the known examples from the Good Templars notes. 
+  - Approximately a dozen volumes of sales journals of M. E. Mills general store from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store several decades later, thanks to then owner Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph several of the books. The ledgers are in excellent condition, and we can match Emily's handwriting to the known examples from the Good Templars notes. Volume 41 is the most important as it shows the time and some details of Edward's death.
+
+A number of aspects of Emily's handwriting are quite distinctive—perhaps most notably when she writes a capital "T"—which makes her handwriting easily recognizable.
+
+The Tompkins County Historical Society archives also has at least two examples of postal stamps that bear Edward's name: "E. H. Mills, P. M.". Interestingly, these are envelopes with attached correspondence showing it was Good Templars business and associated with Emily.
   
 *A Note on Emily Mills*, mentions "a little leatherette booklet" M. E. Mills printed on it, and Molly's research notes indicate that this item was donated to the Caroline History Room in March 1502, but as of an inquiry in 2021, it could not be located.
 
@@ -175,7 +179,8 @@ I have already collected much of this information, its just a matter of getting 
   - Did Emily write Hannah's obituary?
   - Is Charles M. Pine, co-owner of E. H. Mills & Co. in Corfu, related to Edward's wife Mary Ann, whose maiden name is Pine?
   - Photo of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
-  - Verify if Emily was involved with W. C. T. U.
+  - Verify if Emily was involved with W. C. T. U. (Yes, verified in 1917 book in W.C.T.U. collection at Tompkins County History Center archives.)
+  - Charles Personius Mills?
 
 Horace's Death:
   - Presumably why the family moved *away from* Corfu?

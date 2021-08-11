@@ -3,7 +3,7 @@ title: "The Baptism of Emily Mills"
 weight: 2
 ---
 
-April 7, 1907, fifteen people are baptized in a service officiated by Reverend Annis Ford Eastman on one of her last visits to Brookton. Eleven of the participants, including Emily Mills, were unmarried women. 
+April 7, 1907, fifteen people are baptized at Brookton Congregational Church, in a service officiated by Reverend Annis Ford Eastman on one of her last visits to Brookton. Eleven of the participants, including Emily Mills, were unmarried women. 
 
 <!--more-->
 

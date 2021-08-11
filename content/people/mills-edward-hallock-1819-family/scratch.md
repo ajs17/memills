@@ -1275,3 +1275,14 @@ Hi Adam,
 Unfortunately we don't have an accession number on that ledger, so we don't know the donor.
 
 Sincerely,
+
+
+---
+
+Charles M. Personius
+BIRTH	1840
+DEATH	1924 (aged 83–84)
+BURIAL	
+Quick Cemetery
+Caroline, Tompkins County, New York, USA
+MEMORIAL ID	89338759 · View Source

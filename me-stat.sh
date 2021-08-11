@@ -1,6 +1,9 @@
 #!/bin/bash
 # run in top level headless resource folder 
 # containing /data and /metadata folders
+# evaluates all resource files to discover and report:
+#   - metadata files without corresponding images
+#   - images without corresponding metadata files
 
 find $PWD/metadata -type f \( -iname "*.md" ! -iname "*index.md" \) > md.txt 
 # use pipes as expression separators here because path when $PWD expands contains slashes
