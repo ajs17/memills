@@ -8,17 +8,19 @@ Ellen Jane (Andrews) Predmore Gould, born 27 Mar 1848, died 31 Oct 1929. Ellen l
 
 <!--more-->
 
-For our immediate purposes here, we will focus on the period of Ellen's life that intersects with the Mills.
+For our immediate purposes here, we will focus on the period of Ellen's life that intersects with the Mills family.
 
 {{% metable "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Ellen" %}}
 
-It isn't clear when Ellen started living in the Mills Home, but it would appear she lived there roughly a decade, or possibly a dozen years. In late 1914, when Ellen is first mentioned in relation to the Mills, Ellen had been widowed a second time, and it is in the final few years of Hannah's life. Ellen was getting older herself, and this arrangement would have greatly helped Emily care for Hannah, and also provided Ellen with additional social and financial support. It had the added benefit of being a short walk from her son Myron Predmore's farm, located near Brookton Depot, in the area where the gravel pit is today.
+The first (presumed) mention I have of Ellen in connection to the Mills family is an entry made by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>: "1908, Jan 23, Sewing by Mrs. Gould, 0.75".
+
+It isn't clear when Ellen started living in the Mills Home, but it would appear she lived there roughly a decade, or possibly a dozen years. In late 1914, when Ellen is first mentioned in the "gossip columns" in relation to the Mills, Ellen had been widowed a second time, and it is in the final few years of Hannah's life. Ellen was getting older herself, and this arrangement not only would have greatly helped Emily care for Hannah, but also provided Ellen with additional social and financial support. It had the added benefit of being a short walk from her son Myron Predmore's farm, located near Brookton Depot, in the area where the gravel pit is today.
 
 {{% mefig "1914-10-26-ithaca-journal" "500" /%}}
 {{% mefig "1914-10-31-ithaca-journal" "500" /%}}
 {{% mefig "1914-12-05-ithaca-journal" "500" /%}}
 
-Ellen would have been well known to Hannah in particular, as both were active in the local Women's Christian Temperance Union. Both women were born in England, and Ellen at least, spoke with an English accent. Ellen's temperament also sounds like it would have been very compatible with what we know of Hannah and Emily:
+Like Hannah and Emily, Ellen was active in the Women's Christian Temperance Union. Both Hannah and Ellen were born in England, and Ellen at least, spoke with an English accent. Ellen's temperament also sounds like it would have been very compatible with what we know of Hannah and Emily:
 
 <figure>
 <blockquote>
@@ -36,8 +38,6 @@ In Gertrude Conant's recollections, she makes reference to Ellen and her relatio
 {{% mefig "conant-gertrude-1" "300" "img,link" /%}}
 
 However, as the following reporting makes clear, the relationship between Emily and Ellen seems considerably more than that of employer and employee. As Hannah and Ellen were members of the W. C. T. U. at that time, and Emily likely was too (there is only documentation for her as a member in a 1917 directory, and the newspapers never explicitly say she is a member) they were very likely well acquainted before Ellen moved in, and it appears they would live together for more than a decade during which every major area of their lives seemed to have been intertwined, including many temperance and prayer meetings in the home. Ellen would tend the house and mind the store, and she and Emily also socialized together, although I don't know how regularly. The women were only a decade apart in age.
-
-The first (presumed) mention I have of Ellen in connection to Emily is an entry made by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>: 1908, Jan 23, Sewing by Mrs. Gould, 0.75.
 
 {{% mefig "1917-03-20-ithaca-journal" "400" /%}}
 {{% mefig "1917-12-13-ithaca-journal" "400" /%}}

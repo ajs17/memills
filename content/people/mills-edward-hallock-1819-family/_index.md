@@ -153,6 +153,10 @@ The Tompkins County Historical Society archives also has at least two examples o
 
 A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shurter in the Cornell University Library archives did not yield any photos or other documentation related to the Mills family. In fact, the Brookton/Caroline related materials were in the minority, and there were few original photographic prints overall.
 
+I believe a number of the items from the Tompkins Country History Center can be traced back directly to Jessie Brewer's purchase of the Mills real and personal property at auction in 1938. I believe it is telling that the several Good Templars artifacts survived: both Jessie and Emily were members, so it is certainly possible that Jessie possessed these items the entire time. But the fact that there are also several other related Good Templars documents specifically linked to Emily, including correspondence about organization business, suggests to me that these were Emily's belongings for many decades that were purchased by Jessie Brewer at auction in 1938. Also, if you review the boxes of W. C. T. U. directories, you will see that on book in particular is oddly out of place: a 1917 directory that is unique, as most of the others are from the 1930's and several decades after. This is intriguing for a few reasons: 1917 is the year Hannah died, and as she was a very highly regarded member, so there is some chance of a connection there, although that may be a stretch. But I would also like you to consider that the 1917 book is the only one that I found (after an admittedly modest review of the books from Emily's lifetime, given the access and time constraints) that explicitly documents Emily as a member. The coincidence seems potentially significant. 
+
+Of course, this is all speculation, but I believe that an explanation that is reasonably likely is that after the auction in 1938, as she went through Emily's things, Jessie took special care to save these remembrances of her old friends, and Emily in particular. If I am correct, it suggests a deep affection between these two, who were neighbors for many decades and who shared so much. Upon her death, Jessie Brewer made a significant donation to the library in Dryden. That seems worthy of further investigation.
+
 ## Information Yet To Be Incorporated
 
 Several major areas are still missing from this history that are all very valuable to better understanding Emily:
@@ -211,3 +215,6 @@ To preserve this information, and as an aid to future researchers, the following
   - Smithtown Historical Society
   - Mills Pond?
 
+## Acknowledgements
+
+This research was made possible by the generosity of many people who have offered their time, access to their materials and access to their knowledge, to allow me to start putting the puzzle pieces of Emily's life together. I apologize to those I have forgotten; these I recall in no particular order: Molly Adams, Donna Eschenbrenner, Barbara Kone, Allan Starkweather, Ted Sobel, Becky Dewitt, Sarah Michelle, Ralph Conant, Carol Coggshall, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church. And those throughout the years who preserved precious memories: Gertrude Contant, E. D. Shurter, and Jessie Brewer.

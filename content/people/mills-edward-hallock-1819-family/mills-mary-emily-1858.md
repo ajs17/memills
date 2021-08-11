@@ -112,7 +112,7 @@ The professor clearly took great care in crafting this tribute, and with the pac
 
 Understandably, histories of the Mills family have typically focused almost exclusively on Emily. All previous secondary sources of information on Emily accepted 1861 as her birth year.
 
-Emily is not mentioned by name, but is referenced in a photo caption of a portrait of Jessie Brewer published in 2016, "Around Caroline" by Patricia A. Brhel, p23:
+Emily is not mentioned by name, but is implicitly referenced in a photo caption of a portrait of Jessie Brewer published in 2016, "Around Caroline" by Patricia A. Brhel, p23:
 
 <blockquote>
 Jesse Brewer ran a dry goods store in Brooktondale, selling fabric, ribbon, greeting cards, and other items. She took over from a woman who had managed a grocery store in the same building and used the proceeds from the store to increase the family income and help support her widowed mother. She was also active in the Caroline Valley Federated (now Community) Church.
@@ -133,7 +133,7 @@ In the Caroline History Room, there is a copy of Molly's familiar-looking resear
 
 The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner of the Mills Home would be, and was designed specifically to pique interest in Emily. 
 
-The answer to MOlly's question "and some groceries?" seems to be yes. Perhaps the question arose because Jessie Brewer apparently did not continue to sell groceries, and this was what residents if the time would more likely remember.
+The answer to Molly's question "and some groceries?" seems to be yes. Perhaps the question arose because Jessie Brewer apparently did not continue to sell groceries, and this was what residents if the time would more likely remember.
 
 Molly Adams also wrote about Emily in "Town of Caroline" a chapter in the book "The Towns of Tompkins County: From Podunk to the Magnetic Springs" edited by Jane Marsh Dieckmann, 1998. Emily is also mentioned in Town of Caroline Historian Barbara Kone's compilation "A History of the Town of Caroline, Tompkins County, New York, United States of America" known to us all as "The Bicentennial Book."
 
@@ -151,7 +151,7 @@ The postoffice has moved at least 3 times. This is the 3rd site.Between the Post
 
 *M. E. Mills* is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village".
 
-Emily, Edward, and Hannah are mentioned in the diaries of George Jansen. 
+Emily, Edward, and Hannah are mentioned in the diaries of George Jansen. Edward's death is noted, as is Hannah's final illness, death and funeral. George notes in a number of entries throughout the years that he did odd jobs for Emily, two specific examples are "drawing a cord of wood" and some painting that context would suggest was for the store. I have done a complete photo inventory of the six notebooks of George Jansen's that are currently owned by the Tompkins County History Center in Ithaca, and I will add images and transcriptions to this record as I am able to process them.
 
 ## Notes for Future Researchers
 
