@@ -37,6 +37,12 @@ Emily would return to Corfu in later years to bury Jonas, Mary Ann and Edward. B
 
 The only thing we really know about Emily's earliest years in Mott's Corners/Brookton is that she was active in the local "lodge" of the [Independent Order of Good Templars]({{% ref "features/temperance" %}}), a local temperance organization. At least by the 1890's, she was working as a clerk in her father's store.
 
+Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes, we have many examples of Emily's handwriting from this time. There are also a number of volumes of sales journals from [M. E. Mills]({{% ref "features/me-mills" %}}) in Emily's handwriting (and certainly Ellen Gould's handwriting must also be present in those books). 
+
+A number of aspects of Emily's handwriting are quite distinctive—perhaps most notably when she writes a capital "T" which typically starts with a little dip as she crosses it—which makes her handwriting easily recognizable. Uppercase E's, M's, W's, C's and lower case f's are often written with similar idiosyncracies.
+
+
+
 And another glimpse into Emily's personal life:
 
 {{% mefig "mills-emily-arthurs-home-magazine" "400" /%}}

@@ -22,9 +22,13 @@ I have seen perhaps more than a dozen volumes of sales journals and other financ
 
 Interestingly, the oldest of the volumes, labeled "41" is the most important as it shows the records of E. H. Mills in the days immediately preceeding Edward's death. It would seem that Emily herself did not preserve the books from her father's time running the store.
 
-{{% mefig "me-mills/1908-records-high-res" "800" /%}}
+{{% mefig "me-mills/1908-records-high-res" /%}}
 
-*M. E. Mills* is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village".
+{{% mefig "me-mills/1908-records-high-res-lower-third" /%}}
+
+As you can see, these books contain many easily recognizable names of former Brookton residents, along with a glimpse into their regular purchases.
+
+M. E. Mills is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village".
 
 It is interesting to note that in the sales ledgers, the store was closed on Sundays, but if Christmas fell on any other day of the week, the store was open and had a fairly typical flow of customers.
 
@@ -41,6 +45,9 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 {{% mefig "1916-08-08-ithaca-journal" "400" /%}}
 {{% mefig "1915-04-07-ithaca-journal" "400" /%}}
 {{% mefig "me-mills/1920-08-07-The-Ithaca-Journal-p7" "400" /%}}
+
+{{% mefig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" /%}}
+
 {{% mefig "1925-03-13-ithaca-journal" "400" /%}}
 {{% mefig "1926-04-07-ithaca-journal" "400" /%}}
 {{% mefig "1935-10-25-ithaca-journal" "400" /%}}
@@ -50,6 +57,8 @@ Identical notices for the Halloween party were run in The Ithaca Journal on 28 O
 {{% mefig "1936-06-20-ithaca-journal" "400" /%}}
 
 Two articles in the Jul 14, 1934 (page 3) and Nov 20, 1934 (page  5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendents of the accused.
+
+{{% mefig "me-mills/brewer-ad" "400" /%}}
 
 ## Notes for Future Researchers
 

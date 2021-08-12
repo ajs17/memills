@@ -11,7 +11,7 @@ notes: >-
 
     - The 23 Jan 1908 entry is presumably a reference to Ellen Gould.
 
-    - Note that we are essentially seeing Emily's grocery list after the fact. This is essentially a glimpse into her kitchen cupboard.
+    - Note that this is essentially Emily's grocery list after the fact, and describes the contents of her kitchen cupboard.
 ---
  
  (The following are selected transcriptions from 
@@ -20,9 +20,9 @@ notes: >-
 E. H. Mills Family a/c
 
   - Died Jan 1st 1908
-  - 1908, Jan  6, Burial expenses, 33.17
+  - 1908, Jan  6, Burial expenses, $33.17
   - 1908, Jan 15, Tax on house (5.09)
-  - 1908, Jan 21, Paid Mr(s?) Woodworth for att. funeral, 3.00
-  - 1908, Jan 22, Lard (10) paid Emily Huntting, 10.00
-  - 1908, Jan 23, Sewing by Mrs. Gould,     0.75
-  - 1908, Feb 11, Paid Undertaker's bill, 63.00
+  - 1908, Jan 21, Paid Mr(s?) Woodworth for att. funeral, $3.00
+  - 1908, Jan 22, Lard (10) paid Emily Huntting, $10.00
+  - 1908, Jan 23, Sewing by Mrs. Gould, $0.75
+  - 1908, Feb 11, Paid Undertaker's bill, $3.00

@@ -24,5 +24,10 @@ Temperance groups don't appear to be very strong here. The only mention I found 
 {{% mefig "1915-02-12-ithaca-journal" "300" /%}}
 {{% mefig "1917-02-27-ithaca-journal" "300" /%}}
 
+<div class="gallery">
+    {{% mefig "temperance/1917-wctu-directory-p8" "300" /%}}
+    {{% mefig "temperance/1917-wctu-directory-p9" "300" /%}}
+</div>
+
 {{% mefig "1919-08-15-ithaca-journal" "300" /%}}
 {{% mefig "1919-08-23-ithaca-journal" "300" /%}}

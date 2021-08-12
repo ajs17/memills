@@ -145,9 +145,7 @@ We actually have copious amounts of Emily's handwriting spanning many decades:
   - A notebook of meeting minutes for the temperance organization The Independent Order of Good Templars, beginning in the early 1880's. A number of entries are written in Emily's hand while she was secretary. There is also an original copy of a form filed with the organization written by her. These items are kept in the Tompkins County Historical Society archives. 
   - Approximately a dozen volumes of sales journals of M. E. Mills general store from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store several decades later, thanks to then owner Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph several of the books. The ledgers are in excellent condition, and we can match Emily's handwriting to the known examples from the Good Templars notes. Volume 41 is the most important as it shows the time and some details of Edward's death.
 
-A number of aspects of Emily's handwriting are quite distinctive—perhaps most notably when she writes a capital "T"—which makes her handwriting easily recognizable.
-
-The Tompkins County Historical Society archives also has at least two examples of postal stamps that bear Edward's name: "E. H. Mills, P. M.". Interestingly, these are envelopes with attached correspondence showing it was Good Templars business and associated with Emily.
+The Tompkins County Historical Society archives also has at least two examples of postmarks that bear Edward's name: "E. H. Mills, P. M.". Interestingly, these are envelopes with attached correspondence showing it was Good Templars business and associated with Emily. I have also purchased a few examples of these postmarked envelopes sold online by stamp collectors.
   
 *A Note on Emily Mills*, mentions "a little leatherette booklet" M. E. Mills printed on it, and Molly's research notes indicate that this item was donated to the Caroline History Room in March 1502, but as of an inquiry in 2021, it could not be located.
 
@@ -166,10 +164,8 @@ Several major areas are still missing from this history that are all very valuab
   - Fill out Hannah's first marriage, children.
   - more on Ellen Gould.
   - Hallockville, Factoryville
-  - References to other secondary historical accounts mentioning Emily. 
   - More legal research on deeds for Mills' home and store, estates, etc.
   - General information about Brooktondale during Emily's life.
-  - Acknowledge the many people who have helped me along the way...
 
 I have already collected much of this information, its just a matter of getting it organized here.
 

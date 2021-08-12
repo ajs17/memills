@@ -66,6 +66,8 @@ Hannah apparently had what must have been of very worrying health episode. This 
 {{% mefig "1915-02-22-ithaca-journal" "400" /%}}
 {{% mefig "1915-03-03-ithaca-journal" "400" /%}}
 {{% mefig "1916-05-23-ithaca-journal" "400" /%}}
+{{% mefig "george-jansen-hannah-sick-entry" /%}}
+{{% mefig "george-jansen-hannah-death-entry" /%}}
 {{% mefig "mills-hannah-cvcc-obit" /%}}
 {{% mefig "1917-02-26-ithaca-journal" "400" /%}}
 {{% mefig "1917-02-27-ithaca-journal" "400" /%}}
