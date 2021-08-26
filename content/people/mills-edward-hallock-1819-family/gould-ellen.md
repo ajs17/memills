@@ -12,6 +12,8 @@ For our immediate purposes here, we will focus on the period of Ellen's life tha
 
 {{% metable "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Ellen" %}}
 
+{{% mefig "census/census-1920-us" /%}}
+
 The first (presumed) mention I have of Ellen in connection to the Mills family is an entry made by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>: "1908, Jan 23, Sewing by Mrs. Gould, 0.75".
 
 It isn't clear when Ellen started living in the Mills Home, but it would appear she lived there roughly a decade, or possibly a dozen years. In late 1914, when Ellen is first mentioned in the "gossip columns" in relation to the Mills, Ellen had been widowed a second time, and it is in the final few years of Hannah's life. Ellen was getting older herself, and this arrangement not only would have greatly helped Emily care for Hannah, but also provided Ellen with additional social and financial support. It had the added benefit of being a short walk from her son Myron Predmore's farm, located near Brookton Depot, in the area where the gravel pit is today.
@@ -52,7 +54,7 @@ However, as the following reporting makes clear, the relationship between Emily 
 {{% mefig "1925-12-17-ithaca-journal" "400" /%}}
 {{% mefig "1926-01-12-ithaca-journal" "400" /%}}
 
-As we can see from the reporting fo the day, sometime later in 1926 or early in 1927, Ellen moved out of the Mills home to live with her family for the last few years of her life. It looks as though she may have spent a signficant amount of time at her son Myron Predmore's home before finally settling with her daughter Clara. Ellen is mentione often in the "gossip columns" of the day, but these are some of the more telling stories as to where she was living:
+As we can see from the reporting fo the day, sometime later in 1926 or early in 1927, Ellen moved out of the Mills home to live with her family for the last few years of her life. It looks as though she may have spent a signficant amount of time at her son Myron Predmore's home before finally settling with her daughter Clara. Ellen is mentioned often in the "gossip columns" of the day, but these are some of the more telling stories as to where she was living:
 
 {{% mefig "ellen-gould/1926-09-25-ithaca-journal-p3" "400" /%}}
 {{% mefig "ellen-gould/1926-10-01-ithaca-journal-p3" "400" /%}}

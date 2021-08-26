@@ -179,7 +179,8 @@ I have already collected much of this information, its just a matter of getting 
   - Is Charles M. Pine, co-owner of E. H. Mills & Co. in Corfu, related to Edward's wife Mary Ann, whose maiden name is Pine?
   - Photo of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
   - Charles Personius Mills?
-  - who is the Mrs. Woodworth who Emily paid to attend Edward's funeral?
+  - Who is the Mrs. Woodworth who Emily paid to attend Edward's funeral?
+  - More information is needed about Emily's involvement in the Ladies Aid Society and Red Cross.
 
 Horace's Death:
   - Presumably why the family moved *away from* Corfu?
@@ -213,4 +214,4 @@ To preserve this information, and as an aid to future researchers, the following
 
 ## Acknowledgements
 
-This research was made possible by the generosity of many people who have offered their time, access to their materials and access to their knowledge, to allow me to start putting the puzzle pieces of Emily's life together. I apologize to those I have forgotten; these I recall in no particular order: Molly Adams, Donna Eschenbrenner, Barbara Kone, Allan Starkweather, Ted Sobel, Becky Dewitt, Sarah Michelle, Ralph Conant, Carol Coggshall, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church. And those throughout the years who preserved precious memories: Gertrude Contant, E. D. Shurter, and Jessie Brewer.
+This research was made possible by the generosity of many people who have offered their time, access to their materials and access to their knowledge, to allow me to start putting the puzzle pieces of Emily's life together. I apologize to those I have forgotten; these I recall in no particular order: Molly Adams, Donna Eschenbrenner, Barbara Kone, Allan Starkweather, Richard Wines, Margaret Wegener, Ted Sobel, Becky Dewitt, Sarah Michelle, Ralph Conant, Carol Coggshall, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church. And those throughout the years who preserved precious memories: Gertrude Contant, E. D. Shurter, and Jessie Brewer.
