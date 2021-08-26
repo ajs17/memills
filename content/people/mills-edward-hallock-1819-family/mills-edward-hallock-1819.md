@@ -71,6 +71,9 @@ Age: 72
 {{% mefig "1896-nys-marriage-index-816" "150" /%}}
 </div>
 
+Emily was the first to note Edward's death in the sales journal of E. H. Mills general store, on an otherwise normal day of the store's operation:
+
+{{% mefig "1908-01-01-E-H-Mills" /%}}
 {{% mefig "george-jansen-ehmills-entry" "400" /%}}
 {{% mefig "1908-01-06-ithaca-daily-journal" "400" /%}}
 {{% mefig "1908-01-06-batavia-daily-news-p4" "400" /%}}

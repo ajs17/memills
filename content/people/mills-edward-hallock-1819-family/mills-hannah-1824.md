@@ -1,11 +1,10 @@
-
 ---
 title: "Hannah Mills"
 date: "2021-05-25"
 weight: 6
 ---
 
-Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Brookton, NY. Second wife of Edward H. Mills, married 30 Dec 1896 and step-daughter to Emily. Active member of Brookton Congregational Church, Ladies Aid Society and Women's Christian Temperance Union.
+Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Brookton, NY. Second wife of Edward H. Mills, married 30 Dec 1896 and step-mother to Emily. Active member of Brookton Congregational Church, Ladies Aid Society and Women's Christian Temperance Union.
 
 <!--more-->
 

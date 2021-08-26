@@ -6,6 +6,8 @@ draft: true
 ---
 
 
+
+
 "Good of the Order" 
 Brookton, Dec 14, 1883
 Bro Arthur Denman was next on the list- but he said his selection was of teh solemn order, and not quite suited to the occasion. Bro Sanders encouraged him by saying, it will be funny when you read it but he still hesitated, so the next was called.
@@ -112,7 +114,7 @@ Ellen Gould < Irvin Hazen Predmore < Clarence William Predmore < Genevieve Predm
                                                                < Erven Charles Predmore < ?
 
 
-https://www.beckerfamilyfuneral.com/obituary/3109494
+https://www.beckerfamilyfuneral.com/obituary/3109494W
 
 Survivors include son, David (Carol) Coggshall, Clermont and daughter, Carol Coggshall, Ocala. Three grandchildren; Krista (Jeff) Carter, Sarah (Cory) Carter, and David (Latoya) Coggshall, Jr.; four great-granddaughters and one great-grandson; sister-in-law Sara Repper. Special thanks to daughter Carol Coggshall and Teresa Garner, Mrs. Coggshall's longtime caregivers.
 

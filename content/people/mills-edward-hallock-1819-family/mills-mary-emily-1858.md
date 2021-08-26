@@ -1,11 +1,10 @@
 ---
 title: "Emily Mills"
-summary: "Mary Emily Mills, better known as Emily, was owner of M. E. Mills general store in Brookton/Brooktondale NY. Known for her charity, Emily was a devoted member of the Congregational Church where she taught Sunday School and played piano. Emily was also active in local temperance organizations."
 date: "2021-05-25"
 weight: 5
 ---
 
-Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY, who went by Emily, was the youngest child of Edward H. and Mary Ann Mills. Owner of [**M. E. Mills**]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the temperance movement as well as Sunday School teacher and piano player in Brooktonale Congregational Church.
+Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY, who went by Emily, was the youngest child of Edward H. and Mary Ann Mills. Proprietor of [**M. E. Mills**]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktonale Congregational Church. She was highly regarded as a cheerful, kind, and charitable person.
 
 <!--more-->
 
@@ -21,29 +20,39 @@ She is listed with her family in the 1860 Federal Census:
 
 {{% mefig "census/census-1860-us" /%}}
 
-Furthermore, in her entry in the 1900 US census, Emily indicates her birth date is "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetieme, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolves to 1858 as indicated in the "Computed birthyear" column above. Given that these were self-reported by Emily, and we don't know the origin of the (I might add, less specific) 1861 date (Emily may have died before making funeral arrangements), December 1858 seems the more accurate date and will be used going forward, implying the grave stone is in error.
+Furthermore, in her entry in the 1900 US census, Emily indicates her birth date is "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetieme, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolves to 1858 as indicated in the "Computed birthyear" column above. Given that these were self-reported by Emily, and we don't know the origin of the (I might add, less specific) 1861 date (Emily likely died before making her own funeral arrangements, and like her father, she died without a will), December 1858 seems the more accurate date and will be used going forward, implying the grave stone is in error.
 
 {{% mefig "census/census-1900-us-inset" /%}}
 
-I have been in contact with two people at Brookton Cemetery who have both looked into the matter, and they both confirm that the only information they have on Emily is the name and plot number "and what is on the headstone". There is no indication who made the funeral arrangements for Emily, who the plot was sold to, or any information that might shed light on the erroneous birth year. 
+I have been in contact with two people at Brookton Cemetery who have both looked into the matter, and they each confirmed that the only information they have on Emily is the name and plot number "and what is on the headstone". There is no indication who made the funeral arrangements for Emily, who the plot was sold to, or any information that might shed light on the erroneous birth year. 
 
-Further research will obviously need to be done, but ultimately, Emily's exact date of birth (and that of her brothers) may be lost, as she was born during a notoriously bad period for the recording and preservation of birth records. I am in contact with Calvary Presbyterian Church in Staten Island, which seems like the most likely candidate for the church that Mary Ann may have belonged to at the time, to see if they have birth records for her children. I have also submitted a reference question to the staff of the Presbyterian Historical Society.
+Further research will obviously need to be done, but ultimately, Emily's exact date of birth (and that of her brothers) may be lost, as she was born during a notoriously bad period for the recording and preservation of birth records. I am in contact with Calvary Presbyterian Church in Staten Island, which seems the most likely candidate for the church that Mary Ann may have belonged to at the time, to see if they have birth records for her children. I have also submitted a reference question to the staff of the Presbyterian Historical Society.
 
-We don't know exactly when the family moved to Corfu; census records indicate they were in Staten Island in the Summer of 1860 and then E. H. Mills & Co. appears on 1866 maps of Corfu, although perhaps the fact that E. H. Mills & Co. is in several places referred to generically as "Cash Store" indicates it was relatively new at that time. Bartlett Brown's marriage and Charles Pine's timeline might also give us clues to when they moved.
+We don't know exactly when the family moved to Corfu; census records indicate they were in Staten Island in the Summer of 1860, and then by the Summer of 1863, Edward is listed in the Civil War Draft Registration Records as living in Pembroke, and E. H. Mills & Co. next appears on 1866 maps of Corfu, although perhaps the fact that E. H. Mills & Co. is in several places referred to generically as "Cash Store" indicates it was relatively new at that time. Bartlett Brown's marriage and Charles Pine's timeline might also give us clues to when they moved.
 
 Emily would return to Corfu in later years to bury Jonas, Mary Ann and Edward. But it would seem that she also returned to visit her school friends, at least this one time, surely with many mixed emotions.
 
 {{% mefig "1882-07-21-batavia-daily-news" "400" /%}}
 
-The only thing we really know about Emily's earliest years in Mott's Corners/Brookton is that she was active in the local "lodge" of the [Independent Order of Good Templars]({{% ref "features/temperance" %}}), a local temperance organization. At least by the 1890's, she was working as a clerk in her father's store.
+The only thing we really know about Emily's earliest years in Mott's Corners/Brookton is that she was active in the local "lodge" of the [Independent Order of Good Templars]({{% ref "features/temperance" %}}), a local temperance organization. At least by the 1890's, Emily was working as a clerk in her father's store.
 
-Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes, we have many examples of Emily's handwriting from this time. There are also a number of volumes of sales journals from [M. E. Mills]({{% ref "features/me-mills" %}}) in Emily's handwriting (and certainly Ellen Gould's handwriting must also be present in those books). 
+Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes, we have many examples of Emily's handwriting from this time. 
 
-A number of aspects of Emily's handwriting are quite distinctive—perhaps most notably when she writes a capital "T" which typically starts with a little dip as she crosses it—which makes her handwriting easily recognizable. Uppercase E's, M's, W's, C's and lower case f's are often written with similar idiosyncracies.
+{{% mefig "temperance/1886-04-23" /%}}
 
+There are also a number of volumes of sales journals from [M. E. Mills]({{% ref "features/me-mills" %}}) in Emily's handwriting (and certainly Ellen Gould's handwriting must also be present in those books). 
 
+ {{% mefig "handwriting/sig3" "500" /%}}
+ {{% mefig "handwriting/sig1" "500" /%}}
+ {{% mefig "handwriting/sig2" "500" /%}}
 
-And another glimpse into Emily's personal life:
+A number of aspects of Emily's handwriting are quite distinctive—such as uppercase E's, M's, W's, C's, T's and F's as well as lowercase p's are often written with similar idiosyncracies. Note for example, the following entry in M. E. Mills sales journals, a close examination of which will reveal is entirely written by Emily. Notice how even though she is writing the same word on the same day, from one entry to the next, how she writes her uppercase T can vary in one of two ways, each quite distinctive in itself. It can either swoop down from the top and finish with a flourishing loop in front of it, or can be two strokes of the pen, one down, and the cross rises and falls, the opposite of the cross in the other T. Notice that on James Caveney's entry, we get the flourishing T, but the capital F afterward on the same line item shows the mushroom cap shape characteristic of her other T:  
+
+{{% mefig "me-mills/1909-03-26-sales-journal" /%}}
+
+Her E's C's L's and J's tend to have big loops. Her lowercase p's practically pierce the line above it. And of course, her T's and F's have those distinctive crosses. Her handwriting is easily recognizable, and when others (most likely Ellen Gould) make entries in the Mill's store journals, it sticks out.
+
+And another glimpse into Emily's personal life at this time:
 
 {{% mefig "mills-emily-arthurs-home-magazine" "400" /%}}
 
@@ -52,6 +61,13 @@ And another glimpse into Emily's personal life:
 In 1907, Emily would officially join the membership roll of Brookton Congregational Church, along with 10 other single women, in a ceremony officiated by Reverend Annis Ford Eastman. Less than a year later, her father would pass and she would make another heartbreaking trip to Evergreen Hill Cemetery in Corfu.
 
 {{% mefig "mills-emily-cvcc-baptism" "800" "img,blockquote,figcaption" /%}}
+
+Emily played the piano (and/or organ) in the Church and at times served as an officer in the Church. She was a Sunday School teacher, and possibly taught classes specifically for adults. There are accounts of her organizing prayer meetings in her home. It is unclear what Emily's religious outlook was before being baptized, but at least from that point on, Emily's faith was a very important part of her life. 
+
+Emily continued to be involved in temperance, for some period of time, a member of the Women's Christian Temperance Union, along with her step-mother Hannah. This is almost certainly unknowable now, but I have wondered if Hannah was introduced to Edward through the Emily's involvement with the W. C. T. U. 
+
+{{% mefig "temperance/1917-wctu-directory-p8" "400" /%}}
+
 {{% mefig "1908-01-06-ithaca-daily-journal" "400" /%}}
 {{% mefig "1908-01-06-batavia-daily-news-p4" "400" /%}}
 
@@ -69,7 +85,6 @@ Emily Mills was a little woman, with her hair in a bun on top of her head, like 
 Full quote and citation are below. Ralph Conant in personal correspondence 24 Jul 2021 identifies "Grandma Bacon" as Mary Louise (Vandemark) Bacon.
 </figcation>
 </figure>
-
 
 <figure>
 <blockquote>
@@ -109,7 +124,11 @@ This moving tribute was authored by none other than E. D. Shurter, a Brookton na
 
 {{% mefig "1937-11-11-ithaca-journal" "400" /%}}
 
-The professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, we can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't know some of the most important aspects of Emily's life, most notably, her charity, One senses that the professor understood he was writing what would be the definitive statement of her life for the ages, and indeed, in several histories where Emily is mentioned, her only description consists of the text of this tribute, in its entirety, without further comment. 
+The professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, we can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't fully appreciate some of the most important aspects of Emily's life, most notably, her charity, One senses that the professor understood he was writing what would be the definitive statement of her life for the ages, and indeed, in several histories where Emily is mentioned, her only description consists of the text of this tribute, in its entirety, without further comment. 
+
+The professor makes it clear that charity was one of Emily's defining characteristics. We have many sales journals of [M. E. Mills general store]({{% ref "features/me-mills" %}}) and know that it was common practice for Emily's customers to have accounts that they likely paid monthly. The professor seems to indicate that perhaps she allowed more time for payment to those who needed it. We can also see evidence here and there of direct donations from her store that she counted against her own account as "Goods for Charity":
+
+{{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" /%}}
 
 {{% mefig "1937-11-26-ithaca-journal" "400" /%}}
 {{% mefig "1938-01-19-ithaca-journal" "400" /%}}
@@ -129,7 +148,7 @@ Gertrude Conant's personal recollections provide valuable details, including phy
 {{% mefig "conant-gertrude-1" /%}}
 {{% mefig "conant-gertrude-2" /%}}
 
-Shortly after I moved into the Mills' home in Brooktondale, Molly Adams visited me to sign me up for the Old Mill newsletter, and to give me the following history of Emily Mills and her store. I have since been told that this was a ritual Molly performed with other newcomers. Although I read this "Note" with some interest initially, I didn't appreciate its importance until several years too late to ask Molly to teach me more. I at least had the foresight to save it somewhere I could find it again years later when I needed it. I revisit this often, still mining it for clues about Emily, trying to learn what Molly knew. Despite its title, this exceptional account is more about the M. E. Mills store than it is about Emily herself.
+Shortly after I moved into the Mills' home in Brooktondale, Molly Adams visited me to sign me up for the Old Mill newsletter, and to give me the following history of Emily Mills and her store. I have since been told that this was a ritual Molly performed with other newcomers. Although I read this "Note" with some interest initially, I didn't appreciate its importance until several years too late to ask Molly to teach me more. I at least had the foresight to save it somewhere I could find it again years later when I needed it. I revisit this often, still mining it for clues about Emily, trying to learn what Molly knew. Despite its title, this exceptional account is more about the M. E. Mills store than it is about Emily herself. As I've done my own research, it does seem that much of what we know about Emily is in relation to the store in some way, and perhaps that is to be expected.
 
 {{% mefig "a-note-on-emily-mills" /%}}
 
@@ -148,9 +167,7 @@ Molly Adams also wrote about Emily in "Town of Caroline" a chapter in the book "
 <blockquote>
 <strong>BROOKTONDALE POST OFFICE, left -- 484 Brooktondale Road</strong>
 
-This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosene, Kerosene lamps with green shades, penny candy, stockings, handkerchiefs, yard goods, pins & sewing notions sheets & pillowcases, groceries, etc. She was a "sweet little lady" who succeeded her father in the business. Jessie Brewer had dry goods here after Miss Mills, and also had a lending library in the back.
-
-The postoffice has moved at least 3 times. This is the 3rd site.Between the Post Office and the bridge sat the Shurter House which was moved.
+This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosene, Kerosene lamps with green shades, penny candy, stockings, handkerchiefs, yard goods, pins & sewing notions sheets & pillowcases, groceries, etc. She was a "sweet little lady" who succeeded her father in the business. Jessie Brewer had dry goods here after Miss Mills, and also had a lending library in the back postoffice has moved at least 3 times. This is the 3rd site.Between the Post Office and the bridge sat the Shurter House which was moved.
 </blockquote>
 
 (I tried to faithfully reproduce the punctuation, capitalization, spacing, etc. of the source.)
@@ -162,3 +179,31 @@ Emily, Edward, and Hannah are mentioned in the diaries of George Jansen. Edward'
 ## Notes for Future Researchers
 
 In Gertrude Conant's recollections, she notes that Ellen Gould "looked a great deal like Miss Mills," so when looking for photos of either woman, one must be cautious not to mis-identify one for the other.
+
+My own speculation after reading many of the Ithaca Journal "gossip columns" from Emily's lifetime is that there may be a good probability that Emily, or someone very close to Emily was the author during a period that included the final years of Hannah's life. The fact that Hannah was written of so much and in such glowing terms, and just the tone and subtle phrasing of references to the Hannah's life and in other entries that reference the Mills store. I realize I am trying to see this connection, but to me the wording suggests a disciplined detachment. 
+
+For example, in an article ostensibly about the W. C. T. U., it is instead really reporting about the activities of Hannah, seeing the event from her perspective. It talks of her daily life doing chores, but never mentions she lives with her daughter. Perhaps these can all be explained as the expected result of the brutally efficient nature of newspaper writing, then assuming it was written by a professional Journal staff writer. (The headlines, such as the one that includes "yet does housework" certainly suggests it was written by an editor, but this would have been common practice regardless of the author.)
+
+Typically, the gossip columns had a default headline of the area, in this case "Brookton" or occassionally "Brookton Heights". However, there are times when a bigger headline would be added emphasizing one aspect of the column. These would have the initial appearance of a typical newspaper article, but then you see it is the relevant gossip column for that day, with perhaps a little more detail on the topic mentioned in the headline. This was the case with a few of Hannah's entries.
+
+(In an informal discussion on the topic with Barbara Kone, it seems unlikely that "Brookton Heights" was ever a name used in the community. Those columns are indeed about the people of Brookton, and Barbara suggested that adding "Heights" was someone's attempt to dress up the name.)
+
+These gossip columns, it is my understanding, were written by people local to the areas they were reporting on, and over time, you can sense a shift in style, level of detail, who is reported on, etc. that suggest periodic changes in authorship. Brookton was not an enormous community, so this its not highly improbable that Emily could have been the author. Someone who spends all day every day at the center of the community, within one of its active hubs would be well placed to observe people's actvivities.
+
+Further, consider these:
+
+  - Emily was "Superintendent of Literature and Publications" for the W. C. T. U. Why that position?
+  - Consider how the store and church are mentioned, perhaps most notably, in the column where the glasses were left at the Congregational Church, and could be retrieved at M. E. Mills.
+
+Keep in mind that we have examples of Emily writing in longer form, albeit in very specific contexts:
+
+  - The meeting minutes of the Good Templars that she recorded.
+  - Presumably she wrote Hannah's obituary.
+
+Beginning with the Templars minutes, we can start to look for patterns of phrasing, etc. that might be used to identify her unattributed words elsewhere.
+
+In an informal discussion about the gossip columns with Donna Eschenbrenner, it sounds like that The Ithaca Journal significantly downsized in the recent past, some of their records were sent to their organization in Binghamton, while the rest were simply discarded, so it is very unlikely that any record of who the various "gossip column" authors were.  I have tried to contact the Ithaca Journal to follow up on possible records but have not been able to get a response back.
+
+
+
+

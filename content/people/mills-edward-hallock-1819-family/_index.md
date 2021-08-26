@@ -139,28 +139,27 @@ There are relevant photos taken from the hills above and behind the Mills' store
 
 In a book of local history that Gertrude Conant created for her son, there is a photo that includes the front of M. E. Mills, with the Mills' home in the background, purportedly taken approximately 1915. So far, we have only seen a photo of this photo, it appears quite small, and the store front appears to be over-exposed, hiding much detail. It is expected that this book will be donated to the Caroline Historian in the future, and we will be able to get a better look at it. We are also hopeful that an original print and/or negative exists somewhere in the collection. 
 
-Maps of Corfu from the time show the locations of E. H. Mills and the Mills' home in 1866.
+Maps of Corfu from the time show the locations of E. H. Mills and the Mills' home in 1866. Neither of those structures survive today.
 
 We actually have copious amounts of Emily's handwriting spanning many decades:
-  - A notebook of meeting minutes for the temperance organization The Independent Order of Good Templars, beginning in the early 1880's. A number of entries are written in Emily's hand while she was secretary. There is also an original copy of a form filed with the organization written by her. These items are kept in the Tompkins County Historical Society archives. 
-  - Approximately a dozen volumes of sales journals of M. E. Mills general store from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store several decades later, thanks to then owner Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph several of the books. The ledgers are in excellent condition, and we can match Emily's handwriting to the known examples from the Good Templars notes. Volume 41 is the most important as it shows the time and some details of Edward's death.
+  - A notebook of meeting minutes for the temperance organization The Independent Order of Good Templars, beginning in the early 1880's. A number of entries are written in Emily's hand while she was secretary. There is also an original copy of a form filed with the organization written by her. These items are kept in the Tompkins County History Center archives. 
+  - Approximately a dozen volumes of sales journals of M. E. Mills general store from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store several decades later, thanks to then owner Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph several of the books. The journals are in excellent condition, and we can match Emily's handwriting to the known examples from the Good Templars notes. Volume 41 is the most important as it shows the time and some details of Edward's death.
 
-The Tompkins County Historical Society archives also has at least two examples of postmarks that bear Edward's name: "E. H. Mills, P. M.". Interestingly, these are envelopes with attached correspondence showing it was Good Templars business and associated with Emily. I have also purchased a few examples of these postmarked envelopes sold online by stamp collectors.
+The Tompkins County History Center archives also has at least two examples of postmarks that bear Edward's name: "E. H. Mills, P. M.". Interestingly, these are envelopes with attached correspondence showing it was Good Templars business and associated with Emily. I have also purchased a few examples of other postmarked envelopes sold online by stamp collectors.
   
-*A Note on Emily Mills*, mentions "a little leatherette booklet" M. E. Mills printed on it, and Molly's research notes indicate that this item was donated to the Caroline History Room in March 1502, but as of an inquiry in 2021, it could not be located.
+*A Note on Emily Mills*, mentions "a little leatherette booklet" M. E. Mills printed on it, and Molly's research notes indicate that this item was donated to the Caroline History Room in March 2002, but as of an inquiry in 2021, it could not be located.
 
-A thorough review of the seven boxes of scrapbooks of Edwin Dubois and Alice Shurter in the Cornell University Library archives did not yield any photos or other documentation related to the Mills family. In fact, the Brookton/Caroline related materials were in the minority, and there were few original photographic prints overall.
+A thorough review of the seven boxes of scrapbooks of Edwin Dubois (E. D. Shurter) and Alice Shurter in the Cornell University Library archives did not yield any photos or other documentation related to the Mills family. In fact, the Brookton/Caroline related materials were in the minority, and there were few original photographic prints overall.
 
-I believe a number of the items from the Tompkins Country History Center can be traced back directly to Jessie Brewer's purchase of the Mills real and personal property at auction in 1938. I believe it is telling that the several Good Templars artifacts survived: both Jessie and Emily were members, so it is certainly possible that Jessie possessed these items the entire time. But the fact that there are also several other related Good Templars documents specifically linked to Emily, including correspondence about organization business, suggests to me that these were Emily's belongings for many decades that were purchased by Jessie Brewer at auction in 1938. Also, if you review the boxes of W. C. T. U. directories, you will see that on book in particular is oddly out of place: a 1917 directory that is unique, as most of the others are from the 1930's and several decades after. This is intriguing for a few reasons: 1917 is the year Hannah died, and as she was a very highly regarded member, so there is some chance of a connection there, although that may be a stretch. But I would also like you to consider that the 1917 book is the only one that I found (after an admittedly modest review of the books from Emily's lifetime, given the access and time constraints) that explicitly documents Emily as a member. The coincidence seems potentially significant. 
+I believe a number of the items from the Tompkins Country History Center can be traced back directly to Jessie Brewer's purchase of the Mills real and personal property at auction in 1938. I believe it is telling that the several Good Templars artifacts survived: both Jessie and Emily were members, so it is certainly possible that Jessie possessed these items the entire time. But the fact that there are also several other related Good Templars documents specifically linked to Emily, including correspondence about organization business, suggests to me that these were Emily's belongings for many decades that were purchased by Jessie Brewer at auction in 1938. Also, if you review the boxes of W. C. T. U. directories, you will see that one book in particular is oddly out of place: a 1917 directory that is unique, as most of the others are from the 1930's and several decades after. This is intriguing for a few reasons: 1917 is the year Hannah died, and as she was a very highly regarded member, there is some chance of a connection there, although that may be a stretch. But also consider that the 1917 book is the only one that I found (after an admittedly modest review of the books from Emily's lifetime, given the access and time constraints) that explicitly documents Emily as a member. The coincidence seems potentially significant. 
 
-Of course, this is all speculation, but I believe that an explanation that is reasonably likely is that after the auction in 1938, as she went through Emily's things, Jessie took special care to save these remembrances of her old friends, and Emily in particular. If I am correct, it suggests a deep affection between these two, who were neighbors for many decades and who shared so much. Upon her death, Jessie Brewer made a significant donation to the library in Dryden. That seems worthy of further investigation.
+Of course, this is all speculation, but I believe that an explanation that is reasonably likely is that after the auction in 1938, as she went through Emily's things, Jessie took special care to save these remembrances of her old friends, and Emily in particular. If I am correct, it suggests a deep affection between these two, who were neighbors for many decades and who shared so much. Upon her death, Jessie Brewer made a significant donation to the library in Dryden which seems worthy of further investigation.
 
 ## Information Yet To Be Incorporated
 
 Several major areas are still missing from this history that are all very valuable to better understanding Emily:
 
-  - Mills' store sales ledgers.
-  - Temperance activity.
+  - finish Temperance activity.
   - Fill out Hannah's first marriage, children.
   - more on Ellen Gould.
   - Hallockville, Factoryville
@@ -172,15 +171,15 @@ I have already collected much of this information, its just a matter of getting 
 ## Unanswered Questions and Areas of Further Research
 
   - More precise birthdates and birthplaces for Jonas, Horace, Emily, Hannah.
-  - What is the source of "1961" as birth year on Emily's gravestone.
+  - What is the source of "1961" as birth year on Emily's gravestone?
   - Jonas' and Horace's full middle names.
   - Corroborate Horace's date of death, as Evergreen Hill Cemetery directory listing is the only source of a date and given the mistakes in Edward's listing, I can't be completely confident in it.
   - Who were the sources for the gossip columns in those years?
   - Did Emily write Hannah's obituary?
   - Is Charles M. Pine, co-owner of E. H. Mills & Co. in Corfu, related to Edward's wife Mary Ann, whose maiden name is Pine?
   - Photo of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
-  - Verify if Emily was involved with W. C. T. U. (Yes, verified in 1917 book in W.C.T.U. collection at Tompkins County History Center archives.)
   - Charles Personius Mills?
+  - who is the Mrs. Woodworth who Emily paid to attend Edward's funeral?
 
 Horace's Death:
   - Presumably why the family moved *away from* Corfu?
@@ -194,11 +193,12 @@ Church Records and Baptism:
   - Catalog all information about Reverend Annis Ford Eastman, including her return trips, see if Emily's baptism was the Rev's last visit to Brookton.
   
 Planned:
+  - I have started a complete photo inventory of the notebooks of George Jansen and plan to organize and transcribe these in the future. There are a number of entries that mention work that George does on behalf of Emily, planting her garden, painting her store, chopping wood, etc. As I am able, I will add those records to this account.
   - research deeds on Mill's home and Mill's store prior to 1900. When did the Mills start living there? Survey maps that show mill race? Who owned the Mills store real estate?
   - Photo inventory and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move. (Begun.)
   - Research Emily's baptism, possibly contacting descendents of Annis Ford Eastman for information on that event. Check church records again: was this the Reverend's very last visit to Brookton? Letters exist at Univ of Ill library between the Reverend and her family.
   - The dimenions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
-
+  
 ## Distribution
 
 To preserve this information, and as an aid to future researchers, the following organizations should receive a copy of this information:

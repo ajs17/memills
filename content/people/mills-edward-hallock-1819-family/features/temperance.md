@@ -3,9 +3,11 @@ title: "Temperance Activity"
 weight: 4
 ---
 
-The temperance movement was a significant cultural phenomena of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. Emily, Hannah and Ellen were all active in temperance.
+The temperance movement was a significant cultural phenomena of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. There was significant overlap between members of the temperance movement and those supporting suffrage, and before that, abolition. Emily, Hannah and Ellen were all active in temperance.
 
 <!--more-->
+
+Prior to the Mills moving to Mott's Corners, its unclear if Emily or anyone else in the family was involved in temperance.
 
 <figure>
 <blockquote>
@@ -15,6 +17,10 @@ Temperance groups don't appear to be very strong here. The only mention I found 
 — <cite>Personal correspondence with Allan Starkweather, Corfu Village Historian</cite>
 </figcaption>
 </figure>
+
+There are records of a number of "lodges" of the Independent Order of Good Templars
+
+In the 1880's Emily was an officer in the Independent Order of Good Templars, in the Brookton chapter called "High Bridge Lodge, No. 296".
 
 {{% mefig "good-templars-form-inside" /%}}
 {{% mefig "good-templars-form-outside" /%}}
