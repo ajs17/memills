@@ -17,7 +17,7 @@ All of the Mills children would be born in Staten Island and the family would li
 
 By 1863, the family would be in Corfu and Edward would become co-owner of [**E. H. Mills & Co.**]({{% ref "features/corfu-eh-mills-co" %}}) "cash store" where his son Horace would clerk for him as Edward had for Bartlett. 
 
-{{% mefig "1863-edward-civil-war-draft" /%}}
+{{% mefig "1863-edward-civil-war-draft" "700" /%}}
 
 Edward's obituary mentions that he was "postmaster during the Cleveland administration" which I can confirm refers to the first Cleveland administration from 1885 to 1889. The following are examples of Edward's postmark during that time:
 
@@ -35,11 +35,11 @@ Edward's obituary mentions that he was "postmaster during the Cleveland administ
 
 Mary Ann would pass on the eve of their 45th wedding anniversary. A year and two days later, Edward would marry [Hannah (Thatcher) Eastman (1824-1917)]({{% ref "mills-hannah-1824" %}}). Whether perhaps by superstition or some practical matter, the date chosen seems less likely to be a coincidence due to the fact that Edward joined the church on the third to last Sunday before the marriage ceremony.
 
-{{% mefig "1895-12-31-daily-news-p1" /%}}
+{{% mefig "1895-12-31-daily-news-p1" "700" /%}}
 
 Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward's marriage to Hannah and identifies Edward's parents:
 
-<figure>
+<figure class="quote-only">
 <blockquote>
 <pre>
 Reg. Num.: 216 
@@ -66,18 +66,22 @@ Age: 72
 </figure>
 
 <div class="gallery">
-{{% mefig "1896-nys-marriage-index-241" "150" /%}}
-{{% mefig "1896-nys-marriage-index-563" "150" /%}}
-{{% mefig "1896-nys-marriage-index-816" "150" /%}}
+{{% mefig "1896-nys-marriage-index-241" "200" /%}}
+{{% mefig "1896-nys-marriage-index-563" "200" /%}}
+{{% mefig "1896-nys-marriage-index-816" "200" /%}}
 </div>
 
 Emily was the first to note Edward's death in the sales journal of E. H. Mills general store, on an otherwise normal day of the store's operation:
 
-{{% mefig "1908-01-01-E-H-Mills" /%}}
-{{% mefig "george-jansen-ehmills-entry" "400" /%}}
-{{% mefig "1908-01-06-ithaca-daily-journal" "400" /%}}
-{{% mefig "1908-01-06-batavia-daily-news-p4" "400" /%}}
-{{% mefig "mills-edward-mary-cvcc-obit" /%}}
+{{% mefig "1908-01-01-E-H-Mills" "700" /%}}
+{{% mefig "george-jansen-ehmills-entry" "300" /%}}
+
+<div class="gallery">
+  {{% mefig "1908-01-06-ithaca-daily-journal" "300" /%}}
+  {{% mefig "1908-01-06-batavia-daily-news-p4" "300" /%}}
+</div>  
+  
+{{% mefig "mills-edward-mary-cvcc-obit" "700" /%}}
 
 Edward's death is recorded by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>.
 
@@ -85,16 +89,16 @@ Edward's death is recorded by Emily in the sales journal of <a href="{{% relref 
 
 There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversville NY in the 1880's that was a "knitting factory" and one that is written about in some detail in local historical accounts. This appears to be a completely different family based on the following city directories that list family members who are unaccounted for in the Mills Genealogy and are not documented in anything else we know about the Mills. 
 
-{{% mefig "1882-gloversville-directory-p85" /%}}
-{{% mefig "1886-gloversville-directory-p77" /%}}
+{{% mefig "1882-gloversville-directory-p85" "700" /%}}
+{{% mefig "1886-gloversville-directory-p77" "700" /%}}
 
 The members of this family can just barely be made out in the 1875 New York State Census in Fulton County:
 
-{{% mefig "census/census-1875b-nys" "300" /%}}
+{{% mefig "census/census-1875b-nys" "400" /%}}
 
 Edward Hallock's family are accounted for in the same census in Genesee County:
  
- {{% mefig "census/census-1875a-nys" "300" /%}}
+ {{% mefig "census/census-1875a-nys" "400" /%}}
  
 
 

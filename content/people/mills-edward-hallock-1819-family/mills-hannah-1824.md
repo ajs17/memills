@@ -12,7 +12,7 @@ Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Br
 
 Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward's marriage to Hannah and identifies Edward's parents:
 
-<figure>
+<figure class="quote-only">
 <blockquote>
 <pre>
 Reg. Num.: 216 
@@ -41,36 +41,63 @@ Age: 72
 The 1896 New York State Marriage Index also traces Hannah back to her maiden name, with the identfication number 25877:
 
 <div class="gallery">
-{{% mefig "1896-nys-marriage-index-241" "150" /%}}
-{{% mefig "1896-nys-marriage-index-563" "150" /%}}
-{{% mefig "1896-nys-marriage-index-816" "150" /%}}
+{{% mefig "1896-nys-marriage-index-241" "200" /%}}
+{{% mefig "1896-nys-marriage-index-563" "200" /%}}
+{{% mefig "1896-nys-marriage-index-816" "200" /%}}
 </div>
 
 My impressions of Hannah are that she was an active and outgoing woman who was much loved in the community.
 
-{{% mefig "1914-01-17-ithaca-journal" "400" /%}}
-{{% mefig "1914-05-22-ithaca-journal" "400" /%}}
+<div class="gallery">
+  {{% mefig "1914-01-17-ithaca-journal" "300" /%}}
+  {{% mefig "1914-05-22-ithaca-journal" "300" /%}}
+</div>
 
 Hannah apparently had what must have been of very worrying health episode. This is the first mention I have found of [Ellen Gould]({{% ref "gould-ellen" %}}), and it seems quite probable that this is an accounting of the circumstances of her coming to live in the Mills Home, to care for Emily's elderly step-mother which Emily herself, as a business owner, would not have had adequate time to do. Ellen was already well known to the Mills as she was also a member of the W.C.T.U.
 
-{{% mefig "1914-10-26-ithaca-journal" "400" /%}}
-{{% mefig "1914-10-31-ithaca-journal" "400" /%}}
-{{% mefig "1914-11-03-ithaca-journal" "400" /%}}
-{{% mefig "1914-11-07-ithaca-journal" "400" /%}}
-{{% mefig "1914-11-12-ithaca-journal" "400" /%}}
-{{% mefig "1914-12-05-ithaca-journal" "400" /%}}
-{{% mefig "1915-01-12-ithaca-journal" "400" /%}}
-{{% mefig "1915-02-09-ithaca-journal" "400" /%}}
-{{% mefig "1915-02-12-ithaca-journal" "400" /%}}
-{{% mefig "1915-02-22-ithaca-journal" "400" /%}}
-{{% mefig "1915-03-03-ithaca-journal" "400" /%}}
-{{% mefig "1916-05-23-ithaca-journal" "400" /%}}
-{{% mefig "george-jansen-hannah-sick-entry" /%}}
-{{% mefig "george-jansen-hannah-death-entry" /%}}
-{{% mefig "mills-hannah-cvcc-obit" /%}}
-{{% mefig "1917-02-26-ithaca-journal" "400" /%}}
-{{% mefig "1917-02-27-ithaca-journal" "400" /%}}
-{{% mefig "1917-03-03-ithaca-journal" "400" /%}}
-{{% mefig "1917-03-28-ithaca-journal" "400" /%}}
-{{% mefig "1917-05-08-ithaca-journal" "400" /%}}
-{{% mefig "1917-06-16-ithaca-journal" "400" /%}}
+
+<div class="gallery">
+  {{% mefig "1914-10-26-ithaca-journal" "300" /%}}
+  {{% mefig "1914-10-31-ithaca-journal" "300" /%}}
+</div>
+
+<div class="gallery">
+  {{% mefig "1914-11-03-ithaca-journal" "300" /%}}
+  {{% mefig "1914-11-07-ithaca-journal" "300" /%}}
+</div>
+
+{{% mefig "1914-11-12-ithaca-journal" "300" /%}}
+{{% mefig "1914-12-05-ithaca-journal" "300" /%}}
+
+<div class="gallery">
+  {{% mefig "1915-01-12-ithaca-journal" "300" /%}}
+  {{% mefig "1915-02-09-ithaca-journal" "300" /%}}
+</div>
+
+{{% mefig "1915-02-12-ithaca-journal" "300" /%}}
+
+<div class="gallery">
+  {{% mefig "1915-02-22-ithaca-journal" "300" /%}}
+  {{% mefig "1915-03-03-ithaca-journal" "300" /%}}
+</div>
+
+{{% mefig "1916-05-23-ithaca-journal" "300" /%}}
+
+{{% mefig "george-jansen-hannah-sick-entry" "700" /%}}
+{{% mefig "george-jansen-hannah-death-entry" "700" /%}}
+{{% mefig "mills-hannah-cvcc-obit" "700" /%}}
+
+<div class="gallery">
+  {{% mefig "1917-02-26-ithaca-journal" "300" /%}}
+  {{% mefig "1917-02-27-ithaca-journal" "300" /%}}
+</div>
+
+<div class="gallery">
+  {{% mefig "1917-03-03-ithaca-journal" "300" /%}}
+  {{% mefig "1917-03-28-ithaca-journal" "300" /%}}
+</div>
+
+<div class="gallery">
+  {{% mefig "1917-05-08-ithaca-journal" "300" /%}}
+  {{% mefig "1917-06-16-ithaca-journal" "300" /%}}
+</div>

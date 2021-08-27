@@ -9,8 +9,8 @@ Upon moving to Mott's Corners, Edward restarted his general store, now simply *E
 
 The former location of the Mills store as it looks today, at 484 Brooktondale Road. Note that the stairs leading to the second floor on the side of the building mentioned later by Gertrude Conant, are visible here on the western side of the building.
 
-{{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" /%}}
-{{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" /%}}
+{{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "700" /%}}
+{{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "700" /%}}
 
 The following is the earliest reference to the Mills' store and recounts a misadventure that took place at a time when Emily was identified as "clerk" in E. H. Mills:
 
@@ -20,22 +20,22 @@ It is really in Brookton where we get a sense of the family's finances through p
 
 I have seen perhaps more than a dozen volumes of sales journals and other financial record books that are in the possession of a local collector who told me that he was contacted by Frank Proto at the time that Frank took possession of the former Mills store building, and he was given the opportunity to go through the basement of the building and preserve anything of historical value. 
 
-{{% mefig "me-mills/vol-41-spine" /%}}
+{{% mefig "me-mills/vol-41-spine" "700" /%}}
 
 Interestingly, the oldest of the volumes, labeled "41" is the most important as it shows the records of E. H. Mills in the days immediately preceeding Edward's death. It would seem that Emily herself did not preserve the books from her father's time running the store.
  
-{{% mefig "me-mills/1908-records-high-res" /%}}
-{{% mefig "me-mills/1908-records-high-res-lower-third" /%}}
+{{% mefig "me-mills/1908-records-high-res" "700" /%}}
+{{% mefig "me-mills/1908-records-high-res-lower-third" "700" /%}}
 
 It would seem that the "Mills Family a/c" pages are the Mills' business expenses, mostly paying for store inventory. In these earlier books, this information was at the end of the book, starting with the inside back cover and progressed toward the front over time, whereas retail sales, including what the family themselves took out of the store, were entered in the books in the normal order.
 
 And the Mills Family account in the months following Edward's death: 
 
-{{% mefig "me-mills/1908-03-04-sales-journal" /%}}
+{{% mefig "me-mills/1908-03-04-sales-journal" "700" /%}}
 
 It is interesting to note that on the inside front cover of this book seems to indicate that the family purchased a barn on 23 Sep 1907 and rented it to John Roe for $0.50 a month:
 
-{{% mefig "me-mills/1907-09-23-barn-rent" /%}}
+{{% mefig "me-mills/1907-09-23-barn-rent" "700" /%}}
 
 The store was open on New Year's eve and New Year's day 1908, the day that Edward died, and we can see that Emily was working on an otherwise typical day of business at the store:
 
@@ -45,36 +45,41 @@ The store was open on New Year's eve and New Year's day 1908, the day that Edwar
 </div>
 
 As you can see, these books contain many easily recognizable names of former Brookton residents, along with a glimpse into their regular purchases. It is interesting to note that the store was closed on Sundays, but open on Christmas day, if a bit slow:
-{{% mefig "me-mills/1908-12-25-sales-journal-p466" /%}}
+
+{{% mefig "me-mills/1908-12-25-sales-journal-p466" "700" /%}}
 
 And some examples of Emily's own entries in the sales logs. Essentially we are getting a glimpse inside Emily and Hannah's pantry. Apparently, Emily had a bit of a sweet tooth: Candy was one of the more common staples:
 
 <div class="gallery">
-    {{% mefig "me-mills/1908-01-07-sales-journals-p19" "300" /%}}  
-    {{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" "300" /%}}
-    {{% mefig "me-mills/emily-mills-entry-2" "300" /%}}
-    {{% mefig "me-mills/emily-mills-entry-3" "300" /%}}
+  {{% mefig "me-mills/1908-01-07-sales-journals-p19" "300" /%}}  
+  {{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" "300" /%}}
+</div>
+<div class="gallery">
+  {{% mefig "me-mills/emily-mills-entry-2" "300" /%}}
+  {{% mefig "me-mills/emily-mills-entry-3" "300" /%}}
 </div>
 
 By 1920, her daily records looked much the same. References are made to individual accounts
-{{% mefig "me-mills/1920-01-19-Sales-Journals-p233" /%}}
+{{% mefig "me-mills/1920-01-19-Sales-Journals-p233" "700" /%}}
 
 In the 1920's, we also start to see more sophisticated business records, both new types of records kept as well as a more formal breakdown of the store's inventory expenditures. These journals contained sample pages and instructions for how to properly use them for bookkeeping.
 
-{{% mefig "me-mills/greenwoods-cover" /%}}
-{{% mefig "me-mills/1927-02-01-record-of-cash-payments" /%}}
+<div class="gallery">
+  {{% mefig "me-mills/greenwoods-cover" "300" /%}}
+  {{% mefig "me-mills/1927-02-01-record-of-cash-payments" "300" /%}}
+</div>
 
 The earliest formal mention of the store under Emily's ownership is in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village" in which M. E. Mills is listed as a "present merchant".
 
 Several descriptions of M. E. Mills exist, the most complete of which is Gertrude Conant's:
 
-{{% mefig "conant-gertrude-1" /%}}
+{{% mefig "conant-gertrude-1" "700" /%}}
 
 In one of the present-day photos of 484 Brooktondale Road, you can see the staircase on the side of building leading to the second floor, that Gertrude mentions.
 
 “A Drive-by Tour of the Town of Caroline” sponsored by the Town of Caroline Bicentennial Committee 1994-1995 contains a listing for M. E. Mills on a page identified as “Tour 4 - P7” in a 2016 reprint by The White Church Cabin Country Store and is the source (with some alterations) of the description Molly Adams used in her “Note”. In Molly’s research notes, she gives the attribution: “[Driveby, ie Conant]":
 
-<blockquote>
+<blockquote class="quote-only">
 <strong>BROOKTONDALE POST OFFICE, left -- 484 Brooktondale Road</strong>
 
 This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosene, Kerosene lamps with green shades, penny candy, stockings, handkerchiefs, yard goods, pins & sewing notions sheets & pillowcases, groceries, etc. She was a "sweet little lady" who succeeded her father in the business. Jessie Brewer had dry goods here after Miss Mills, and also had a lending library in the back.
@@ -86,27 +91,42 @@ The postoffice has moved at least 3 times. This is the 3rd site.Between the Post
 
 And Molly Adams, in A Note on Emily Mills tells of Emily's initial marketing attempts on her own:
 
-<blockquote>
+<blockquote class="quote-only">
 Before David VanDeMark’s mother Grace died, he had found in her sewing machine (which had been acquired from Clara Lockwood) a little leatherette booklet labeled on the outside “M. E. MILLS, DEALER IN DRY GOODS, GROCERIES, HARDWARE AND CROCKERY, BROOKTON, N.Y.” On the inside is a calendar covering July 1909 to July 1910, a pack of needles and a fabric needle holder. The text says *This is a complete set of needles for all purposes. All the best imported. We would very much appreciate your patronage when anything in our line is needed.”
 </blockquote>
 
 We know a great deal about Emily through the activities of M. E. Mills, which Emily made a community focal point as a natural consequence of her many interests and activities, and intentional or not, had to have been excellent marketing for her store. (My impressions are that Emily took a great deal of pride in the running of her store and took its effective management very seriously and did indeed consider every opportunity to volunteer her store for free press and increased foot traffic, such as the regular millinery exhibits by Margaret LaBar.)
 
-{{% mefig "1914-02-23-ithaca-journal" "400" /%}}
-{{% mefig "1914-03-24-ithaca-journal" "400" /%}}
-{{% mefig "1914-10-10-ithaca-journal" "400" /%}}
-{{% mefig "1914-10-23-ithaca-journal" "400" /%}}
-{{% mefig "1914-11-14-ithaca-journal" "400"/ %}}
-{{% mefig "1915-07-24-ithaca-journal" "400" /%}}
-{{% mefig "1915-04-07-ithaca-journal" "400" "img,blockquote,cite,link" /%}}
-{{% mefig "1916-08-08-ithaca-journal" "400" /%}}
-{{% mefig "me-mills/1920-08-07-The-Ithaca-Journal-p7" "400" /%}}
+<div class="gallery">
+  {{% mefig "1914-02-23-ithaca-journal" "300" /%}}
+  {{% mefig "1914-03-24-ithaca-journal" "300" /%}}
+</div>
 
-{{% mefig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" /%}}
+<div class="gallery">
+  {{% mefig "1914-10-10-ithaca-journal" "300" /%}}
+  {{% mefig "1914-10-23-ithaca-journal" "300" /%}}
+</div>
 
-{{% mefig "1925-03-13-ithaca-journal" "400" /%}}
-{{% mefig "1926-04-07-ithaca-journal" "400" /%}}
-{{% mefig "1935-10-25-ithaca-journal" "400" /%}}
+<div class="gallery">
+  {{% mefig "1914-11-14-ithaca-journal" "300"/ %}}
+  {{% mefig "1915-07-24-ithaca-journal" "300" /%}}
+</div>
+
+{{% mefig "1915-04-07-ithaca-journal" "300" "img,blockquote,cite,link" /%}}
+
+<div class="gallery">
+  {{% mefig "1916-08-08-ithaca-journal" "300" /%}}
+  {{% mefig "me-mills/1920-08-07-The-Ithaca-Journal-p7" "300" /%}}
+</div>
+
+{{% mefig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "700" /%}}
+
+<div class="gallery">
+  {{% mefig "1925-03-13-ithaca-journal" "300" /%}}
+  {{% mefig "1926-04-07-ithaca-journal" "300" /%}}
+</div>
+
+{{% mefig "1935-10-25-ithaca-journal" "300" /%}}
 
 Identical notices for the Halloween party were run in The Ithaca Journal on 28 Oct and 29 Oct 1935.
 

@@ -7,7 +7,7 @@ April 7, 1907, fifteen people are baptized at Brookton Congregational Church, in
 
 <!--more-->
 
-{{% mefig "mills-emily-cvcc-baptism" /%}}
+{{% mefig "mills-emily-cvcc-baptism" "700" /%}}
 
 April 7th fell on the Sunday after Easter in 1907. It was to be the final year of Edward's life. He and his second wife Hannah had both been members of the Church for just over a decade at that point, and depending on Edward's health at that time, we can assume that he and Hannah would have been present for the ceremony that day.
 
@@ -19,7 +19,7 @@ The Church's records indicate that the Reverend did return to Brookton periodica
 
 It is interesting to note the care taken to quote the scripture verse used in the sermon, as it is a translation that uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
 
-<figure>
+<figure class="quote-only">
 <blockquote>Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.</blockquote>
 <figcaption>— <cite>Luke 13:24, King James Bible</cite></figcaption>
 </figure>
@@ -40,7 +40,7 @@ Notes:
 
 I could not find an account of this baptism in the Ithaca Journal, but there is this entry over a week later in the Elmira Gazette and Free Press, that, despite some glaring innaccuracies that can be explained, appears to reference the event:
 
-{{% mefig "1907-04-17-elmira-gazette-and-free-press" "300" /%}}
+{{% mefig "1907-04-17-elmira-gazette-and-free-press" "400" /%}}
 
 At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. During the Reverend's tenure, she would also give occassional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
 

@@ -115,17 +115,17 @@ The following represents a summary of all of the data that I have been able to a
 The source documents are:
 
 <div class="gallery">
-{{% mefig "census/census-1860-us" "150" /%}}
-{{% mefig "census/census-1870-us" "150" /%}}
-{{% mefig "census/census-1875a-nys" "150" /%}}
-{{% mefig "census/census-1880-us" "150" /%}}
-{{% mefig "census/census-1892a-nys" "150" /%}}
-{{% mefig "census/census-1892b-nys" "150" /%}}
-{{% mefig "census/census-1900-us" "150" /%}}
-{{% mefig "census/census-1910-us" "150" /%}}
-{{% mefig "census/census-1915-nys" "150" /%}}
-{{% mefig "census/census-1920-us" "150" /%}}
-{{% mefig "census/census-1930-us" "150" /%}}
+{{% mefig "census/census-1860-us" "200" /%}}
+{{% mefig "census/census-1870-us" "200" /%}}
+{{% mefig "census/census-1875a-nys" "200" /%}}
+{{% mefig "census/census-1880-us" "200" /%}}
+{{% mefig "census/census-1892a-nys" "200" /%}}
+{{% mefig "census/census-1892b-nys" "200" /%}}
+{{% mefig "census/census-1900-us" "200" /%}}
+{{% mefig "census/census-1910-us" "200" /%}}
+{{% mefig "census/census-1915-nys" "200" /%}}
+{{% mefig "census/census-1920-us" "200" /%}}
+{{% mefig "census/census-1930-us" "200" /%}}
 </div>
 
 {{% list-children "" "Family Members" %}}
@@ -199,7 +199,8 @@ Planned:
   - Photo inventory and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move. (Begun.)
   - Research Emily's baptism, possibly contacting descendents of Annis Ford Eastman for information on that event. Check church records again: was this the Reverend's very last visit to Brookton? Letters exist at Univ of Ill library between the Reverend and her family.
   - The dimenions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
-  
+  - I believe there is ample contextual evidence to suggest that Emily was a member of the Ladies Aid Society and also involved in some capacity with the Red Cross, although I don't believe I have direct evidence of these. 
+
 ## Distribution
 
 To preserve this information, and as an aid to future researchers, the following organizations should receive a copy of this information:
@@ -214,4 +215,4 @@ To preserve this information, and as an aid to future researchers, the following
 
 ## Acknowledgements
 
-This research was made possible by the generosity of many people who have offered their time, access to their materials and access to their knowledge, to allow me to start putting the puzzle pieces of Emily's life together. I apologize to those I have forgotten; these I recall in no particular order: Molly Adams, Donna Eschenbrenner, Barbara Kone, Allan Starkweather, Richard Wines, Margaret Wegener, Ted Sobel, Becky Dewitt, Sarah Michelle, Ralph Conant, Carol Coggshall, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church. And those throughout the years who preserved precious memories: Gertrude Contant, E. D. Shurter, and Jessie Brewer.
+This research was made possible by the generosity of many people who have offered their time, access to their materials and access to their knowledge, to allow me to start putting the puzzle pieces of Emily's life together. I apologize to those I have forgotten; these I recall in no particular order: Molly Adams, Donna Eschenbrenner, Barbara Kone, Allan Starkweather, Ken Rumble, Richard Wines, Margaret Wegener, Ted Sobel, Becky Dewitt, Sarah Michelle, Ralph Conant, Carol Coggshall, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church. And those throughout the years who preserved precious memories: Gertrude Contant, E. D. Shurter, and Jessie Brewer.

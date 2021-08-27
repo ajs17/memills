@@ -9,7 +9,7 @@ The temperance movement was a significant cultural phenomena of the mid 1800's t
 
 Prior to the Mills moving to Mott's Corners, its unclear if Emily or anyone else in the family was involved in temperance.
 
-<figure>
+<figure class="quote-only">
 <blockquote>
 Temperance groups don't appear to be very strong here. The only mention I found was the "Royal Templars of Temperance" who began meeting in 1878. They didn't seem to be very powerful. No date was given as to when they ceased to exist.
 </blockquote>
@@ -22,8 +22,8 @@ There are records of a number of "lodges" of the Independent Order of Good Templ
 
 In the 1880's Emily was an officer in the Independent Order of Good Templars, in the Brookton chapter called "High Bridge Lodge, No. 296".
 
-{{% mefig "good-templars-form-inside" /%}}
-{{% mefig "good-templars-form-outside" /%}}
+{{% mefig "temperance/good-templars-form-inside" "700" /%}}
+{{% mefig "temperance/good-templars-form-outside" "700" /%}}
 
 {{% mefig "1914-05-22-ithaca-journal" "300" /%}}
 {{% mefig "1915-02-09-ithaca-journal" "300" /%}}

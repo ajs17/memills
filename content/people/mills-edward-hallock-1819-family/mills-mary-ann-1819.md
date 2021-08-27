@@ -11,15 +11,15 @@ Mary Ann (Pine) Mills, born 8 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookton
 {{% metable "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Mary" %}}
 
 {{% mefig "1851-01-03-Brooklyn-Daily-Eagle" "400" /%}}
-{{% mefig "mills-mary-cvcc-join"  /%}}
-{{% mefig "1895-12-31-daily-news-p1" /%}}
-{{% mefig "mills-edward-mary-cvcc-obit"  /%}}
+{{% mefig "mills-mary-cvcc-join" "700" /%}}
+{{% mefig "1895-12-31-daily-news-p1" "700" /%}}
+{{% mefig "mills-edward-mary-cvcc-obit" "700" /%}}
 
 ## Churches in Corfu 
 
 We know that Mary Ann was a member of the Presbyterian Church in Corfu, but the interconnections with the Congregationalists is interesting nonetheless:
 
-<figure>
+<figure class="quote-only">
 <blockquote>
 The Congregationalist Church was active in Corfu from 1810-1830s. It never had its own building. It spent a few years as part of the Presbyterian Church,  then ceased to exist.
 </blockquote>
@@ -30,7 +30,7 @@ The Congregationalist Church was active in Corfu from 1810-1830s. It never had i
 
 The following histories were provided via personal correspondence with Allan Starkweather, Corfu Village Historian:
 
-<figure>
+<figure class="quote-only">
   <blockquote>
   <h4>Congregationalist Church</h4>
 
@@ -47,13 +47,13 @@ The following histories were provided via personal correspondence with Allan Sta
   <figcaption>— <cite>Allan Starkweather, Corfu Village Historian.</cite></figcaption>
 </figure>
 
-<figure>
+<figure class="quote-only">
 <blockquote>
 I do not have any records from the church on hand, prior to the early 1900s.  Our church started in 1814, which means she would have been involved in our church at the very early years of our church opening as Pembroke Society. 
 
 I did send out a message to see if there are still any records from the start of the church, but truth be told, back then, record keeping wasn't exactly a big thing. and if anything was still available, it would have been transferred over, and over again. 
 </blockquote>
-<figcaption><cite>May 21, 2020, personal correspondence with Ken Rumble, Church Office Secretary for Corfu United Presbyterian Church:</cite>
+<figcaption><cite>May 21, 2020, personal correspondence with Ken Rumble, Church Office Secretary for Corfu United Presbyterian Church.</cite>
 </figcaption>
 </figure>
 
