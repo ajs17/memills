@@ -83,8 +83,6 @@ Emily was the first to note Edward's death in the sales journal of E. H. Mills g
   
 {{% mefig "mills-edward-mary-cvcc-obit" "700" /%}}
 
-Edward's death is recorded by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>.
-
 ## Notes for Future Researchers
 
 There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversville NY in the 1880's that was a "knitting factory" and one that is written about in some detail in local historical accounts. This appears to be a completely different family based on the following city directories that list family members who are unaccounted for in the Mills Genealogy and are not documented in anything else we know about the Mills. 

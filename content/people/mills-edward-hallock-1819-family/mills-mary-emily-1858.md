@@ -160,7 +160,7 @@ This moving tribute was authored by none other than E. D. Shurter, a Brookton na
 
 The professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, we can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't fully appreciate some of the most important aspects of Emily's life, most notably, her charity, One senses that the professor understood he was writing what would be the definitive statement of her life for the ages, and indeed, in several histories where Emily is mentioned, her only description consists of the text of this tribute, in its entirety, without further comment. 
 
-The professor makes it clear that charity was one of Emily's defining characteristics. We have many sales journals of [M. E. Mills general store]({{% ref "features/me-mills" %}}) and know that it was common practice for Emily's customers to have accounts that they likely paid monthly. The professor seems to indicate that perhaps she allowed more time for payment to those who needed it. We can also see evidence here and there of direct donations from her store that she counted against her own account as "Goods for Charity":
+The professor makes it clear that charity was one of Emily's defining characteristics. The news clippings above give a sense of her contributions to the Red Cross, and of course, the W. C. T. U. did considerale charitable work. We have many sales journals of [M. E. Mills general store]({{% ref "features/me-mills" %}}) and know that it was common practice for Emily's customers to have accounts that they likely paid monthly. The professor seems to indicate that perhaps she allowed more time for payment to those who needed it. We can also see evidence here and there of direct donations from her store that she counted against her own account as "Goods for Charity":
 
 {{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" "700" /%}}
 
@@ -240,7 +240,7 @@ Keep in mind that we have examples of Emily writing in longer form, albeit in ve
 
 Beginning with the Templars minutes, we can start to look for patterns of phrasing, etc. that might be used to identify her unattributed words elsewhere.
 
-In an informal discussion about the gossip columns with Donna Eschenbrenner, it sounds like that The Ithaca Journal significantly downsized in the recent past, some of their records were sent to their organization in Binghamton, while the rest were simply discarded, so it is very unlikely that any record of who the various "gossip column" authors were.  I have tried to contact the Ithaca Journal to follow up on possible records but have not been able to get a response back.
+In an informal discussion about the gossip columns with Donna Eschenbrenner, it sounds like that The Ithaca Journal significantly downsized in the recent past, some of their records were sent to their parent company in Binghamton, while the rest were simply discarded, so it is very unlikely that any record of who the various "gossip column" authors were still exists.  I have tried to contact the Ithaca Journal to follow up on possible records but have not been able to get a response back.
 
 
 

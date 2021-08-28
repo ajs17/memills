@@ -5,6 +5,8 @@ weight: 7
 
 The Mills lived in Staten Island throughout much of the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1851, Edward is said to be "of Factoryville":
 
+<!--more-->
+
 {{% mefig "1851-01-03-Brooklyn-Daily-Eagle" "400" /%}}
 
 In the 1875 New York State Census, each of the children are listed with Staten Island as their birthplace (years 1852, 1854 and 1858), and they were still living in Staten Island in 1860 as reflected in the Federal Census:
