@@ -62,14 +62,14 @@ And some examples of Emily's own entries in the sales logs. Essentially we are g
 By 1920, her daily records looked much the same. References are made to individual accounts
 {{% mefig "me-mills/1920-01-19-Sales-Journals-p233" "700" /%}}
 
-In the 1920's, we also start to see more sophisticated business records, both new types of records kept as well as a more formal breakdown of the store's inventory expenditures. These journals contained sample pages and instructions for how to properly use them for bookkeeping.
+In the 1920's, we also start to see more sophisticated business records, both new types of records kept as well as a more formal breakdown of the store's inventory expenditures. These journals contained sample pages and instructions for how to properly use them for bookkeeping that Emily would have used to teach herself these new methods. This is further indication of Emily's character and how much pride she took in ownership of her store that she was continually teaching herself new practices, even after decades of daily work in this occupation.
 
 <div class="gallery">
   {{% mefig "me-mills/greenwoods-cover" "300" /%}}
   {{% mefig "me-mills/1927-02-01-record-of-cash-payments" "300" /%}}
 </div>
 
-The earliest formal mention of the store under Emily's ownership is in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village" in which M. E. Mills is listed as a "present merchant".
+The earliest formal mention of the store under Emily's ownership and name is in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village" in which M. E. Mills is listed as a "present merchant".
 
 Several descriptions of M. E. Mills exist, the most complete of which is Gertrude Conant's:
 

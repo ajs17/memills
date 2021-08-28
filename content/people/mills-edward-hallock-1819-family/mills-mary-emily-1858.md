@@ -102,6 +102,8 @@ She was a "sweet little lady"
 </figcation>
 </figure>
 
+And of course E. D. Shurter's words endure as the definitive summation of Emily's life:
+
 <figure class="quote-only">
 <blockquote>
 Reserved, unostentatious, and kindly...she went about her daily round of duties with a Christian fortitude and faithfulness...
@@ -120,26 +122,24 @@ Due to the level of detail given to the context of this story, I am choosing to 
   {{% mefig "1913-12-06-ithaca-daily-journal" "300" /%}}
   {{% mefig "1917-03-20-ithaca-journal" "300" /%}}
 </div>  
-  
-{{% mefig "1918-10-15-ithaca-journal" "300" /%}}
-
 <div class="gallery">
+  {{% mefig "1918-10-15-ithaca-journal" "300x300" "" "top" /%}}
   {{% mefig "1923-04-24-ithaca-journal" "300" /%}}
-  {{% mefig "1924-05-10-ithaca-journal" "300" /%}}
 </div>
 <div class="gallery">
+  {{% mefig "1924-05-10-ithaca-journal" "300" /%}}
   {{% mefig "1924-10-14-ithaca-journal" "300" /%}}
-  {{% mefig "1926-10-30-ithaca-journal" "300" /%}}
 </div>
-
-{{% mefig "1931-02-02-ithaca-journal" "300" /%}}
-
+<div class="gallery">
+  {{% mefig "1926-10-30-ithaca-journal" "300" /%}}
+  {{% mefig "1931-02-02-ithaca-journal" "300x300" "" "top" /%}}
+</div>
 <div class="gallery">
   {{% mefig "1935-12-05-ithaca-journal" "300" /%}}
   {{% mefig "1936-06-22-ithaca-journal" "300" /%}}
 </div>
 
-{{% mefig "1937-02-09-ithaca-journal" "300" /%}}
+{{% mefig "1937-02-09-ithaca-journal" "300x300" "" "top" /%}}
 
 Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 78 years old, a few weeks shy of 79 years old..
 
@@ -194,7 +194,7 @@ In the Caroline History Room, there is a copy of Molly's familiar-looking resear
 
 The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner of the Mills Home would be, and was designed specifically to pique interest in Emily. 
 
-The answer to Molly's question "and some groceries?" seems to be yes. Perhaps the question arose because Jessie Brewer apparently did not continue to sell groceries, and this was what residents if the time would more likely remember.
+The answer to Molly's question "and some groceries?" seems to be yes. Perhaps the question arose because Jessie Brewer apparently did not continue to sell groceries, and this was what residents of the time would more likely remember.
 
 Molly Adams also wrote about Emily in "Town of Caroline" a chapter in the book "The Towns of Tompkins County: From Podunk to the Magnetic Springs" edited by Jane Marsh Dieckmann, 1998. Emily is also mentioned in Town of Caroline Historian Barbara Kone's compilation "A History of the Town of Caroline, Tompkins County, New York, United States of America" known to us all as "The Bicentennial Book."
 
@@ -210,7 +210,7 @@ This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosen
 
 *M. E. Mills* is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village".
 
-Emily, Edward, and Hannah are mentioned in the diaries of George Jansen. Edward's death is noted, as is Hannah's final illness, death and funeral. George notes in a number of entries throughout the years that he did odd jobs for Emily, two specific examples are "drawing a cord of wood" and some painting that context would suggest was for the store. I have done a complete photo inventory of the six notebooks of George Jansen's that are currently owned by the Tompkins County History Center in Ithaca, and I will add images and transcriptions to this record as I am able to process them.
+Emily, Edward, and Hannah are mentioned in the diaries of George Jansen. Edward's death is noted, as is Hannah's final illness and death. George notes in a number of entries throughout the years that he did odd jobs for Emily, two specific examples are "drawing a cord of wood" and some painting that context would suggest was for the store. I have done a complete photo inventory of the six notebooks of George Jansen's that are currently owned by the Tompkins County History Center in Ithaca, and I will add images and transcriptions to this record as I am able to process them.
 
 ## Notes for Future Researchers
 

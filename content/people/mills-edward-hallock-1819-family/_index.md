@@ -20,7 +20,7 @@ Edward H. Mills has partial entries on at least two Mills family genealogies:
 
 What follow is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents, and further supplementing with what we think we know of Edward's family.
 
-<blockquote>
+<blockquote class="quote-only">
 
 <span>583.</span> [Jonas Davis Mills](https://www.findagrave.com/memorial/138421270/jonas-d.-mills) (George , Isaac , Isaac , Timothy , Jonathan , George ) was born on 2 May 1795. He died on 30 Jan 1882.
 
@@ -79,7 +79,7 @@ She appears to be referenced in the sales records of the [Mills store]({{% ref "
 
 Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
 
- <figure>
+ <figure class="quote-only">
  <blockquote>
 It was Timothy Mills who bought the land from one of our town founder's sons in 1693, according to "Colonel Rockwell's Scrap-Book" published by the Smithtown Historical Society in 1968. As the sons of Timothy Mills married, houses were built around the pond found on the land.
 
@@ -104,7 +104,7 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
 
 [Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
 
-[Ellen Gould](https://www.findagrave.com/memorial/35944445/ellen-jane-predmore) is interred at Seneca Union Cemetery, Valois, NY.
+[Ellen Gould](https://www.findagrave.com/memorial/35944445/ellen-jane-predmore) is interred at Seneca Union Cemetery, 6292 NY-414, Hectory NY, 14841.
 
 ## Census Data
 
