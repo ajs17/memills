@@ -65,6 +65,8 @@ In 1907, Emily would officially join the membership roll of Brookton Congregatio
 
 {{% mefig "mills-emily-cvcc-baptism" "700" "img,blockquote,figcaption" /%}}
 
+A closer examination of the circumstances around the baptism can be found [here]({{% ref "baptism" %}}).
+
 Emily played the piano (and/or organ) in the Church and at times served as an officer in the Church. She was a Sunday School teacher, and possibly taught classes specifically for adults. There are accounts of her organizing bible study groups and prayer meetings in her home. It is unclear what Emily's religious outlook was before being baptized, but at least from that point on, Emily's faith was a very important part of her life. 
 
 Emily continued to be involved in temperance, for some period of time, a member of the Women's Christian Temperance Union, along with her step-mother Hannah. This is almost certainly unknowable now, but I have wondered if Hannah was introduced to Edward through the Emily's involvement with the W. C. T. U. 
