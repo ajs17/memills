@@ -181,6 +181,7 @@ I have already collected much of this information, its just a matter of getting 
   - Charles Personius Mills?
   - Who is the Mrs. Woodworth who Emily paid to attend Edward's funeral?
   - More information is needed about Emily's involvement in the Ladies Aid Society and Red Cross.
+  - Research the apparent purchase for subsequent rental: a barn 23 Sep 1907.
 
 Horace's Death:
   - Presumably why the family moved *away from* Corfu?

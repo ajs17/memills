@@ -1,5 +1,8 @@
 ---
 citation: "18 Mar 1897, The Ithaca Daily Journal (Ithaca, NY), p6, nyshistoricnewspapers.org"
+notes: >-
+
+    - C. R. Wolcott is Clarence Reed Wolcott (1864-1950).
 ---
 **COURT RECORD**
 

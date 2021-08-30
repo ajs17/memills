@@ -18,8 +18,8 @@ E. H. Mills Family a/c
 
   - Died Jan 1st 1908
   - 1908, Jan  6, Burial expenses, $33.17
-  - 1908, Jan 15, Tax on house (5.09)
-  - 1908, Jan 21, Paid Mr(s?) Woodworth for att. funeral, $3.00
+  - 1908, Jan 15, Tax on house 5.09
+  - 1908, Jan 21, Paid Mrs. Woodworth for att. funeral, $3.00
   - 1908, Jan 22, Lard (10) paid Emily Huntting, $10.00
   - 1908, Jan 23, Sewing by Mrs. Gould, $0.75
   - 1908, Feb 11, Paid Undertaker's bill, $3.00
