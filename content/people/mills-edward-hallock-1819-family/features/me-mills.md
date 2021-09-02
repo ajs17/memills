@@ -22,7 +22,7 @@ I have seen perhaps more than a dozen volumes of sales journals and other financ
 
 {{% mefig "me-mills/vol-41-spine" "700" /%}}
 
-Interestingly, the oldest of the volumes, labeled "41" is the most important as it shows the records of E. H. Mills in the days immediately preceeding Edward's death. It would seem that Emily herself did not preserve the books from her father's time running the store.
+Interestingly, the oldest of the volumes, labeled "No. 41" is the most important as it shows the records of E. H. Mills in the days immediately preceeding Edward's death. It would seem that Emily herself did not preserve the books from her father's time running the store.
  
 {{% mefig "me-mills/1908-records-high-res" "700" /%}}
 {{% mefig "me-mills/1908-records-high-res-lower-third" "700" /%}}

@@ -49,13 +49,13 @@ There are also a number of volumes of sales journals from [M. E. Mills]({{% ref 
   {{% mefig "handwriting/sig2" "300" /%}}
 </div>
 
-A number of aspects of Emily's handwriting are quite distinctive—such as uppercase E's, M's, W's, C's, T's and F's as well as lowercase p's are often written with similar idiosyncracies. Note for example, the following entry in M. E. Mills sales journals, a close examination of which will reveal is entirely written by Emily. Notice how even though she is writing the same word on the same day, from one entry to the next, how she writes her uppercase T can vary in one of two ways, each quite distinctive in itself. It can either swoop down from the top and finish with a flourishing loop in front of it, or can be two strokes of the pen, one down, and the cross rises and falls, the opposite of the cross in the other T. Notice that on James Caveney's entry, we get the flourishing T, but the capital F afterward on the same line item shows the mushroom cap shape characteristic of her other T:  
+A number of aspects of Emily's handwriting are quite distinctive—such as uppercase E's, M's, W's, C's, T's and F's as well as lowercase p's are often written with similar idiosyncracies. Note for example, the following entry in M. E. Mills sales journals, a close examination of which will reveal is entirely written by Emily. Notice how even though she is writing the same word on the same day, from one entry to the next, how she writes her uppercase T can vary in one of two ways, each quite distinctive in itself. It can either swoop down from the top and finish with a flourishing loop behind it, or can be two strokes of the pen, one down, and the cross rises and falls, the opposite of the cross in the other T. Notice that on James Caveney's entry, we get the flourishing T, but the capital F afterward on the same line item shows the mushroom cap shape characteristic of her other style of writing T:  
 
 {{% mefig "me-mills/1909-03-26-sales-journal" "700" /%}}
 
 Her E's C's L's and J's tend to have big loops. Her lowercase p's practically pierce the line above it. And of course, her T's and F's have those distinctive crosses. Her handwriting is easily recognizable, and when others (most likely Ellen Gould) make entries in the Mill's store journals, it sticks out.
 
-And another glimpse into Emily's personal life at this time:
+Here we glimpse further into Emily's personal life at this time:
 
 {{% mefig "mills-emily-arthurs-home-magazine" "300" /%}}
 
@@ -172,6 +172,26 @@ The professor makes it clear that charity was one of Emily's defining characteri
 ## Other Historical Accounts
 
 Understandably, histories of the Mills family have typically focused almost exclusively on Emily. All previous secondary sources of information on Emily accepted 1861 as her birth year.
+
+Emily is mentioned twice by Molly Adams in her chapter *Town of Caroline* in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann:
+
+<blockquote class="quote_only">
+...[George Jansen] noted the death of Emily Mills, who had continued her father's store for thirty years, extending credit to many needy individuals. (p62)
+</blockquote>
+
+As indicated elsewhere, George Jansen predeceased Emily by two years. The entry that Molly must have been referring to is the mention of Edward's death:
+
+{{% mefig "george-jansen-ehmills-entry" "400" "img,cite" /%}}
+
+And in the following, Molly seems to indicate that "at the store" was referring to what we know today as Brookton's Market, owned by Robert (Bob) Tucker at that time, and not M. E. Mills, although her choice of words is noticeably vague on the point. Presumably, I can find the original quote and get a better sense of this, but its not obvious that this isn't referring to Mills' store:
+
+<blockquote class="quote_only">
+...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mill's store had been. ... (p63) 
+</blockquote>
+
+The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store. 
+
+{{% mefig "lockwood-memorial" "400" /%}}
 
 Emily is not mentioned by name, but is implicitly referenced in a photo caption of a portrait of Jessie Brewer published in 2016, "Around Caroline" by Patricia A. Brhel, p23:
 
