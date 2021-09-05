@@ -2,6 +2,8 @@
 citation: "Molly Adams"
 notes: >- 
     Notes:
+    
+    - Clara (Travis) Lockwood is the wife of Elmer Lockwood, Dr. Benjamin Lockwood's son.
 
     - The "old postoffice" and prior to that, the location of M. E. Mills, is present-day 484 Brooktondale Road.
   

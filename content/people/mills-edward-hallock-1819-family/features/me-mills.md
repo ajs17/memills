@@ -138,9 +138,12 @@ And in the following, Molly Adams seems to indicate that "at the store" was refe
 *— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63*
 </blockquote>
 
-{{% mefig "1935-11-23-The-Ithaca-Journal-p5" "400x400" "" "top" /%}}
+<div class="gallery">
+    {{% mefig "1935-07-31-The-Ithaca-Journal-p14" "300" /%}}
+    {{% mefig "1935-11-23-The-Ithaca-Journal-p5" "300x300" "" "top" /%}}
+</div>
 
-The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store, and facing the former Lockwood residence. 
+The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store, and facing the former Lockwood residence. There is also a bronze sundial on top of the stone (not visible in the photo) that appears to have been attached along with the tablet.  
 
 {{% mefig "lockwood-memorial" "400" "img,link" /%}}
 

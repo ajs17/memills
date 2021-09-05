@@ -1,10 +1,13 @@
 ---
-citation: "23 Nov 1935, The Ithaca Journal (Ithaca NY), p5"
+citation: "23 Nov 1935, The Ithaca Journal (Ithaca NY), p5, newspapers.com"
 notes: >-
     
     - Here, it would seem that Emily was using an opportunity to publicize her store instead of "M. Emily Mills" or "Emily Mills" as she would normally refer to herself. E. D. Shurter, Charles and Anna Mulks, as well as Jessie (Shurter) and Lewis Brewer are among those mentioned.
+
     - A close reading suggests that the "Caroline resident" quoted is E. D. Shurter, and in fact, the style of the entire article is uncharacteristic of a Journal reporter and reads more like a press release the Professor wrote for the Journal.
+
 ---
+
 **Grateful Town of Caroline Places Marker in Memory of Lockwood, Rural Doctor**
 
 The people of Caroline have honored the memory of Dr. Benjamin F. Lockwood, for 26 years a country practitioner.
