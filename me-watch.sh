@@ -67,7 +67,7 @@ while true; do
       MDCONTENT="---\ncitation: \"$DATE, $NAME, $SRCBASEDOMAIN\"\n---\n"
       echo -e $MDCONTENT > $MDFILE
       echo "opening $MDFILE"
-      code $MDFILE
+      nvim $MDFILE
     fi
     
     printf $'{{%% mefig "%s" /%%}}' $RELDIR$BASENAME | xclip -sel clip

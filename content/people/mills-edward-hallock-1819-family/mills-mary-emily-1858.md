@@ -186,7 +186,7 @@ As indicated elsewhere, George Jansen predeceased Emily by two years. The entry 
 And in the following, Molly seems to indicate that "at the store" was referring to what we know today as Brookton's Market, owned by Robert (Bob) Tucker at that time, and not M. E. Mills, although her choice of words is noticeably vague on the point. Presumably, I can find the original quote and get a better sense of this, but its not obvious that this isn't referring to Mills' store:
 
 <blockquote class="quote_only">
-...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mill's store had been. ... (p63) 
+...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mill's store had been. *— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63*
 </blockquote>
 
 The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store. 

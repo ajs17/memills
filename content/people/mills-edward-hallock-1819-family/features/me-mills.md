@@ -130,6 +130,20 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 
 Identical notices for the Halloween party were run in The Ithaca Journal on 28 Oct and 29 Oct 1935.
 
+And in the following, Molly Adams seems to indicate that "at the store" was referring to what we know today as Brookton's Market, owned by Robert (Bob) Tucker at that time, and not M. E. Mills, although her choice of words is noticeably vague on the point. Presumably, I can find the original quote and get a better sense of this, but its not obvious that this isn't referring to Mills' store:
+
+<blockquote class="quote-only">
+...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mill's store had been. 
+
+*— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63*
+</blockquote>
+
+{{% mefig "1935-11-23-The-Ithaca-Journal-p5" "400x400" "" "top" /%}}
+
+The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store, and facing the former Lockwood residence. 
+
+{{% mefig "lockwood-memorial" "400" "img,link" /%}}
+
 {{% mefig "1936-06-20-ithaca-journal" "400" /%}}
 
 Two articles in the Jul 14, 1934 (page 3) and Nov 20, 1934 (page  5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendents of those accused.
