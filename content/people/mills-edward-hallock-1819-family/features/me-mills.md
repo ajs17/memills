@@ -147,7 +147,7 @@ The memorial, presumably with the text provided by the professor, currently sits
 
 {{% mefig "lockwood-memorial" "400" "img,link" /%}}
 
-{{% mefig "1936-06-20-ithaca-journal" "400" /%}}
+{{% mefig "1936-06-20-ithaca-journal" "300" /%}}
 
 Two articles in the Jul 14, 1934 (page 3) and Nov 20, 1934 (page  5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendents of those accused.
 

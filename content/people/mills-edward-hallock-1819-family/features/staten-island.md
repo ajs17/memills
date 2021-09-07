@@ -25,7 +25,7 @@ The 1860 census indicates the town is Castleton. Castleton is the name of one of
 {{% mefig "staten-island/1902-11-29-richmond-county-advance-p4" "700x400" "" "top" %}}
 Mr. Brown was born at Oak Farm, Long Island, and was one of ten children. His parent were among the most intelligent and estimable people of that section, and he was trained to many kinds of usefulness on the farm from a very early age. Indeed, the experiences which then came to him were invaluable, and fitted him in a superior degree for the diligent, manly and honorable life which succeeded.
 
-He began business for himself as a coal and wood merchant in the city of Brooklyn, but later, in the year 1857, he accepted a position in the grocery store of **Charles M. Pine** at West Brighton, and remained there, highly esteemed by the proprietor and by the many customers, until the year 1859, when he purchased the valuable property at the corner of Broadway and Castleon avenue and began business in the same line for himeself. He resided in the adjoining house with his family. He was a man of the very strictest integrity in all of his affairs, and with the merchants of the city with whom he dealt, and with the other people with whom he had financial relations, he was held in the highest regard. In 1892 he retired from active life.
+He began business for himself as a coal and wood merchant in the city of Brooklyn, but later, in the year 1857, he accepted a position in the grocery store of **Charles M. Pine** at West Brighton, and remained there, highly esteemed by the proprietor and by the many customers, until the year 1859, when he purchased the valuable property at the corner of Broadway and Castleon avenue and began business in the same line for himself. He resided in the adjoining house with his family. He was a man of the very strictest integrity in all of his affairs, and with the merchants of the city with whom he dealt, and with the other people with whom he had financial relations, he was held in the highest regard. In 1892 he retired from active life.
 
 He set a fine example with regard to everything in which he was engaged during the forty-seven years when he made Staten Island his home. Beside the store he had a profitable cranberry business at Calverton, L.I., which he sold to a brother two years ago.
 
@@ -35,6 +35,6 @@ He set a fine example with regard to everything in which he was engaged during t
 
 {{% mefig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "400" /%}}
 
-Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine. There is a Charles Pine that married Almira Jane Loper in 1835 in South Hempstead, New York, and elsewhere, his middle name appears to be Mills:
+Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine. There is a Charles Pine that married Almira (possibly a misspelling of "Elmira", or perhaps misspelled this way elsewhere, be sure to search for both) Jane Loper in 1835 in South Hempstead, New York, and elsewhere, his middle name appears to be Mills:
 
 {{% mefig "staten-island/1835-02-21-charles-pine" "700" /%}}
