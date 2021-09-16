@@ -181,6 +181,7 @@ I have already collected much of this information, its just a matter of getting 
   - Charles Personius Mills?
   - Who is the Mrs. Woodworth who Emily paid to attend Edward's funeral?
   - More information is needed about Emily's involvement in the Ladies Aid Society and Red Cross.
+  Donna E. believes that the Ithaca office of the Red Cross has scrapbooks of their own history: I have contacted them and awaiting a response.
   - Research the apparent purchase for subsequent rental: a barn 23 Sep 1907.
 
 Horace's Death:
@@ -189,8 +190,9 @@ Horace's Death:
   - The nature of Horace's death, and was alcohol a significant factor? Presumably this will never be knowable, but perhaps there will be clues in the Good Templars notebooks.
 
 Church Records and Baptism:
+  - Review records for other mentions of Emily, including her being an officer in the church. 
   - Entries mentioning Emily or Edward before they officially joined?  
-  - Any information on this event from Park Church, any diaries of Reverend Ford Eastman? (Contacted.)
+  - Any information on Emily's baptism from Park Church, any diaries of Reverend Ford Eastman? (Contacted.)
   - Is there significance to the date? Easter was on 3/31 in 1907. 4/7 did fall on a Sunday
   - Catalog all information about Reverend Annis Ford Eastman, including her return trips, see if Emily's baptism was the Rev's last visit to Brookton.
   

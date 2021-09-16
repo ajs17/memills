@@ -5,4 +5,4 @@ draft: true
 weight: 10
 ---
 
-{{% list-citations %}}
+ list-citations 
