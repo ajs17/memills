@@ -40,7 +40,7 @@ They had the following children:
 - 1033	M	v	Robert Sydney Mills is printed as #624. ...born on 11 Nov 1835.
 </blockquote>
 
-Several of the marriages above and below are corroborated in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
+Several of the marriages above and below are referenced, if not corroborated, in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 
 {{% mefig "genealogy/mills-marriages-34" "400" "img,link" /%}}
 {{% mefig "genealogy/mills-marriages-35" "400" "img,link" /%}}
