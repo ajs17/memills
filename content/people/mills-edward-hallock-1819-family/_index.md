@@ -18,7 +18,7 @@ Edward H. Mills has partial entries on at least two Mills family genealogies:
 {{% mefig "genealogy/1939-source2-pageb" "300" "img,link" /%}}
 </div>
 
-What follow is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents, and further supplementing with what we think we know of Edward's family.
+What follows is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents, and further supplementing with what we think we know of Edward's family.
 
 <blockquote class="quote-only">
 
@@ -40,16 +40,24 @@ They had the following children:
 - 1033	M	v	Robert Sydney Mills is printed as #624. ...born on 11 Nov 1835.
 </blockquote>
 
-And to this we can add Edward's branch to its ultimate conclusion:
+Several of the marriages above and below are corroborated in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
+
+{{% mefig "genealogy/mills-marriages-34" "400" "img,link" /%}}
+{{% mefig "genealogy/mills-marriages-35" "400" "img,link" /%}}
+{{% mefig "genealogy/mills-marriages-36" "400" "img,link" /%}}
+
+(As you can see, there is yet another Pine mentioned.)
+
+And to these genealogies, we can add Edward's branch to its ultimate conclusion:
 
 <span>1030.</span> **Edward Hallock Mills** (born Smithtown NY, 25 Mar 1819, died Brookton NY, 01 Jan 1908).
 
-Edward married (1) **Mary Ann (Pine) Mills** (born Hempstead NY, 8 Feb 1819, died Brookton NY, 28 Dec 1895). Married on 29 Dec 1850. 
+Edward married (1) **Mary Ann (Pine) Mills** (born Hempstead NY, 08 Feb 1819, died Brookton NY, 28 Dec 1895). Married on 29 Dec 1850. 
 
 Children:
   - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, 14 Oct 1885).
   - **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, 27 Oct 1876).
-  - **Mary Emily Mills** who went by "Emily" and often signed her name as "M. Emily Mills" (born Staten Island NY, Dec 1858, died Brooktondale NY, 3 Nov 1937).
+  - **Mary Emily Mills** who went by "Emily" and often signed her name as "M. Emily Mills" (born Staten Island NY, Dec 1858, died Brooktondale NY, 03 Nov 1937).
   
 None of Edward's children married or had children.
 
@@ -59,7 +67,8 @@ Edward married (2) **Hannah (Thatcher) Eastman Mills** (born England, 21 May 182
 
 Notes:
   - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries. The birthdates in particular are based on the 1900 census, which contradict Emily's gravestone.
-  - Edward's parents were married while Edward was in utero and his older brother Thomas was already a toddler.
+  - Edward's parents were married while Edward was in utero (at least according to one of the dates given) and his older brother Thomas was already a toddler.
+  - Jonas Davis Mills and Mary Platt Mills appear to be relatives, although I have followed this through to be sure. 
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occassionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence,21 Jul 2021)
   - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 

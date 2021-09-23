@@ -1288,3 +1288,46 @@ BURIAL
 Quick Cemetery
 Caroline, Tompkins County, New York, USA
 MEMORIAL ID	89338759 · View Source
+
+
+---
+Email to Elizabeth Mills
+
+I hope to retain your services to help me with very specific genealogical questions about the family of Edward Hallock Mills (1819-1908), and information around one family member in particular:
+
+    Mary Emily Mills who went by “Emily” and often signed her name as “M. Emily Mills” (born Staten Island NY, Dec 1858, died Brooktondale NY, 03 Nov 1937). (* Note that 1861 is often erroneously given as her birth year, due to an error on her gravestone.) Emily never married and had no children.
+
+I read about you in "How Historians Work" (edited by a Hallock, the maiden name of Emily's grandmother!), and I also purchased your book "Professional Genealogy" although I have not had a chance to read it yet. These are my first attempts at this type of research, and I feel I am starting to reach the end of my capabilities, and figured I would reach out to a professional. It is also my hope that you may be related in some way to this family and would therefore have particular insight. 
+
+The primary question I would like answered is:
+    
+    - What is Emily's exact date of birth? 
+
+Secondary questions:
+   
+    - Who are the closest, currently living relatives of Emily? (I am ultimately looking for photos, and of Emily in particular, as there are currently no known photos of anyone in the family.)
+    - Exact birth dates for brothers Jonas and Horace.
+    - Who are the parents of Mary Ann (Pine) Mills (born Hempstead NY, 8 Feb 1819, died Brookton NY, 28 Dec 1895). (Emily's mother.) 
+    - Is Charles M. Pine (possible middle name Mills?) related to Mary Ann Pine?
+    - Who are the parents of Edward's mother: Mary Hallock [daughter of Thomas Hallock], on 25 Dec [Feb] 1818 in , Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827. Is she descended from the Hallock's in "Hallockville"?"
+
+My research notes, which include existing genealogies, census data, and any other information I currently know are at https://memills.com/. I believe I have evidence that in 1908, Emily had contact with a neice from downstate, Mary Emily Huntting (Smith) Cross (1875-1924), and I believe this neice is also mentioned in a list of possible heirs to Emily after her death, according to the deeds of Emily's home:
+
+    - Alonzo Mills
+    - George E. Mills
+    - Clarissa Etsall
+    - Mary Huntting Smith
+
+If I am correct, Emily's neice would be descended from Edward's sister Emily Tabitha (Mills) Huntting. Edward's line ended with Emily's death.
+
+I actually have a decent sense of where the Mill's lived when the children were born as they were closely associated with Bartlett Brown, a prominent businessman in Staten Island at the time. Emily's mother Mary appears to have been a devout Presbyterian, and so, figuring that Calvary Presbyterian Church would be the most likely church she would have attended at that time, I contacted them, but so far, they have not found anything:
+
+    "I am the church secretary of Calvary Presbyterian Church, Margaret Wegener. The church is about 148 or so years old. The members did meet in houses prior to the building going up. Records of that time are not likely to be in the current church. It is possible that the family attended First Presbyterian Church which has been closed for some time. I understand their records are archived somewhere by Presbytery."
+
+I have also contacted the national Presbyterian Historical Society and have asked their reference staff to do a search of their records for any information, but they warned me this could take weeks to complete. They also indicate that many of their records are already on ancestry.com, which I believe I have pretty much exhausted for data at this point. I did double-check, specifically looking at this resource in particular, but did not find anything new:
+
+    "Ancestry.com has digitized and placed online select congregational records deposited in our holdings that contain genealogical information up to 1970. These digitized records include the registers of baptisms, births, marriages, and deaths (1851-1869) for the First Presbyterian Church of Staten Island, New York. You may wish to check Ancestry.com at your convenience."
+
+I am very hopeful that you will be willing to help me, and I am happy to provide you with any additional information I may have. If you could tell me your fee, I would be happy to pay in advance of your work.
+
+Thank you in advance for considering my request.
