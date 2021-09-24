@@ -55,7 +55,7 @@ A number of aspects of Emily's handwriting are quite distinctive—such as upper
 
 Her E's C's L's and J's tend to have big loops. Her lowercase p's practically pierce the line above it. And of course, her T's and F's have those distinctive crosses. Her handwriting is easily recognizable, and when others (most likely Ellen Gould) make entries in the Mill's store journals, it sticks out.
 
-Here we glimpse further into Emily's personal life at this time:
+Here we get a small glimpse of Emily's personal life:
 
 {{% mefig "mills-emily-arthurs-home-magazine" "300" /%}}
 
@@ -78,7 +78,7 @@ Emily continued to be involved in temperance, for some period of time, a member 
   {{% mefig "1908-01-06-batavia-daily-news-p4" "300" /%}}
 </div>
 
-Edward died "intestate", without a will, and until 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills Home and Mills Store. Emily followed her father's example and renamed the store *M. E. Mills*. When Hannah passed less than a decade later, Emily would inherit everything.
+Edward died "intestate", without a will, and until 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills Home and Mills Store. Emily followed her father's example and renamed the store *M. E. Mills*. When Hannah passed less than a decade later, Emily would inherit the home and store.
 
 Thanks to Gertrude Conant's personal recollections, we have a basic description of Emily's appearance and personality:
 

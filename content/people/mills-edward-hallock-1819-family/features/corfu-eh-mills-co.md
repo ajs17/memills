@@ -1,9 +1,9 @@
 ---
-title: "E. H. Mills & Co., Corfu NY"
+title: "The Mills Family in Corfu NY"
 weight: 6
 ---
 
-E. H. Mills & Co. general merchandise and dry goods in Corfu NY.
+The family moved to Corfu NY in the early 1860's where Edward would start E. H. Mills & Co. general merchandise and dry goods with Charles Pine as one of his partners. Horace would clerk in the store for his father, and eventually commit suicide. Mary Ann was a member of First Presbyterian Church of Corfu.
 
 <!--more-->
 
