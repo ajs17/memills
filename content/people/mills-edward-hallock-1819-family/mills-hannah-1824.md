@@ -108,4 +108,3 @@ As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastm
   {{% mefig "1917-06-16-ithaca-journal" "300" /%}}
 </div>
 
-1917-03-29-George-Jansen
