@@ -3,7 +3,6 @@ citation: "Mar 1908, E. H. Mills Est, Mills Store Sales Journal #41, digital pho
 notes: >-
     Notes:
     
-      - There is another likely reference to George Jansen on 12 Mar "splitting wood". 
       - the entry on 23 Mar appears to not be Emily's writing.
 ---
 The following are selected transcriptions from the image adapted for this presentation format:
