@@ -116,12 +116,18 @@ These descriptions of Emily's demeanor are consistent with the personal recollec
 
 Due to the level of detail given to the context of this story, I am choosing to include the entire text and not just Emily's section:
 
-{{% mefig "1909-01-15-ithaca-daily-journal" "300" /%}}
-
 <div class="gallery">
-  {{% mefig "1913-12-06-ithaca-daily-journal" "300" /%}}
-  {{% mefig "1917-03-20-ithaca-journal" "300" /%}}
-</div>  
+{{% mefig "1909-01-15-ithaca-daily-journal" "300" /%}}
+{{% mefig "1913-12-06-ithaca-daily-journal" "300" /%}}
+</div>
+
+{{% mefig "1917-02-23-George-Jansen" "500" /%}}
+{{% mefig "1917-03-20-ithaca-journal" "300" /%}}
+
+{{% mefig "1917-03-21-George-Jansen" "500" /%}}
+{{% mefig "1917-05-16-George-Jansen" "500" /%}}
+{{% mefig "1917-06-02-George-Jansen" "500" /%}}
+
 <div class="gallery">
   {{% mefig "1918-10-15-ithaca-journal" "300x300" "" "top" /%}}
   {{% mefig "1923-04-24-ithaca-journal" "300" /%}}

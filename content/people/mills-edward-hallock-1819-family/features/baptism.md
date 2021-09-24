@@ -64,7 +64,7 @@ Selected data on the participants:
 
 **Lettie Delphene Personius (1892-1909)**
 
-  - Lettie Personius, aged 16 years, died at City Hospital yesterday of gangrenous appendicitis. Miss Personious was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on Dec. 14, 1906. 
+  - Lettie Personius, aged 16 years, died at City Hospital yesterday of gangrenous appendicitis. Miss Personious was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on Dec. 14, 1906. Lettie's death is noted in the journals of George Jansen. 
 
 **Charlotte Esther (Vorhis) Pancoe (1893-1964)**
 

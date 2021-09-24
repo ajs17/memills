@@ -196,7 +196,7 @@ I have already collected much of this information, its just a matter of getting 
 
 Horace's Death:
   - Presumably why the family moved *away from* Corfu?
-  - But why *to* Mott's Corners?
+  - But why *to* Mott's Corners? (Perhaps relevant: there are a number of Hallocks living throughout Tompkins County, including Brooktondale prior to, and contemporary, with the Mills. I don't know if these are distant relations or not.)
   - The nature of Horace's death, and was alcohol a significant factor? Presumably this will never be knowable, but perhaps there will be clues in the Good Templars notebooks.
 
 Church Records and Baptism:

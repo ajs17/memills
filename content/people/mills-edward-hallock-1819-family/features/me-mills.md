@@ -59,6 +59,8 @@ And some examples of Emily's own entries in the sales logs. Essentially we are g
   {{% mefig "me-mills/emily-mills-entry-3" "300" /%}}
 </div>
 
+{{% mefig "1917-02-23-George-Jansen" "500" /%}}
+
 By 1920, her daily records looked much the same. References are made to individual accounts
 {{% mefig "me-mills/1920-01-19-Sales-Journals-p233" "700" /%}}
 

@@ -92,12 +92,20 @@ Hannah apparently had what must have been of very worrying health episode. This 
   {{% mefig "1917-02-27-ithaca-journal" "300" /%}}
 </div>
 
+{{% mefig "1917-02-28-George-Jansen" "500" /%}}
+
 <div class="gallery">
   {{% mefig "1917-03-03-ithaca-journal" "300" /%}}
   {{% mefig "1917-03-28-ithaca-journal" "300" /%}}
 </div>
 
+As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastman died shortly after her:
+
+{{% mefig "1917-03-29-George-Jansen" "500" /%}}
+
 <div class="gallery">
   {{% mefig "1917-05-08-ithaca-journal" "300" /%}}
   {{% mefig "1917-06-16-ithaca-journal" "300" /%}}
 </div>
+
+1917-03-29-George-Jansen

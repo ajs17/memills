@@ -16,6 +16,8 @@ For our immediate purposes here, we will focus on the period of Ellen's life tha
 
 The first (presumed) mention I have of Ellen in connection to the Mills family is an entry made by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>: "1908, Jan 23, Sewing by Mrs. Gould, 0.75".
 
+{{% mefig "ellen-gould/1909-03-06-Alfred-Gould-Died"  "400" /%}}
+
 It isn't clear when Ellen started living in the Mills Home, but it would appear she lived there roughly a decade, or possibly a dozen years. In late 1914, when Ellen is first mentioned in the "gossip columns" in relation to the Mills, Ellen had been widowed a second time, and it is in the final few years of Hannah's life. Ellen was getting older herself, and this arrangement not only would have greatly helped Emily care for Hannah, but also provided Ellen with additional social and financial support. It had the added benefit of being a short walk from her son Myron Predmore's farm, located near Brookton Depot, in the area where the gravel pit is today.
 
 <div class="gallery">
@@ -43,10 +45,10 @@ In Gertrude Conant's recollections, she makes reference to Ellen and her relatio
 
 However, as the following reporting makes clear, the relationship between Emily and Ellen seems considerably more than that of employer and employee. As Hannah and Ellen were members of the W. C. T. U. at that time, and Emily likely was too (there is only documentation for her as a member in a 1917 directory, and the newspapers never explicitly say she is a member) they were very likely well acquainted before Ellen moved in, and it appears they would live together for more than a decade during which every major area of their lives seemed to have been intertwined, including many temperance and prayer meetings in the home. Ellen would tend the house and mind the store, and she and Emily also socialized together, although I don't know how regularly. The women were only a decade apart in age.
 
-<div class="gallery">
-  {{% mefig "1917-03-20-ithaca-journal" "300" /%}}
-  {{% mefig "1917-12-13-ithaca-journal" "300" /%}}
-</div>
+{{% mefig "1917-03-20-ithaca-journal" "300" /%}}
+{{% mefig "1917-06-08-George-Jansen" "400" /%}}
+{{% mefig "1917-12-13-ithaca-journal" "300" /%}}
+
 <div class="gallery">
   {{% mefig "1919-08-15-ithaca-journal" "300" /%}}
   {{% mefig "1919-08-23-ithaca-journal" "300" /%}}
