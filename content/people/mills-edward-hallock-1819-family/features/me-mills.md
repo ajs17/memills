@@ -79,7 +79,7 @@ Several descriptions of M. E. Mills exist, the most complete of which is Gertrud
 
 In one of the present-day photos of 484 Brooktondale Road, you can see the staircase on the side of building leading to the second floor, that Gertrude mentions.
 
-“A Drive-by Tour of the Town of Caroline” sponsored by the Town of Caroline Bicentennial Committee 1994-1995 contains a listing for M. E. Mills on a page identified as “Tour 4 - P7” in a 2016 reprint by The White Church Cabin Country Store and is the source (with some alterations) of the description Molly Adams used in her “Note”. In Molly’s research notes, she gives the attribution: “[Driveby, ie Conant]":
+“A Drive-by Tour of the Town of Caroline” sponsored by the Town of Caroline Bicentennial Committee 1994-1995 contains a listing for M. E. Mills on a page identified as “Tour 4 - P7” in a 2016 reprint by The White Church Cabin Country Store and is the source (with some alterations) of the description Molly Adams used in her “Note”. In Molly’s research notes, she gives the attribution: “[Driveby, ie Conant]" and I have confirmed with Barbara Kone that Gertrude wrote the Brooktondale portions of the "Drive-by" book:
 
 <blockquote class="quote-only">
 <strong>BROOKTONDALE POST OFFICE, left -- 484 Brooktondale Road</strong>

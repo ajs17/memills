@@ -34,7 +34,7 @@ Emily would return to Corfu in later years to bury Jonas, Mary Ann and Edward. B
 
 {{% mefig "1882-07-21-batavia-daily-news" "400" /%}}
 
-The only thing we really know about Emily's earliest years in Mott's Corners/Brookton is that she was active in the local "lodge" of the [Independent Order of Good Templars]({{% ref "features/temperance" %}}), a local temperance organization. At least by the 1890's, Emily was working as a clerk in her father's store.
+The only thing we really know about Emily's earliest years in Mott's Corners/Brookton is that she was active in the local "lodge" of the temperance organization, the [Independent Order of Good Templars]({{% ref "features/temperance" %}}). At least by the 1890's, Emily was working as a clerk in her father's store.
 
 Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes, we have many examples of Emily's handwriting from this time. 
 
@@ -224,7 +224,7 @@ The answer to Molly's question "and some groceries?" seems to be yes. Perhaps th
 
 Molly Adams also wrote about Emily in "Town of Caroline" a chapter in the book "The Towns of Tompkins County: From Podunk to the Magnetic Springs" edited by Jane Marsh Dieckmann, 1998. Emily is also mentioned in Town of Caroline Historian Barbara Kone's compilation "A History of the Town of Caroline, Tompkins County, New York, United States of America" known to us all as "The Bicentennial Book."
 
-"A Drive-by Tour of the Town of Caroline" sponsored by the Town of Caroline Bicentennial Committee 1994-1995 contains a listing for M. E. Mills on a page identified as "Tour 4 - P7" in a 2016 reprint by The White Church Cabin Country Store and is the source (with some alterations) of the description Molly Adams used in her "Note". In Molly's research notes, she gives the attribution: "[Driveby, ie Conant]":
+"A Drive-by Tour of the Town of Caroline" sponsored by the Town of Caroline Bicentennial Committee 1994-1995 contains a listing for M. E. Mills on a page identified as "Tour 4 - P7" in a 2016 reprint by The White Church Cabin Country Store and is the source (with some alterations) of the description Molly Adams used in her "Note". In Molly's research notes, she gives the attribution: "[Driveby, ie Conant]" and I confirmed with Barbara Kone that Gertrude wrote the Brooktondale portions of the "Drive-by" book:
 
 <blockquote class="quote-only">
 <strong>BROOKTONDALE POST OFFICE, left -- 484 Brooktondale Road</strong>
