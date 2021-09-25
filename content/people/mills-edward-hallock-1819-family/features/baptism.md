@@ -3,7 +3,7 @@ title: "The Baptism of Emily Mills"
 weight: 2
 ---
 
-April 7, 1907, fifteen people are baptized at Brookton Congregational Church, in a service officiated by Reverend Annis Ford Eastman on one of her last visits to Brookton. Eleven of the participants, including Emily Mills, were unmarried women. 
+7 Apr 1907, fifteen people are baptized at Brookton Congregational Church, in a service officiated by Reverend Annis Ford Eastman on one of her last visits to Brookton. Eleven of the participants, including Emily Mills, were unmarried women. 
 
 <!--more-->
 
@@ -33,7 +33,7 @@ The following is a summary of information about the participants. Click on colum
 <footer>
 Notes:
 
-  - Despite how it appears on her tombstone, Alleine was married to Harry Van Order (1891-1918) first on Dec 17, 1910, then married William Lyman Peck (1875-1960) on Jan 23, 1935.
+  - Despite how it appears on her tombstone, Alleine was married to Harry Van Order (1891-1918) first on 17 Dec 1910, then married William Lyman Peck (1875-1960) on 23 Jan 1935.
   - Louise Ward (Shurter) Henderson is the neice of E. D. Shurter.
 </footer>
 </figure>
@@ -49,7 +49,7 @@ The Deacons listed are:
   - **[Cantine Lounsbery](https://www.findagrave.com/memorial/89338791/cantine-lounsbery)** (1831-1910)
   - **[Harvey Smiley](https://www.findagrave.com/memorial/24763291/harvey-smiley)** (?-1917)
   - **[Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson)** (1834-1910):
-      - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Caroline Valley Community Church records from the time have a record of Orange and Ada Munson moving to Erin NY Aug 30, 1918 and needing a letter to transfer to the Methodist Church there.
+      - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Caroline Valley Community Church records from the time have a record of Orange and Ada Munson moving to Erin NY 30 Aug 1918 and needing a letter to transfer to the Methodist Church there.
 
 Selected data on the participants:
 
@@ -64,7 +64,7 @@ Selected data on the participants:
 
 **Lettie Delphene Personius (1892-1909)**
 
-  - Lettie Personius, aged 16 years, died at City Hospital yesterday of gangrenous appendicitis. Miss Personious was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on Dec. 14, 1906. Lettie's death is noted in the journals of George Jansen. 
+  - Lettie Personius, aged 16 years, died at City Hospital yesterday of gangrenous appendicitis. Miss Personious was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on 14 Dec 1906. Lettie's death is noted in the journals of George Jansen. 
 
 **Charlotte Esther (Vorhis) Pancoe (1893-1964)**
 
