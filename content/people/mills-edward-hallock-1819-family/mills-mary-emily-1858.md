@@ -170,7 +170,7 @@ The professor makes it clear that charity was one of Emily's defining characteri
 
 {{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" "700" /%}}
 
-Emily also donated to the Red Cross, and there are entries in the historical records of Caroline Valley Federated Church of extra donations made to the church by both Hannah and Emily among other members. By agreement with the church, I have not reproduced any financial records here.
+There are also entries in the historical records of Caroline Valley Federated Church of extra donations made to the church by both Hannah and Emily among other members. By agreement with the church, I have not reproduced any financial records here.
 
 <div class="gallery">
   {{% mefig "1937-11-26-ithaca-journal" "300" /%}}
