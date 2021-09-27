@@ -152,7 +152,7 @@ Maps of Corfu from the time show the locations of E. H. Mills and the Mills' hom
 
 We actually have copious amounts of Emily's handwriting spanning many decades:
   - A notebook of meeting minutes for the temperance organization The Independent Order of Good Templars, beginning in the early 1880's. A number of entries are written in Emily's hand while she was secretary. There is also an original copy of a form filed with the organization written by her. These items are kept in the Tompkins County History Center archives. 
-  - Approximately a dozen volumes of sales journals of M. E. Mills general store from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store several decades later, thanks to then owner Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph several of the books. The journals are in excellent condition, and we can match Emily's handwriting to the known examples from the Good Templars notes. Volume 41 is the most important as it shows the time and some details of Edward's death.
+  - Approximately a dozen volumes of sales journals of M. E. Mills general store from the final year of E. H. Mills (1907) through at least the early 1920's were salvaged from the basement of the Mills' store several decades later, thanks to then owner Frank Proto offering them to a local collecter who still has them as I write this, and who has allowed me to view and photograph several of the books. The journals are in excellent condition, and we can match Emily's handwriting to the known examples from the Good Templars notes. "No. 41" is the most important as it shows the time and some details of Edward's death.
 
 The Tompkins County History Center archives also has at least two examples of postmarks that bear Edward's name: "E. H. Mills, P. M.". Interestingly, these are envelopes with attached correspondence showing it was Good Templars business and associated with Emily. I have also purchased a few examples of other postmarked envelopes sold online by stamp collectors.
   
@@ -189,7 +189,7 @@ I have already collected much of this information, its just a matter of getting 
   - Is Charles M. Pine, co-owner of E. H. Mills & Co. in Corfu, related to Edward's wife Mary Ann, whose maiden name is Pine?
   - Photo of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
   - Charles Personius Mills?
-  - Who is the Mrs. Woodworth who Emily paid to attend Edward's funeral?
+  - Was it Rev. Woodworth Emily paid, or Mrs. Woodworth? (Need to verify when she died.)
   - More information is needed about Emily's involvement in the Ladies Aid Society and Red Cross.
   Donna E. believes that the Ithaca office of the Red Cross has scrapbooks of their own history: I have contacted them and awaiting a response.
   - Research the apparent purchase for subsequent rental: a barn 23 Sep 1907.
