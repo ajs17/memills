@@ -166,9 +166,11 @@ This moving tribute was authored by none other than E. D. Shurter, a Brookton na
 
 The professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, we can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't fully appreciate some of the most important aspects of Emily's life, most notably, her charity, One senses that the professor understood he was writing what would be the definitive statement of her life for the ages, and indeed, in several histories where Emily is mentioned, her only description consists of the text of this tribute, in its entirety, without further comment. 
 
-The professor makes it clear that charity was one of Emily's defining characteristics. The news clippings above give a sense of her contributions to the Red Cross, and of course, the W. C. T. U. did considerale charitable work. We have many sales journals of [M. E. Mills general store]({{% ref "features/me-mills" %}}) and know that it was common practice for Emily's customers to have accounts that they likely paid monthly. The professor seems to indicate that perhaps she allowed more time for payment to those who needed it. We can also see evidence here and there of direct donations from her store that she counted against her own account as "Goods for Charity":
+The professor makes it clear that charity was one of Emily's defining characteristics. The news clippings above give a sense of her contributions to the Red Cross, and of course, the W. C. T. U. did considerable charitable work. We have many sales journals of [M. E. Mills general store]({{% ref "features/me-mills" %}}) and know that it was common practice for Emily's customers to have accounts that they likely paid monthly. The professor seems to indicate that perhaps she allowed more time for payment to those who needed it. We can also see evidence here and there of direct donations from her store that she counted against her own account as "Goods for Charity":
 
 {{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" "700" /%}}
+
+Emily also donated to the Red Cross, and there are entries in the historical records of Caroline Valley Federated Church of extra donations made to the church by both Hannah and Emily among other members. By agreement with the church, I have not reproduced any financial records here.
 
 <div class="gallery">
   {{% mefig "1937-11-26-ithaca-journal" "300" /%}}
