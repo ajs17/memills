@@ -59,8 +59,6 @@ And some examples of Emily's own entries in the sales logs. Essentially we are g
   {{% mefig "me-mills/emily-mills-entry-3" "300" /%}}
 </div>
 
-{{% mefig "1917-02-23-George-Jansen" "500" /%}}
-
 By 1920, her daily records looked much the same. References are made to individual accounts
 {{% mefig "me-mills/1920-01-19-Sales-Journals-p233" "700" /%}}
 
@@ -115,13 +113,22 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 </div>
 
 {{% mefig "1915-04-07-ithaca-journal" "300" "img,blockquote,cite,link" /%}}
+{{% mefig "1916-08-08-ithaca-journal" "300" /%}}
 
-<div class="gallery">
-  {{% mefig "1916-08-08-ithaca-journal" "300" /%}}
-  {{% mefig "me-mills/1920-08-07-The-Ithaca-Journal-p7" "300" /%}}
-</div>
+{{% mefig "1917-02-23-George-Jansen" "500" /%}}
+
+{{% mefig "me-mills/1920-08-07-The-Ithaca-Journal-p7" "300" /%}}
 
 {{% mefig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "700" /%}}
+
+Libbie H. (Sanders) Peck (1857-1929) owned the Mill's store building at this time until 1925. 
+
+{{% mefig "1922-09-19-George-Jansen" "500" /%}}
+{{% mefig "1922-09-21-George-Jansen" "500" /%}}
+{{% mefig "1922-09-25-George-Jansen" "500" /%}}
+{{% mefig "1922-09-26-George-Jansen" "500" /%}}
+{{% mefig "1922-09-George-Jansen" "500" /%}}
+{{% mefig "1923-02-08-George-Jansen" "500" /%}}
 
 <div class="gallery">
   {{% mefig "1925-03-13-ithaca-journal" "300" /%}}

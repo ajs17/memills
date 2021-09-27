@@ -147,7 +147,7 @@ Due to the level of detail given to the context of this story, I am choosing to 
 
 {{% mefig "1937-02-09-ithaca-journal" "300x300" "" "top" /%}}
 
-Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 78 years old, a few weeks shy of 79 years old..
+Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 78 years old, a few weeks shy of 79 years old.
 
 <div class="gallery">
   {{% mefig "1937-10-15-ithaca-journal" "300" /%}}
@@ -195,7 +195,7 @@ And in the following, Molly seems to indicate that "at the store" was referring 
 ...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mill's store had been. *— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63*
 </blockquote>
 
-The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store. 
+The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store, and facing the former Lockwood residence. 
 
 {{% mefig "lockwood-memorial" "400" /%}}
 
