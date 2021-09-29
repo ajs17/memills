@@ -113,7 +113,7 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
 
 [Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
 
-[Ellen Gould](https://www.findagrave.com/memorial/35944445/ellen-jane-predmore) is interred at Seneca Union Cemetery, 6292 NY-414, Hectory NY, 14841.
+[Ellen Gould](https://www.findagrave.com/memorial/35944445/ellen-jane-predmore) is interred at Seneca Union Cemetery, 6292 NY-414, Hector NY, 14841.
 
 ## Census Data
 
