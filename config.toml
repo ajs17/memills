@@ -11,8 +11,6 @@ lastmod = [":fileModTime", ":default"] # auto populates lastmod date
   analyticsid = "G-8FWTQLRQHV"
   additionalmetatags = "<meta name=\"msvalidate.01\" content=\"39A8A303812800B8DB236F6C8F9C78CB\" />" 
   humanDateFormat = "Monday 02 Jan 2006"
-  #humanDateFormat = "Monday 02 Jan 2006"
-
   
 # see https://blog.fullstackdigital.com/how-to-use-hugo-template-variables-in-scss-files-in-2018-b8a834accce
 # https://discourse.gohugo.io/t/how-to-override-css-classes-with-hugo/3033/2

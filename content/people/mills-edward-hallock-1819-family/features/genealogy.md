@@ -1,0 +1,104 @@
+---
+title: "Genealogy and Long Island Origins"
+weight: 8
+---
+
+## Genealogy
+
+Edward H. Mills has partial entries on at least two Mills family genealogies:
+  1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
+  2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
+
+<div class="gallery">
+{{% mefig "genealogy/1939-source2-pagea" "300" "img,link" /%}}
+{{% mefig "genealogy/1939-source2-pageb" "300" "img,link" /%}}
+</div>
+
+What follows is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents, and further supplementing with what we think we know of Edward's family.
+
+<blockquote class="quote-only">
+
+<span>583.</span> [Jonas Davis Mills](https://www.findagrave.com/memorial/138421270/jonas-d.-mills) (George , Isaac , Isaac , Timothy , Jonathan , George ) was born on 2 May 1795. He died on 30 Jan 1882.
+
+Jonas married (1) Mary Hallock [daughter of Thomas Hallock], on 25 Dec [Feb] 1818 in , Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827.
+
+They had the following children:
+
+- 1029	M	i	Thomas James Mills was born on 13 Feb 1817.
+- 1030	M	ii	Edward H. Mills was born on 25 Mar 1819.
+- 1031	F	iii	Emily Tabitha Mills was born on 19 Jun 1821. She died on 11 Apr 1849. [mar. in Nov. 1843, John S. Huntting.]
+
+Jonas married (2) [Mary Platt Mills](https://www.findagrave.com/memorial/138421346/mary-p.-mills) daughter of Jedediah Mills and Elizabeth [(Mills)] Mills [of Mills Pond] on 25 Apr 1831. Mary was born on 30 Jan 1801 in Long Island, New York. She died on 18 Jun 1881.
+
+They had the following children:
+
+- 1032	F	iv	Sarah Maria Mills is printed as #623. ...born on 21 Sep 1832. She died on 25 Apr 1834.
+- 1033	M	v	Robert Sydney Mills is printed as #624. ...born on 11 Nov 1835.
+</blockquote>
+
+Several of the marriages above and below are referenced, if not corroborated, in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
+
+{{% mefig "genealogy/mills-marriages-34" "400" "img,link" /%}}
+{{% mefig "genealogy/mills-marriages-35" "400" "img,link" /%}}
+{{% mefig "genealogy/mills-marriages-36" "400" "img,link" /%}}
+
+(As you can see, there is yet another Pine mentioned.)
+
+And to these genealogies, we can add Edward's branch to its ultimate conclusion:
+
+<span>1030.</span> **Edward Hallock Mills** (born Smithtown NY, 25 Mar 1819, died Brookton NY, 01 Jan 1908).
+
+Edward married (1) **Mary Ann (Pine) Mills** (born Hempstead NY, 08 Feb 1819, died Brookton NY, 28 Dec 1895). Married on 29 Dec 1850. 
+
+Children:
+  - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, 14 Oct 1885).
+  - **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, 27 Oct 1876).
+  - **Mary Emily Mills** who went by "Emily" and often signed her name as "M. Emily Mills" (born Staten Island NY, Dec 1858, died Brooktondale NY, 03 Nov 1937).
+  
+None of Edward's children married or had children.
+
+Edward married (2) **Hannah (Thatcher) Eastman Mills** (born England, 21 May 1824, died Brookton NY, 12 Feb 1917). Married on 30 Dec 1896. 
+
+  - No children.
+
+Notes:
+  - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries. The birthdates in particular are based on the 1900 census, which contradict Emily's gravestone.
+  - Edward's parents were married while Edward was in utero (at least according to one of the dates given) and his older brother Thomas was already a toddler.
+  - Jonas Davis Mills and Mary Platt Mills appear to be relatives, although I have followed this through to be sure. 
+  - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
+  - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occassionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence,21 Jul 2021)
+  - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
+ 
+The [Mills home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death list the following as cousins of Emily's as possible heirs:
+  - Alonzo Mills
+  - George E. Mills
+  - Clarissa Etsall
+  - Mary Huntting Smith
+
+Mary Huntting Smith may be a reference to Emily's neice, or a descendent of Emily's neice:
+  - Edwards's sister Emily Tabitha (Mills) Huntting (1821–1849) married John Smith Huntting (1817–1893),
+  - their child Mary Halliock (Huntting) Smith (1845–1938), named after their Grandmother, married Henry Chatfield Smith (1843–1896),
+  - their child Mary Emily Huntting (Smith) Cross (1875-1924), Emily's neice, married: James M. Cross.
+
+She appears to be referenced in the sales records of the [Mills store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting".
+
+Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
+
+ <figure class="quote-only">
+ <blockquote>
+It was Timothy Mills who bought the land from one of our town founder's sons in 1693, according to "Colonel Rockwell's Scrap-Book" published by the Smithtown Historical Society in 1968. As the sons of Timothy Mills married, houses were built around the pond found on the land.
+
+In the early 1700s, the area became known as Mills Pond. According to the Smithtown Township Arts Council's website, the area was originally called Cuttscunsuck, which means two small ponds in the Algonquian language.
+ </blockquote>
+ <figcaption>
+ <cite>— <a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>
+ </cite>
+ </figcaption>
+ <footer>
+
+ The original [Mills Pond House](https://www.millspondgallery.org/history-of-mills-pond-house) that Timothy built still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
+ </footer>
+ </figure>
+
+
+
