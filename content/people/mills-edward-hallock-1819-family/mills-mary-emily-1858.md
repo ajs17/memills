@@ -147,7 +147,7 @@ Due to the level of detail given to the context of this story, I am choosing to 
 
 {{% mefig "1937-02-09-ithaca-journal" "300x300" "" "top" /%}}
 
-Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on October 10, 1937. She would spend the last several weeks of her life in Memorial Hospital where she died on November 3, at 78 years old, a few weeks shy of 79 years old.
+Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on 10 Oct 1937. She would spend the last several weeks of her life in Memorial Hospital in Ithaca where she died on November 3, at 78 years old, a few weeks shy of 79 years old.
 
 <div class="gallery">
   {{% mefig "1937-10-15-ithaca-journal" "300" /%}}
@@ -160,7 +160,7 @@ Emily fell and broke her hip while on her way to services at Brooktondale Congre
 
 {{% mefig "1937-11-05-ithaca-journal" "300" /%}}
 
-This moving tribute was authored by none other than E. D. Shurter, a Brookton native who was at different times, an attorney, a college professor and a nationally renowned orator and author. This is Emily's only known obituary and is referenced elsewhere as such:
+This moving tribute was authored by E. D. Shurter, a Brookton native who was at different times, an attorney, a college professor and a nationally renowned orator and author. This is Emily's only known obituary and is referenced elsewhere as such:
 
 {{% mefig "1937-11-11-ithaca-journal" "400" /%}}
 
@@ -170,7 +170,7 @@ The professor makes it clear that charity was one of Emily's defining characteri
 
 {{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" "700" /%}}
 
-There are also entries in the historical records of Caroline Valley Federated Church of extra donations made to the church by both Hannah and Emily among other members. By agreement with the church, I have not reproduced any financial records here.
+There are also entries in the historical records of Caroline Valley Federated Church of extra donations made to the church by both Hannah and Emily among other members. By agreement with the Church, I have not reproduced any financial records here.
 
 <div class="gallery">
   {{% mefig "1937-11-26-ithaca-journal" "300" /%}}

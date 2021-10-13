@@ -53,8 +53,9 @@ I have already collected much of this information, its just a matter of getting 
   - Photo of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
   - Charles Personius Mills?
   - More information is needed about Emily's involvement in the Ladies Aid Society and Red Cross.
-  Donna E. believes that the Ithaca office of the Red Cross has scrapbooks of their own history: I have contacted them and awaiting a response.
+  - Donna E. believes that the Ithaca office of the Red Cross has scrapbooks of their own history: I have contacted them and awaiting a response.
   - Research the apparent purchase for subsequent rental: a barn 23 Sep 1907.
+  - Where did Emily go around 20 Mar 1917? (roughly a month after Hannah's death.) Ellen Gould is said to be keeping house, suggesting that Emily was out of town for a period of time.
 
 Horace's Death:
   - Presumably why the family moved *away from* Corfu?

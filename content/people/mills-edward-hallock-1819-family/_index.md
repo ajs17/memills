@@ -12,8 +12,8 @@ This publication attempts to document all extant information on the family of Ed
 
 <!--more-->
 
-{{<figure src="section-resources/data_files/handwriting/eh-mills.jpg" width="600" class="hero" caption="E. H. Mills general store, Brookton NY, written in Emily's hand in the store's daily sales journals." >}}
-
+{{<figure src="section-resources/data_files/handwriting/eh-mills.jpg" width="800" class="hero" caption="From the records of E. H. Mills general store in Brookton, written by Emily Mill's hand, in the months immediatiately following her father Edward's death." >}}
+    
 {{% list-children "" "Family Members" %}}
 {{% list-children "features" %}}
 

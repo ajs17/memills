@@ -1078,6 +1078,23 @@ DEATH	8 Oct 1897 (aged 84–85)
 
 postmaster 16 Dec 1850 until 26 Oct 1853
 
+Description
+Notes: Index to Wills, 1787-1866; Wills, 1787-1863; Letters and Guardianship, 1787-1866
+
+Source Information
+Ancestry.com. New York, U.S., Wills and Probate Records, 1659-1999 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2015.
+Original data:New York County, District and Probate Courts.
+
+Source Description
+These probates from the state of New York, 1659-1999, can bequeath a wealth of personal details on the decedent and other family members.
+
+will index
+    pg50, 259*, 272, 291, 300
+
+(actual) 124: 156, 159, 164, 172, 174, 175, 239, 244
+
+(james r robinson, 133)
+
 Richmond County
 (est. November 1, 1683, original county)
 Nineteenth Century Post Offices
@@ -1088,8 +1105,10 @@ https://www.findagrave.com/memorial/199952123/charles-m-pine
 
 Although Charles is listed as co-owner of E. H. Mills & Co. in Corfu, there is no evidence that he ever lived in Corfu, and may have simply been an investor in the business. By 1870, Charles is listed in the Federal Census as a retired grocer.
 
+1860 Census shows that there is a Betsey Mott born about 1807 living with Charles M. Pine. https://www.findagrave.com/memorial/191044147/betsey-a-mott 
+(probably not her, timeline with Monroe doesn't add up)
 
-Ch M Pine
+Ce M Pine
 Gender:	Male
 Age:	39
 Birth Year:	abt 1811
