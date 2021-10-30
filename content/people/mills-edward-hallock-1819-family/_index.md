@@ -2,6 +2,7 @@
 title: "The Family of Edward H. Mills of Brooktondale New York"
 description: 
 date: "2021-05-25"
+mainid: "index" 
 hideAutoListDisplay: true
 cascade:
     defaultPageBundle: "/people/mills-edward-hallock-1819-family/section-resources"
@@ -12,8 +13,11 @@ This publication attempts to document all extant information on the family of Ed
 
 <!--more-->
 
-{{<figure src="section-resources/data_files/handwriting/eh-mills.jpg" width="800" class="hero" caption="From the records of E. H. Mills general store in Brookton, written by Emily Mill's hand, in the months immediatiately following her father Edward's death." >}}
-    
+<figure width="500px" class="hero">
+    <img src="section-resources/data_files/handwriting/eh-mills.jpg" width="500" />
+    <figcaption style="width: 500px">From the records of E. H. Mills general store in Brookton, written by Emily Mill's hand, in the months immediatiately following her father Edward's death.</figcaptio>
+</figure>
+
 {{% list-children "" "Family Members" %}}
 {{% list-children "features" %}}
 
