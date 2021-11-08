@@ -1,4 +1,25 @@
-"Present-designation","Instrument-num","Book","Book-num","Page-num","Date","Record-date","First-party","Second-party","Amount"
-,"BF164569-001","Deeds",161,543,"03-11-1904","03-11-1904","Edward Lounsbery","Amanda S. Lounsbery",1
-,,"Deeds",161,541,"03-11-1904","03-11-1904","Edward Lounsbery","Amanda S. Lounsbery",1
-,"BF164569-001","Deeds",161,542,"03-11-1904","03-11-1904","Edward Lounsbery","Amanda S. Lounsbery",1
+property,instrument-num,book,book-num,page-num,document-date,recorded-date,first-party,second-party,amount
+Mills Home,BF169473-001,Deeds,138,329,1891-06-01,1891-06-01,Esther C. Vorhis and Frank C. Vorhis,Edward Lounsbery,800
+Mills Home,BF163267-001,Deeds,157,593,1903-01-05,1903-02-13,Edward Lounsbery and Amanda S. Lounsbery,Edward H. Mills,800
+Mills Home,scanned paper copy,Deeds,172,306,1909-07-21,1909-07-30,Hannah Mills and M. Emily Mills ,Fordyce A. Cobb,1
+Mills Home,scanned paper copy,Deeds,171,44,1909-07-21,1909-07-30,"Fordyce A. Cobb, a single man","Hannah Mills and M. Emilly Mills as joint tenants, survirvor to take the whole",1
+Mills Home,scanned paper copy,Deeds,248,238,1938-07-31,1938-08-02,"Charles E. Thomas as Administrator of Goods, Chattels and credits of Mary Emily Mills, deceased","Lewis Brewer and Jessie Brewer, his wife, as tenants by the entirety, the survivor to take the whole",900
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,1
+,,,,,,,,,1
+,,,,,,,,,1

@@ -8,6 +8,10 @@ Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale
 
 <!--more-->
 
+<figure width="500px" class="hero">
+    <img src="/people/mills-edward-hallock-1819-family/section-resources/data_files/handwriting/sighero.jpg" width="500" />
+</figure>
+
 {{% metable "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" %}}
 
 Emily was likely named for one of her ancestors, although, as the name Mary is quite common within both the Mills and Hallock families, there are several candidates for whom. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she would typically use "M. Emily Mills", particularly in later years.

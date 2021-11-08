@@ -848,7 +848,7 @@ All known children of Charles and Polly
   https://tompkins.nygenweb.net/cemeteries/morriscem.htm
   
 ------------------
-Jessie M Shurter/Brewer
+2021-11-07Jessie M Shurter/Brewer
 
 June 27, 1881 - Sept 16, 1974
 
@@ -1100,8 +1100,10 @@ Richmond County
 Nineteenth Century Post Offices
 
 Empire State Postal History Society 
+https://www.esphs.org/
 
 https://www.findagrave.com/memorial/199952123/charles-m-pine
+https://chroniclingamerica.loc.gov/
 
 Although Charles is listed as co-owner of E. H. Mills & Co. in Corfu, there is no evidence that he ever lived in Corfu, and may have simply been an investor in the business. By 1870, Charles is listed in the Federal Census as a retired grocer.
 

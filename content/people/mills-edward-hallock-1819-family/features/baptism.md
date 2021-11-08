@@ -38,25 +38,25 @@ Notes:
 </footer>
 </figure>
 
-I could not find an account of this baptism in the Ithaca Journal, but there is this entry over a week later in the Elmira Gazette and Free Press, that, despite some glaring innaccuracies that can be explained, appears to reference the event:
+I could not find an account of this baptism in the Ithaca Journal, but there is this entry over a week later in the Elmira Gazette and Free Press, that, despite some glaring inaccuracies that can be explained, appears to reference the event:
 
 {{% mefig "1907-04-17-elmira-gazette-and-free-press" "400" /%}}
 
-At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. During the Reverend's tenure, she would also give occassional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
+At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. During the Reverend's tenure, she would also give occasional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
 
 The Deacons listed are:
 
   - **[Cantine Lounsbery](https://www.findagrave.com/memorial/89338791/cantine-lounsbery)** (1831-1910)
   - **[Harvey Smiley](https://www.findagrave.com/memorial/24763291/harvey-smiley)** (?-1917)
   - **[Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson)** (1834-1910):
-      - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Caroline Valley Community Church records from the time have a record of Orange and Ada Munson moving to Erin NY 30 Aug 1918 and needing a letter to transfer to the Methodist Church there.
+      - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" 
 
 Selected data on the participants:
 
 **Jessie (Shurter) Brewer (1881-1974)**
 
-  - Married Lewis William Brewer (1882-1963).
-  - Jessie (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills after Emily's death.
+  - Married Lewis William Brewer (24 Jun 1882 to 10 Sep 1963) in Danby, 27 Jun 1923..
+  - Jessie M. (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills after Emily's death.
 
 **Susie C. (Westfall) Lawrence (1885-1977)**
 
@@ -64,9 +64,10 @@ Selected data on the participants:
 
 **Lettie Delphene Personius (1892-1909)**
 
-  - Lettie Personius, aged 16 years, died at City Hospital yesterday of gangrenous appendicitis. Miss Personious was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on 14 Dec 1906. Lettie's death is noted in the journals of George Jansen. 
+  - Lettie Personius died at City Hospital Ithaca of gangrenous appendicitis when she was only 16. Lettie was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on 14 Dec 1906. Lettie's death is noted in the journals of George Jansen. 
 
 **Charlotte Esther (Vorhis) Pancoe (1893-1964)**
 
   - Descendents confirm she commonly went by Esther.
   - Married George W. Pancoe (1895-1969).
+  - Esther’s father was Frank C. Vorhis, who was owner of the general store prior to the Mulks brothers and who was a former owner of the Mills home.

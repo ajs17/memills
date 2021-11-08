@@ -121,7 +121,10 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 
 {{% mefig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "700" /%}}
 
-Libbie H. (Sanders) Peck (1857-1929) owned the Mill's store building at this time until 1925. 
+
+[Libbie H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929) took over ownership of the Mills store building upon the death of her sister [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921). 
+
+{{% mefig "me-mills/BF142829-001" "300" /%}}
 
 {{% mefig "1922-09-19-George-Jansen" "500" /%}}
 {{% mefig "1922-09-21-George-Jansen" "500" /%}}
@@ -129,6 +132,13 @@ Libbie H. (Sanders) Peck (1857-1929) owned the Mill's store building at this tim
 {{% mefig "1922-09-26-George-Jansen" "500" /%}}
 {{% mefig "1922-09-George-Jansen" "500" /%}}
 {{% mefig "1923-02-08-George-Jansen" "500" /%}}
+
+In 1925, Libbie Peck sells the Mills store property to Dr. Benjamin Lockwood.
+
+<div class="gallery">
+{{% mefig "me-mills/BF050069-001" "300" /%}}
+{{% mefig "me-mills/BF052409-001" "300" /%}}
+</div>
 
 <div class="gallery">
   {{% mefig "1925-03-13-ithaca-journal" "300" /%}}
