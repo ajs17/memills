@@ -5,6 +5,24 @@ weight: 8
 
 ## Genealogy
 
+Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
+
+ <figure class="quote-only">
+ <blockquote>
+It was Timothy Mills who bought the land from one of our town founder's sons in 1693, according to "Colonel Rockwell's Scrap-Book" published by the Smithtown Historical Society in 1968. As the sons of Timothy Mills married, houses were built around the pond found on the land.
+
+In the early 1700s, the area became known as Mills Pond. According to the Smithtown Township Arts Council's website, the area was originally called Cuttscunsuck, which means two small ponds in the Algonquian language.
+ </blockquote>
+ <figcaption>
+ <cite>— <a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>
+ </cite>
+ </figcaption>
+ <footer>
+
+ The original [Mills Pond House](https://www.millspondgallery.org/history-of-mills-pond-house) that Timothy built still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
+ </footer>
+ </figure>
+
 Edward H. Mills has partial entries on at least two Mills family genealogies:
   1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
   2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
@@ -95,24 +113,6 @@ She appears to be referenced in the sales records of the [Mills store]({{% ref "
 {{% mefig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "300" /%}}
 {{% mefig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "300" /%}}
 </div>
-
-Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
-
- <figure class="quote-only">
- <blockquote>
-It was Timothy Mills who bought the land from one of our town founder's sons in 1693, according to "Colonel Rockwell's Scrap-Book" published by the Smithtown Historical Society in 1968. As the sons of Timothy Mills married, houses were built around the pond found on the land.
-
-In the early 1700s, the area became known as Mills Pond. According to the Smithtown Township Arts Council's website, the area was originally called Cuttscunsuck, which means two small ponds in the Algonquian language.
- </blockquote>
- <figcaption>
- <cite>— <a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>
- </cite>
- </figcaption>
- <footer>
-
- The original [Mills Pond House](https://www.millspondgallery.org/history-of-mills-pond-house) that Timothy built still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
- </footer>
- </figure>
 
 
 
