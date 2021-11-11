@@ -38,11 +38,20 @@ They had the following children:
 
 Several of the marriages above and below are referenced, if not corroborated, in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 
-{{% mefig "genealogy/mills-marriages-34" "400" "img,link" /%}}
-{{% mefig "genealogy/mills-marriages-35" "400" "img,link" /%}}
-{{% mefig "genealogy/mills-marriages-36" "400" "img,link" /%}}
+<div class="gallery">
+{{% mefig "genealogy/mills-marriages-34" "300" /%}}
+{{% mefig "long-island/1843-12-17-Brooklyn-Evening-Star-p2" "300" /%}}
+</div>
+<div class="gallery">
+{{% mefig "genealogy/mills-marriages-35" "300" /%}}
+{{% mefig "genealogy/mills-marriages-36" "300" /%}}
+</div>
 
-(As you can see, there is yet another Pine mentioned.)
+As you can see, there is yet another Pine mentioned.
+
+{{% mefig "staten-island/1835-02-21-charles-pine" "700" /%}}
+
+{{% mefig "long-island/1882-02-06-The-New-York-Times-p8" "400" /%}}
 
 And to these genealogies, we can add Edward's branch to its ultimate conclusion:
 
@@ -80,7 +89,12 @@ Mary Huntting Smith may be a reference to Emily's neice, or a descendent of Emil
   - their child Mary Halliock (Huntting) Smith (1845–1938), named after their Grandmother, married Henry Chatfield Smith (1843–1896),
   - their child Mary Emily Huntting (Smith) Cross (1875-1924), Emily's neice, married: James M. Cross.
 
-She appears to be referenced in the sales records of the [Mills store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting".
+She appears to be referenced in the sales records of the [Mills store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". She was killed in a strange accident with a bus in front of her home:
+
+<div class="gallery">
+{{% mefig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "300" /%}}
+{{% mefig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "300" /%}}
+</div>
 
 Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
 
@@ -99,6 +113,12 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
  The original [Mills Pond House](https://www.millspondgallery.org/history-of-mills-pond-house) that Timothy built still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
  </footer>
  </figure>
+
+
+
+
+
+
 
 
 

@@ -65,6 +65,7 @@ However, as the following reporting makes clear, the relationship between Emily 
   {{% mefig "1925-03-11-ithaca-journal" "300" /%}}
   {{% mefig "1925-04-08-ithaca-journal" "300" /%}}
 </div>
+
 <div class="gallery">
   {{% mefig "1925-12-17-ithaca-journal" "300" /%}}
   {{% mefig "1926-01-12-ithaca-journal" "300" /%}}
@@ -88,11 +89,11 @@ As we can see from the reporting fo the day, sometime later in 1926 or early in 
 
 Although she had repeated boughts of illness, Ellen appears to have been active to the end:
 
+{{% mefig "ellen-gould/1929-10-02-ithaca-journal-p12" "300" /%}}
 <div class="gallery">
-  {{% mefig "ellen-gould/1929-10-02-ithaca-journal-p12" "300" /%}}
   {{% mefig "ellen-gould/1929-10-31-ithaca-journal-p5" "300" /%}}
+  {{% mefig "ellen-gould/1929-11-07-ithaca-journal-p14" "300" /%}}
 </div>
-{{% mefig "ellen-gould/1929-11-07-ithaca-journal-p14" "300" /%}}
 
 Ellen is [interred](https://www.findagrave.com/memorial/35944445/ellen-jane-predmore) at Seneca Union Cemetery, Valois, NY.
 

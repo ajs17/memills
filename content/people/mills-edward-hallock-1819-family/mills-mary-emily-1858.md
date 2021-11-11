@@ -133,13 +133,28 @@ Due to the level of detail given to the context of this story, I am choosing to 
 {{% mefig "1917-06-02-George-Jansen" "500" /%}}
 
 <div class="gallery">
+  {{% mefig "1917-12-13-ithaca-journal" "300" /%}}
   {{% mefig "1918-10-15-ithaca-journal" "300x300" "" "top" /%}}
-  {{% mefig "1923-04-24-ithaca-journal" "300" /%}}
 </div>
+{{% mefig "1923-04-24-ithaca-journal" "300" /%}}
 <div class="gallery">
   {{% mefig "1924-05-10-ithaca-journal" "300" /%}}
   {{% mefig "1924-10-14-ithaca-journal" "300" /%}}
 </div>
+
+<div class="gallery">
+  {{% mefig "1924-09-04-ithaca-journal" "300" /%}}
+  {{% mefig "1925-01-14-ithaca-journal" "300" /%}}
+</div>
+<div class="gallery">
+  {{% mefig "1925-03-11-ithaca-journal" "300" /%}}
+  {{% mefig "1925-04-08-ithaca-journal" "300" /%}}
+</div>
+<div class="gallery">
+  {{% mefig "1925-12-17-ithaca-journal" "300" /%}}
+  {{% mefig "1926-01-12-ithaca-journal" "300" /%}}
+</div>
+
 <div class="gallery">
   {{% mefig "1926-10-30-ithaca-journal" "300" /%}}
   {{% mefig "1931-02-02-ithaca-journal" "300x300" "" "top" /%}}
