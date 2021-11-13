@@ -38,6 +38,15 @@ The following represents a summary of all of the data that I have been able to a
 
 {{% metable "census-data.csv" "census-all" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" %}}
 
+According to [newyorkfamilyhistory.org](https://www.newyorkfamilyhistory.org/):
+<blockquote class="quote-only">
+The second Constitution of the State of New York, written in 1821, required that a state census be taken in 1825 and every ten years after that - censuses were then taken every ten years until 1875. 
+
+Due to a number of political and bureaucratic conflicts, no state census was taken in 1885 - New York State wound up taking a census in 1892, skipped the census which should have occurred in 1895, and then resumed census-taking every ten years in the fifth year of each decade - 1905, 1915, and 1925. The state census was officially abolished in 1931, so the 1925 state census is the last one that exists. 
+
+...In 1911, a fire in New York's State Capitol, Albany, destroyed an enormous amount of crucial historical and genealogical records. 
+</blockquote>
+
 The source documents are:
 
 <div class="gallery">
@@ -48,6 +57,7 @@ The source documents are:
 {{% mefig "census/census-1892a-nys" "200" /%}}
 {{% mefig "census/census-1892b-nys" "200" /%}}
 {{% mefig "census/census-1900-us" "200" /%}}
+{{% mefig "census/census-1905-nys" "200" /%}}
 {{% mefig "census/census-1910-us" "200" /%}}
 {{% mefig "census/census-1915-nys" "200" /%}}
 {{% mefig "census/census-1920-us" "200" /%}}
