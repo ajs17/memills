@@ -10,7 +10,7 @@ draft: true
 
 "Good of the Order" 
 Brookton, Dec 14, 1883
-Bro Arthur Denman was next on the list- but he said his selection was of teh solemn order, and not quite suited to the occasion. Bro Sanders encouraged him by saying, it will be funny when you read it but he still hesitated, so the next was called.
+Bro Arthur Denman was next on the list- but he said his selection was of the solemn order, and not quite suited to the occasion. Bro Sanders encouraged him by saying, it will be funny when you read it but he still hesitated, so the next was called.
 
 
 ...

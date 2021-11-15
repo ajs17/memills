@@ -93,7 +93,7 @@ Notes:
   - Edward's parents were married while Edward was in utero (at least according to one of the dates given) and his older brother Thomas was already a toddler.
   - Jonas Davis Mills and Mary Platt Mills appear to be relatives, although I have followed this through to be sure. 
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
-  - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occassionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence,21 Jul 2021)
+  - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence, 21 Jul 2021)
   - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
  
 The [Mills home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death list the following as cousins of Emily's as possible heirs:
@@ -113,12 +113,5 @@ She appears to be referenced in the sales records of the [Mills store]({{% ref "
 {{% mefig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "300" /%}}
 {{% mefig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "300" /%}}
 </div>
-
-
-
-
-
-
-
 
 
