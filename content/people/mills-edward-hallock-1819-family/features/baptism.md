@@ -66,7 +66,7 @@ Selected data on the participants:
 
   - Lettie Personius died at City Hospital Ithaca of gangrenous appendicitis when she was only 16. Lettie was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on 14 Dec 1906. Lettie's death is noted in the journals of George Jansen. 
 
-[Charlotte Esther (Vorhis) Pancoe]](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964)
+[Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964)
 
   - Descendents confirm she commonly went by Esther.
   - Married George W. Pancoe (1895-1969).
