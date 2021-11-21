@@ -71,7 +71,24 @@ In 1907, Emily would officially join the membership roll of Brookton Congregatio
 
 A closer examination of the circumstances around the baptism can be found [here]({{% ref "baptism" %}}).
 
-Emily played the piano (and/or organ) in the Church and at times served as an officer in the Church. She was a Sunday School teacher, and possibly taught classes specifically for adults. There are accounts of her organizing bible study groups and prayer meetings in her home. It is unclear what Emily's religious outlook was before being baptized, but at least from that point on, Emily's faith was a very important part of her life. 
+This photo, taken on 13 Jun 1907 shows the Congregational Church as Emily knew it then, with the original steeple:
+
+{{% mefig "1907-06-13-bcc" "500" /%}}
+
+Emily played the piano (and/or organ) in the Church and at times served as an officer in the Church. She was a Sunday School teacher, and possibly taught classes specifically for adults. There are newspaper accounts detailed below of her organizing bible study groups and prayer meetings in her home. It is unclear what Emily's religious outlook was before being baptized, but at least from that point on, Emily's faith was a very important part of her life. 
+
+The church historical records, as one would naturally expect, cover topics unevenly over the years. Concerning the piano/organ: there was an organ in the church at one time, but it was destroyed by mice. The roles of pianist/organist and that of assistant pianist/organist, were for a time at least, positions that were voted on at the annual meetings just as the roles of secretary and treasurer were. I have not found a reference to Emily being in either of those roles, but there are many years where these roles are not noted at all, so unless Gertrude is mis-remembering, without her noting this detail, this aspect of Emily's life would be lost. 
+
+Annual meetings were typically held the first Monday in January, in the afternoon or evening. A small group attended and Emily is not noted as attending these, despite being voted as Treasurer and being acknowledged as filling that role for at least one year and possibly several
+
+
+
+{{% mefig "1912-bcc-mills-emily-treasurer" /%}}
+{{% mefig "1914-bcc-mills-emily" /%}}
+{{% mefig "1914-bcc-mills-emily-treasurer" /%}}
+{{% mefig "1921-12-18-bcc-mills-emily" /%}}
+{{% mefig "bcc-mills-emilyb" /%}}
+{{% mefig "bcc-mills-emily" /%}}
 
 Emily continued to be involved in temperance, for some period of time, a member of the Women's Christian Temperance Union, along with her step-mother Hannah. This is almost certainly unknowable now, but I have wondered if Hannah was introduced to Edward through the Emily's involvement with the W. C. T. U. 
 

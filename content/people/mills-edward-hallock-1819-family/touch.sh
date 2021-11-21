@@ -1,0 +1,16 @@
+touch ./section-resources/metadata_files/1895-12-13-edward-hannah-join-church.md
+touch ./section-resources/metadata_files/1895-12-14-bcc-mills-edward-hannah-received.md
+touch ./section-resources/metadata_files/1898-02-22-mills-edward-to-culver-little.md
+touch ./section-resources/metadata_files/1900s-bcc.md
+touch ./section-resources/metadata_files/1907-06-13-bcc.md
+touch ./section-resources/metadata_files/1907-12-31-bcc-sunday-school.md
+touch ./section-resources/metadata_files/1909-06-26-bcc-personius-lettie-obit.md
+touch ./section-resources/metadata_files/1912-bcc-mills-emily-treasurer.md
+touch ./section-resources/metadata_files/1914-bcc-mills-emily.md
+touch ./section-resources/metadata_files/1914-bcc-mills-emily-treasurer.md
+touch ./section-resources/metadata_files/1920-bcc-interior.md
+touch ./section-resources/metadata_files/1921-12-18-bcc-mills-emily.md
+touch ./section-resources/metadata_files/bcc-mills-edward.md
+touch ./section-resources/metadata_files/bcc-mills-emilyb.md
+touch ./section-resources/metadata_files/bcc-mills-emily.md
+touch ./section-resources/metadata_files/bcc-mills-hannah.md

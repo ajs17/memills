@@ -1,0 +1,16 @@
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1895-12-13-edward-hannah-join-church.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1895-12-14-bcc-mills-edward-hannah-received.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1898-02-22-mills-edward-to-culver-little.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1900s-bcc.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1907-06-13-bcc.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1907-12-31-bcc-sunday-school.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1909-06-26-bcc-personius-lettie-obit.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1912-bcc-mills-emily-treasurer.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1914-bcc-mills-emily.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1914-bcc-mills-emily-treasurer.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1920-bcc-interior.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/1921-12-18-bcc-mills-emily.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/bcc-mills-edward.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/bcc-mills-emilyb.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/bcc-mills-emily.jpg ./section-resources/data_files/
+cp /home/ajs17/Dropbox/Downloads/historical/mills/bcc-mills-hannah.jpg ./section-resources/data_files/
