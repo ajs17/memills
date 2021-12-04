@@ -69,30 +69,30 @@ In 1907, Emily would officially join the membership roll of Brookton Congregatio
 
 {{% mefig "mills-emily-cvcc-baptism" "700" "img,blockquote,figcaption" /%}}
 
-A closer examination of the circumstances around the baptism can be found [here]({{% ref "baptism" %}}).
+A closer examination of the circumstances around the baptism can be found [here]({{% ref "baptism" %}}). It is unclear what Emily's religious outlook was before being baptized, but at least from that point on, Emily's faith was a very important part of her life. 
 
 This photo, taken on 13 Jun 1907 shows the Congregational Church as Emily knew it then, with the original steeple:
 
-{{% mefig "1907-06-13-bcc" "500" /%}}
+{{% mefig "1907-06-13-bcc" "700" /%}}
 
-Emily played the piano (and/or organ) in the Church and at times served as an officer in the Church. She was a Sunday School teacher, and possibly taught classes specifically for adults. There are newspaper accounts detailed below of her organizing bible study groups and prayer meetings in her home. It is unclear what Emily's religious outlook was before being baptized, but at least from that point on, Emily's faith was a very important part of her life. 
+Emily, along with many of the others baptized with her, became immediately involved in church activities. She was a Sunday School teacher, and possibly taught classes specifically for adults. There are newspaper accounts detailed below of her organizing bible study groups and prayer meetings in her home.
 
-The church historical records, as one would naturally expect, cover topics unevenly over the years. Concerning the piano/organ: there was an organ in the church at one time, but it was destroyed by mice. The roles of pianist/organist and that of assistant pianist/organist, were for a time at least, positions that were voted on at the annual meetings just as the roles of secretary and treasurer were. I have not found a reference to Emily being in either of those roles, but there are many years where these roles are not noted at all, so unless Gertrude is mis-remembering, without her noting this detail, this aspect of Emily's life would be lost. 
+{{% mefig "1907-12-31-bcc-sunday-school" "400" /%}}
 
-Annual meetings were typically held the first Monday in January, in the afternoon or evening. A small group attended and Emily is not noted as attending these, despite being voted as Treasurer and being acknowledged as filling that role for at least one year and possibly several
+Gertrude Conant mentions that Emily played the piano or organ in the Church. The church historical records, as one would naturally expect, cover topics unevenly over the years. Concerning the piano/organ: there was an organ in the church at one time, but it was destroyed by mice. The roles of pianist/organist and that of assistant pianist/organist, were for a time at least, positions that were voted on at the annual meetings just as the roles of secretary and treasurer were. I have not found a reference to Emily being in either of those roles, but there are many years where these roles are not noted at all, so unless Gertrude is mis-remembering, without her noting this detail, this aspect of Emily's life would be lost. (Anna Mulks and Cassie Landon were several times noted in these roles.)
 
+Annual meetings were typically held the first Monday in January, in the afternoon or evening. A small group attended and Emily is not noted as attending these, despite being voted as Treasurer and being acknowledged as filling that role for at least two years:
 
-
-{{% mefig "1912-bcc-mills-emily-treasurer" /%}}
-{{% mefig "1914-bcc-mills-emily" /%}}
-{{% mefig "1914-bcc-mills-emily-treasurer" /%}}
-{{% mefig "1921-12-18-bcc-mills-emily" /%}}
-{{% mefig "bcc-mills-emilyb" /%}}
-{{% mefig "bcc-mills-emily" /%}}
+{{% mefig "1912-bcc-mills-emily-treasurer" "500"/%}}
+{{% mefig "1914-bcc-mills-emily-treasurer" "700" /%}}
+{{% mefig "1921-12-18-bcc-mills-emily" "700" /%}}
+{{% mefig "1914-bcc-mills-emily" "400" /%}}
+{{% mefig "bcc-mills-emilyb" "700" /%}}
+{{% mefig "bcc-mills-emily" "700" /%}}
 
 Emily continued to be involved in temperance, for some period of time, a member of the Women's Christian Temperance Union, along with her step-mother Hannah. This is almost certainly unknowable now, but I have wondered if Hannah was introduced to Edward through the Emily's involvement with the W. C. T. U. 
 
-{{% mefig "temperance/1917-wctu-directory-p8" "300" /%}}
+{{% mefig "temperance/1917-wctu-directory-p8" "400" /%}}
 
 <div class="gallery">
   {{% mefig "1908-01-06-ithaca-daily-journal" "300" /%}}
@@ -142,6 +142,8 @@ Due to the level of detail given to the context of this story, I am choosing to 
 {{% mefig "1913-12-06-ithaca-daily-journal" "300" /%}}
 </div>
 
+Emily, Edward, and Hannah are mentioned in the diaries of George Jansen. George notes in a number of entries throughout the years that he did odd jobs for Emily, such as painting her home and the store as well as planting her garden. 
+
 {{% mefig "1917-02-23-George-Jansen" "500" /%}}
 {{% mefig "1917-03-20-ithaca-journal" "300" /%}}
 
@@ -149,11 +151,34 @@ Due to the level of detail given to the context of this story, I am choosing to 
 {{% mefig "1917-05-16-George-Jansen" "500" /%}}
 {{% mefig "1917-06-02-George-Jansen" "500" /%}}
 
+It seems likely that Emily grew a garden not just for her own use, but to have fresh vegetables to sell in her store:
+
+{{% mefig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "500" /%}}
+
 <div class="gallery">
   {{% mefig "1917-12-13-ithaca-journal" "300" /%}}
   {{% mefig "1918-10-15-ithaca-journal" "300x300" "" "top" /%}}
 </div>
+
 {{% mefig "1923-04-24-ithaca-journal" "300" /%}}
+
+George Jansen painted Emily's home in the Summer of 1924: 
+
+<div class="gallery">
+{{% mefig "1924-06-11-George-Jansen" "350" /%}}
+{{% mefig "1924-06-13-George-Jansen" "350" /%}}
+</div>
+<div class="gallery">
+{{% mefig "1924-06-18-George-Jansen" "350" /%}}
+{{% mefig "1924-06-23-George-Jansen" "350" /%}}
+</div>
+<div class="gallery">
+{{% mefig "1924-06-25-George-Jansen" "350" /%}}
+{{% mefig "1924-06-29-George-Jansen" "350" /%}}
+</div>
+
+{{% mefig "1924-painting-George-Jansen" "350" /%}}
+
 <div class="gallery">
   {{% mefig "1924-05-10-ithaca-journal" "300" /%}}
   {{% mefig "1924-10-14-ithaca-journal" "300" /%}}
@@ -212,6 +237,10 @@ There are also entries in the historical records of Caroline Valley Federated Ch
   {{% mefig "1937-11-26-ithaca-journal" "300" /%}}
   {{% mefig "1938-01-19-ithaca-journal" "300" /%}}
 </div>
+
+The fact that only the birth and death dates are given on Emily's stone, and that even then, the birth year is incorrect, and by more than just a year, suggests that Emily's final arrangements were made by one or more people in Brooktondale, and likely someone from the Congregational Church, Jessie Brewer being the most likely candidate, although E. D. Shurter is also probable. This would further imply that Emily no longer had contact with any Mills family descendants on Long Island.
+
+Emily was the last in the line of Edward H. Mills, and it would seem that her family's story had become unknown to the Mills of subsequent generations. 
 
 ## Other Historical Accounts
 
@@ -274,7 +303,6 @@ This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosen
 
 *M. E. Mills* is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village".
 
-Emily, Edward, and Hannah are mentioned in the diaries of George Jansen. Edward's death is noted, as is Hannah's final illness and death. George notes in a number of entries throughout the years that he did odd jobs for Emily, two specific examples are "drawing a cord of wood" and some painting that context would suggest was for the store. I have done a complete photo inventory of the six notebooks of George Jansen's that are currently owned by the Tompkins County History Center in Ithaca, and I will add images and transcriptions to this record as I am able to process them.
 
 ## Notes for Future Researchers
 

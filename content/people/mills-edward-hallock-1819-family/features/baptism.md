@@ -1,5 +1,5 @@
 ---
-title: "The Baptism of Emily Mills"
+title: "Emily's Baptism"
 weight: 2
 ---
 
@@ -44,6 +44,18 @@ I could not find an account of this baptism in the Ithaca Journal, but there is 
 
 At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. During the Reverend's tenure, she would also give occasional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
 
+This is Brookton Congregational Church as it looked at the baptism that day:
+
+{{% mefig "1907-06-13-bcc" "700" /%}}
+
+A view of the church as Emily would have approached it from her home and store:
+
+{{% mefig "1900s-bcc" "700" /%}}
+
+This photo of the altar is also from the early 1900's, likely the 1920's:
+
+{{% mefig "1920-bcc-interior" "700" /%}}
+
 The Deacons listed are:
 
   - **[Cantine Lounsbery](https://www.findagrave.com/memorial/89338791/cantine-lounsbery)** (1831-1910)
@@ -56,7 +68,7 @@ Selected data on the participants:
 **Jessie (Shurter) Brewer (1881-1974)**
 
   - Married Lewis William Brewer (24 Jun 1882 to 10 Sep 1963) in Danby, 27 Jun 1923. According to the Permanent Membership Roll Book 2 of Caroline Valley Federated Church Records 1930-1960, Lewis was not a member of the church, while it is noted in "Mrs. Jessie Brewer and Mrs. Susie Lawrence have the longest membership records in church and Ladies' Aid." (History of the Congregational Church Brooktondale, New York, "Compiled and Edited by Mrs. Amy Atwater on the occasion of the Centennial Celebration of the Caroline Valley Federated Church Brooktondale, New York, June 16th, 1968" p5.)
-  - Jessie M. (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills after Emily's death.
+  - Jessie M. (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills general store, which should would run under her own name, after Emily's death.
 
 **Susie C. (Westfall) Lawrence (1885-1977)**
 
@@ -65,6 +77,8 @@ Selected data on the participants:
 **Lettie Delphene Personius (1892-1909)**
 
   - Lettie Personius died at City Hospital Ithaca of gangrenous appendicitis when she was only 16. Lettie was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on 14 Dec 1906. Lettie's death is noted in the journals of George Jansen. 
+
+{{% mefig "1909-06-26-bcc-personius-lettie-obit" "700" /%}}
 
 [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964)
 

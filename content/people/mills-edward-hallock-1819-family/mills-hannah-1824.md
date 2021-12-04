@@ -46,6 +46,13 @@ The 1896 New York State Marriage Index also traces Hannah back to her maiden nam
 {{% mefig "1896-nys-marriage-index-816" "200" /%}}
 </div>
 
+Edward and Hannah joined the church just weeks before their wedding:
+
+{{% mefig "1896-12-14-bcc-mills-edward-hannah-received" "700" /%}}
+
+{{% mefig "1895-12-13-edward-hannah-join-church" "700" /%}}
+{{% mefig "bcc-mills-edward" "700" /%}}
+
 My impressions of Hannah are that she was an active and outgoing woman who was much loved in the community.
 
 <div class="gallery">
@@ -85,8 +92,8 @@ Hannah apparently had what must have been of very worrying health episode. This 
 
 {{% mefig "1916-05-23-ithaca-journal" "300" /%}}
 
-{{% mefig "george-jansen-hannah-sick-entry" "700" /%}}
-{{% mefig "george-jansen-hannah-death-entry" "700" /%}}
+{{% mefig "george-jansen-hannah-sick-entry" "500" /%}}
+{{% mefig "george-jansen-hannah-death-entry" "500" /%}}
 {{% mefig "mills-hannah-cvcc-obit" "700" /%}}
 
 <div class="gallery">

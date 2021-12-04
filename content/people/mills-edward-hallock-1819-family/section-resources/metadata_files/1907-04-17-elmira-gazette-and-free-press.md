@@ -3,7 +3,7 @@ citation: "17 Apr 1907, Elmira Gazette and Free Press (Elmira, NY), p5, newspape
 notes: >-
     Notes:
 
-    - Brookton was often confused with Brocton and even Brooklyn, and that is the reason for adopting the name Brooktondale. See [Historical Names](#historical-names). Otherwise, the use of "village" doesn't make sense.
+    - Brookton was often confused with Brocton and even Brooklyn, and that is the reason for adopting the name Brooktondale. (See [Historical Names](#historical-names)) Another example can be seen in the Batavia burial notice for Jonas Mills for another example. Otherwise, the use of "village" doesn't make sense. 
 
     - It is referencing the wrong weekend, but it is also a relative time reference, and perhaps the difference is just a result of the text not being updated in the time between writing and its delayed publishing.
     

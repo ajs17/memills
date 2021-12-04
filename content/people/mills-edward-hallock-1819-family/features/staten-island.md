@@ -3,7 +3,7 @@ title: "The Mills Family in Staten Island NY"
 weight: 7
 ---
 
-It appears the Mills lived in Staten Island throughout much of the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1851, Edward is said to be "of Factoryville". All three Mills children were born in Staten Island. Edward worked as clerk in the grocery store of [Bartlett Brown (1833-24 Nov 1902)](https://www.findagrave.com/memorial/199802084/bartlett-brown) and at one time, the Mills family lived with Bartlett. Bartlett was a protege of [Charles M. Pine (1812-8 Oct 1897)](https://www.findagrave.com/memorial/199952123/charles-m-pine), who may have been related to Edward through Edward's mother. Charles Pine is listed as a co-owner of E. H. Mills & Co. in Corfu, and it would appear that Charles likely acted only as an investor in the business and was not likely to be involved in its day-to-day operation. 
+It appears the Mills lived in Staten Island throughout much of the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1851, Edward is said to be "of Factoryville". All three Mills children were born in Staten Island. Edward worked as clerk in the grocery store of [Bartlett Brown (1833-24 Nov 1902)](https://www.findagrave.com/memorial/199802084/bartlett-brown) and at one time, the Mills family lived with Bartlett. Bartlett was a protege of [Charles Mills Pine (1812-8 Oct 1897)](https://www.findagrave.com/memorial/199952123/charles-m-pine), who may have been related to Edward through Edward's mother. Charles Pine is listed as a co-owner of E. H. Mills & Co. in Corfu, and it would appear that Charles likely acted only as an investor in the business and was not likely to be involved in its day-to-day operation. 
 
 <!--more-->
 
@@ -19,6 +19,14 @@ In the 1875 New York State Census, each of the children are listed with Staten I
 It may be of interest that the 1860 Census shows that there is a Betsey Mott born about 1807 living with Charles M. Pine.
 
 According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles was postmaster of what was then called the North Shore, Staten Island postoffice from 16 Dec 1850 to 26 Oct 1853. This postoffice would become the West New Brighton station of Staten Island on 21 Jan 1917.
+
+1860 – Staten Island’s first railroad begins operating – April 23rd. The first magnetic telegraph line reaches Staten Island – June.
+
+1863 – Draft riots spread to Staten Island – July 14th.
+https://www.statenislandhistorian.com/time-line.html
+
+https://sites.google.com/a/nypl.org/staten-island-papers/staten-island-historian
+
 
 By 1863, the family was in Corfu, as evidenced by Edward's Civil War Draft Registration record from 1863 in Genesee County:
 
@@ -49,9 +57,40 @@ As already mentioned, Charles M. Pine was listed as co-owner of E. H. Mills & Co
 
 {{% mefig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "400" /%}}
 
-Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine. It appears this is the same Charles Pine that married Almira (possibly a misspelling of "Elmira", or perhaps misspelled that way elsewhere, be sure to search for both) Jane Loper in 1835 in South Hempstead, New York: 
+Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine. Charles Pine that married Almira (sometimes spelled "Elmira", although "Almira" appears to be correct) Jane Loper in 1835 in South Hempstead, New York: 
 
 {{% mefig "staten-island/1835-02-21-charles-pine" "700" /%}}
+
+Charles lists himself as a merchant in Castleton in the 1850 Federal census, and James M. Hillyer lives with the Pine family, as a clerk in Charles' store. 
+
+Not James A. Hillyer or James E. Hillyer, who are both reported on much more, and all three James Hillyers overlap in Richmond County.
+
+Hillyer & Hartley
+
+HILLYER. John Hillyer, sometimes written Hilliard, lived
+on Staten Island in 1693, and married Elizabeth Dey in 1714.
+their children were : John, Elizabeth, Mary, James, William,
+Nathaniel, Simon and Lawrence. The present families of the
+name are descended from the youngest son Lawrence. His son
+John was born in July, 1763, and died in July, 1848. His wife
+Elsie Merrill was born in November, 1768, and died in August,
+1858. Their children were : Lawrence, and John B., the father
+of James A., late of the firm of Pine, Hillyer & Co., of West
+New Brighton; and Abraham, of the firm of Hillyer & Hartley,
+of New Brighton, beside several other children.
+
+Other Hillyers are mentioned in the records of St. Andrew's
+church as follows : John and Esther his wife had a daughter,
+born September 19, 1756; a son, Nathaniel, born October 2,
+1765; a daughter, born November 14, 1768. John, Jr., had a
+son Abraham, born January 20, 1759. William and Dinah his
+wife had a daughter, born December 24, 1748, and a daughter,
+born September 11, 1756. John and Mary his wife had a
+daughter, born March 29, 1774; a son, John, born April 18,
+1776. Lawrence and Ann Larzalere married December 4, 1808.
+https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya/page-53-history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya.shtml
+
+
 
 This Staten Island Directory from 1886 still lists Barlett Brown’s store:
 
@@ -78,3 +117,14 @@ This Staten Island Directory from 1886 still lists Barlett Brown’s store:
 {{% mefig "staten-island/Emily-Tabitha-Mills-marriage"/%}}
 {{% mefig "staten-island/Mary-Emily-Huntting" /%}}
 {{% mefig "staten-island/Reverend_Allen_Beach_Woodworth_Obituary" /%}}
+ 
+https://sites.google.com/a/nypl.org/staten-island-papers/old-place-names
+maps
+beers
+https://digitalcollections.nypl.org/items/510d47e2-0b97-a3d9-e040-e00a18064a99
+
+dripps
+https://digitalcollections.nypl.org/items/07321b00-1d60-0131-4a3c-58d385a7b928
+
+
+

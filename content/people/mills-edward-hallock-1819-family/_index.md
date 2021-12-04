@@ -9,7 +9,7 @@ cascade:
 
 ---
 
-This publication attempts to document all extant information on the family of Edward H. Mills (1819-1908), with particular emphasis on Emily Mills (1861-1937) and the family's time in Brooktondale.
+This publication attempts to document all extant information on the family of Edward H. Mills (1819-1908), with particular emphasis on Emily Mills (1858-1937) and the family's time in Brooktondale.
 
 <!--more-->
 

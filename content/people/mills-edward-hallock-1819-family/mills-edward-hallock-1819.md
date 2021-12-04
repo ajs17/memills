@@ -76,6 +76,12 @@ Age: 72
 {{% mefig "1896-nys-marriage-index-816" "200" /%}}
 </div>
 
+Edward and Hannah joined the church just weeks before their wedding:
+
+{{% mefig "1896-12-14-bcc-mills-edward-hannah-received" "700" /%}}
+
+{{% mefig "1895-12-13-edward-hannah-join-church" "700" /%}}
+
 {{% mefig "1897-03-18-ithaca-daily-journal" "400" /%}}
 
 Emily was the first to note Edward's death in the sales journal of E. H. Mills general store, on an otherwise normal day of the store's operation:
@@ -89,6 +95,8 @@ Emily was the first to note Edward's death in the sales journal of E. H. Mills g
 </div>  
   
 {{% mefig "mills-edward-mary-cvcc-obit" "700" /%}}
+
+{{% mefig "bcc-mills-edward" "700" /%}}
 
 ## Notes for Future Researchers
 
@@ -106,7 +114,9 @@ Edward Hallock's family are accounted for in the same census in Genesee County:
  {{% mefig "census/census-1875a-nys" "400" /%}}
  
 
+## Future research
 
+Edward seems to have been engaged in other work aside from the store and post office, or possibly working on behalf of Edward Lounsbery, as evidenced by the following:
 
-
-
+{{% mefig "me-mills/1907-09-23-barn-rent" "700" /%}}
+{{% mefig "1898-02-22-mills-edward-to-culver-little" "700"  /%}}
