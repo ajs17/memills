@@ -15,7 +15,7 @@ Mr. MacGregor was born in London, Eng., on October 10, 1822, and in April 1851, 
 
 Mr. MacGregor was apprenticed as a saddler in Perth, Scotland, and continued as a harness maker in this country until April 1900, when he sold his business at Corfu to M. L. Hanford. He was secretary of the Evergreen Hill Cemetery Association when it was organized on February 9, 1978, and was its treasurer for many years, resigning from that office six years ago. He had served as justice and had been town clerk, village clerk and notary public. He was a member of the Presbyterian church. 
 
-In a letter written to his sister on March 18, 1851, from Edinburgh, Scotland, Mr. MacGregor said: “On the 28th of this month I sail from Greenock for New York in the ship ‘Adonis.’ You know I log wished to emigrate and now the time has come. My berth is taken and part of my passage paid. The ‘Adonis’ is a very large vessel, 1,200 tons burden, and will take out a great many emigrants, I believe two or three hundred. I have taken what is called an immediate passage which costs four pounds.”
+In a letter written to his sister on March 18, 1851, from Edinburgh, Scotland, Mr. MacGregor said: “On the 28th of this month I sail from Greenock for New York in the ship ‘Adonis.’ You know I long wished to emigrate and now the time has come. My berth is taken and part of my passage paid. The ‘Adonis’ is a very large vessel, 1,200 tons burden, and will take out a great many emigrants, I believe two or three hundred. I have taken what is called an immediate passage which costs four pounds.”
 
 Mr. MacGregor’s funeral will be held from the house at 3:30 o’clock tomorrow afternoon. The interment will be in the Evergreen Hill cemetery.
  
