@@ -84,7 +84,7 @@ Emily would return to Corfu several times throughout her life.
 {{% mefig "1882-07-21-batavia-daily-news" "400" /%}}
 {{% mefig "1885-10-16-batavia-daily-news-p1" "400" /%}}
 {{% mefig "1895-12-31-daily-news-p1" "700" /%}}
-{{% mefig "1908-01-06-batavia-daily-news-p4" "300" /%}}
+{{% mefig "1908-01-06-batavia-daily-news-p4" "400" /%}}
 
 ## The MacGregors
 
