@@ -244,6 +244,8 @@ The fact that only the birth and death dates are given on Emily's stone, and tha
 
 Emily was the last in the line of Edward H. Mills, and it would seem that her family's story had become unknown to the Mills of subsequent generations. 
 
+[Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
+
 ## Other Historical Accounts
 
 Understandably, histories of the Mills family have typically focused almost exclusively on Emily. All previous secondary sources of information on Emily accepted 1861 as her birth year.

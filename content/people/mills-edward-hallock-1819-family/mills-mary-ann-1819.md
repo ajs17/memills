@@ -17,3 +17,4 @@ Mary Ann (Pine) Mills, born 8 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookton
 {{% mefig "mills-edward-mary-cvcc-obit" "700" /%}}
 
 
+[Mary Ann](https://www.findagrave.com/memorial/75958702/mary-ann-mills) is interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu, NY 14036.

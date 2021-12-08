@@ -1,0 +1,6 @@
+---
+citation: "27 May 1887, The Ithaca Daily Journal (Ithaca NY), p3, nyshistoricnewspapers.org"
+---
+...
+George Richardson is again at the postoffice, having been absent a few days on account of sickness. 
+...

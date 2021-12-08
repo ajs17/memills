@@ -37,6 +37,12 @@ The following are examples of Edward's postmark during that time:
   {{% mefig "postmarks/envelope-postmark-white" "300" /%}}
 </div>
 
+The postoffice moved to Mills store when Edward became postmaster. It appears that George Richardson was an employee of Edward's, as he is never identified as postmaster in the USPS records:
+
+<div class="gallery">
+{{% mefig "1885-08-13-Ithaca-Daily-Journal-p3" "400" /%}}
+{{% mefig "1887-05-27-The-Ithaca-Daily-Journal-p3" "300" /%}}
+</div>
 
 Mary Ann would pass on the eve of their 45th wedding anniversary. A year and two days later, Edward would marry [Hannah (Thatcher) Eastman (1824-1917)]({{% ref "mills-hannah-1824" %}}). Whether perhaps by superstition or some practical matter, the date chosen seems less likely to be a coincidence due to the fact that Edward joined the church on the third to last Sunday before the marriage ceremony.
 

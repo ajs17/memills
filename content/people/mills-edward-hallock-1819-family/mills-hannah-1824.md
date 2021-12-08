@@ -118,3 +118,4 @@ As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastm
   {{% mefig "1917-06-16-ithaca-journal" "300" /%}}
 </div>
 
+[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850.
