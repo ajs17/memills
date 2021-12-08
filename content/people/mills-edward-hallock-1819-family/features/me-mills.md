@@ -12,6 +12,13 @@ The former location of the Mills store as it looks today, at 484 Brooktondale Ro
 {{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "700" /%}}
 {{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "700" /%}}
 
+It seems likely the Mills store was always in this building. The postoffice moved to Mills store when Edward became postmaster. It appears that George Richardson was an employee of Edward's, as he is never identified as postmaster in the USPS records:
+
+<div class="gallery">
+{{% mefig "1885-08-13-Ithaca-Daily-Journal-p3" "400" /%}}
+{{% mefig "1887-05-27-The-Ithaca-Daily-Journal-p3" "300" /%}}
+</div>
+
 The following are some of the earliest references to the Mills' store and they recount misadventures that took place at a time when Emily was identified as "clerk" in E. H. Mills:
 
 {{% mefig "1896-10-14-The-Ithaca-Daily-Journal-p6" "400" /%}}
