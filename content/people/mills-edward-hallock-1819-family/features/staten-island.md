@@ -127,4 +127,6 @@ dripps
 https://digitalcollections.nypl.org/items/07321b00-1d60-0131-4a3c-58d385a7b928
 
 
-
+Phoebe Hillyer
+Birth	22 Jul 1834 Staten Island
+Death	5 Feb 1914 New York City, New York, USA

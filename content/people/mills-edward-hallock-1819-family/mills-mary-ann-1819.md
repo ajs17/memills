@@ -12,6 +12,7 @@ Mary Ann (Pine) Mills, born 8 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookton
 
 {{% mefig "1851-01-03-Brooklyn-Daily-Eagle" "400" /%}}
 {{% mefig "mills-mary-cvcc-join" "700" /%}}
+{{% mefig "1896-01-03-The-Ithaca-Daily-Journal-p6" "400" /%}}
 {{% mefig "1895-12-31-daily-news-p1" "700" /%}}
 {{% mefig "mills-edward-mary-cvcc-obit" "700" /%}}
 

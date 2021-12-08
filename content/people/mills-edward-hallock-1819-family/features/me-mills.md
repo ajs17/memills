@@ -12,9 +12,16 @@ The former location of the Mills store as it looks today, at 484 Brooktondale Ro
 {{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "700" /%}}
 {{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "700" /%}}
 
-The following is the earliest reference to the Mills' store and recounts a misadventure that took place at a time when Emily was identified as "clerk" in E. H. Mills:
+The following are some of the earliest references to the Mills' store and they recount misadventures that took place at a time when Emily was identified as "clerk" in E. H. Mills:
 
+{{% mefig "1896-10-14-The-Ithaca-Daily-Journal-p6" "400" /%}}
 {{% mefig "1897-03-18-ithaca-daily-journal" "400" /%}}
+
+The following shows that the Mills store was involved in charity while Edward was alive:
+
+{{% mefig "1898-03-31-The-Ithaca-Daily-Journal-p5" "400" /%}}
+
+{{% mefig "1904-08-29-The-Ithaca-Daily-Journal-p6" "400" /%}}
 
 It is really in Brookton where we get a sense of the family's finances through property deeds, reported estate information and the Mills store sales journals. The Mills family likely always made a fairly modest, if stable, income from their small general stores.
 
@@ -69,7 +76,24 @@ In the 1920's, we also start to see more sophisticated business records, both ne
   {{% mefig "me-mills/1927-02-01-record-of-cash-payments" "300" /%}}
 </div>
 
-The earliest formal mention of the store under Emily's ownership and name is in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village" in which M. E. Mills is listed as a "present merchant".
+As Molly Adams would write in her "Note", Emily begins aggressively advertising the newly branded store in 1909. She advertised perhaps dozens of times in the Ithaca Daily Journal alongside the Vorhis Mill and the meat market that is attributed to Clarence Wheeler, someone mentioned many times in the journals of George Jansen. The first such advertisement I could find was in the 29 Mar 1909 edition, and the last was on 30 Jun 1910. What follows are a sample of some of them, many of which were repeated for weeks at a time, and they give us a good sense of the diverse products offered in the small country store:
+
+{{% mefig "1909-03-29-The-Ithaca-Daily-Journal-p9" "350" /%}}
+<div class="gallery">
+{{% mefig "1909-06-02-The-Ithaca-Daily-Journal-p9" "350" /%}}
+{{% mefig "1909-06-19-The-Ithaca-Daily-Journal-p9" "350" /%}}
+</div>
+<div class="gallery">
+{{% mefig "1909-07-20-The-Ithaca-Daily-Journal-p9" "350" /%}}
+{{% mefig "1909-10-05-The-Ithaca-Daily-Journal-p9" "350" /%}}
+</div>
+<div class="gallery">
+{{% mefig "1909-10-13-The-Ithaca-Daily-Journal-p9" "350" /%}}
+{{% mefig "1909-11-04-The-Ithaca-Daily-Journal-p9" "350" /%}}
+</div>
+{{% mefig "1910-06-30-The-Ithaca-Daily-Journal-p9" "350" /%}}
+
+In The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village" M. E. Mills is listed as a "present merchant".
 
 Several descriptions of M. E. Mills exist, the most complete of which is Gertrude Conant's:
 
@@ -145,6 +169,8 @@ In 1925, Libbie Peck sells the Mills store property to Dr. Benjamin Lockwood.
   {{% mefig "1926-04-07-ithaca-journal" "300" /%}}
 </div>
 
+Two articles in the 14 Jul 1934 (p3) and 20 Nov 1934 (p5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendants of those accused.
+
 {{% mefig "1935-10-25-ithaca-journal" "300" /%}}
 
 Identical notices for the Halloween party were run in The Ithaca Journal on 28 Oct and 29 Oct 1935.
@@ -168,8 +194,6 @@ The memorial, presumably with the text provided by the professor, currently sits
 
 {{% mefig "1936-06-20-ithaca-journal" "300" /%}}
 
-Two articles in the Jul 14, 1934 (page 3) and Nov 20, 1934 (page  5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendents of those accused.
-
 As noted in other histories, Jessie Brewer took over the store at the same location, running it under her name primarily as a notions store with a lending library in the back, and no groceries. 
 
 {{% mefig "me-mills/brewer-ad" "400" /%}}
@@ -187,5 +211,5 @@ These volumes are leather bound, but with badly deteriorating covers, containing
 
 Given that Frank donated them, and that the style of record keeping is quite similar to known Mills sales journals, it was hoped that these might be earlier books of E. H. Mills' general store. When asked for more information on their origin, Barbara Kone said they came from Frank's basement, and when pressed further for which basement, she said "from the Mill" meaning the basement of Dalebrook, also owned by Frank Proto at the time of this writing, and at the time of the sales journals in question, was owned by Frank C. Vorhis, who also owned a general store next door in the location that would become Frank F. Mulks general store, and which would later be known to the author as Brookton's Market. According to the Brookton's Market 2011 Calendar, Vorhis owned the store from the 1880's to its sale to the Mulks brothers in 1902, when it would become known as <strong>Frank F. Mulks</strong>. That timeframe matches up with these journals, and it would seem that the prices used in the comparisons in the calendar came from these books. 
 
-My review led me to conclude there were possibly several different handwriting styles, and although I have not looked through the entries thoroughly, I spent a little time reviewing a random sampling of entries over several books and could not confidently identify any handwriting as Emily's, although occassionally I thought I might have seen an interesting similarity, I could not see that similarity consistently. Obviously a more careful examination should be done, perhaps even by someone who knows how to actually analyze handwriting, but in the meantime, the weight of the evidence seems to lean toward these being the sales journals of Vorhis' store.
+My review led me to conclude there were possibly several different handwriting styles, and although I have not looked through the entries thoroughly, I spent a little time reviewing a random sampling of entries over several books and could not confidently identify any handwriting as Emily's, although occasionally I thought I might have seen an interesting similarity, I could not see that similarity consistently. Obviously a more careful examination should be done, perhaps even by someone who knows how to actually analyze handwriting, but in the meantime, the weight of the evidence seems to lean toward these being the sales journals of Vorhis' store.
 

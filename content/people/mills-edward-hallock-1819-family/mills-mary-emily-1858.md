@@ -99,6 +99,8 @@ Emily continued to be involved in temperance, for some period of time, a member 
   {{% mefig "1908-01-06-batavia-daily-news-p4" "300" /%}}
 </div>
 
+{{% mefig "1908-04-07-The-Ithaca-Daily-Journal-p3" "400" /%}}
+
 Edward died "intestate", without a will, and until 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills Home and Mills Store. Emily followed her father's example and renamed the store *M. E. Mills*. When Hannah passed less than a decade later, Emily would inherit the home and store.
 
 Thanks to Gertrude Conant's personal recollections, we have a basic description of Emily's appearance and personality:

@@ -82,9 +82,14 @@ Edward and Hannah joined the church just weeks before their wedding:
 
 {{% mefig "1895-12-13-edward-hannah-join-church" "700" /%}}
 
+{{% mefig "1896-10-14-The-Ithaca-Daily-Journal-p6" "400" /%}}
+
+{{% mefig "1897-01-07-The-Ithaca-Daily-Journal-p6" "400" /%}}
 {{% mefig "1897-03-18-ithaca-daily-journal" "400" /%}}
 
-Emily was the first to note Edward's death in the sales journal of E. H. Mills general store, on an otherwise normal day of the store's operation:
+{{% mefig "1906-11-24-The-Ithaca-Daily-Journal-p6" "400" /%}}
+
+Emily officially joined the church rolls in the months immediately following Edward's illness. Emily was the first to note Edward's death in the sales journal of E. H. Mills general store, on an otherwise normal day of the store's operation:
 
 {{% mefig "1908-01-01-E-H-Mills" "700" /%}}
 {{% mefig "george-jansen-ehmills-entry" "400" /%}}
@@ -97,6 +102,7 @@ Emily was the first to note Edward's death in the sales journal of E. H. Mills g
 {{% mefig "mills-edward-mary-cvcc-obit" "700" /%}}
 
 {{% mefig "bcc-mills-edward" "700" /%}}
+
 
 ## Notes for Future Researchers
 
@@ -120,3 +126,5 @@ Edward seems to have been engaged in other work aside from the store and post of
 
 {{% mefig "me-mills/1907-09-23-barn-rent" "700" /%}}
 {{% mefig "1898-02-22-mills-edward-to-culver-little" "700"  /%}}
+
+
