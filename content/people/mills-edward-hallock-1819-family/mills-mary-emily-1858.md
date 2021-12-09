@@ -8,8 +8,12 @@ Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale
 
 <!--more-->
 
-<figure width="500px" class="hero">
-    <img src="/people/mills-edward-hallock-1819-family/section-resources/data_files/handwriting/sighero.jpg" width="500" />
+<figure class="hero">
+<blockquote text-align="center">
+"She was a sweet little lady ... quiet, neat, cheerful and always smiling."
+
+"...I remember her as very kind..."
+</blockquote>
 </figure>
 
 {{% metable "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" %}}
