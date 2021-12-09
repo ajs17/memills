@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 2
 ---
 
-Mary Ann (Pine) Mills, born 0 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookton NY. Matriarch of the Mills family, first wife of Edward Hallock Mills, married 29 Dec 1850, Hempstead, NY.
+Mary Ann (Pine) Mills, born 08 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookton NY. Matriarch of the Mills family, first wife of Edward Hallock Mills, married 29 Dec 1850, Hempstead, NY.
 
 <!--more-->
 
