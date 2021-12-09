@@ -7,6 +7,12 @@ Edward Hallock Mills, born 25 Mar 1819, Smithtown, NY, died 01 Jan 1908, Brookto
 
 <!--more-->
 
+<figure class="hero">
+<blockquote>
+"...our old established merchant..."
+</blockquote>
+</figure>
+
 {{% metable "census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Edward" %}}
 
 From his birthplace of Smithtown NY, Edward would be living in [Factoryville (West New Brighton) Staten Island]({{% ref "features/staten-island" %}}) by the time he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in 1851.
