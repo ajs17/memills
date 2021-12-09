@@ -13,6 +13,8 @@ Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale
 "She was a sweet little lady ... quiet, neat, cheerful and always smiling."
 
 "...I remember her as very kind..."
+
+"If everyone to whom Miss Mills extended a helpful hand were to place a floral emblem upon her grave, she would sleep today amidst a wilderness of flowers."
 </blockquote>
 </figure>
 
