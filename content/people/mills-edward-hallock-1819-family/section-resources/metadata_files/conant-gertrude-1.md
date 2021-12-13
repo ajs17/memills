@@ -3,13 +3,13 @@ citation: "Gertrude Conant, used with permission."
 notes: >-
     Notes:
 
-    - Dr. Benjamin Lockwood's house is present day 480 Brooktondale Road. Later, "Dr. Mary" Ridgway Tinker would live and practice there for a time. He was also a member of Brookton Congregational and built the Dalebrook apartments on the foundation of the Grist Mill in the 1920's. After Dr. Lockwood's death, E. D. Shurter placed a plaque in his honor outside Dalebrook that remains today.
+    - Dr. Benjamin Lockwood's house is present day 480 Brooktondale Road. Later, "Dr. Mary" Ridgway Tinker would live and practice there for a time. Dr. Lockwood was also a member of Brookton Congregational and built the Dalebrook apartments on the foundation of the Grist Mill in the 1920's. After Dr. Lockwood's death, E. D. Shurter placed a plaque in his honor outside Dalebrook that remains today.
   
     - The "woman who lived in and kept house" whose name Gertrude couldn't remember, is a reference to Ellen Gould.
 ---
 Emily Mills' store was in the building where the Post Office is today. I remember it as a dark place with long rows of counters on each side and tables and glass-topped counters in the middle. Emily Mills was a little woman, with her hair in a bun on top of her head, like Grandma Bacon's. She was quiet, neat, cheerful and always smiling.
 
-She had yard goods, bias tape, combs, lace hankerchiefs, and many things you could buy for presents for ten cents and up. There were racks of thread, needles, pins and all the things we needed for our 4-H projects.
+She had yard goods, bias tape, combs, lace handerchiefs, and many things you could buy for presents for ten cents and up. There were racks of thread, needles, pins and all the things we needed for our 4-H projects.
 
 She had groceries, and took butter and eggs in trade. Butter was weighed on her scales. The scales had a large scoop at one end, and little weights at the other. I don't remember her selling meat, but she probably did. Many people had kerosene lights then, and she sold it by the gallon. You took your container, and she filled it, usually with a potato on the end so it wouldn't spill. Marilyn and I would go do the shopping for Aunt Mina, with a cart in the Summer and a sled in the Winter to carry them home with.
 
