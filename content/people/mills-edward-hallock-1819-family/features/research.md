@@ -74,8 +74,8 @@ Planned:
   - I have started a complete photo inventory of the notebooks of George Jansen and plan to organize and transcribe these in the future. There are a number of entries that mention work that George does on behalf of Emily, planting her garden, painting her store, chopping wood, etc. As I am able, I will add those records to this account.
   - research deeds on Mill's home and Mill's store prior to 1900. When did the Mills start living there? Survey maps that show mill race? Who owned the Mills store real estate?
   - Photo inventory and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move. (Begun.)
-  - Research Emily's baptism, possibly contacting descendents of Annis Ford Eastman for information on that event. Check church records again: was this the Reverend's very last visit to Brookton? Letters exist at Univ of Ill library between the Reverend and her family.
-  - The dimenions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
+  - Research Emily's baptism, possibly contacting descendants of Annis Ford Eastman for information on that event. Check church records again: was this the Reverend's very last visit to Brookton? Letters exist at Univ of Ill library between the Reverend and her family.
+  - The dimensions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
   - I believe there is ample contextual evidence to suggest that Emily was a member of the Ladies Aid Society and also involved in some capacity with the Red Cross, although I don't believe I have direct evidence of these. 
 
 ## Distribution
