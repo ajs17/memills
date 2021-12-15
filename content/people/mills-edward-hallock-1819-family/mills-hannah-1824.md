@@ -8,6 +8,16 @@ Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Br
 
 <!--more-->
 
+<figure class="hero">
+<blockquote>
+"Mrs. Mills is a remarkable woman..."
+
+"She was a great reader, and kept herself posted on all the current events and liked to converse upon them."
+
+"She was the recipient of many tokens of love and respect, some from distant states."
+</blockquote>
+</figure>
+
 {{% metable "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Hannah" %}}
 
 Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward's marriage to Hannah and identifies Edward's parents:
@@ -92,6 +102,8 @@ Hannah apparently had what must have been of very worrying health episode. This 
 </div>
 
 {{% mefig "1916-05-23-ithaca-journal" "300" /%}}
+
+Hannah died, and her funeral was subsequently held, within the Mills Home.
 
 {{% mefig "george-jansen-hannah-sick-entry" "500" /%}}
 {{% mefig "george-jansen-hannah-death-entry" "500" /%}}

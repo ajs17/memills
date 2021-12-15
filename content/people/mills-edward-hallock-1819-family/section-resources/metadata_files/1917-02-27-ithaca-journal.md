@@ -13,7 +13,7 @@ Brookton, Feb. 27.—Mrs. Hannah Mills, widow of the late E. H. Mills, died Sund
 
 Beautiful soul into glory gone; 
 
-Beautiful life with it crown now won; 
+Beautiful life with its crown now won; 
 
 God giveth thee rest."
 
