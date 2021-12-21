@@ -52,6 +52,8 @@ I have already collected much of this information, its just a matter of getting 
   - Is Charles M. Pine, co-owner of E. H. Mills & Co. in Corfu, related to Edward's wife Mary Ann, whose maiden name is Pine?
   - Photo of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
   - Charles Personius Mills?
+  - See if there are radio schedules from April 1923 to see if we can deduce the radio concert that Emily and Ellen listened to at the Mulks'.
+  - Train schedules, routes from Brookton to Corfu, corresponding to family burials.
   - More information is needed about Emily's involvement in the Ladies Aid Society and Red Cross.
   - Donna E. believes that the Ithaca office of the Red Cross has scrapbooks of their own history: I have contacted them and awaiting a response.
   - Research the apparent purchase for subsequent rental: a barn 23 Sep 1907.

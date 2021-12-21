@@ -10,9 +10,9 @@ weight: 10
 
 Emily Mills
 
-Mary Emily Mills, b. Dec 1858 Staten Island, NY, d. 03 Nov 1937 Brooktondale NY, youngest child of Edward H. and Mary Ann Mills. Proprietor, M. E. Mills general store. Sunday School teacher and piano player in the Congregational Church. Active in temperance. 
+Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY. Youngest child of Edward H. and Mary Ann Mills. Proprietor, M. E. Mills general store. Officer and Sunday School teacher in the Congregational Church. Charitable and active in temperance. 
 
-"She was a sweet little lady ... quiet, neat, cheerful and always smiling."
+"She was a sweet little lady...quiet, neat, cheerful and always smiling."
 
 "I remember her as very kind...
 

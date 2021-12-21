@@ -1352,3 +1352,12 @@ I have also contacted the national Presbyterian Historical Society and have aske
 I am very hopeful that you will be willing to help me, and I am happy to provide you with any additional information I may have. If you could tell me your fee, I would be happy to pay in advance of your work.
 
 Thank you in advance for considering my request.
+
+
+
+
+
+Phoebe or Phebe Hillyer
+Birth	22 Jul 1834 Staten Island
+Death	5 Feb 1914 New York City, New York, USA
+

@@ -13,7 +13,7 @@ Special Dispatch to The Ithaca Journal.
 
 BROOKTON, August 29.
 
-For the third time in two weeks an attempt to burglarize the stores of E. H. Mills and Frank R. Mulks by what is thought to be amateur cracksmen was made this morning.
+For the third time in two weeks an attempt to burglarize the stores of E. H. Mills and Frank F. Mulks by what is thought to be amateur cracksmen was made this morning.
 
 About 2 o'clock this morning the thieves entered the Mills store and secured a quantity of shoes, files and other small articles and then crossed to the Mulks store and entered the storeroom in the back by breaking a window. They were unable to get into the main part of the store and gave up the job there without getting any further booty.
 
