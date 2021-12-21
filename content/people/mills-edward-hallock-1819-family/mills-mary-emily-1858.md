@@ -87,6 +87,13 @@ Emily, along with many of the others baptized with her, became immediately invol
 
 Gertrude Conant mentions that Emily played the piano or organ in the Church. The church historical records, as one would naturally expect, cover topics unevenly over the years. Concerning the piano/organ: there was an organ in the church at one time, but it was destroyed by mice. The roles of pianist/organist and that of assistant pianist/organist, were for a time at least, positions that were voted on at the annual meetings just as the roles of secretary and treasurer were. I have not found a reference to Emily being in either of those roles, but there are many years where these roles are not noted at all, so unless Gertrude is mis-remembering, without her noting this detail, this aspect of Emily's life would be lost. (Anna Mulks and Cassie Landon were several times noted in these roles.)
 
+<blockquote class="quote-only">
+Originally a pipe organ stood on a raised platform (for choir) at the back of the auditorium. After it deteriorated (with assistance from the church mice) a piano was used. During the pastorate of Rev. James L. Burckes (1949-1955) the platform was eliminated and double entrance doors cut in the curving wall. Prior to that time there had been only a single entrance door at each side of the wall. 
+
+*— “**History of the Congregational Church, Brooktondale, New York.** Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.”*
+</blockquote>
+
+
 Annual meetings were typically held the first Monday in January, in the afternoon or evening. A small group attended and Emily is not noted as attending these, despite being voted as Treasurer and being acknowledged as filling that role for at least two years:
 
 {{% mefig "1912-bcc-mills-emily-treasurer" "500"/%}}

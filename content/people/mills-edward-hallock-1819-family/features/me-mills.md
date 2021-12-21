@@ -157,12 +157,18 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 
 {{% mefig "me-mills/BF142829-001" "300" /%}}
 
+<div class="gallery">
 {{% mefig "1922-09-19-George-Jansen" "500" /%}}
 {{% mefig "1922-09-21-George-Jansen" "500" /%}}
+</div>
+<div class="gallery">
 {{% mefig "1922-09-25-George-Jansen" "500" /%}}
 {{% mefig "1922-09-26-George-Jansen" "500" /%}}
+</div>
+<div class="gallery">
 {{% mefig "1922-09-George-Jansen" "500" /%}}
 {{% mefig "1923-02-08-George-Jansen" "500" /%}}
+</div>
 
 In 1925, Libbie Peck sells the Mills store property to Dr. Benjamin Lockwood.
 
@@ -184,15 +190,15 @@ Identical notices for the Halloween party were run in The Ithaca Journal on 28 O
 
 And in the following, Molly Adams seems to indicate that "at the store" was referring to what we know today as Brookton's Market, owned by Robert (Bob) Tucker at that time, and not M. E. Mills, although her choice of words is noticeably vague on the point. Presumably, I can find the original quote and get a better sense of this, but its not obvious that this isn't referring to Mills' store:
 
-<blockquote>
+<blockquote class="quote-only">
 ...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mill's store had been. 
 
 *— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63*
 </blockquote>
 
 <div class="gallery">
-    {{% mefig "1935-07-31-The-Ithaca-Journal-p14" "350" /%}}
-    {{% mefig "1935-11-23-The-Ithaca-Journal-p5" "350x350" "" "top" /%}}
+    {{% mefig "1935-07-31-The-Ithaca-Journal-p14" "300" /%}}
+    {{% mefig "1935-11-23-The-Ithaca-Journal-p5" "300x300" "" "top" /%}}
 </div>
 
 The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store, and facing the former Lockwood residence. There is also a bronze sundial on top of the stone (not visible in the photo) that appears to have been attached along with the tablet.  
