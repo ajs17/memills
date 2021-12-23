@@ -112,7 +112,7 @@ Several of J. Thomas Mills' children died in infancy, and according to a history
 There is also a census entry for a daughter Cora M. born Jan 1871. 
 
 The first three names of possible heirs listed in the [Mills home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
-  - [Alonzo W. Mills (Jul 1858 to 09 May 1942)]() 
+  - [Alonzo W. Mills (Jul 1858 to 09 May 1942)]() Sometimes spelled as Alonso.
   - [George E. Mills]()
   - [Clarissa H. Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
 
