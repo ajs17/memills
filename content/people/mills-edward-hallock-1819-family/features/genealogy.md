@@ -42,7 +42,6 @@ Jonas married (1) Mary Hallock [daughter of Thomas Hallock], on 25 Dec [Feb] 181
 
 They had the following children:
 
-  - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
 - 1029	M	i	Thomas James Mills was born on 13 Feb 1817.
 - 1030	M	ii	Edward H. Mills was born on 25 Mar 1819.
 - 1031	F	iii	[Emily Tabitha Mills](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) was born on 19 Jun 1821. She died on 11 Apr 1849. [mar. in Nov. 1843, John S. Huntting.]
@@ -90,23 +89,39 @@ Edward married (2) **Hannah (Thatcher) Eastman Mills** (born England, 21 May 182
   - No children.
 
 Notes:
-  - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries. The birthdates in particular are based on the 1900 census, which contradict Emily's gravestone.
+  - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries.
   - Edward's parents were married while Edward was in utero (at least according to one of the dates given) and his older brother Thomas was already a toddler.
   - Jonas Davis Mills and Mary Platt Mills appear to be relatives, although I have followed this through to be sure. 
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence, 21 Jul 2021)
   - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
- 
-The [Mills home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death list the following as cousins of Emily's as possible heirs:
-  - Alonzo Mills
-  - George E. Mills
-  - Clarissa Etsall
-  - Mary Huntting Smith
 
-Mary Huntting Smith may be a reference to Emily's neice, or a descendent of Emily's neice:
+It should be noted that there are two significant errors in both Mills genealogies described above. **Edward's brother born on 13 Feb 1817 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. It also appears that the birth year given in his obituary is correct, as it is corroborated by census records: 1827 instead of 1817. And so, we can update his entry accordingly:
+
+  - 1029 M i [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 1827 in New York City. He died 22 Apr 1915 in Huntington NY. 
+
+The confusion with the name may arise because it would seem, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written at Thomas J.
+
+<div class="gallery">
+{{% mefig "portraits/Mills-James-Thomas-1915-04-23-The-Long--Islander-Huntington-NY-p5" "350" /%}}
+{{% mefig "long-island/1915-04-23-The-Long--Islander-Huntington-NY-p5" "350" /%}}
+</div>
+
+Several of J. Thomas Mills' children died in infancy, and according to a history of Huntington Rural Cemetery on [longislandgenealogy.com](http://longislandgenealogy.com/HuntingtonRural.html) these children were *re-buried* there on 22 May 1857: "One of the oldest "rural cemeteries" in Suffolk County, Huntington Rural Cemetery was established in 1853, during the "Rural Cemetery" movement of pre-Civil War America. ...As with many "rural cemeteries" across the country, burials from older family or farm cemeteries were moved to Huntington Rural Cemetery over the decades. Thus you will find dates long before 1853, some back into the 18th century, among the burials in this cemetery."
+
+There is also a census entry for a daughter Cora M. born Jan 1871. 
+
+The first three names of possible heirs listed in the [Mills home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
+  - [Alonzo W. Mills (Jul 1858 to 09 May 1942)]() 
+  - [George E. Mills]()
+  - [Clarissa H. Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
+
+The last name referenced in the list of possible heirs, Mary Huntting Smith, may be a reference to Emily's neice, or a descendent of Emily's neice:
   - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
   - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
   - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), Emily's neice, married: James M. Cross.
+
+Several documents pertaining to Emily Tabitha Mills' marriage were referenced above.
 
 I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". She was killed in a strange accident with a bus in front of her home:
 
@@ -114,5 +129,6 @@ I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears t
 {{% mefig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "300" /%}}
 {{% mefig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "300" /%}}
 </div>
+
 
 

@@ -59,7 +59,7 @@ I have already collected much of this information, its just a matter of getting 
   - Research the apparent purchase for subsequent rental: a barn 23 Sep 1907.
   - Where did Emily go around 20 Mar 1917? (roughly a month after Hannah's death.) Ellen Gould is said to be keeping house, suggesting that Emily was out of town for a period of time.
   - Why is Hannah interred at Pleasant Grove Cemetery? (Other family there?)
-
+  - Did Edward ever work at "(Samuel) Scudder's general country store" on Long Island? 
 Horace's Death:
   - Presumably why the family moved *away from* Corfu?
   - But why *to* Mott's Corners? (Perhaps relevant: there are a number of Hallocks living throughout Tompkins County, including Brooktondale prior to, and contemporary, with the Mills. I don't know if these are distant relations or not.)
