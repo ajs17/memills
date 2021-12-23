@@ -1,5 +1,5 @@
 ---
-citation: "07 Apr 1908, The Ithaca Daily Journal (Ithaca NY), p3"
+citation: "07 Apr 1908, The Ithaca Daily Journal (Ithaca NY), p3, nyhistoricnewspapers.org."
 notes: >-
 
     - This article is published exactly one year after Emily's baptism.

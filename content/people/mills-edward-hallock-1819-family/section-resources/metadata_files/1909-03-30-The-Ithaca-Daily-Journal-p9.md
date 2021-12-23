@@ -1,5 +1,5 @@
 ---
-citation: "30 Mar 1909, The Ithaca Daily Journal (Ithaca NY), p9"
+citation: "30 Mar 1909, The Ithaca Daily Journal (Ithaca NY), p9, nyhistoricnewspapers.org."
 ---
 
     M. E. MILLS

@@ -1,5 +1,5 @@
 ---
-citation: "05 Oct 1909, The Ithaca Daily Journal (Ithaca NY), p9"
+citation: "05 Oct 1909, The Ithaca Daily Journal (Ithaca NY), p9, nyhistoricnewspapers.org."
 ---
 
     Mason and E. Z. Seal Fruit

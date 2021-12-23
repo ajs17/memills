@@ -1,5 +1,5 @@
 ---
-citation: "02 Jun 1909, The Ithaca Daily Journal (Ithaca NY), p9"
+citation: "02 Jun 1909, The Ithaca Daily Journal (Ithaca NY), p9, nyhistoricnewspapers.org."
 ---
 
     NEW SPRING GOODS

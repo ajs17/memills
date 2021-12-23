@@ -1,5 +1,5 @@
 ---
-citation: "27 Dec 1924, The Brooklyn Daily Eagle (Brooklyn NY), p2"
+citation: "27 Dec 1924, The Brooklyn Daily Eagle (Brooklyn NY), p2, nyhistoricnewspapers.org."
 ---
 Bus Kills Woman Said To Be Dazed
 

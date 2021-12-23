@@ -1,5 +1,5 @@
 ---
-citation: "19 May 1910, The Daily News (Batavia, NY), p6"
+citation: "19 May 1910, The Daily News (Batavia, NY), p6, nyhistoricnewspapers.org."
 ---
 MRS. W. W. MAC GREGOR.
 

@@ -1,5 +1,5 @@
 ---
-citation: "12 Apr 1910, The Ithaca Daily Journal (Ithaca NY), p9"
+citation: "12 Apr 1910, The Ithaca Daily Journal (Ithaca NY), p9, nyhistoricnewspapers.org."
 ---
 
     SPRING GOODS

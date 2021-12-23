@@ -1,5 +1,5 @@
 ---
-citation: "29 Dec 1909, The Ithaca Daily Journal (Ithaca, NY), p9"
+citation: "29 Dec 1909, The Ithaca Daily Journal (Ithaca, NY), p9, nyhistoricnewspapers.org."
 ---
 
     Good Line of

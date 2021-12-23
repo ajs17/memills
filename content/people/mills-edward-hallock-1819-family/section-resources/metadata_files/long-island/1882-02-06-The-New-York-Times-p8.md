@@ -1,5 +1,5 @@
 ---
-citation: "16 Feb 1882, The New York Times (New York, NY), p8"
+citation: "16 Feb 1882, The New York Times (New York, NY), p8, nyhistoricnewspapers.org."
 ---
 LONG ISLAND
 

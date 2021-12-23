@@ -1,5 +1,5 @@
 ---
-citation: "Dec 1907 - Jan 1908, E. H. Mills Family a/c, Mills Store Sales Journal #41, scanned image of book owned by Brooktondale collector."
+citation: "Dec 1907 - Jan 1908, E. H. Mills Family a/c, Mills Store Sales Journal No. 41, scanned image of book owned by Brooktondale collector."
 notes: >-
     Notes:
 
