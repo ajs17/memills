@@ -100,7 +100,7 @@ It should be noted that there are two significant errors in both Mills genealogi
 
   - 1029 M i [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 1827 in New York City. He died 22 Apr 1915 in Huntington NY. 
 
-The confusion with the name may arise because it would seem, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written at Thomas J.
+The confusion with the name may arise because it would seem, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written as Thomas J.
 
 <div class="gallery">
 {{% mefig "portraits/Mills-James-Thomas-1915-04-23-The-Long--Islander-Huntington-NY-p5" "350" /%}}
@@ -116,7 +116,7 @@ The first three names of possible heirs listed in the [Mills home deeds]({{% ref
   - [George E. Mills]()
   - [Clarissa H. Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
 
-The last name referenced in the list of possible heirs, Mary Huntting Smith, may be a reference to Emily's neice, or a descendent of Emily's neice:
+The last name referenced in the list of possible heirs, Mary Huntting Smith, may be a reference to Emily's niece, or a descendent of Emily's niece:
   - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
   - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
   - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), Emily's neice, married: James M. Cross.
