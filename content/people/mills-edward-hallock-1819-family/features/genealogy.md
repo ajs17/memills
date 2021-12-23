@@ -42,16 +42,17 @@ Jonas married (1) Mary Hallock [daughter of Thomas Hallock], on 25 Dec [Feb] 181
 
 They had the following children:
 
+  - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
 - 1029	M	i	Thomas James Mills was born on 13 Feb 1817.
 - 1030	M	ii	Edward H. Mills was born on 25 Mar 1819.
-- 1031	F	iii	Emily Tabitha Mills was born on 19 Jun 1821. She died on 11 Apr 1849. [mar. in Nov. 1843, John S. Huntting.]
+- 1031	F	iii	[Emily Tabitha Mills](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) was born on 19 Jun 1821. She died on 11 Apr 1849. [mar. in Nov. 1843, John S. Huntting.]
 
 Jonas married (2) [Mary Platt Mills](https://www.findagrave.com/memorial/138421346/mary-p.-mills) daughter of Jedediah Mills and Elizabeth [(Mills)] Mills [of Mills Pond] on 25 Apr 1831. Mary was born on 30 Jan 1801 in Long Island, New York. She died on 18 Jun 1881.
 
 They had the following children:
 
 - 1032	F	iv	Sarah Maria Mills is printed as #623. ...born on 21 Sep 1832. She died on 25 Apr 1834.
-- 1033	M	v	Robert Sydney Mills is printed as #624. ...born on 11 Nov 1835.
+- 1033	M	v	[Robert Sydney Mills](https://www.findagrave.com/memorial/29864008/robert-sydney-mills) is printed as #624. ...born on 11 Nov 1835.
 </blockquote>
 
 Several of the marriages above and below are referenced, if not corroborated, in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
@@ -103,11 +104,11 @@ The [Mills home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of E
   - Mary Huntting Smith
 
 Mary Huntting Smith may be a reference to Emily's neice, or a descendent of Emily's neice:
-  - Edwards's sister Emily Tabitha (Mills) Huntting (1821–1849) married John Smith Huntting (1817–1893),
-  - their child Mary Halliock (Huntting) Smith (1845–1938), named after their Grandmother, married Henry Chatfield Smith (1843–1896),
-  - their child Mary Emily Huntting (Smith) Cross (1875-1924), Emily's neice, married: James M. Cross.
+  - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
+  - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
+  - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), Emily's neice, married: James M. Cross.
 
-She appears to be referenced in the sales records of the [Mills store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". She was killed in a strange accident with a bus in front of her home:
+I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". She was killed in a strange accident with a bus in front of her home:
 
 <div class="gallery">
 {{% mefig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "300" /%}}
