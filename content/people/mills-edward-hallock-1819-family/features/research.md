@@ -1,7 +1,11 @@
 ---
-title: "Further Research and Acknowledgements"
+title: "Acknowledgements and Areas of Further Research"
 weight: 9
 ---
+
+This research was made possible by the generosity of many people who have offered their time, access to their materials and access to their knowledge, to allow me to start putting the puzzle pieces of Emily's life together. I apologize to those I have forgotten; these I recall in no particular order: Molly Adams, Donna Eschenbrenner, Barbara Kone, Allan Starkweather, Ken Rumble, Richard Wines, Margaret Wegener, Ted Sobel, Becky Dewitt, Sarah Michelle, Ralph Conant, Carol Coggshall, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church. And those throughout the years who preserved precious memories: Gertrude Contant, E. D. Shurter, and Jessie Brewer.
+
+<!--more-->
 
 ## Physical Artifacts Remaining
 
@@ -92,6 +96,3 @@ To preserve this information, and as an aid to future researchers, the following
   - Smithtown Historical Society
   - Mills Pond?
 
-## Acknowledgements
-
-This research was made possible by the generosity of many people who have offered their time, access to their materials and access to their knowledge, to allow me to start putting the puzzle pieces of Emily's life together. I apologize to those I have forgotten; these I recall in no particular order: Molly Adams, Donna Eschenbrenner, Barbara Kone, Allan Starkweather, Ken Rumble, Richard Wines, Margaret Wegener, Ted Sobel, Becky Dewitt, Sarah Michelle, Ralph Conant, Carol Coggshall, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church. And those throughout the years who preserved precious memories: Gertrude Contant, E. D. Shurter, and Jessie Brewer.

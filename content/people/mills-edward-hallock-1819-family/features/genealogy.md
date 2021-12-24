@@ -3,11 +3,12 @@ title: "Genealogy and Long Island Origins"
 weight: 8
 ---
 
-## Genealogy
 
-Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them:
+Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them.
 
- <figure class="quote-only">
+<!--more-->
+
+<figure class="quote-only">
  <blockquote>
 It was Timothy Mills who bought the land from one of our town founder's sons in 1693, according to "Colonel Rockwell's Scrap-Book" published by the Smithtown Historical Society in 1968. As the sons of Timothy Mills married, houses were built around the pond found on the land.
 
@@ -42,7 +43,7 @@ Jonas married (1) Mary Hallock [daughter of Thomas Hallock], on 25 Dec [Feb] 181
 
 They had the following children:
 
-- 1029	M	i	Thomas James Mills was born on 13 Feb 1817.
+- 1029	M	i	Thomas James Mills was born on 13 Feb 181[2]7.
 - 1030	M	ii	Edward H. Mills was born on 25 Mar 1819.
 - 1031	F	iii	[Emily Tabitha Mills](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) was born on 19 Jun 1821. She died on 11 Apr 1849. [mar. in Nov. 1843, John S. Huntting.]
 
@@ -73,7 +74,7 @@ As you can see, there is yet another Pine mentioned. For more information on Cha
 
 {{% mefig "long-island/1882-02-06-The-New-York-Times-p8" "400" /%}}
 
-And to these genealogies, we can add Edward's branch to its ultimate conclusion:
+And to the genealogies above, we can add Edward's branch to its ultimate conclusion:
 
 <span>1030.</span> **Edward Hallock Mills** (born Smithtown NY, 25 Mar 1819, died Brookton NY, 01 Jan 1908).
 
@@ -114,18 +115,18 @@ There is also a census entry for a daughter Cora M. born Jan 1871.
 
 The first three names of possible heirs listed in the [Mills home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
-  - George E. Mills
-  - [Clarissa H. Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
+  - George E. Mills (Feb 1856 to ?)
+  - [Clarissa H. Etsell (Jun 1852 to Jan 1846)](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
 
 At the time I am compiling this information, findagrave.com does not have entries for all the Mills in Huntington Rural Cemetery:
 
 {{% mefig "long-island/1853-1990-Index-To-The-Huntington-Rural-Cemetery" /%}}
 
-And the 1900 census is worth highlighting for the density of information it contains, including that J. Thomas and his sons George and Alonzo were all neighbors on Wall Street:
+And the 1900 census is worth highlighting for the density of information it contains, including that J. Thomas and his sons George and Alonzo were all neighbors on Wall Street in Huntington:
 
 {{% mefig "long-island/1900-us-census-huntington-mills" /%}}
 
-The last name referenced in the list of possible heirs, Mary Huntting Smith, may be a reference to Emily's cousin, or a descendent of Emily's cousin:
+The last name referenced in the list of possible heirs in the Mills home deeds, Mary Huntting Smith, may be a reference to Emily's cousin, or a descendent of Emily's cousin:
   - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
   - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
   - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), married: James M. Cross.
