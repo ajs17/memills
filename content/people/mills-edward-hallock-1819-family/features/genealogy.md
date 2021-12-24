@@ -67,7 +67,7 @@ Several of the marriages above and below are referenced, if not corroborated, in
 {{% mefig "genealogy/mills-marriages-36" "300" /%}}
 </div>
 
-As you can see, there is yet another Pine mentioned.
+As you can see, there is yet another Pine mentioned. For more information on Charles Pine, see the account of the [Mills family in Staten Island]({{% ref "staten-island" %}}). 
 
 {{% mefig "staten-island/1835-02-21-charles-pine" "700" /%}}
 
@@ -121,10 +121,14 @@ At the time I am compiling this information, findagrave.com does not have entrie
 
 {{% mefig "long-island/1853-1990-Index-To-The-Huntington-Rural-Cemetery" /%}}
 
-The last name referenced in the list of possible heirs, Mary Huntting Smith, may be a reference to Emily's niece, or a descendent of Emily's niece:
+And the 1900 census is worth highlighting for the density of information it contains, including that J. Thomas and his sons George and Alonzo were all neighbors on Wall Street:
+
+{{% mefig "long-island/1900-us-census-huntington-mills" /%}}
+
+The last name referenced in the list of possible heirs, Mary Huntting Smith, may be a reference to Emily's cousin, or a descendent of Emily's cousin:
   - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
   - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
-  - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), Emily's neice, married: James M. Cross.
+  - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), married: James M. Cross.
 
 Several documents pertaining to Emily Tabitha Mills' marriage were referenced above.
 
