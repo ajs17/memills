@@ -62,6 +62,10 @@ Edward and Hannah joined the church just weeks before their wedding:
 
 {{% mefig "1897-01-07-The-Ithaca-Daily-Journal-p6" "400" /%}}
 
+{{% mefig "1908-12-17-The-Ithaca-Daily-Journal-p7" "400" /%}}
+
+{{% mefig "1914-bcc-mills-emily" "400" /%}}
+
 My impressions of Hannah are that she was an active and outgoing woman who was much loved in the community.
 
 <div class="gallery">
