@@ -320,6 +320,11 @@ This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosen
 
 *M. E. Mills* is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village".
 
+## Have You Seen Emily Mills?
+
+One of my main goals is to find photos of the family and their stores, but my highest priority is Emily.
+
+No known photos of the family exist. I know of only one person still living who interacted with Emily, and that person says their memory would not be good enough to identify Emily in a photo. 
 
 ## Notes for Future Researchers
 

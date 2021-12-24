@@ -54,6 +54,8 @@ They had the following children:
 - 1033	M	v	[Robert Sydney Mills](https://www.findagrave.com/memorial/29864008/robert-sydney-mills) is printed as #624. ...born on 11 Nov 1835.
 </blockquote>
 
+As will be further explored below, J. Thomas Mills was born on the indicated date in **1827** as indicated in the first genealogy as well as his obituary. He was the youngest child, not the oldest, as the second genealogy above indicates. His obituary suggests that either the family moved around a bit, or perhaps Edward's purported birthplace is not Smithtown, but was assumed to be at some point. Also, the fact that the month of Jonas and Mary Hallock's marriage is disputed may be a clue of some kind, as December would mean that Edward was conceived before his parents were married, February would not. Such a revision of history under those circumstances is not unheard of. 
+
 Several of the marriages above and below are referenced, if not corroborated, in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 
 <div class="gallery">
@@ -90,15 +92,14 @@ Edward married (2) **Hannah (Thatcher) Eastman Mills** (born England, 21 May 182
 
 Notes:
   - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries.
-  - Edward's parents were married while Edward was in utero (at least according to one of the dates given) and his older brother Thomas was already a toddler.
-  - Jonas Davis Mills and Mary Platt Mills appear to be relatives, although I have followed this through to be sure. 
+  - Jonas Davis Mills and Mary Platt Mills may be related, although I have followed up on this. 
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence, 21 Jul 2021)
   - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
 
-It should be noted that there are two significant errors in both Mills genealogies described above. **Edward's brother born on 13 Feb 1817 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. It also appears that the birth year given in his obituary is correct, as it is corroborated by census records: 1827 instead of 1817. And so, we can update his entry accordingly:
+It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. And so, we can update his entry accordingly:
 
-  - 1029 M i [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 1827 in New York City. He died 22 Apr 1915 in Huntington NY. 
+  - M iii [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 1827 in New York City. He died 22 Apr 1915 in Huntington NY. 
 
 The confusion with the name may arise because it would seem, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written as Thomas J.
 
@@ -112,9 +113,13 @@ Several of J. Thomas Mills' children died in infancy, and according to a history
 There is also a census entry for a daughter Cora M. born Jan 1871. 
 
 The first three names of possible heirs listed in the [Mills home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
-  - [Alonzo W. Mills (Jul 1858 to 09 May 1942)]() Sometimes spelled as Alonso.
-  - [George E. Mills]()
+  - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
+  - George E. Mills
   - [Clarissa H. Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
+
+At the time I am compiling this information, findagrave.com does not have entries for all the Mills in Huntington Rural Cemetery:
+
+{{% mefig "long-island/1853-1990-Index-To-The-Huntington-Rural-Cemetery" /%}}
 
 The last name referenced in the list of possible heirs, Mary Huntting Smith, may be a reference to Emily's niece, or a descendent of Emily's niece:
   - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
