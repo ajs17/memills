@@ -105,7 +105,7 @@ It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas M
 The confusion with the name may arise because it would seem, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written as Thomas J.
 
 <div class="gallery">
-{{% mefig "portraits/Mills-James-Thomas-1915-04-23-The-Long-Islander-Huntington-NY-p5" "350" /%}}
+{{% mefig "portraits/jamesthomasmills" "350" /%}}
 {{% mefig "long-island/1915-04-23-The-Long-Islander-Huntington-NY-p5" "350" /%}}
 </div>
 
@@ -141,14 +141,4 @@ I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears t
 </div>
 
 
-orig location
-{{% mefig "portraits/Mills-James-Thomas-1915-04-23-The-Long-Islander-Huntington-NY-p5" "350" /%}}
 
-diff location
-{{% mefig "long-island/Mills-James-Thomas-1915-04-23-The-Long-Islander-Huntington-NY-p5" "350" /%}}
-
-diff name
-{{% mefig "long-island/jamesthomasmills" "350" /%}}
-
-diff format
-{{% mefig "long-island/jamesthomasmillsjpg" "350" /%}}
