@@ -104,8 +104,8 @@ It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas M
 The confusion with the name may arise because it would seem, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written as Thomas J.
 
 <div class="gallery">
-{{% mefig "portraits/Mills-James-Thomas-1915-04-23-The-Long--Islander-Huntington-NY-p5" "350" /%}}
-{{% mefig "long-island/1915-04-23-The-Long--Islander-Huntington-NY-p5" "350" /%}}
+{{% mefig "portraits/Mills-James-Thomas-1915-04-23-The-Long-Islander-Huntington-NY-p5" "350" /%}}
+{{% mefig "long-island/1915-04-23-The-Long-Islander-Huntington-NY-p5" "350" /%}}
 </div>
 
 Several of J. Thomas Mills' children died in infancy, and according to a history of Huntington Rural Cemetery on [longislandgenealogy.com](http://longislandgenealogy.com/HuntingtonRural.html) these children were *re-buried* there on 22 May 1857: "One of the oldest "rural cemeteries" in Suffolk County, Huntington Rural Cemetery was established in 1853, during the "Rural Cemetery" movement of pre-Civil War America. ...As with many "rural cemeteries" across the country, burials from older family or farm cemeteries were moved to Huntington Rural Cemetery over the decades. Thus you will find dates long before 1853, some back into the 18th century, among the burials in this cemetery."
