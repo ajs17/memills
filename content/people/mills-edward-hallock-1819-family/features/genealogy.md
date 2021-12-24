@@ -141,4 +141,14 @@ I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears t
 </div>
 
 
+orig location
+{{% mefig "portraits/Mills-James-Thomas-1915-04-23-The-Long-Islander-Huntington-NY-p5" "350" /%}}
 
+diff location
+{{% mefig "long-island/Mills-James-Thomas-1915-04-23-The-Long-Islander-Huntington-NY-p5" "350" /%}}
+
+diff name
+{{% mefig "long-island/jamesthomasmills" "350" /%}}
+
+diff format
+{{% mefig "long-island/jamesthomasmillsjpg" "350" /%}}
