@@ -27,6 +27,11 @@ By 1863, the family would be in Corfu and Edward would become co-owner of [**E. 
 
 [Horace]({{% ref "mills-horace-f-1854" %}}) would commit suicide in Corfu in Oct 1876, and in Mar 1879, the family would once again move, this time to Motts Corners. There, Edward would restart his grocery and dry goods business on his own as [**E. H. Mills**]({{% ref "features/me-mills" %}}). Both [Jonas]({{% ref "mills-jonas-e-1852" %}}) and [Emily]({{% ref "mills-mary-emily-1858" %}}) would clerk for their father. Jonas would die suddenly after a brief illness in Oct 1885.
 
+<div class="gallery">
+   {{% mefig "1882-02-10-The-Long-Islander-Huntington-NY-p3" "300" /%}}
+  {{% mefig "1885-10-16-batavia-daily-news-p1" "300" /%}}
+</div> 
+
 Edward's obituary mentions that he was "postmaster during the Cleveland administration" which I can confirm refers to the first Cleveland administration from 1885 to 1889. (To date, Cleveland is the only president to have two non-consecutive terms.) A partial list of Brooktondale postmasters from usps.gov, beginning with the very first, up to the 1970's:
 
 {{% metable "postmasters.csv" "postmasters" "Name,Title,Date Appointed" "usps.gov" %}}

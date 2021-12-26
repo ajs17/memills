@@ -17,7 +17,7 @@ After Reverend Eastman left Brookton, she became a very prominent religious and 
 
 (Interestingly, Mark Twain made his last visit to Elmira that very week, attending the dedication of a new organ at Park Church in Elmira on 03 Apr 1907. His remains would be buried in Woodlawn Cemetery Elmira exactly three years later.)
 
-It is interesting to note the care taken to quote the scripture verse used in the sermon, as it is a translation that uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
+The scripture verse used in the sermon is cited carefully, and uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
 
 <figure class="quote-only">
 <blockquote>Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.</blockquote>
