@@ -81,7 +81,7 @@ This photo, taken on 13 Jun 1907 shows the Congregational Church as Emily knew i
 
 {{% mefig "1907-06-13-bcc" "700" /%}}
 
-Emily, along with many of the others baptized with her, became immediately involved in church activities. She was a Sunday School teacher, and possibly taught classes specifically for adults. There are newspaper accounts detailed below of her organizing bible study groups and prayer meetings in her home.
+Emily, along with many of the others baptized with her, immediately became deeply involved in church activities, a level of commitment they would sustain the rest of their lives. Emily was a Sunday School teacher, and possibly taught classes specifically for adults. There are newspaper accounts detailed below of her organizing bible study groups and prayer meetings in her home. In the following report, dated the eve of Edward's death, we see that in the months immediately after joining the church, Emily taught a class with an average attendance of five students: 
 
 {{% mefig "1907-12-31-bcc-sunday-school" "400" /%}}
 

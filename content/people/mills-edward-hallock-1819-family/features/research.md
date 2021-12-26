@@ -37,9 +37,7 @@ I ask any Mills family descendants, or descendants of old Brookton residents who
 
 Thank you for your interest.
 
-Adam Smith
-
-26 December 2021
+Adam Smith, 26 Dec 2021
 
 
 ## Physical Artifacts Remaining
