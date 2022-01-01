@@ -65,13 +65,15 @@ A number of aspects of Emily's handwriting are quite distinctive—such as upper
 
 Her E's C's L's and J's tend to have big loops. Her lowercase p's practically pierce the line above it. And of course, her T's and F's have those distinctive crosses. Her handwriting is easily recognizable, and when others (most likely Ellen Gould) make entries in the Mill's store journals, it sticks out.
 
-Here we get a small glimpse of Emily's personal life:
+Jonas would die unexpectedly from a brief illness on 14 October 1885. Whether Emily worked in the store prior to Jonas' death, by 1892, she lists herself as clerk in the state census. And here we get a small glimpse of Emily's interests around that time:
 
 {{% mefig "mills-emily-arthurs-home-magazine" "300" /%}}
 
+It seems that Emily acted as nurse at the end of her mother's life: 
+
 {{% mefig "1895-12-31-daily-news-p1" "700" /%}}
 
-In 1907, Emily would officially join the membership roll of Brookton Congregational Church, along with 10 other single women, in a ceremony officiated by Reverend Annis Ford Eastman. Less than a year later, her father would pass and she would make another heartbreaking trip to Evergreen Hill Cemetery in Corfu.
+In 1907, Emily would officially join the membership roll of Brookton Congregational Church, along with 10 other single women, in a baptism ceremony officiated by Reverend Annis Ford Eastman. Less than a year later, Emily was teaching Sunday School and continued working every day in the store, when Edward died and Emily made another heartbreaking trip to Evergreen Hill Cemetery in Corfu.
 
 {{% mefig "mills-emily-cvcc-baptism" "700" "img,blockquote,figcaption" /%}}
 
@@ -223,7 +225,7 @@ George Jansen painted Emily's home in the Summer of 1924:
 
 {{% mefig "1937-02-09-ithaca-journal" "300x300" "" "top" /%}}
 
-Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on 10 Oct 1937. She would spend the last several weeks of her life in Memorial Hospital in Ithaca where she died on November 3, at 78 years old, a few weeks shy of 79 years old.
+Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on 10 Oct 1937. She would spend the last several weeks of her life in Memorial Hospital in Ithaca where she died on November 3, at 78 years old, a few weeks shy of 79 years old. Presumably, she was the first in her family not to die within the walls of the Mills home. 
 
 <div class="gallery">
   {{% mefig "1937-10-15-ithaca-journal" "300" /%}}

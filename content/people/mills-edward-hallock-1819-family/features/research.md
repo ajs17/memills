@@ -101,7 +101,7 @@ I have already collected much of this information, its just a matter of getting 
       - Presumably why the family moved *away from* Corfu?
       - But why *to* Mott's Corners? (Perhaps relevant: there are a number of Hallocks living throughout Tompkins County, including Brooktondale prior to, and contemporary, with the Mills. I don't know if these are distant relations or not.)
       - The nature of Horace's death, and was alcohol a significant factor? Presumably this will never be knowable, but perhaps there will be clues in the Good Templars notebooks.
-
+   - [William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901) and wife [Sarah Hallock](https://www.findagrave.com/memorial/66472059/sarah-hallock) (08 Dec 1829 to 19 Oct 1910) lived in Caroline in 1860's. 
 Church Records and Baptism:
   - Any information on Emily's baptism from Park Church, any diaries of Reverend Ford Eastman? (Contacted.)
   - Catalog all information about Reverend Annis Ford Eastman, including her return trips, see if Emily's baptism was the Rev's last visit to Brookton.
