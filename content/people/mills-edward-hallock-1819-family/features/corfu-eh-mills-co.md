@@ -3,7 +3,7 @@ title: "The Mills Family in Corfu NY"
 weight: 6
 ---
 
-The family moved to Corfu NY in the early 1860's where Edward, along with partners Charles Pine and James Hillyer, would start E. H. Mills & Co. "cash store" offering general merchandise and dry goods. Horace would clerk in the store for his father, and eventually commit suicide. Mary Ann was a member of First Presbyterian Church of Corfu.
+The family moves to Corfu NY in the early 1860's where Edward, along with partners Charles Pine and James Hillyer, starts E. H. Mills & Co. "cash store" offering general merchandise and dry goods. Horace clerks in the store for his father, and eventually commits suicide. Mary Ann is a member of First Presbyterian Church of Corfu.
 
 <!--more-->
 
@@ -43,7 +43,7 @@ The E.H. Mills General store was on the NE corner of Main and Allegheny in Corfu
 
 {{% mefig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "500" /%}}
 
-I believe it highly likely James *M.* Hillyer is an error, albeit, one that is repeated, but this is the only record I have of a James *M.* Hillyer in Corfu or Staten Island. I believe this is James *A.* Hillyer, who is another dry goods grocer in Staten Island closely associated in business with Charles Pine for many years. 
+I believe it highly likely James *M.* Hillyer is an error, albeit, one that is repeated, but this is the only record I have of a James *M.* Hillyer in Corfu or Staten Island. I believe this is actually James *A.* Hillyer, who is another dry goods grocer in Staten Island closely associated in business with Charles Pine for many years. 
 
 
 <div class="gallery">
