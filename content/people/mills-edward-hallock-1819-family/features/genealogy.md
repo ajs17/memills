@@ -136,7 +136,7 @@ The last name referenced in the list of possible heirs in the Mills home deeds, 
 
 Several documents pertaining to Emily Tabitha Mills' marriage were referenced above.
 
-I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". She was killed in a strange accident with a bus in front of her home:
+I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". Emily Huntting predeceased Emily Mills as the result of a strange accident with a bus in front of her home:
 
 <div class="gallery">
 {{% mefig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "300" /%}}
