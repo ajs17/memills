@@ -322,17 +322,26 @@ This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosen
 
 *M. E. Mills* is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village".
 
-## Have You Seen Emily Mills?
-
-One of my main goals is to find photos of the family and their stores, but my highest priority is Emily.
-
-No known photos of the family exist. I know of only one person still living who interacted with Emily, and that person says their memory would not be good enough to identify Emily in a photo. 
 
 ## Notes for Future Researchers
 
+One of my main goals is to find photos of the family and their stores, but my highest priority is Emily. No known photos of the family exist. I know of only one person still living who interacted with Emily, and that person says their memory would not be good enough to identify Emily in a photo. 
+
 In Gertrude Conant's recollections, she notes that Ellen Gould "looked a great deal like Miss Mills," so when looking for photos of either woman, one must be cautious not to mis-identify one for the other.
 
+There is an intriguing photo in Around Caroline by Patricia A. Brhel that shows a woman minding a general store, with no indication which general store in Caroline it is:
+
+{{% mefig "emily/around-caroline-p85" "700" /%}}
+{{% mefig "emily/around-caroline-cropped-p85" "700" /%}}
+
+My sense is that this is probably not Emily, but obviously this needs to be investigated further. Barbara Kone believes that this photo did not come from the Caroline History Room, and multiple attempts to contact Patricial Brhel have been unsuccessful.
+
 I believe there is ample contextual evidence to suggest that Emily was a member of the Ladies Aid Society and also involved in some capacity with the Red Cross, although I don't believe I have direct evidence of these. 
+
+I believe that the reference to "Bertha Mills" in the 1914 American Agriculturist Farm Directory shown below is in fact a misprinted reference to Emily. I have yet found no evidence of a Bertha Mills in Brookton at that time, and everything but the reference to the road on the map in that volume fits Emily. As for the map reference, I would point out that the same road reference is given for Dr. Lockwood and Frank Mulks, Emily's neighbors on what is now Brooktondale Road, who are listed on the same page:
+
+{{% mefig "emily/yatesschuylertom00oran_0212" "500" /%}}
+{{% mefig "emily/yatesschuylertom00oran_0449-zoomed" "200" /%}}
 
 My own speculation after reading many of the Ithaca Journal "gossip columns" from Emily's lifetime is that there may be a decent probability that Emily, or someone very close to Emily, was the author of these during a period that included the final years of Hannah's life. The fact that Hannah was written of so much and in such glowing terms, and just the tone and subtle phrasing of references to Hannah's life, are very suggestive. For example, consider the similarity in wording to the gossip column on 17 Jan 1914, Ithaca Journal: "Mrs. Mills is a remarkable woman..."  and Hannah's obituary, presumably written by Emily, on 27 Feb 1917, Ithaca Journal: "Mrs. Mills was one of Brookton’s oldest and most respected citizens and a remarkable woman."
 
