@@ -8,17 +8,15 @@ Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale
 
 <!--more-->
 
-<figure class="hero">
-<blockquote text-align="center">
-"She was a sweet little lady ... quiet, neat, cheerful and always smiling."
+<blockquote class="fullwidth">
+<p>"She was a sweet little lady ... quiet, neat, cheerful and always smiling."</p>
 
-"I remember her as very kind..."
+<p>"I remember her as very kind..."</p>
 
-"If everyone to whom Miss Mills extended a helpful hand were to place a floral emblem upon her grave, she would sleep today amidst a wilderness of flowers."
+<p>"If everyone to whom Miss Mills extended a helpful hand were to place a floral emblem upon her grave, she would sleep today amidst a wilderness of flowers."</p>
 </blockquote>
-</figure>
 
-{{% metable "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" %}}
+{{% metable "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" "Summary of Census Data" %}}
 
 Emily was likely named for one of her ancestors, although, as the name Mary is quite common within both the Mills and Hallock families, there are several candidates for whom. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she would typically use "M. Emily Mills", particularly in later years.
 
@@ -54,7 +52,7 @@ There are also a number of volumes of sales journals from [M. E. Mills]({{% ref 
 
 {{% mefig "handwriting/sig3" "700" /%}}
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "handwriting/sig1" "300" /%}}
   {{% mefig "handwriting/sig2" "300" /%}}
 </div>
@@ -75,7 +73,7 @@ It seems that Emily acted as nurse at the end of her mother's life:
 
 In 1907, Emily would officially join the membership roll of Brookton Congregational Church, along with 10 other single women, in a baptism ceremony officiated by Reverend Annis Ford Eastman. Less than a year later, Emily was teaching Sunday School and continued working every day in the store, when Edward died and Emily made another heartbreaking trip to Evergreen Hill Cemetery in Corfu.
 
-{{% mefig "mills-emily-cvcc-baptism" "700" "img,blockquote,figcaption" /%}}
+{{% mefig "mills-emily-cvcc-baptism" "700" "img,blockquote,cite,link" /%}}
 
 A closer examination of the circumstances around the baptism can be found [here]({{% ref "baptism" %}}). It is unclear what Emily's religious outlook was before being baptized, but at least from that point on, Emily's faith was a very important part of her life. 
 
@@ -89,12 +87,14 @@ Emily, along with many of the others baptized with her, immediately became deepl
 
 Gertrude Conant mentions that Emily played the piano or organ in the Church. The church historical records, as one would naturally expect, cover topics unevenly over the years. Concerning the piano/organ: there was an organ in the church at one time, but it was destroyed by mice. The roles of pianist/organist and that of assistant pianist/organist, were for a time at least, positions that were voted on at the annual meetings just as the roles of secretary and treasurer were. I have not found a reference to Emily being in either of those roles, but there are many years where these roles are not noted at all, so unless Gertrude is mis-remembering, without her noting this detail, this aspect of Emily's life would be lost. (Anna Mulks and Cassie Landon were several times noted in these roles.)
 
-<blockquote class="quote-only">
+<figure class="quote-only">
+<blockquote> 
 Originally a pipe organ stood on a raised platform (for choir) at the back of the auditorium. After it deteriorated (with assistance from the church mice) a piano was used. During the pastorate of Rev. James L. Burckes (1949-1955) the platform was eliminated and double entrance doors cut in the curving wall. Prior to that time there had been only a single entrance door at each side of the wall. 
-
-*— “**History of the Congregational Church, Brooktondale, New York.** Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.”*
 </blockquote>
-
+<figcaption>
+— <strong>History of the Congregational Church, Brooktondale, New York.</strong> Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.
+</figcaption>
+</figure>
 
 Annual meetings were typically held the first Monday in January, in the afternoon or evening. A small group attended and Emily is not noted as attending these, despite being voted as Treasurer and being acknowledged as filling that role for at least two years:
 
@@ -107,14 +107,14 @@ Annual meetings were typically held the first Monday in January, in the afternoo
 
 Emily continued to be involved in temperance, for some period of time, a member of the Women's Christian Temperance Union, along with her step-mother Hannah. This is almost certainly unknowable now, but I have wondered if Hannah was introduced to Edward through the Emily's involvement with the W. C. T. U. 
 
-{{% mefig "temperance/1917-wctu-directory-p8" "400" /%}}
+{{% mefig "temperance/1917-wctu-directory-p8" "660" /%}}
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1908-01-06-ithaca-daily-journal" "300" /%}}
   {{% mefig "1908-01-06-batavia-daily-news-p4" "300" /%}}
 </div>
 
-{{% mefig "1908-04-07-The-Ithaca-Daily-Journal-p3" "400" /%}}
+{{% mefig "1908-04-07-The-Ithaca-Daily-Journal-p3" "300" /%}}
 
 Edward died "intestate", without a will, and until 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills home and Mills store assets. Emily followed her father's example and renamed the store *M. E. Mills*. When Hannah passed less than a decade later, Emily would inherit all assets and property.
 
@@ -154,7 +154,7 @@ These descriptions of Emily's demeanor are consistent with the personal recollec
 
 Due to the level of detail given to the context of this story, I am choosing to include the entire text and not just Emily's section:
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "1909-01-15-ithaca-daily-journal" "300" /%}}
 {{% mefig "1913-12-06-ithaca-daily-journal" "300" /%}}
 </div>
@@ -172,7 +172,7 @@ It seems likely that Emily grew a garden not just for her own use, but to have f
 
 {{% mefig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "500" /%}}
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1917-12-13-ithaca-journal" "300" /%}}
   {{% mefig "1918-10-15-ithaca-journal" "300x300" "" "top" /%}}
 </div>
@@ -181,44 +181,44 @@ It seems likely that Emily grew a garden not just for her own use, but to have f
 
 George Jansen painted Emily's home in the Summer of 1924: 
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "1924-06-11-George-Jansen" "350" /%}}
 {{% mefig "1924-06-13-George-Jansen" "350" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
 {{% mefig "1924-06-18-George-Jansen" "350" /%}}
 {{% mefig "1924-06-23-George-Jansen" "350" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
 {{% mefig "1924-06-25-George-Jansen" "350" /%}}
 {{% mefig "1924-06-29-George-Jansen" "350" /%}}
 </div>
 
 {{% mefig "1924-painting-George-Jansen" "350" /%}}
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1924-05-10-ithaca-journal" "300" /%}}
   {{% mefig "1924-10-14-ithaca-journal" "300" /%}}
 </div>
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1924-09-04-ithaca-journal" "300" /%}}
   {{% mefig "1925-01-14-ithaca-journal" "300" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
   {{% mefig "1925-03-11-ithaca-journal" "300" /%}}
   {{% mefig "1925-04-08-ithaca-journal" "300" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
   {{% mefig "1925-12-17-ithaca-journal" "300" /%}}
   {{% mefig "1926-01-12-ithaca-journal" "300" /%}}
 </div>
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1926-10-30-ithaca-journal" "300" /%}}
   {{% mefig "1931-02-02-ithaca-journal" "300x300" "" "top" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
   {{% mefig "1935-12-05-ithaca-journal" "300" /%}}
   {{% mefig "1936-06-22-ithaca-journal" "300" /%}}
 </div>
@@ -227,11 +227,11 @@ George Jansen painted Emily's home in the Summer of 1924:
 
 Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on 10 Oct 1937. She would spend the last several weeks of her life in Memorial Hospital in Ithaca where she died on November 3, at 78 years old, a few weeks shy of 79 years old. Presumably, she was the first in her family not to die within the walls of the Mills home. 
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1937-10-15-ithaca-journal" "300" /%}}
   {{% mefig "1937-10-20-ithaca-journal" "300" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
   {{% mefig "1937-11-03-ithaca-journal" "300" /%}}
   {{% mefig "1937-11-04-ithaca-journal" "300" /%}}
 </div>
@@ -250,7 +250,7 @@ The professor makes it clear that charity was one of Emily's defining characteri
 
 There are also entries in the historical records of Caroline Valley Federated Church of extra donations made to the church by both Hannah and Emily among other members. By agreement with the Church, I have not reproduced any financial records here.
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1937-11-26-ithaca-journal" "300" /%}}
   {{% mefig "1938-01-19-ithaca-journal" "300" /%}}
 </div>

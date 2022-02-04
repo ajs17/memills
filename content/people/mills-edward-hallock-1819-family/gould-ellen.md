@@ -20,7 +20,7 @@ The first (presumed) mention I have of Ellen in connection to the Mills family i
 
 It isn't clear when Ellen started living in the Mills Home, but it would appear she lived there roughly a decade, or possibly a dozen years. In late 1914, when Ellen is first mentioned in the "gossip columns" in relation to the Mills, Ellen had been widowed a second time, and it is in the final few years of Hannah's life. Ellen was getting older herself, and this arrangement not only would have greatly helped Emily care for Hannah, but also provided Ellen with additional social and financial support. It had the added benefit of being a short walk from her son Myron Predmore's farm, located near Brookton Depot, in the area where the gravel pit is today.
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1914-10-26-ithaca-journal" "300" /%}}
   {{% mefig "1914-10-31-ithaca-journal" "300" /%}}
 </div>
@@ -49,40 +49,40 @@ However, as the following reporting makes clear, the relationship between Emily 
 {{% mefig "1917-06-08-George-Jansen" "400" /%}}
 {{% mefig "1917-12-13-ithaca-journal" "300" /%}}
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1919-08-15-ithaca-journal" "300" /%}}
   {{% mefig "1919-08-23-ithaca-journal" "300" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
   {{% mefig "1923-04-24-ithaca-journal" "300" /%}}
   {{% mefig "1924-02-27-ithaca-journal" "300" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
   {{% mefig "1924-09-04-ithaca-journal" "300" /%}}
   {{% mefig "1925-01-14-ithaca-journal" "300" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
   {{% mefig "1925-03-11-ithaca-journal" "300" /%}}
   {{% mefig "1925-04-08-ithaca-journal" "300" /%}}
 </div>
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1925-12-17-ithaca-journal" "300" /%}}
   {{% mefig "1926-01-12-ithaca-journal" "300" /%}}
 </div>
 
 As we can see from the reporting fo the day, sometime later in 1926 or early in 1927, Ellen moved out of the Mills home to live with her family for the last few years of her life. It looks as though she may have spent a signficant amount of time at her son Myron Predmore's home before finally settling with her daughter Clara. Ellen is mentioned often in the "gossip columns" of the day, but these are some of the more telling stories as to where she was living:
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "ellen-gould/1926-09-25-ithaca-journal-p3" "300" /%}}
   {{% mefig "ellen-gould/1926-10-01-ithaca-journal-p3" "300" /%}}
 </div>
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "ellen-gould/1926-11-04-ithaca-journal-p12" "300" /%}}
   {{% mefig "ellen-gould/1927-03-22-ithaca-journal-p12" "300" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
   {{% mefig "ellen-gould/1927-03-30-ithaca-journal-p12" "300" /%}}
   {{% mefig "ellen-gould/1927-04-04-ithaca-journal-p12" "300" /%}}
 </div>
@@ -90,7 +90,7 @@ As we can see from the reporting fo the day, sometime later in 1926 or early in 
 Although she had repeated boughts of illness, Ellen appears to have been active to the end:
 
 {{% mefig "ellen-gould/1929-10-02-ithaca-journal-p12" "300" /%}}
-<div class="gallery">
+<div class="cols">
   {{% mefig "ellen-gould/1929-10-31-ithaca-journal-p5" "300" /%}}
   {{% mefig "ellen-gould/1929-11-07-ithaca-journal-p14" "300" /%}}
 </div>

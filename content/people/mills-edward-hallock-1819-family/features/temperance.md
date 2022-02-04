@@ -30,7 +30,7 @@ In the 1880's Emily was an officer in the Independent Order of Good Templars, in
 {{% mefig "1915-02-12-ithaca-journal" "300" /%}}
 {{% mefig "1917-02-27-ithaca-journal" "300" /%}}
 
-<div class="gallery">
+<div class="cols">
     {{% mefig "temperance/1917-wctu-directory-p8" "300" /%}}
     {{% mefig "temperance/1917-wctu-directory-p9" "300" /%}}
 </div>

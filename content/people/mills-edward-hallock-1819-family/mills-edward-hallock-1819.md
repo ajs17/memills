@@ -27,7 +27,7 @@ By 1863, the family would be in Corfu and Edward would become co-owner of [**E. 
 
 [Horace]({{% ref "mills-horace-f-1854" %}}) would commit suicide in Corfu in Oct 1876, and in Mar 1879, the family would once again move, this time to Motts Corners. There, Edward would restart his grocery and dry goods business on his own as [**E. H. Mills**]({{% ref "features/me-mills" %}}). Both [Jonas]({{% ref "mills-jonas-e-1852" %}}) and [Emily]({{% ref "mills-mary-emily-1858" %}}) would clerk for their father. Jonas would die suddenly after a brief illness in Oct 1885.
 
-<div class="gallery">
+<div class="cols">
    {{% mefig "1882-02-10-The-Long-Islander-Huntington-NY-p3" "300" /%}}
   {{% mefig "1885-10-16-batavia-daily-news-p1" "300" /%}}
 </div> 
@@ -38,19 +38,19 @@ Edward's obituary mentions that he was "postmaster during the Cleveland administ
 
 The following are examples of Edward's postmark during that time:
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "postmarks/envelope-postmark-red" "300" /%}}
   {{% mefig "postmarks/envelope-postmark-yellow" "300" /%}}
 </div>
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "postmarks/envelope-postmark-beige" "300" /%}}
   {{% mefig "postmarks/envelope-postmark-white" "300" /%}}
 </div>
 
 The postoffice moved to Mills store when Edward became postmaster. It appears that George Richardson was an employee of Edward's, as he is never identified as postmaster in the USPS records:
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "1885-08-13-Ithaca-Daily-Journal-p3" "400" /%}}
 {{% mefig "1887-05-27-The-Ithaca-Daily-Journal-p3" "300" /%}}
 </div>
@@ -87,7 +87,7 @@ Age: 72
 </figcaption>
 </figure>
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "1896-nys-marriage-index-241" "200" /%}}
 {{% mefig "1896-nys-marriage-index-563" "200" /%}}
 {{% mefig "1896-nys-marriage-index-816" "200" /%}}
@@ -111,7 +111,7 @@ Emily officially joined the church rolls in the months immediately following Edw
 {{% mefig "1908-01-01-E-H-Mills" "700" /%}}
 {{% mefig "george-jansen-ehmills-entry" "400" /%}}
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1908-01-06-ithaca-daily-journal" "300" /%}}
   {{% mefig "1908-01-06-batavia-daily-news-p4" "300" /%}}
 </div>  

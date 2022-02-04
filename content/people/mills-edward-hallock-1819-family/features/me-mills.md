@@ -14,7 +14,7 @@ The former location of the Mills store as it looks today, at 484 Brooktondale Ro
 
 It seems likely the Mills store was always in this building. The postoffice moved to Mills store when Edward became postmaster. It appears that George Richardson was an employee of Edward's, as he is never identified as postmaster in the USPS records:
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "1885-08-13-Ithaca-Daily-Journal-p3" "400" /%}}
 {{% mefig "1887-05-27-The-Ithaca-Daily-Journal-p3" "300" /%}}
 </div>
@@ -53,7 +53,7 @@ It is interesting to note that on the inside front cover of this book seems to i
 
 The store was open on New Year's eve and New Year's day 1908, the day that Edward died, and we can see that Emily was working on an otherwise typical day of business at the store:
 
-<div class="gallery">
+<div class="cols">
     {{% mefig "me-mills/1907-dec-31-sales-journal-p16" "300" /%}}
     {{% mefig "me-mills/1908-01-01-sales-journal" "300" /%}}
 </div>
@@ -64,11 +64,11 @@ As you can see, these books contain many easily recognizable names of former Bro
 
 And some examples of Emily's own entries in the sales logs. Essentially we are getting a glimpse inside Emily and Hannah's pantry. Apparently, Emily had a bit of a sweet tooth: Candy was one of the more common staples:
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "me-mills/1908-01-07-sales-journals-p19" "300" /%}}  
   {{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" "300" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
   {{% mefig "me-mills/emily-mills-entry-2" "300" /%}}
   {{% mefig "me-mills/emily-mills-entry-3" "300" /%}}
 </div>
@@ -78,7 +78,7 @@ By 1920, her daily records looked much the same. References are made to individu
 
 In the 1920's, we also start to see more sophisticated business records, both new types of records kept as well as a more formal breakdown of the store's inventory expenditures. These journals contained sample pages and instructions for how to properly use them for bookkeeping that Emily would have used to teach herself these new methods. This is further indication of Emily's character and how much pride she took in ownership of her store that she was continually teaching herself new practices, even after decades of daily work in this occupation.
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "me-mills/greenwoods-cover" "300" /%}}
   {{% mefig "me-mills/1927-02-01-record-of-cash-payments" "300" /%}}
 </div>
@@ -86,15 +86,15 @@ In the 1920's, we also start to see more sophisticated business records, both ne
 As Molly Adams would write in her "Note", Emily begins aggressively advertising the newly branded store in 1909. She advertised perhaps dozens of times in the Ithaca Daily Journal alongside the Vorhis Mill and the meat market that is attributed to Clarence Wheeler, someone mentioned many times in the journals of George Jansen. The first such advertisement I could find was in the 29 Mar 1909 edition, and the last was on 30 Jun 1910. What follows are a sample of some of them, many of which were repeated for weeks at a time, and they give us a good sense of the diverse products offered in the small country store:
 
 {{% mefig "1909-03-29-The-Ithaca-Daily-Journal-p9" "350" /%}}
-<div class="gallery">
+<div class="cols">
 {{% mefig "1909-06-02-The-Ithaca-Daily-Journal-p9" "350" /%}}
 {{% mefig "1909-06-19-The-Ithaca-Daily-Journal-p9" "350" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
 {{% mefig "1909-07-20-The-Ithaca-Daily-Journal-p9" "350" /%}}
 {{% mefig "1909-10-05-The-Ithaca-Daily-Journal-p9" "350" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
 {{% mefig "1909-10-13-The-Ithaca-Daily-Journal-p9" "350" /%}}
 {{% mefig "1909-11-04-The-Ithaca-Daily-Journal-p9" "350" /%}}
 </div>
@@ -128,17 +128,17 @@ Before David VanDeMark’s mother Grace died, he had found in her sewing machine
 
 We know a great deal about Emily through the activities of M. E. Mills, which Emily made a community focal point as a natural consequence of her many interests and activities, and intentional or not, had to have been excellent marketing for her store. (My impressions are that Emily took a great deal of pride in the running of her store and took its effective management very seriously and did indeed consider every opportunity to volunteer her store for free press and increased foot traffic, such as the regular millinery exhibits by Margaret LaBar.)
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1914-02-23-ithaca-journal" "300" /%}}
   {{% mefig "1914-03-24-ithaca-journal" "300" /%}}
 </div>
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1914-10-10-ithaca-journal" "300" /%}}
   {{% mefig "1914-10-23-ithaca-journal" "300" /%}}
 </div>
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1914-11-14-ithaca-journal" "300"/ %}}
   {{% mefig "1915-07-24-ithaca-journal" "300" /%}}
 </div>
@@ -157,27 +157,27 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 
 {{% mefig "me-mills/BF142829-001" "300" /%}}
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "1922-09-19-George-Jansen" "500" /%}}
 {{% mefig "1922-09-21-George-Jansen" "500" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
 {{% mefig "1922-09-25-George-Jansen" "500" /%}}
 {{% mefig "1922-09-26-George-Jansen" "500" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
 {{% mefig "1922-09-George-Jansen" "500" /%}}
 {{% mefig "1923-02-08-George-Jansen" "500" /%}}
 </div>
 
 In 1925, Libbie Peck sells the Mills store property to Dr. Benjamin Lockwood.
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "me-mills/BF050069-001" "300" /%}}
 {{% mefig "me-mills/BF052409-001" "300" /%}}
 </div>
 
-<div class="gallery">
+<div class="cols">
   {{% mefig "1925-03-13-ithaca-journal" "300" /%}}
   {{% mefig "1926-04-07-ithaca-journal" "300" /%}}
 </div>
@@ -196,7 +196,7 @@ And in the following, Molly Adams seems to indicate that "at the store" was refe
 *— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63*
 </blockquote>
 
-<div class="gallery">
+<div class="cols">
     {{% mefig "1935-07-31-The-Ithaca-Journal-p14" "300" /%}}
     {{% mefig "1935-11-23-The-Ithaca-Journal-p5" "300x300" "" "top" /%}}
 </div>
@@ -215,7 +215,7 @@ As noted in other histories, Jessie Brewer took over the store at the same locat
 
 In the Caroline History Room in Slaterville Springs, there are a set of similar looking general store sales journals that I believe belong to the general store of Frank C. Vorhis in the location of Brookton's Market today.
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "me-mills/vorhis-sales-1" "300" /%}}
 {{% mefig "me-mills/vorhis-sales-2" "300" /%}} 
 </div>

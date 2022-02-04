@@ -11,7 +11,7 @@ It appears the Mills lived in Staten Island throughout much of the 1850's, and E
 
 In the 1875 New York State Census, each of the children are listed with Staten Island as their birthplace (years 1852, 1854 and 1858), and they were still living in Staten Island in 1860 as reflected in the Federal Census:
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "census/census-1860-us" "300" /%}}
 {{% mefig "census/census-1875a-nys" "300" /%}}
 </div>

@@ -367,7 +367,7 @@ Mills Pond Gallery <executivedirector@stacarts.org>
 8:01 PM (1 hour ago)
 to me
 
-Sorry, we do not have any information that would assist you. All info we have is posted on our website https://www.millspondgallery.org/history-of-mills-pond-house
+Sorry, we do not have any information that would assist you. All info we have is posted on our website https://www.millspondcols.org/history-of-mills-pond-house
 I suggest you contact the Smithtown Historical Society...perhaps they will be able to assist you.
 The Smithtown Library also has much that may help you.
 http://smithtownhistorical.org/

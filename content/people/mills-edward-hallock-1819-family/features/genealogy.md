@@ -20,7 +20,7 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
  </figcaption>
  <footer>
 
- The original [Mills Pond House](https://www.millspondgallery.org/history-of-mills-pond-house) that Timothy built still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
+ The original [Mills Pond House](https://www.millspondcols.org/history-of-mills-pond-house) that Timothy built still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
  </footer>
  </figure>
 
@@ -28,7 +28,7 @@ Edward H. Mills has partial entries on at least two Mills family genealogies:
   1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
   2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "genealogy/1939-source2-pagea" "300" "img,link" /%}}
 {{% mefig "genealogy/1939-source2-pageb" "300" "img,link" /%}}
 </div>
@@ -81,11 +81,11 @@ Notes:
 
 Several of the marriages above and below are referenced, if not corroborated, in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "genealogy/mills-marriages-34" "300" /%}}
 {{% mefig "long-island/1843-12-17-Brooklyn-Evening-Star-p2" "300" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
 {{% mefig "genealogy/mills-marriages-35" "300" /%}}
 {{% mefig "genealogy/mills-marriages-36" "300" /%}}
 </div>
@@ -94,7 +94,7 @@ As you can see, there is yet another Pine mentioned. For more information on Cha
 
 {{% mefig "staten-island/1835-02-21-charles-pine" "700" /%}}
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "long-island/1882-02-06-The-New-York-Times-p8" "300" /%}}
 {{% mefig "1882-02-10-The-Long-Islander-Huntington-NY-p3" "300" /%}}
 </div>
@@ -107,7 +107,7 @@ And so, we can update the cited genealogy entries accordingly:
 
 - M iii [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 1827 in New York City. He died 22 Apr 1915 in Huntington NY. 
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "portraits/jamesthomasmills" "350" /%}}
 {{% mefig "long-island/1915-04-23-The-Long-Islander-Huntington-NY-p5" "350" /%}}
 </div>
@@ -138,7 +138,7 @@ Several documents pertaining to Emily Tabitha Mills' marriage were referenced ab
 
 I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". Emily Huntting predeceased Emily Mills as the result of a strange accident with a bus in front of her home:
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "300" /%}}
 {{% mefig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "300" /%}}
 </div>

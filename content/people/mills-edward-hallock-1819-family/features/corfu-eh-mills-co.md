@@ -13,11 +13,11 @@ The Mills, including Emily at just over one year old, are included in the 19 Jun
 
 Documentation suggests the Mills family moved from Staten Island to Corfu sometime between 01 Sept 1862 and 01 May 1863, dates that correspond with tax assessment records of the time:
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "tax-assessments/1862-09-01-District-29-Division-12" "300" /%}}
 {{% mefig "tax-assessments/1863-05-01-District-29-Division-12" "300" /%}}
 </div>
-<div class="gallery">
+<div class="cols">
 {{% mefig "tax-assessments/1864-05-01-District-29-Division-12" "300" /%}}
 {{% mefig "tax-assessments/1864-10-01-District-29-Division-12" "300" /%}}
 </div>
@@ -46,7 +46,7 @@ The E.H. Mills General store was on the NE corner of Main and Allegheny in Corfu
 I believe it highly likely James *M.* Hillyer is an error, albeit, one that is repeated, but this is the only record I have of a James *M.* Hillyer in Corfu or Staten Island. I believe this is actually James *A.* Hillyer, who is another dry goods grocer in Staten Island closely associated in business with Charles Pine for many years. 
 
 
-<div class="gallery">
+<div class="cols">
 {{% mefig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-p198" "300" /%}}
 {{% mefig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-p201" "300" /%}}
 </div>
