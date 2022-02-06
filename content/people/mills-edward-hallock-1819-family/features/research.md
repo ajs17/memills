@@ -97,22 +97,21 @@ I have already collected much of this information, its just a matter of getting 
   - Where did Emily go around 20 Mar 1917? (roughly a month after Hannah's death.) Ellen Gould is said to be keeping house, suggesting that Emily was out of town for a period of time.
   - Why is Hannah interred at Pleasant Grove Cemetery? (Other family there?)
   - Did Edward ever work at "(Samuel) Scudder's general country store" on Long Island? 
-  - Horace's Death: 
-      - Presumably why the family moved *away from* Corfu?
-      - But why *to* Mott's Corners? (Perhaps relevant: there are a number of Hallocks living throughout Tompkins County, including Brooktondale prior to, and contemporary, with the Mills. I don't know if these are distant relations or not.)
-      - The nature of Horace's death, and was alcohol a significant factor? Presumably this will never be knowable, but perhaps there will be clues in the Good Templars notebooks.
+  - The circumstances of Horace's death. Was it related to alcohol, and the reason for Emily's passion for temperance? Presumably this will never be knowable, but perhaps there will be clues in the Good Templars notebooks.
+  - Presumably Horace's death is at least part of the reason why the family moved *away from* Corfu?
+  - But why did they move *to* Mott's Corners? Perhaps relevant: there are a number of Hallocks living throughout Tompkins County, including Brooktondale prior to, and contemporary, with the Mills. I don't know if these are distant relations or not. Mott's Corners appeared to be a politically progressive place even then, which would perhaps appeal to Emily who was just finishing school (and temperance along with suffrage and abolition were among the major progressive issues of the day), in combination with the financial opportunities of a mill town near Ithaca? Is Edward Lounsbery the key? The Mills live in a home he initially owned, operated the store in another building he owned, evidence suggests they had other business arrangements? 
    - [William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901) and wife [Sarah Hallock](https://www.findagrave.com/memorial/66472059/sarah-hallock) (08 Dec 1829 to 19 Oct 1910) lived in Caroline in 1860's. 
+
 Church Records and Baptism:
   - Any information on Emily's baptism from Park Church, any diaries of Reverend Ford Eastman? (Contacted.)
   - Catalog all information about Reverend Annis Ford Eastman, including her return trips, see if Emily's baptism was the Rev's last visit to Brookton.
   - Letters exist at Univ of Ill library between the Reverend and her family.
   
 Planned:
-  - I have started a complete photo inventory of the notebooks of George Jansen and plan to organize and transcribe these in the future. There are a number of entries that mention work that George does on behalf of Emily, planting her garden, painting her store, etc. As I am able, I will add those records to this account.
   - Research deeds on Mill's home and Mill's store prior to 1900. When did the Mills start living there? Survey maps that show mill race? Who owned the Mills store real estate?
   - Photo inventory (completed) and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move. 
   - The dimensions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
-  - I believe there is ample contextual evidence to suggest that Emily was a member of the Ladies Aid Society and also involved in some capacity with the Red Cross, although I don't believe I have direct evidence of these. 
+  - I believe there is ample contextual evidence to suggest that Emily was a member of the Ladies Aid Society and also involved in some capacity with the Red Cross, although I don't believe I have direct evidence of these. The Ladies Aid kept their own records separate from the main church book. These records still exist and I have plans to review them in 2022.  
 
 ## Distribution
 
