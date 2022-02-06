@@ -1,0 +1,17 @@
+:root {
+    --background-color: #4D3636;
+    --background-color2: #664747;
+    --color: white;
+    --active-link-color: white;
+    --visited-link-color: #808080;
+    --border-color:  white; 
+}
+
+aside, #TableOfContents {
+    display: none;
+}
+
+article .summary a.more-link { 
+  display: inline;
+}
+

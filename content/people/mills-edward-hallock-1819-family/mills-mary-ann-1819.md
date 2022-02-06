@@ -8,13 +8,13 @@ Mary Ann (Pine) Mills, born 08 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookto
 
 <!--more-->
 
-<figure class="hero">
 <blockquote>
-"...many friends in this vicinity ... remember her as a kind friend and a devoted Christian whose sublime faith made her life beautiful and to the last degree exemplary."
-
+<p>"...many friends in this vicinity ... remember her as a kind friend and a devoted Christian whose sublime faith made her life beautiful and to the last degree exemplary."
+</p>
+<p>
 "Her life was a blessing to all who knew her. She was a noble, consecrated Christian."
+</p>
 </blockquote>
-</figure>
 
 {{% metable "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Mary" %}}
 

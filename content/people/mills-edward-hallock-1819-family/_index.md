@@ -13,7 +13,7 @@ This publication attempts to document all extant information on the family of Ed
 
 <!--more-->
 
-<figure width="500px">
+<figure class="image" width="500px">
     <img src="section-resources/data_files/handwriting/eh-mills.jpg" width="500" />
     <figcaption style="max-width: 500px">From the records of E. H. Mills general store in Brookton, written by Emily Mill's hand, in the months immediatiately following her father Edward's death.</figcaptio>
 </figure>
@@ -58,12 +58,18 @@ The source documents are:
 {{% mefig "census/census-1860-us" "200" /%}}
 {{% mefig "census/census-1870-us" "200" /%}}
 {{% mefig "census/census-1875a-nys" "200" /%}}
+</div>
+<div class="cols">
 {{% mefig "census/census-1880-us" "200" /%}}
 {{% mefig "census/census-1892a-nys" "200" /%}}
 {{% mefig "census/census-1892b-nys" "200" /%}}
+</div>
+<div class="cols">
 {{% mefig "census/census-1900-us" "200" /%}}
 {{% mefig "census/census-1905-nys" "200" /%}}
 {{% mefig "census/census-1910-us" "200" /%}}
+</div>
+<div class="cols">
 {{% mefig "census/census-1915-nys" "200" /%}}
 {{% mefig "census/census-1920-us" "200" /%}}
 {{% mefig "census/census-1930-us" "200" /%}}

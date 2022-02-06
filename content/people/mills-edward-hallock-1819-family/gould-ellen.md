@@ -8,6 +8,12 @@ Ellen Jane (Andrews) Predmore Gould, born 27 Mar 1848, died 31 Oct 1929. Ellen l
 
 <!--more-->
 
+<blockquote>
+<p>
+...she was very proper and spoke with an English accent. 
+</p>
+</blockquote>
+
 For our immediate purposes here, we will focus on the period of Ellen's life that intersects with the Mills family.
 
 {{% metable "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Ellen" %}}

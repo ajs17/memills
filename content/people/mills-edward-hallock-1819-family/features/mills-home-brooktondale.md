@@ -7,7 +7,7 @@ The Mills Home in Brooktondale is located at present-day (2021) 475 Brooktondale
 
 <!--more-->
 
-<figure width="500px" class="hero">
+<figure class="image" width="500px">
     <img src="/people/mills-edward-hallock-1819-family/section-resources/data_files/mills-home/hero.jpg" width="500" />
     <figcaption style="max-width: 500px">02 Jan 1964 entry in the Mills home deeds. Andrea Talmage, who owned the Mills home in the 1990’s, had the opportunity to talk with both Carl English and Grace Vandemark who confirmed that the Mills home had been commonly called “The Mills Place” for many years.</figcaption>
 </figure>

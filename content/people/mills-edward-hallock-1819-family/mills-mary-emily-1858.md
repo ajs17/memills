@@ -8,7 +8,7 @@ Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale
 
 <!--more-->
 
-<blockquote class="fullwidth">
+<blockquote>
 <p>"She was a sweet little lady ... quiet, neat, cheerful and always smiling."</p>
 
 <p>"I remember her as very kind..."</p>
@@ -50,11 +50,11 @@ Emily was at times the recording and corresponding secretary for the Good Templa
 
 There are also a number of volumes of sales journals from [M. E. Mills]({{% ref "features/me-mills" %}}) in Emily's handwriting (and certainly Ellen Gould's handwriting must also be present in those books). 
 
-{{% mefig "handwriting/sig3" "700" /%}}
+{{% mefig "handwriting/sig3" "800" /%}}
 
 <div class="cols">
-  {{% mefig "handwriting/sig1" "300" /%}}
-  {{% mefig "handwriting/sig2" "300" /%}}
+  {{% mefig "handwriting/sig1" "400" /%}}
+  {{% mefig "handwriting/sig2" "400" /%}}
 </div>
 
 A number of aspects of Emily's handwriting are quite distinctive—such as uppercase E's, M's, W's, C's, T's and F's as well as lowercase p's are often written with similar idiosyncracies. Note for example, the following entry in M. E. Mills sales journals, a close examination of which will reveal is entirely written by Emily. Notice how even though she is writing the same word on the same day, from one entry to the next, how she writes her uppercase T can vary in one of two ways, each quite distinctive in itself. It can either swoop down from the top and finish with a flourishing loop behind it, or can be two strokes of the pen, one down, and the cross rises and falls, the opposite of the cross in the other T. Notice that on James Caveney's entry, we get the flourishing T, but the capital F afterward on the same line item shows the mushroom cap shape characteristic of her other style of writing T:  

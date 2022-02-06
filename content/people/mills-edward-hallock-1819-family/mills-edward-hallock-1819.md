@@ -3,19 +3,17 @@ title: "Edward H. Mills"
 weight: 1
 ---
 
-Edward Hallock Mills, born 25 Mar 1819, Smithtown, NY, died 01 Jan 1908, Brookton, NY. Patriarch of the Mills family. Co-owner, general stores [**E. H. Mills & Co.**]({{% ref "features/corfu-eh-mills-co" %}}) in Cofu NY and owner [**E. H. Mills**]({{% ref "features/me-mills" %}}) in Motts Corners/Brookton NY.
+Edward Hallock Mills, born 25 Mar 1819, Smithtown, NY, died 01 Jan 1908, Brookton, NY. Patriarch of the Mills family. Co-owner, general stores [**E. H. Mills & Co.**]({{% ref "features/corfu-eh-mills-co" %}}) in Corfu NY and owner [**E. H. Mills**]({{% ref "features/me-mills" %}}) in Motts Corners/Brookton NY.
 
 <!--more-->
 
-<figure class="hero">
 <blockquote>
-"...our old established merchant..."
+<p>"...our old established merchant..."</p>
 </blockquote>
-</figure>
 
 {{% metable "census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Edward" %}}
 
-Given the account of the Mills family's travels around the time of J. Thomas Mills' birth in 1827, as described in his obituary in the accompanying account of the Mills' [Long Island origins]({{% ref "genealogy" %}}), I regard Edward's birthplace of Smithtown with some skepticism. Edward would be living in [Factoryville (West New Brighton) Staten Island]({{% ref "features/staten-island" %}}) by the time he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in 1851.
+Note that the account of the Mills family's travels around the time of J. Thomas Mills' birth in 1827, as described in his obituary in the accompanying account of the Mills' [Long Island origins]({{% ref "genealogy" %}}), appears inconsistent with Edward's purported birthplace referenced in several sources, including the census. Edward was living in [Factoryville (West New Brighton) Staten Island]({{% ref "features/staten-island" %}}) by the time he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in 1851.
 
 {{% mefig "1851-01-03-Brooklyn-Daily-Eagle" "400" /%}}
 

@@ -8,13 +8,12 @@ Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Br
 
 <!--more-->
 
-<figure class="hero">
 <blockquote>
-"Mrs. Mills was one of Brookton’s oldest and most respected citizens and a remarkable woman. She enjoyed very good health, and had all her faculties up to the last. She was a great reader, and kept herself posted on all the current events and liked to converse upon them."
-
-"She was the recipient of many tokens of love and respect, some from distant states."
+<p>"Mrs. Mills was one of Brookton’s oldest and most respected citizens and a remarkable woman. She enjoyed very good health, and had all her faculties up to the last. She was a great reader, and kept herself posted on all the current events and liked to converse upon them."
+</p>
+<p> "She was the recipient of many tokens of love and respect, some from distant states."
+</p>
 </blockquote>
-</figure>
 
 {{% metable "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Hannah" %}}
 
