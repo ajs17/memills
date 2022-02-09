@@ -22,18 +22,18 @@ There are records of a number of "lodges" of the Independent Order of Good Templ
 
 In the 1880's Emily was an officer in the Independent Order of Good Templars, in the Brookton chapter called "High Bridge Lodge, No. 296".
 
-{{% mefig "temperance/good-templars-form-inside" "700" /%}}
-{{% mefig "temperance/good-templars-form-outside" "700" /%}}
+{{% mefig "temperance/good-templars-form-inside" "800" /%}}
+{{% mefig "temperance/good-templars-form-outside" "800" /%}}
 
-{{% mefig "1914-05-22-ithaca-journal" "300" /%}}
-{{% mefig "1915-02-09-ithaca-journal" "300" /%}}
-{{% mefig "1915-02-12-ithaca-journal" "300" /%}}
-{{% mefig "1917-02-27-ithaca-journal" "300" /%}}
+{{% mefig "1914-05-22-ithaca-journal" "500" /%}}
+{{% mefig "1915-02-09-ithaca-journal" "500" /%}}
+{{% mefig "1915-02-12-ithaca-journal" "500" /%}}
+{{% mefig "1917-02-27-ithaca-journal" "500" /%}}
 
 <div class="cols">
-    {{% mefig "temperance/1917-wctu-directory-p8" "300" /%}}
-    {{% mefig "temperance/1917-wctu-directory-p9" "300" /%}}
+    {{% mefig "temperance/1917-wctu-directory-p8" "350" /%}}
+    {{% mefig "temperance/1917-wctu-directory-p9" "350" /%}}
 </div>
 
-{{% mefig "1919-08-15-ithaca-journal" "300" /%}}
-{{% mefig "1919-08-23-ithaca-journal" "300" /%}}
+{{% mefig "1919-08-15-ithaca-journal" "500" /%}}
+{{% mefig "1919-08-23-ithaca-journal" "500" /%}}

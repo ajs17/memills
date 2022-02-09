@@ -157,7 +157,7 @@ figure blockquote {
 figcaption {
   margin: var(--line-height) 0; }
 
-figure ul, ol {
+figure ul, figure ol {
   padding-left: calc( var(--line-height) * 1); }
 
 .quote-only {

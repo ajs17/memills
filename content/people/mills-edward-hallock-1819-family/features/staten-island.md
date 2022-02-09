@@ -1,6 +1,7 @@
 ---
 title: "The Mills Family in Staten Island NY"
 weight: 7
+draft: true
 ---
 
 It appears the Mills lived in Staten Island throughout much of the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1851, Edward is said to be "of Factoryville". All three Mills children were born in Staten Island. Edward worked as clerk in the grocery store of [Bartlett Brown (1833-24 Nov 1902)](https://www.findagrave.com/memorial/199802084/bartlett-brown) and at one time, the Mills family lived with Bartlett. Bartlett was a protege of [Charles Mills Pine (1812-8 Oct 1897)](https://www.findagrave.com/memorial/199952123/charles-m-pine), who may have been related to Edward through Edward's mother. Charles Pine is listed as a co-owner of E. H. Mills & Co. in Corfu, and it would appear that Charles likely acted only as an investor in the business and was not likely to be involved in its day-to-day operation. 

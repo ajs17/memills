@@ -9,83 +9,83 @@ Upon moving to Mott's Corners, Edward restarted his general store, now simply *E
 
 The former location of the Mills store as it looks today, at 484 Brooktondale Road. Note that the stairs leading to the second floor on the side of the building mentioned later by Gertrude Conant, are visible here on the western side of the building.
 
-{{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "700" /%}}
-{{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "700" /%}}
+{{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "800" /%}}
+{{% mefig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "800" /%}}
 
 It seems likely the Mills store was always in this building. The postoffice moved to Mills store when Edward became postmaster. It appears that George Richardson was an employee of Edward's, as he is never identified as postmaster in the USPS records:
 
 <div class="cols">
-{{% mefig "1885-08-13-Ithaca-Daily-Journal-p3" "400" /%}}
-{{% mefig "1887-05-27-The-Ithaca-Daily-Journal-p3" "300" /%}}
+{{% mefig "1885-08-13-Ithaca-Daily-Journal-p3" "350" /%}}
+{{% mefig "1887-05-27-The-Ithaca-Daily-Journal-p3" "350" /%}}
 </div>
 
 The following are some of the earliest references to the Mills' store and they recount misadventures that took place at a time when Emily was identified as "clerk" in E. H. Mills:
 
-{{% mefig "1896-10-14-The-Ithaca-Daily-Journal-p6" "400" /%}}
-{{% mefig "1897-03-18-ithaca-daily-journal" "400" /%}}
+{{% mefig "1896-10-14-The-Ithaca-Daily-Journal-p6" "500" /%}}
+{{% mefig "1897-03-18-ithaca-daily-journal" "500" /%}}
 
 The following shows that the Mills store was involved in charity while Edward was alive:
 
-{{% mefig "1898-03-31-The-Ithaca-Daily-Journal-p5" "400" /%}}
+{{% mefig "1898-03-31-The-Ithaca-Daily-Journal-p5" "500" /%}}
 
-{{% mefig "1904-08-29-The-Ithaca-Daily-Journal-p6" "400" /%}}
+{{% mefig "1904-08-29-The-Ithaca-Daily-Journal-p6" "500" /%}}
 
 It is really in Brookton where we get a sense of the family's finances through property deeds, reported estate information and the Mills store sales journals. The Mills family likely always made a fairly modest, if stable, income from their small general stores.
 
 I have seen perhaps more than a dozen volumes of sales journals and other financial record books that are in the possession of a local collector who told me that he was contacted by Frank Proto at the time that Frank took possession of the former Mills store building, and he was given the opportunity to go through the basement of the building and preserve anything of historical value. 
 
-{{% mefig "me-mills/vol-41-spine" "700" /%}}
+{{% mefig "me-mills/vol-41-spine" "800" /%}}
 
 Interestingly, the oldest of the volumes, labeled "No. 41" is the most important as it shows the records of E. H. Mills in the days immediately preceeding Edward's death. It would seem that Emily herself (or perhaps Jessie Brewer after her) did not preserve the books from her father's time running the store.
  
-{{% mefig "me-mills/1908-records-high-res" "700" /%}}
-{{% mefig "me-mills/1908-records-high-res-lower-third" "700" /%}}
+{{% mefig "me-mills/1908-records-high-res" "800" /%}}
+{{% mefig "me-mills/1908-records-high-res-lower-third" "800" /%}}
 
 It would seem that the "Mills Family a/c" pages are the Mills' business expenses, mostly paying for store inventory. In these earlier books, this information was at the end of the book, starting with the inside back cover and progressed toward the front over time, whereas retail sales, including what the family themselves took out of the store, were entered in the books in the normal order.
 
 And the Mills Family account in the months following Edward's death: 
 
-{{% mefig "me-mills/1908-03-04-sales-journal" "700" /%}}
+{{% mefig "me-mills/1908-03-04-sales-journal" "800" /%}}
 
 It is interesting to note that on the inside front cover of this book seems to indicate that the family purchased a barn on 23 Sep 1907 and rented it to John Roe for $0.50 a month:
 
-{{% mefig "me-mills/1907-09-23-barn-rent" "700" /%}}
+{{% mefig "me-mills/1907-09-23-barn-rent" "800" /%}}
 
 The store was open on New Year's eve and New Year's day 1908, the day that Edward died, and we can see that Emily was working on an otherwise typical day of business at the store:
 
 <div class="cols">
-    {{% mefig "me-mills/1907-dec-31-sales-journal-p16" "300" /%}}
-    {{% mefig "me-mills/1908-01-01-sales-journal" "300" /%}}
+    {{% mefig "me-mills/1907-dec-31-sales-journal-p16" "350" /%}}
+    {{% mefig "me-mills/1908-01-01-sales-journal" "350" /%}}
 </div>
 
 As you can see, these books contain many easily recognizable names of former Brookton residents, along with a glimpse into their regular purchases. It is interesting to note that the store was closed on Sundays, but open on Christmas day, if a bit slow:
 
-{{% mefig "me-mills/1908-12-25-sales-journal-p466" "700" /%}}
+{{% mefig "me-mills/1908-12-25-sales-journal-p466" "800" /%}}
 
 And some examples of Emily's own entries in the sales logs. Essentially we are getting a glimpse inside Emily and Hannah's pantry. Apparently, Emily had a bit of a sweet tooth: Candy was one of the more common staples:
 
 <div class="cols">
-  {{% mefig "me-mills/1908-01-07-sales-journals-p19" "300" /%}}  
-  {{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" "300" /%}}
+  {{% mefig "me-mills/1908-01-07-sales-journals-p19" "350" /%}}  
+  {{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" "350" /%}}
 </div>
 <div class="cols">
-  {{% mefig "me-mills/emily-mills-entry-2" "300" /%}}
-  {{% mefig "me-mills/emily-mills-entry-3" "300" /%}}
+  {{% mefig "me-mills/emily-mills-entry-2" "350" /%}}
+  {{% mefig "me-mills/emily-mills-entry-3" "350" /%}}
 </div>
 
 By 1920, her daily records looked much the same. References are made to individual accounts
-{{% mefig "me-mills/1920-01-19-Sales-Journals-p233" "700" /%}}
+{{% mefig "me-mills/1920-01-19-Sales-Journals-p233" "800" /%}}
 
 In the 1920's, we also start to see more sophisticated business records, both new types of records kept as well as a more formal breakdown of the store's inventory expenditures. These journals contained sample pages and instructions for how to properly use them for bookkeeping that Emily would have used to teach herself these new methods. This is further indication of Emily's character and how much pride she took in ownership of her store that she was continually teaching herself new practices, even after decades of daily work in this occupation.
 
 <div class="cols">
-  {{% mefig "me-mills/greenwoods-cover" "300" /%}}
-  {{% mefig "me-mills/1927-02-01-record-of-cash-payments" "300" /%}}
+  {{% mefig "me-mills/greenwoods-cover" "350" /%}}
+  {{% mefig "me-mills/1927-02-01-record-of-cash-payments" "350" /%}}
 </div>
 
 As Molly Adams would write in her "Note", Emily begins aggressively advertising the newly branded store in 1909. She advertised perhaps dozens of times in the Ithaca Daily Journal alongside the Vorhis Mill and the meat market that is attributed to Clarence Wheeler, someone mentioned many times in the journals of George Jansen. The first such advertisement I could find was in the 29 Mar 1909 edition, and the last was on 30 Jun 1910. What follows are a sample of some of them, many of which were repeated for weeks at a time, and they give us a good sense of the diverse products offered in the small country store:
 
-{{% mefig "1909-03-29-The-Ithaca-Daily-Journal-p9" "350" /%}}
+{{% mefig "1909-03-29-The-Ithaca-Daily-Journal-p9" "500" /%}}
 <div class="cols">
 {{% mefig "1909-06-02-The-Ithaca-Daily-Journal-p9" "350" /%}}
 {{% mefig "1909-06-19-The-Ithaca-Daily-Journal-p9" "350" /%}}
@@ -104,7 +104,7 @@ In The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of 
 
 Several descriptions of M. E. Mills exist, the most complete of which is Gertrude Conant's:
 
-{{% mefig "conant-gertrude-1" "700" /%}}
+{{% mefig "conant-gertrude-1" "800" /%}}
 
 In one of the present-day photos of 484 Brooktondale Road, you can see the staircase on the side of building leading to the second floor, that Gertrude mentions.
 
@@ -129,62 +129,56 @@ Before David VanDeMark’s mother Grace died, he had found in her sewing machine
 We know a great deal about Emily through the activities of M. E. Mills, which Emily made a community focal point as a natural consequence of her many interests and activities, and intentional or not, had to have been excellent marketing for her store. (My impressions are that Emily took a great deal of pride in the running of her store and took its effective management very seriously and did indeed consider every opportunity to volunteer her store for free press and increased foot traffic, such as the regular millinery exhibits by Margaret LaBar.)
 
 <div class="cols">
-  {{% mefig "1914-02-23-ithaca-journal" "300" /%}}
-  {{% mefig "1914-03-24-ithaca-journal" "300" /%}}
+  {{% mefig "1914-02-23-ithaca-journal" "350" /%}}
+  {{% mefig "1914-03-24-ithaca-journal" "350" /%}}
 </div>
 
 <div class="cols">
-  {{% mefig "1914-10-10-ithaca-journal" "300" /%}}
-  {{% mefig "1914-10-23-ithaca-journal" "300" /%}}
+  {{% mefig "1914-10-10-ithaca-journal" "350" /%}}
+  {{% mefig "1914-10-23-ithaca-journal" "350" /%}}
 </div>
 
 <div class="cols">
-  {{% mefig "1914-11-14-ithaca-journal" "300"/ %}}
-  {{% mefig "1915-07-24-ithaca-journal" "300" /%}}
+  {{% mefig "1914-11-14-ithaca-journal" "350"/ %}}
+  {{% mefig "1915-07-24-ithaca-journal" "350" /%}}
 </div>
 
-{{% mefig "1915-04-07-ithaca-journal" "300" "img,blockquote,cite,link" /%}}
-{{% mefig "1916-08-08-ithaca-journal" "300" /%}}
+{{% mefig "1915-04-07-ithaca-journal" "500" "img,blockquote,cite,link" /%}}
+{{% mefig "1916-08-08-ithaca-journal" "500" /%}}
 
-{{% mefig "1917-02-23-George-Jansen" "500" /%}}
+{{% mefig "1917-02-23-George-Jansen" "800" /%}}
 
-{{% mefig "me-mills/1920-08-07-The-Ithaca-Journal-p7" "300" /%}}
+{{% mefig "me-mills/1920-08-07-The-Ithaca-Journal-p7" "500" /%}}
 
-{{% mefig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "700" /%}}
+{{% mefig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "800" /%}}
 
 
 [Libbie H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929) took over ownership of the Mills store building upon the death of her sister [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921). 
 
-{{% mefig "me-mills/BF142829-001" "300" /%}}
+{{% mefig "me-mills/BF142829-001" "500" /%}}
 
-<div class="cols">
-{{% mefig "1922-09-19-George-Jansen" "500" /%}}
-{{% mefig "1922-09-21-George-Jansen" "500" /%}}
-</div>
-<div class="cols">
-{{% mefig "1922-09-25-George-Jansen" "500" /%}}
-{{% mefig "1922-09-26-George-Jansen" "500" /%}}
-</div>
-<div class="cols">
-{{% mefig "1922-09-George-Jansen" "500" /%}}
-{{% mefig "1923-02-08-George-Jansen" "500" /%}}
-</div>
+{{% mefig "1922-09-19-George-Jansen" "800" /%}}
+{{% mefig "1922-09-21-George-Jansen" "800" /%}}
+{{% mefig "1922-09-25-George-Jansen" "800" /%}}
+{{% mefig "1922-09-26-George-Jansen" "800" /%}}
+{{% mefig "1922-09-George-Jansen" "800" /%}}
+{{% mefig "1923-02-08-George-Jansen" "800" /%}}
 
 In 1925, Libbie Peck sells the Mills store property to Dr. Benjamin Lockwood.
 
 <div class="cols">
-{{% mefig "me-mills/BF050069-001" "300" /%}}
-{{% mefig "me-mills/BF052409-001" "300" /%}}
+{{% mefig "me-mills/BF050069-001" "350" /%}}
+{{% mefig "me-mills/BF052409-001" "350" /%}}
 </div>
 
 <div class="cols">
-  {{% mefig "1925-03-13-ithaca-journal" "300" /%}}
-  {{% mefig "1926-04-07-ithaca-journal" "300" /%}}
+  {{% mefig "1925-03-13-ithaca-journal" "350" /%}}
+  {{% mefig "1926-04-07-ithaca-journal" "350" /%}}
 </div>
 
 Two articles in the 14 Jul 1934 (p3) and 20 Nov 1934 (p5) issues of The Ithaca Journal tell of $135 in cash being stolen from M. E. Mills while Emily "was at lunch." Despite the information being publicly available, I have chosen not to republish it here out of respect to any descendants of those accused.
 
-{{% mefig "1935-10-25-ithaca-journal" "300" /%}}
+{{% mefig "1935-10-25-ithaca-journal" "500" /%}}
 
 Identical notices for the Halloween party were run in The Ithaca Journal on 28 Oct and 29 Oct 1935.
 
@@ -196,28 +190,26 @@ And in the following, Molly Adams seems to indicate that "at the store" was refe
 *— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63*
 </blockquote>
 
-<div class="cols">
-    {{% mefig "1935-07-31-The-Ithaca-Journal-p14" "300" /%}}
-    {{% mefig "1935-11-23-The-Ithaca-Journal-p5" "300x300" "" "top" /%}}
-</div>
+{{% mefig "1935-07-31-The-Ithaca-Journal-p14" "500" /%}}
+{{% mefig "1935-11-23-The-Ithaca-Journal-p5" "500x500" "" "top" /%}}
 
 The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store, and facing the former Lockwood residence. There is also a bronze sundial on top of the stone (not visible in the photo) that appears to have been attached along with the tablet.  
 
-{{% mefig "lockwood-memorial" "400" "img,link" /%}}
+{{% mefig "lockwood-memorial" "500" "img,link" /%}}
 
-{{% mefig "1936-06-20-ithaca-journal" "300" /%}}
+{{% mefig "1936-06-20-ithaca-journal" "500" /%}}
 
 As noted in other histories, Jessie Brewer took over the store at the same location, running it under her name primarily as a notions store with a lending library in the back, and no groceries. 
 
-{{% mefig "me-mills/brewer-ad" "400" /%}}
+{{% mefig "me-mills/brewer-ad" "500" /%}}
 
 ## Notes for Future Researchers
 
 In the Caroline History Room in Slaterville Springs, there are a set of similar looking general store sales journals that I believe belong to the general store of Frank C. Vorhis in the location of Brookton's Market today.
 
 <div class="cols">
-{{% mefig "me-mills/vorhis-sales-1" "300" /%}}
-{{% mefig "me-mills/vorhis-sales-2" "300" /%}} 
+{{% mefig "me-mills/vorhis-sales-1" "350" /%}}
+{{% mefig "me-mills/vorhis-sales-2" "350" /%}} 
 </div>
 
 These volumes are leather bound, but with badly deteriorating covers, containing entries from the 1890's to the early 190X's.  I could not find anything identifying the store these journals were for, but my review was merely introductory and far from exhaustive. A note accompanying them indicated they were donated by Frank Proto, owner of the Mills store location at the time of this writing. 

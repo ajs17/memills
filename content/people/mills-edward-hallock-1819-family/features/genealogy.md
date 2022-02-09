@@ -10,27 +10,30 @@ Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long 
 
 <figure class="quote-only">
  <blockquote>
-It was Timothy Mills who bought the land from one of our town founder's sons in 1693, according to "Colonel Rockwell's Scrap-Book" published by the Smithtown Historical Society in 1968. As the sons of Timothy Mills married, houses were built around the pond found on the land.
-
+<p>It was Timothy Mills who bought the land from one of our town founder's sons in 1693, according to "Colonel Rockwell's Scrap-Book" published by the Smithtown Historical Society in 1968. As the sons of Timothy Mills married, houses were built around the pond found on the land.
+</p>
+<p>
 In the early 1700s, the area became known as Mills Pond. According to the Smithtown Township Arts Council's website, the area was originally called Cuttscunsuck, which means two small ponds in the Algonquian language.
+</p>
  </blockquote>
  <figcaption>
  <cite>— <a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>
  </cite>
  </figcaption>
  <footer>
-
  The original [Mills Pond House](https://www.millspondcols.org/history-of-mills-pond-house) that Timothy built still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
  </footer>
- </figure>
+</figure>
 
 Edward H. Mills has partial entries on at least two Mills family genealogies:
-  1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
-  2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
+ 
+1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
+
+2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
 
 <div class="cols">
-{{% mefig "genealogy/1939-source2-pagea" "300" "img,link" /%}}
-{{% mefig "genealogy/1939-source2-pageb" "300" "img,link" /%}}
+{{% mefig "genealogy/1939-source2-pagea" "350" "img,link" /%}}
+{{% mefig "genealogy/1939-source2-pageb" "350" "img,link" /%}}
 </div>
 
 What follows is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents, and further supplementing with what we think we know of Edward's family.
@@ -82,22 +85,20 @@ Notes:
 Several of the marriages above and below are referenced, if not corroborated, in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 
 <div class="cols">
-{{% mefig "genealogy/mills-marriages-34" "300" /%}}
-{{% mefig "long-island/1843-12-17-Brooklyn-Evening-Star-p2" "300" /%}}
+{{% mefig "genealogy/mills-marriages-34" "350" /%}}
+{{% mefig "long-island/1843-12-17-Brooklyn-Evening-Star-p2" "350" /%}}
 </div>
 <div class="cols">
-{{% mefig "genealogy/mills-marriages-35" "300" /%}}
-{{% mefig "genealogy/mills-marriages-36" "300" /%}}
+{{% mefig "genealogy/mills-marriages-35" "350" /%}}
+{{% mefig "genealogy/mills-marriages-36" "350" /%}}
 </div>
 
 As you can see, there is yet another Pine mentioned. For more information on Charles Pine, see the account of the [Mills family in Staten Island]({{% ref "staten-island" %}}). 
 
-{{% mefig "staten-island/1835-02-21-charles-pine" "700" /%}}
+{{% mefig "staten-island/1835-02-21-charles-pine" "800" /%}}
 
-<div class="cols">
-{{% mefig "long-island/1882-02-06-The-New-York-Times-p8" "300" /%}}
-{{% mefig "1882-02-10-The-Long-Islander-Huntington-NY-p3" "300" /%}}
-</div>
+{{% mefig "long-island/1882-02-06-The-New-York-Times-p8" "500" /%}}
+{{% mefig "1882-02-10-The-Long-Islander-Huntington-NY-p3" "500" /%}}
 
 It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. The confusion with the name may arise because it would seem, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written as Thomas J.
 
@@ -107,9 +108,8 @@ And so, we can update the cited genealogy entries accordingly:
 
 - M iii [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 1827 in New York City. He died 22 Apr 1915 in Huntington NY. 
 
-<div class="cols">
-{{% mefig "portraits/jamesthomasmills" "350" /%}}
-{{% mefig "long-island/1915-04-23-The-Long-Islander-Huntington-NY-p5" "350" /%}}
+{{% mefig "portraits/jamesthomasmills" "500" /%}}
+{{% mefig "long-island/1915-04-23-The-Long-Islander-Huntington-NY-p5" "500" /%}}
 </div>
 
 Several of J. Thomas Mills' children died in infancy, and according to a history of Huntington Rural Cemetery on [longislandgenealogy.com](http://longislandgenealogy.com/HuntingtonRural.html) these children were *re-buried* there on 22 May 1857: "One of the oldest "rural cemeteries" in Suffolk County, Huntington Rural Cemetery was established in 1853, during the "Rural Cemetery" movement of pre-Civil War America. ...As with many "rural cemeteries" across the country, burials from older family or farm cemeteries were moved to Huntington Rural Cemetery over the decades. Thus you will find dates long before 1853, some back into the 18th century, among the burials in this cemetery."
@@ -123,11 +123,11 @@ The first three names of possible heirs listed in the [Mills home deeds]({{% ref
 
 At the time I am compiling this information, findagrave.com does not have entries for all the Mills in Huntington Rural Cemetery:
 
-{{% mefig "long-island/1853-1990-Index-To-The-Huntington-Rural-Cemetery" /%}}
+{{% mefig "long-island/1853-1990-Index-To-The-Huntington-Rural-Cemetery" "800" /%}}
 
 And the 1900 census is worth highlighting for the density of information it contains, including that J. Thomas and his sons George and Alonzo were all neighbors on Wall Street in Huntington:
 
-{{% mefig "long-island/1900-us-census-huntington-mills" /%}}
+{{% mefig "long-island/1900-us-census-huntington-mills" "800" /%}}
 
 The last name referenced in the list of possible heirs in the Mills home deeds, Mary Huntting Smith, may be a reference to Emily's cousin, or a descendent of Emily's cousin:
   - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
@@ -138,10 +138,8 @@ Several documents pertaining to Emily Tabitha Mills' marriage were referenced ab
 
 I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". Emily Huntting predeceased Emily Mills as the result of a strange accident with a bus in front of her home:
 
-<div class="cols">
-{{% mefig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "300" /%}}
-{{% mefig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "300" /%}}
-</div>
+{{% mefig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
+{{% mefig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
 
 
 
