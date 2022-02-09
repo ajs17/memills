@@ -55,24 +55,24 @@ According to [newyorkfamilyhistory.org](https://www.newyorkfamilyhistory.org/):
 The source documents are:
 
 <div class="cols">
-{{% mefig "census/census-1860-us" "200" /%}}
-{{% mefig "census/census-1870-us" "200" /%}}
-{{% mefig "census/census-1875a-nys" "200" /%}}
+{{% mefig "census/census-1860-us" "250" /%}}
+{{% mefig "census/census-1870-us" "250" /%}}
+{{% mefig "census/census-1875a-nys" "250" /%}}
 </div>
 <div class="cols">
-{{% mefig "census/census-1880-us" "200" /%}}
-{{% mefig "census/census-1892a-nys" "200" /%}}
-{{% mefig "census/census-1892b-nys" "200" /%}}
+{{% mefig "census/census-1880-us" "250" /%}}
+{{% mefig "census/census-1892a-nys" "250" /%}}
+{{% mefig "census/census-1892b-nys" "250" /%}}
 </div>
 <div class="cols">
-{{% mefig "census/census-1900-us" "200" /%}}
-{{% mefig "census/census-1905-nys" "200" /%}}
-{{% mefig "census/census-1910-us" "200" /%}}
+{{% mefig "census/census-1900-us" "250" /%}}
+{{% mefig "census/census-1905-nys" "250" /%}}
+{{% mefig "census/census-1910-us" "250" /%}}
 </div>
 <div class="cols">
-{{% mefig "census/census-1915-nys" "200" /%}}
-{{% mefig "census/census-1920-us" "200" /%}}
-{{% mefig "census/census-1930-us" "200" /%}}
+{{% mefig "census/census-1915-nys" "250" /%}}
+{{% mefig "census/census-1920-us" "250" /%}}
+{{% mefig "census/census-1930-us" "250" /%}}
 </div>
 
 
