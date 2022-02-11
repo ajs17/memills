@@ -1,5 +1,12 @@
 ---
-citation: "07 Nov 1929, The Ithaca Journal (Ithaca, NY), p14, newspapers.com"
+# citation: "07 Nov 1929, The Ithaca Journal (Ithaca NY), p14, newspapers.com"
+pubdate:  "1929-11-07"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "14"
+source:  "newspapers.com"
 ---
 **BROOKTONDALE**
 

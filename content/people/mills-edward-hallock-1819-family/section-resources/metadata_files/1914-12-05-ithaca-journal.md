@@ -1,5 +1,12 @@
 ---
-citation: "05 Dec 1914, The Ithaca Journal (Ithaca, NY), p11, newspapers.com"
+# citation: "05 Dec 1914, The Ithaca Journal (Ithaca NY), p11, newspapers.com"
+pubdate:  "1914-12-05"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "11"
+source:  "newspapers.com"
 ---
 **BROOKTON**
 

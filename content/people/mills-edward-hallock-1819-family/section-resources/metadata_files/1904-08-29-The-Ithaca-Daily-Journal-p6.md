@@ -1,5 +1,12 @@
 ---
-citation: "29 Aug 1904, The Ithaca Daily Journal (Ithaca NY), p6"
+# citation: "29 Aug 1904, The Ithaca Daily Journal (Ithaca NY), p6"
+pubdate:  "1904-08-29"
+author: 
+title: 
+voltitle:  "The Ithaca Daily Journal"
+publocation:  "Ithaca NY"
+pages:  "6"
+source:  "nyshistoricnewspapers.org"
 notes: >-
 
     - Mulks store was broken into so often that it became somewhat of a local joke, but there are several news reports of Mills store also being broken into.

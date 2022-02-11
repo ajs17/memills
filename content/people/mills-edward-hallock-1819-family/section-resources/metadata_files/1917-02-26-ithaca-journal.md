@@ -1,5 +1,12 @@
 ---
-citation: "26 Feb 1917, The Ithaca Journal (Ithaca, NY), p5, newspapers.com" 
+# citation: "26 Feb 1917, The Ithaca Journal (Ithaca NY), p5, newspapers.com" 
+pubdate:  "1917-02-26"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "5"
+source:  "newspapers.com"
 ---
 **Hannah Mills**
 

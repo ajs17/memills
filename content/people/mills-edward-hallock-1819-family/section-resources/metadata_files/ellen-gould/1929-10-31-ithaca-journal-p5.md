@@ -1,5 +1,12 @@
 ---
-citation: "31 Oct 1929, The Ithaca Journal (Ithaca, NY), p5, newspapers.com"
+# citation: "31 Oct 1929, The Ithaca Journal (Ithaca NY), p5, newspapers.com"
+pubdate:  "1929-10-31"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "5"
+source:  "newspapers.com"
 ---
 **Mrs. Ellen J. Gould**
 

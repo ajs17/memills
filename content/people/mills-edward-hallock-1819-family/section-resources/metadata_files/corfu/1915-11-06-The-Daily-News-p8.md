@@ -1,6 +1,13 @@
 
 ---
-citation: "06 Nov 1915, The Daily News (Batavia, NY), p8"
+# citation: "06 Nov 1915, The Daily News (Batavia NY), p8"
+pubdate:  "1915-11-06"
+author: 
+title: 
+voltitle:  "The Daily News"
+publocation:  "Batavia NY"
+pages:  "8"
+source:  "nyshistoricnewspapers.org"
 notes: >-
 
     - The article indicates that the MacGregor’s came to Corfu approximately 1865, just a few years after the Mills arrived in Corfu from Staten Island. The MacGregors were Presbyterians as was Mary Ann Mills.

@@ -1,5 +1,12 @@
 ---
-citation: "15 Oct 1918, The Ithaca Journal (Ithaca, NY), p9, newspapers.com" 
+# citation: "15 Oct 1918, The Ithaca Journal (Ithaca NY), p9, newspapers.com" 
+pubdate:  "1918-10-15"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "9"
+source:  "newspapers.com"
 ---
 
 NON-BANKING TOWNS FALLING BEHIND IN FOURTH LOAN QUOTA

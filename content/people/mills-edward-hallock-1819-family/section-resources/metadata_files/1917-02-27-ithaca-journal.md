@@ -1,5 +1,12 @@
 ---
-citation: "27 Feb 1917, The Ithaca Journal (Ithaca, NY), p7, newspapers.com"
+# citation: "27 Feb 1917, The Ithaca Journal (Ithaca NY), p7, newspapers.com"
+pubdate:  "1917-02-27"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "7"
+source:  "newspapers.com"
 notes: >-
 
     The text for this obituary was presumably written by Emily.

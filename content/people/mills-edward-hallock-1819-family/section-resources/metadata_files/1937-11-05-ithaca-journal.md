@@ -1,5 +1,12 @@
 ---
-citation: "05 Nov 1937, The Ithaca Journal (Ithaca, NY), p17, newspapers.com"
+# citation: "05 Nov 1937, The Ithaca Journal (Ithaca NY), p17, newspapers.com"
+pubdate:  "1937-11-05"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "17"
+source:  "newspapers.com"
 ---
 **Ladies Aid Meets**
 

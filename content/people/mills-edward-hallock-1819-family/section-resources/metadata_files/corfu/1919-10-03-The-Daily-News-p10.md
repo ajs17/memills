@@ -1,5 +1,12 @@
 ---
-citation: "03 Oct 1919, The Daily News (Batavia, NY), p10"
+# citation: "03 Oct 1919, The Daily News (Batavia NY), p10"
+pubdate:  "1919-10-03"
+author: 
+title: 
+voltitle:  "The Daily News"
+publocation:  "Batavia NY"
+pages:  "10"
+source:  "nyshistoricnewspapers.org"
 ---
 
 WOMAN 87 YEARS OF AGE GOING TO ENGLAND ALONE

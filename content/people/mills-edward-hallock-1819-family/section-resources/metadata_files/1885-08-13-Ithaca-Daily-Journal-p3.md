@@ -1,5 +1,12 @@
 ---
-citation: "13 Aug 1885, The Ithaca Daily Journal (Ithaca NY), p3, via nyshistoricnewspapers.org"
+# citation: "13 Aug 1885, The Ithaca Daily Journal (Ithaca NY), p3, via nyshistoricnewspapers.org"
+pubdate:  "1885-08-13"
+author: 
+title: 
+voltitle:  "The Ithaca Daily Journal"
+publocation:  "Ithaca NY"
+pages:  "3"
+source:  "nyshistoricnewspapers.org"
 ---
 BROOKTON.
 

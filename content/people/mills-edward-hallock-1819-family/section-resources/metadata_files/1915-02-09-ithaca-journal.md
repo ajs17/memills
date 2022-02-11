@@ -1,5 +1,12 @@
 ---
-citation: "09 Feb 1915, The Ithaca Journal (Ithaca, NY), p9, newspapers.com"
+# citation: "09 Feb 1915, The Ithaca Journal (Ithaca NY), p9, newspapers.com"
+pubdate:  "1915-02-09"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "9"
+source:  "newspapers.com"
 ---
 **BROOKTON**
 

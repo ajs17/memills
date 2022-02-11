@@ -1,5 +1,12 @@
 ---
-citation: "08 May 1917, The Ithaca Journal (Ithaca, NY), p7, newspapers.com"
+# citation: "08 May 1917, The Ithaca Journal (Ithaca NY), p7, newspapers.com"
+pubdate:  "1917-05-08"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "7"
+source:  "newspapers.com"
 notes: >-
     Kline Cemetery is a previous name of Pleasant Grove Cemetery.
 --- 

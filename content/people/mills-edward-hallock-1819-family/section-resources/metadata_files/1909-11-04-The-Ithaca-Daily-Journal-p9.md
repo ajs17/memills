@@ -1,5 +1,12 @@
 ---
-citation: "04 Nov 1909, The Ithaca Daily Journal (Ithaca NY), p9, nyhistoricnewspapers.org."
+# citation: "04 Nov 1909, The Ithaca Daily Journal (Ithaca NY), p9, nyhistoricnewspapers.org."
+pubdate:  "1909-11-04"
+author: 
+title: 
+voltitle:  "The Ithaca Daily Journal"
+publocation:  "Ithaca NY"
+pages:  "9"
+source:  "nyhistoricnewspapers.org"
 ---
 
 Good Line of

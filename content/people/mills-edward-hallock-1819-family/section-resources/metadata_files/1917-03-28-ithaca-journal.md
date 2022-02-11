@@ -1,5 +1,12 @@
 ---
-citation: "28 Mar 1917, The Ithaca Journal (Ithaca, NY), p5, newspapers.com"
+# citation: "28 Mar 1917, The Ithaca Journal (Ithaca NY), p5, newspapers.com"
+pubdate:  "1917-03-28"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "5"
+source:  "newspapers.com"
 ---
 **$4,000 ESTATE GOES TO NIECES AND NEPHEWS**
 

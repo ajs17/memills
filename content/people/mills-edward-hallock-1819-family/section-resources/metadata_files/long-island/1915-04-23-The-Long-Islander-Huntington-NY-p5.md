@@ -1,5 +1,12 @@
 ---
-citation: "23 Apr 1915, The Long-Islander (Huntington NY), p5, nyhistoricnewspapers.org"
+# citation: "23 Apr 1915, The Long-Islander (Huntington NY), p5, nyhistoricnewspapers.org"
+pubdate:  "1915-04-23"
+author: 
+title: 
+voltitle:  "The Long-Islander"
+publocation:  "Huntington NY"
+pages:  "5"
+source:  "nyhistoricnewspapers.org"
 ---
 
 Friday, April 23, 1915.

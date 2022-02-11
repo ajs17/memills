@@ -1,5 +1,12 @@
 ---
-citation: "23 Nov 1935, The Ithaca Journal (Ithaca NY), p5, newspapers.com"
+# citation: "23 Nov 1935, The Ithaca Journal (Ithaca NY), p5, newspapers.com"
+pubdate:  "1935-11-23"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "5"
+source:  "newspapers.com"
 notes: >-
     
     - Here, it would seem that Emily was using an opportunity to publicize her store instead of "M. Emily Mills" or "Emily Mills" as she would normally refer to herself. E. D. Shurter, Charles and Anna Mulks, as well as Jessie (Shurter) and Lewis Brewer are among those mentioned.

@@ -1,5 +1,12 @@
 ---
-citation: "31 Dec 1895, The Daily News (Batavia, NY), p1, nyshistoricnewspapers.org"
+# citation: "31 Dec 1895, The Daily News (Batavia NY), p1, nyshistoricnewspapers.org"
+pubdate:  "1895-12-31"
+author: 
+title: 
+voltitle:  "The Daily News"
+publocation:  "Batavia NY"
+pages:  "1"
+source:  "nyshistoricnewspapers.org"
 notes: >-
 
     - "Mr. and Mrs. W. W. McGregor" is referencing William MacGregor (10 Oct 1822 to 06 Nov 1915) and [Lucy Ann (Sumner) MacGregor](https://www.findagrave.com/memorial/75957932/lucy-ann-macgregor) (unknown to 18 May 1910). The MacGregor's name is at times misspelled as McGregor. The map of Corfu from 1876 show the MacGregors lived across the street from the former Mills home in Corfu.

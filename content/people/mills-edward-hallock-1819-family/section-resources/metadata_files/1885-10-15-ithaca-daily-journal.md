@@ -1,5 +1,12 @@
 ---
-citation: "15 Oct 1885, The Ithaca Daily Journal (Ithaca, NY), p3, nyshistoricnewspapers.org"
+# citation: "15 Oct 1885, The Ithaca Daily Journal (Ithaca NY), p3, nyshistoricnewspapers.org"
+pubdate:  "1885-10-15"
+author: 
+title: 
+voltitle:  "The Ithaca Daily Journal"
+publocation:  "Ithaca NY"
+pages:  "3"
+source:  "nyshistoricnewspapers.org"
 notes: >-
     The dates indicated are:
 

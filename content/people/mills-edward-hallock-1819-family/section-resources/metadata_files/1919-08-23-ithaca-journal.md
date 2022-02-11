@@ -1,5 +1,12 @@
 ---
-citation: "23 Aug 1919, The Ithaca Journal (Ithaca, NY), p6, newspapers.com"
+# citation: "23 Aug 1919, The Ithaca Journal (Ithaca NY), p6, newspapers.com"
+pubdate:  "1919-08-23"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "6"
+source:  "newspapers.com"
 ---
 **Brookton**
 

@@ -1,5 +1,12 @@
 ---
-citation: "24 Mar 1914, The Ithaca Journal (Ithaca, NY), p9, newspapers.com"
+# citation: "24 Mar 1914, The Ithaca Journal (Ithaca NY), p9, newspapers.com"
+pubdate:  "1914-03-24"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "9"
+source:  "newspapers.com"
 ---
 
 **BROOKTON**

@@ -1,5 +1,12 @@
 ---
-citation: "16 Jun 1917, The Ithaca Journal (Ithaca, NY), p7, newspapers.com"
+# citation: "16 Jun 1917, The Ithaca Journal (Ithaca NY), p7, newspapers.com"
+pubdate:  "1917-06-16"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "7"
+source:  "newspapers.com"
 ---
 **BROOKTON**
 

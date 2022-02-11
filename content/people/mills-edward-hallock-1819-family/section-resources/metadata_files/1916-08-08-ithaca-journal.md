@@ -1,5 +1,12 @@
 ---
-citation: "08 Aug 1916, The Ithaca Journal (Ithaca, NY), p3, newspapers.com"
+# citation: "08 Aug 1916, The Ithaca Journal (Ithaca NY), p3, newspapers.com"
+pubdate:  "1916-08-08"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "3"
+source:  "newspapers.com"
 notes: >-
     In the Mills sales journals, there may be a record of what Charles Bacon purchased during the stop mentioned.
 ---

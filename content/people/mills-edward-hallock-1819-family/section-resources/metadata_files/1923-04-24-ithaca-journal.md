@@ -1,5 +1,5 @@
 ---
-citation: "24 Apr 1923, The Ithaca Journal (Ithaca, NY), p9, newspapers.com"
+citation: "24 Apr 1923, The Ithaca Journal (Ithaca NY), p9, newspapers.com"
 notes: >-
     - It is interesting to note that the 1930 census asks if households have a "Radio set" and Emily does not indicate that she owns one.
 ---

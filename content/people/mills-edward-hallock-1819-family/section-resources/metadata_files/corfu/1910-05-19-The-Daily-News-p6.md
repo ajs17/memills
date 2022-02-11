@@ -1,5 +1,12 @@
 ---
-citation: "19 May 1910, The Daily News (Batavia, NY), p6, nyhistoricnewspapers.org."
+# citation: "19 May 1910, The Daily News (Batavia NY), p6, nyhistoricnewspapers.org."
+pubdate:  "1910-05-19"
+author: 
+title: 
+voltitle:  "The Daily News"
+publocation:  "Batavia NY"
+pages:  "6"
+source:  "nyhistoricnewspapers.org"
 ---
 MRS. W. W. MAC GREGOR.
 

@@ -1,5 +1,12 @@
 ---
-citation: "19 Jan 1938, The Ithaca Journal (Ithaca, NY), p15, newspapers.com"
+# citation: "19 Jan 1938, The Ithaca Journal (Ithaca NY), p15, newspapers.com"
+pubdate:  "1938-01-19"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "15"
+source:  "newspapers.com"
 notes: >-
     An identical notice ran the next day, Jan 20, 1938, in the Ithaca Journal.
 ---

@@ -1,5 +1,12 @@
 ---
-citation: "27 Dec 1924, The Times Union (Brooklyn, NY), p8, nyhistoricnewspapers.org."
+# citation: "27 Dec 1924, The Times Union (Brooklyn NY), p8, nyhistoricnewspapers.org."
+pubdate:  "1924-12-27"
+author: 
+title: 
+voltitle:  "The Times Union"
+publocation:  "Brooklyn NY"
+pages:  "8"
+source:  "nyhistoricnewspapers.org"
 ---
 Woman Is Killed, Run Over By Bus
 

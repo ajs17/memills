@@ -1,5 +1,12 @@
 ---
-citation: "06 Jan 1908, The Daily News (Batavia, NY), p4, nyshistoricnewspapers.org"
+# citation: "06 Jan 1908, The Daily News (Batavia NY), p4, nyshistoricnewspapers.org"
+pubdate:  "1908-01-06"
+author: 
+title: 
+voltitle:  "The Daily News"
+publocation:  "Batavia NY"
+pages:  "4"
+source:  "nyshistoricnewspapers.org"
 ---
 **Former Corfu Merchant Dead.**
 

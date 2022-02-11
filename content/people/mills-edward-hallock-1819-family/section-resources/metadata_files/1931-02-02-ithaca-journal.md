@@ -1,5 +1,12 @@
 ---
-citation: "02 Feb 1931, The Ithaca Journal (Ithaca, NY), p5, newspapers.com"
+# citation: "02 Feb 1931, The Ithaca Journal (Ithaca NY), p5, newspapers.com"
+pubdate:  "1931-02-02"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "5"
+source:  "newspapers.com"
 ---
 
 Fund To Aid Stricken Now Up To $4,456

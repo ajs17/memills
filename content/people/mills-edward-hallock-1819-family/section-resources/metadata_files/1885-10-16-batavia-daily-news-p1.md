@@ -1,5 +1,12 @@
 ---
-citation: "16 Oct 1885, The Daily News (Batavia, NY), p1, nyshistoricnewspapers.org"
+# citation: "16 Oct 1885, The Daily News (Batavia NY), p1, nyshistoricnewspapers.org"
+pubdate:  "1885-10-16"
+author: 
+title: 
+voltitle:  "The Daily News"
+publocation:  "Batavia NY"
+pages:  "1"
+source:  "nyshistoricnewspapers.org"
 notes: >-
 
     - Brookton was not uncommonly mis-transcribed as Brooklyn, which was the motivation for changing the name to Brooktondale.

@@ -1,5 +1,12 @@
 ---
-citation: "22 May 1914, The Ithaca Journal (Ithaca, NY), p11, newspapers.com"
+# citation: "22 May 1914, The Ithaca Journal (Ithaca NY), p11, newspapers.com"
+pubdate:  "1914-05-22"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "11"
+source:  "newspapers.com"
 ---
 **NINETIETH BIRTHDAY IS DULY OBSERVED**
 

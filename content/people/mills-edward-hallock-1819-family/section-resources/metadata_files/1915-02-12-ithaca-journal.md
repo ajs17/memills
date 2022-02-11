@@ -1,5 +1,12 @@
 ---
-citation: "12 Feb 1915, The Ithaca Journal (Ithaca, NY), p9, newspapers.com"
+# citation: "12 Feb 1915, The Ithaca Journal (Ithaca NY), p9, newspapers.com"
+pubdate:  "1915-02-12"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "9"
+source:  "newspapers.com"
 NOTES: >-
     William Ashley "Billy" Sunday was a professional baseball player turned Presbyterian evangelist. He emphasized temperance and the cited sermon is perhaps his most famous, said to have convinced many to quit drinking. Known for being theatrical, he was one of the first preachers to make use of radio, and he was a major influence in the prohibition movement.
 ---

@@ -1,5 +1,12 @@
 ---
-citation: "07 Aug 1920, The Ithaca Journal, p7, newspapers.com"
+# citation: "07 Aug 1920, The Ithaca Journal, p7, newspapers.com"
+pubdate:  "1920-08-07"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "7"
+source:  "newspapers.com"
 ---
 **Four Villages Will Close Stores Earlier**
 

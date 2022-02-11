@@ -1,5 +1,12 @@
 ---
-citation: "31 Jul 1935 The Ithaca Journal, p14, newspapers.com"
+# citation: "31 Jul 1935, The Ithaca Journal, p14, newspapers.com"
+pubdate:  "1935-07-31"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "14"
+source:  "newspapers.com"
 ---
 (Partial transcription.)
 

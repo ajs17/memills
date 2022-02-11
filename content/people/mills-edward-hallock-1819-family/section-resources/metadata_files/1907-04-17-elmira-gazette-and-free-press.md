@@ -1,5 +1,12 @@
 ---
-citation: "17 Apr 1907, Elmira Gazette and Free Press (Elmira, NY), p5, newspapers.com"
+# citation: "17 Apr 1907, Elmira Gazette and Free Press (Elmira NY), p5, newspapers.com"
+pubdate:  "1907-04-17"
+author: 
+title: 
+voltitle:  "Elmira Gazette and Free Press"
+publocation:  "Elmira NY"
+pages:  "5"
+source:  "newspapers.com"
 notes: >-
     Notes:
 

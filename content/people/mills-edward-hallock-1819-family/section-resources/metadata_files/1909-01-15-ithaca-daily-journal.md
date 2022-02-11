@@ -1,5 +1,12 @@
 ---
-citation: "15 Jan 1909, The Ithaca Daily Journal (Ithaca, NY), p7, nyshistoricnewspapers.org"
+# citation: "15 Jan 1909, The Ithaca Daily Journal (Ithaca NY), p7, nyshistoricnewspapers.org"
+pubdate:  "1909-01-15"
+author: 
+title: 
+voltitle:  "The Ithaca Daily Journal"
+publocation:  "Ithaca NY"
+pages:  "7"
+source:  "nyshistoricnewspapers.org"
 ---
 
 ...

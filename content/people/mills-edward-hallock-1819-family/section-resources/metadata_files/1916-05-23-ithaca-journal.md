@@ -1,5 +1,12 @@
 ---
-citation: "23 May 1916, The Ithaca Journal (Ithaca, NY), p9, newspapers.com"
+# citation: "23 May 1916, The Ithaca Journal (Ithaca NY), p9, newspapers.com"
+pubdate:  "1916-05-23"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "9"
+source:  "newspapers.com"
 ---
 **THOUGH NINETY-TWO YET DOES HOUSEWORK**
 

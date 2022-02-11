@@ -1,5 +1,12 @@
 ---
-citation: "04 Nov 1937, The Ithaca Journal (Ithaca, NY), p3, newspapers.com"
+# citation: "04 Nov 1937, The Ithaca Journal (Ithaca NY), p3, newspapers.com"
+pubdate:  "1937-11-04"
+author: 
+title: 
+voltitle:  "The Ithaca Journal"
+publocation:  "Ithaca NY"
+pages:  "3"
+source:  "newspapers.com"
 ---
 **Miss Emily Mills**
 
