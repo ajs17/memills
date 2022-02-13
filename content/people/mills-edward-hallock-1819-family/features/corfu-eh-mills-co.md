@@ -9,27 +9,27 @@ The family moves to Corfu NY in the early 1860's where Edward, along with partne
 
 The Mills, including Emily at just over one year old, are included in the 19 June 1860 Federal Census in Staten Island:
 
-{{% mefig "census/census-1860-us" "800" /%}}
+{{% fig "census/census-1860-us" "800" /%}}
 
 
 Documentation suggests the Mills family moved from Staten Island to Corfu sometime between 01 Sept 1862 and 01 May 1863, dates that correspond with tax assessment records of the time:
 
 <div class="cols">
-{{% mefig "tax-assessments/1862-09-01-District-29-Division-12" "350" /%}}
-{{% mefig "tax-assessments/1863-05-01-District-29-Division-12" "350" /%}}
+{{% fig "tax-assessments/1862-09-01-District-29-Division-12" "350" /%}}
+{{% fig "tax-assessments/1863-05-01-District-29-Division-12" "350" /%}}
 </div>
 <div class="cols">
-{{% mefig "tax-assessments/1864-05-01-District-29-Division-12" "350" /%}}
-{{% mefig "tax-assessments/1864-10-01-District-29-Division-12" "350" /%}}
+{{% fig "tax-assessments/1864-05-01-District-29-Division-12" "350" /%}}
+{{% fig "tax-assessments/1864-10-01-District-29-Division-12" "350" /%}}
 </div>
-{{% mefig "tax-assessments/1865-05-01-District-29-Division-12" "800" /%}}
+{{% fig "tax-assessments/1865-05-01-District-29-Division-12" "800" /%}}
 </div>
 
 The tax assessments are divided by "districts" then further subdivided into "divisions" at which point, individuals and businesses are listed together alphabetically. Beginning with entries recorded 01 May 1863, for district 29, division 12, and each year thereafter, there are two entries for E. H. Mills & Co. and Edward H. Mills. The 1862 document shown, recorded on 01 Sep 1862, has no such entries where they would be expected. Of course, these are just record dates, but they do give us a better defined window for when the family moved. This time period overlaps Emily's fourth birthday as well as the issuance of the Emancipation Proclamation, five days after the Battle of Antietam, the Confederate invasion of Maryland that took place just 200 miles from Castleton. However, even if we are interpreting the meaning of these documents correctly, it could still very well be that the family moved as early as the Summer of 1862. 
 
 There is also a June 1863 Civil War Draft Registration record in Genesee County for Edward where his occupation was listed as "merchant":
 
-{{% mefig "1863-edward-civil-war-draft" "800" /%}}
+{{% fig "1863-edward-civil-war-draft" "800" /%}}
 
 As can be seen in the 1863 tax assessment documents, the Mills store is entered as "Mills E. H. & Co.", showing that it was already operating by 01 May 1863, several years before the 1866 date given by Allan Starkweather in the following account, which was likely simply based on what he knew to be the earliest confirmed records of the store, which he generously provided to me in what follows:
 
@@ -42,14 +42,14 @@ The E.H. Mills General store was on the NE corner of Main and Allegheny in Corfu
 </figcaption>
 </figure>
 
-{{% mefig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "500" /%}}
+{{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "500" /%}}
 
 I believe it highly likely James *M.* Hillyer is an error, albeit, one that is repeated, but this is the only record I have of a James *M.* Hillyer in Corfu or Staten Island. I believe this is actually James *A.* Hillyer, who is another dry goods grocer in Staten Island closely associated in business with Charles Pine for many years. 
 
 
 <div class="cols">
-{{% mefig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-p198" "350" /%}}
-{{% mefig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-p201" "350" /%}}
+{{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-p198" "350" /%}}
+{{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-p201" "350" /%}}
 </div>
 
 The fact that James Hillyer was a subscriber to the directory somewhat weakens my theory that this is a mistake, but I still think that this is the more likely explanation, but far from proven.
@@ -58,43 +58,43 @@ From the documents available to me, that include city directories and census dat
 
 The following map images and associated business directories show both the E. H. Mills & Co. general store as well as the Mills' home in Corfu in the same locations in 1866 and 1876. E. H. Mills & Co. was also referred to, on these maps and directories at least, as "Mills Cash Store" or just simply "Cash Store." 
 
-{{% mefig "corfu/1866-darien-center" "800" /%}}
-{{% mefig "corfu/1866-corfu-po-map" "800" /%}}
-{{% mefig "corfu/1866-corfu-business-directory" "800" /%}}
+{{% fig "corfu/1866-darien-center" "800" /%}}
+{{% fig "corfu/1866-corfu-po-map" "800" /%}}
+{{% fig "corfu/1866-corfu-business-directory" "800" /%}}
 
 By 1876, the year that Horace died, Corfu had grown, but E. H. Mills & Co. and the Mills' home are still there:
 
-{{% mefig "corfu/1876-corfu-map" "800" /%}}
-{{% mefig "corfu/1876-corfu-map-notes" "800" /%}}
+{{% fig "corfu/1876-corfu-map" "800" /%}}
+{{% fig "corfu/1876-corfu-map-notes" "800" /%}}
 
 A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
 
-{{% mefig "corfu/1899-corfu-fire" "800" /%}}
+{{% fig "corfu/1899-corfu-fire" "800" /%}}
 
 Allan confirms the Mills' home in Corfu no longer exists.
 
 According Edward and Mary Ann's obituaries in the records of Caroline Valley Community Church, the Mills moved to Mott's Corners in Mar 1879. 
 
-{{% mefig "mills-edward-mary-cvcc-obit" "800" /%}}
+{{% fig "mills-edward-mary-cvcc-obit" "800" /%}}
 
 Their records also include confirmation that Mary Ann was a member of First Presbyterian Church of Cofu:
 
-{{% mefig "mills-mary-cvcc-join" "800" /%}}
+{{% fig "mills-mary-cvcc-join" "800" /%}}
 
 Emily would return to Corfu several times throughout her life.
 
-{{% mefig "1882-07-21-batavia-daily-news" "500" /%}}
-{{% mefig "1885-10-16-batavia-daily-news-p1" "500" /%}}
-{{% mefig "1895-12-31-daily-news-p1" "800" /%}}
-{{% mefig "1908-01-06-batavia-daily-news-p4" "500" /%}}
+{{% fig "1882-07-21-batavia-daily-news" "500" /%}}
+{{% fig "1885-10-16-batavia-daily-news-p1" "500" /%}}
+{{% fig "1895-12-31-daily-news-p1" "800" /%}}
+{{% fig "1908-01-06-batavia-daily-news-p4" "500" /%}}
 
 ## The MacGregors
 
 The MacGregors moved to Corfu near the same time as the Mills family, the maps indicate that they lived across the street from the Mills home in Corfu, and attended the Presbyterian Church with Mary Ann. 
 
-{{% mefig "corfu/1910-05-19-The-Daily-News-p6" "500" /%}}
-{{% mefig "corfu/1915-11-06-The-Daily-News-p8" "500x500" ""  "top" /%}}
-{{% mefig "corfu/1919-10-03-The-Daily-News-p10" "500" /%}}
+{{% fig "corfu/1910-05-19-The-Daily-News-p6" "500" /%}}
+{{% fig "corfu/1915-11-06-The-Daily-News-p8" "500x500" ""  "top" /%}}
+{{% fig "corfu/1919-10-03-The-Daily-News-p10" "500" /%}}
 
 
 ## Churches in Corfu 

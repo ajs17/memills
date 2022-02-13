@@ -7,7 +7,7 @@ weight: 2
 
 <!--more-->
 
-{{% mefig "mills-emily-cvcc-baptism" "800" /%}}
+{{% fig "mills-emily-cvcc-baptism" "800" /%}}
 
 April 7th fell on the Sunday after Easter in 1907. It was to be the final year of Edward's life. He and his second wife Hannah had both been members of the Church for just over a decade at that point, and depending on Edward's health at that time, we can assume that he and Hannah would have been present for the ceremony that day.
 
@@ -40,21 +40,21 @@ Notes:
 
 I could not find an account of this baptism in the Ithaca Journal, but there is this entry over a week later in the Elmira Gazette and Free Press, that, despite some glaring inaccuracies that can be explained, appears to reference the event:
 
-{{% mefig "1907-04-17-elmira-gazette-and-free-press" "500" /%}}
+{{% fig "1907-04-17-elmira-gazette-and-free-press" "500" /%}}
 
 At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. During the Reverend's tenure, she would also give occasional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
 
 This is Brookton Congregational Church as it looked at the baptism that day:
 
-{{% mefig "1907-06-13-bcc" "800" /%}}
+{{% fig "1907-06-13-bcc" "800" /%}}
 
 A view of the church as Emily would have approached it from her home and store:
 
-{{% mefig "1900s-bcc" "800" /%}}
+{{% fig "1900s-bcc" "800" /%}}
 
 This photo of the altar is also from the early 1900's, likely the 1920's:
 
-{{% mefig "1920-bcc-interior" "800" /%}}
+{{% fig "1920-bcc-interior" "800" /%}}
 
 The Deacons listed are:
 
@@ -78,7 +78,7 @@ Selected data on the participants:
 
   - Lettie Personius died at City Hospital Ithaca of gangrenous appendicitis when she was only 16. Lettie was the daughter of Postmaster Jacob Wilson Personius (1866-1906) of Caroline Depot, who was killed by a Lackawanna freight train near his home on 14 Dec 1906. Lettie's death is noted in the journals of George Jansen. 
 
-{{% mefig "1909-06-26-bcc-personius-lettie-obit" "800" /%}}
+{{% fig "1909-06-26-bcc-personius-lettie-obit" "800" /%}}
 
 [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964)
 

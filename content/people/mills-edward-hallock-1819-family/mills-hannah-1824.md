@@ -15,7 +15,7 @@ Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Br
 </p>
 </blockquote>
 
-{{% metable "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Hannah" %}}
+{{% table "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Hannah" %}}
 
 Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward's marriage to Hannah and identifies Edward's parents:
 
@@ -48,27 +48,27 @@ Age: 72
 The 1896 New York State Marriage Index also traces Hannah back to her maiden name, with the identfication number 25877:
 
 <div class="cols">
-{{% mefig "1896-nys-marriage-index-241" "250" /%}}
-{{% mefig "1896-nys-marriage-index-563" "250" /%}}
-{{% mefig "1896-nys-marriage-index-816" "250" /%}}
+{{% fig "1896-nys-marriage-index-241" "250" /%}}
+{{% fig "1896-nys-marriage-index-563" "250" /%}}
+{{% fig "1896-nys-marriage-index-816" "250" /%}}
 </div>
 
 Edward and Hannah joined the church just weeks before their wedding:
 
-{{% mefig "1896-12-14-bcc-mills-edward-hannah-received" "800" /%}}
+{{% fig "1896-12-14-bcc-mills-edward-hannah-received" "800" /%}}
 
-{{% mefig "1895-12-13-edward-hannah-join-church" "800" /%}}
+{{% fig "1895-12-13-edward-hannah-join-church" "800" /%}}
 
-{{% mefig "1897-01-07-The-Ithaca-Daily-Journal-p6" "500" /%}}
+{{% fig "1897-01-07-The-Ithaca-Daily-Journal-p6" "500" /%}}
 
-{{% mefig "1908-12-17-The-Ithaca-Daily-Journal-p7" "500" /%}}
+{{% fig "1908-12-17-The-Ithaca-Daily-Journal-p7" "500" /%}}
 
-{{% mefig "1914-bcc-mills-emily" "500" /%}}
+{{% fig "1914-bcc-mills-emily" "500" /%}}
 
 My impressions of Hannah are that she was an active and outgoing woman who was much loved in the community.
 
-{{% mefig "1914-01-17-ithaca-journal" "500" /%}}
-{{% mefig "1914-05-22-ithaca-journal" "500" /%}}
+{{% fig "1914-01-17-ithaca-journal" "500" /%}}
+{{% fig "1914-05-22-ithaca-journal" "500" /%}}
 </div>
 
 [Reverend Elder Charles Bogardus (1843-1925)](https://www.findagrave.com/memorial/98809451/charles-bogardus) was also postmaster of the White Church postoffice, from 27 Aug 1886 to 5 Jul 1892. He would eventually officiate Hannah's funeral. 
@@ -77,51 +77,51 @@ Hannah apparently had what must have been of very worrying health episode. This 
 
 
 <div class="cols">
-  {{% mefig "1914-10-26-ithaca-journal" "350" /%}}
-  {{% mefig "1914-10-31-ithaca-journal" "350" /%}}
+  {{% fig "1914-10-26-ithaca-journal" "350" /%}}
+  {{% fig "1914-10-31-ithaca-journal" "350" /%}}
 </div>
 
 <div class="cols">
-  {{% mefig "1914-11-03-ithaca-journal" "350" /%}}
-  {{% mefig "1914-11-07-ithaca-journal" "350" /%}}
+  {{% fig "1914-11-03-ithaca-journal" "350" /%}}
+  {{% fig "1914-11-07-ithaca-journal" "350" /%}}
 </div>
 
-{{% mefig "1914-11-12-ithaca-journal" "500" /%}}
-{{% mefig "1914-12-05-ithaca-journal" "500" /%}}
+{{% fig "1914-11-12-ithaca-journal" "500" /%}}
+{{% fig "1914-12-05-ithaca-journal" "500" /%}}
 
 <div class="cols">
-  {{% mefig "1915-01-12-ithaca-journal" "350" /%}}
-  {{% mefig "1915-02-09-ithaca-journal" "350" /%}}
+  {{% fig "1915-01-12-ithaca-journal" "350" /%}}
+  {{% fig "1915-02-09-ithaca-journal" "350" /%}}
 </div>
 
-{{% mefig "1915-02-12-ithaca-journal" "500" /%}}
+{{% fig "1915-02-12-ithaca-journal" "500" /%}}
 
 <div class="cols">
-  {{% mefig "1915-02-22-ithaca-journal" "350" /%}}
-  {{% mefig "1915-03-03-ithaca-journal" "350" /%}}
+  {{% fig "1915-02-22-ithaca-journal" "350" /%}}
+  {{% fig "1915-03-03-ithaca-journal" "350" /%}}
 </div>
 
-{{% mefig "1916-05-23-ithaca-journal" "500" /%}}
+{{% fig "1916-05-23-ithaca-journal" "500" /%}}
 
 Hannah died, and her funeral was subsequently held, within the Mills Home.
 
-{{% mefig "george-jansen-hannah-sick-entry" "800" /%}}
-{{% mefig "george-jansen-hannah-death-entry" "800" /%}}
-{{% mefig "mills-hannah-cvcc-obit" "800" /%}}
+{{% fig "george-jansen-hannah-sick-entry" "800" /%}}
+{{% fig "george-jansen-hannah-death-entry" "800" /%}}
+{{% fig "mills-hannah-cvcc-obit" "800" /%}}
 
-{{% mefig "1917-02-26-ithaca-journal" "500" /%}}
-{{% mefig "1917-02-27-ithaca-journal" "800" /%}}
+{{% fig "1917-02-26-ithaca-journal" "500" /%}}
+{{% fig "1917-02-27-ithaca-journal" "800" /%}}
 
-{{% mefig "1917-02-28-George-Jansen" "800" /%}}
+{{% fig "1917-02-28-George-Jansen" "800" /%}}
 
-{{% mefig "1917-03-03-ithaca-journal" "500" /%}}
-{{% mefig "1917-03-28-ithaca-journal" "500" /%}}
+{{% fig "1917-03-03-ithaca-journal" "500" /%}}
+{{% fig "1917-03-28-ithaca-journal" "500" /%}}
 
 As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastman died shortly after her:
 
-{{% mefig "1917-03-29-George-Jansen" "800" /%}}
+{{% fig "1917-03-29-George-Jansen" "800" /%}}
 
-{{% mefig "1917-05-08-ithaca-journal" "500" /%}}
-{{% mefig "1917-06-16-ithaca-journal" "800" /%}}
+{{% fig "1917-05-08-ithaca-journal" "500" /%}}
+{{% fig "1917-06-16-ithaca-journal" "800" /%}}
 
 [Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850.

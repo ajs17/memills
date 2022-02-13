@@ -35,14 +35,14 @@ Aside from the members of the Mills family, the following people are mentioned i
 
 A summary of the documents:
 
-{{% metable "deeds.csv" "mills-home-deeds" "instrument-num,book,book-num,page-num,document-date,recorded-date,first-party,second-party,amount" "" "property" "=" "Mills Home" %}}
+{{% table "deeds.csv" "mills-home-deeds" "instrument-num,book,book-num,page-num,document-date,recorded-date,first-party,second-party,amount" "" "property" "=" "Mills Home" %}}
 
-{{% mefig "mills-home/138-329" "800" /%}}
-{{% mefig "mills-home/157-593" "800" /%}}
-{{% mefig "mills-home/475-deed-pg-1" "800" /%}}
-{{% mefig "mills-home/475-deed-pg-2" "800" /%}}
-{{% mefig "mills-home/475-deed-pg-3" "800" /%}}
-{{% mefig "mills-home/475-deed-pg-4" "800" /%}}
-{{% mefig "mills-home/475-deed-pg-5" "800" /%}}
-{{% mefig "mills-home/475-deed-pg-6" "800" /%}}
+{{% fig "mills-home/138-329" "800" /%}}
+{{% fig "mills-home/157-593" "800" /%}}
+{{% fig "mills-home/475-deed-pg-1" "800" /%}}
+{{% fig "mills-home/475-deed-pg-2" "800" /%}}
+{{% fig "mills-home/475-deed-pg-3" "800" /%}}
+{{% fig "mills-home/475-deed-pg-4" "800" /%}}
+{{% fig "mills-home/475-deed-pg-5" "800" /%}}
+{{% fig "mills-home/475-deed-pg-6" "800" /%}}
 

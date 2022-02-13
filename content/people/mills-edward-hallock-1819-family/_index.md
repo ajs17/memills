@@ -5,7 +5,7 @@ date: "2021-05-25"
 mainid: "index" 
 hideAutoListDisplay: true
 cascade:
-    defaultPageBundle: "/people/mills-edward-hallock-1819-family/section-resources"
+    defaultPageBundle: "/people/mills-edward-hallock-1819-family/assets"
 
 ---
 
@@ -20,7 +20,7 @@ This publication attempts to document all extant information on the family of Ed
 
 ## Family Photographs
 
-{{% mefig "portraits/jamesthomasmills" "300" /%}}
+{{% fig "portraits/jamesthomasmills" "300" /%}}
 
 {{% list-children "" "Family Members" %}}
 {{% list-children "features" %}}
@@ -40,7 +40,7 @@ This publication attempts to document all extant information on the family of Ed
 
 The following represents a summary of all of the data that I have been able to access. 
 
-{{% metable "census-data.csv" "census-all" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" %}}
+{{% table "census-data.csv" "census-all" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" %}}
 
 According to [newyorkfamilyhistory.org](https://www.newyorkfamilyhistory.org/):
     
@@ -55,24 +55,24 @@ According to [newyorkfamilyhistory.org](https://www.newyorkfamilyhistory.org/):
 The source documents are:
 
 <div class="cols">
-{{% mefig "census/census-1860-us" "250" /%}}
-{{% mefig "census/census-1870-us" "250" /%}}
-{{% mefig "census/census-1875a-nys" "250" /%}}
+{{% fig "census/census-1860-us" "250" /%}}
+{{% fig "census/census-1870-us" "250" /%}}
+{{% fig "census/census-1875a-nys" "250" /%}}
 </div>
 <div class="cols">
-{{% mefig "census/census-1880-us" "250" /%}}
-{{% mefig "census/census-1892a-nys" "250" /%}}
-{{% mefig "census/census-1892b-nys" "250" /%}}
+{{% fig "census/census-1880-us" "250" /%}}
+{{% fig "census/census-1892a-nys" "250" /%}}
+{{% fig "census/census-1892b-nys" "250" /%}}
 </div>
 <div class="cols">
-{{% mefig "census/census-1900-us" "250" /%}}
-{{% mefig "census/census-1905-nys" "250" /%}}
-{{% mefig "census/census-1910-us" "250" /%}}
+{{% fig "census/census-1900-us" "250" /%}}
+{{% fig "census/census-1905-nys" "250" /%}}
+{{% fig "census/census-1910-us" "250" /%}}
 </div>
 <div class="cols">
-{{% mefig "census/census-1915-nys" "250" /%}}
-{{% mefig "census/census-1920-us" "250" /%}}
-{{% mefig "census/census-1930-us" "250" /%}}
+{{% fig "census/census-1915-nys" "250" /%}}
+{{% fig "census/census-1920-us" "250" /%}}
+{{% fig "census/census-1930-us" "250" /%}}
 </div>
 
 

@@ -1,0 +1,30 @@
+Author	Dripps, Matthew
+Date	1872
+Short Title	Composite: Staten Island.
+Publisher	M. Dripps
+Publisher Location	New York
+Type	Composite Map
+Obj Height cm	114
+Obj Width cm	67
+Scale 1	253,440
+Note	Digital composite of colored map on linen (2 sheets) The top half covers from Richmond to Brighton with everything south of Richmond to Wards Point on the bottom section. Mounted in 19x12 leather covered case. Oriented with north toward upper left. Shows buildings, landowners, roads, railroads, marshes, forests, etc.
+State/Province	New York
+City	Staten Island (New York, N.Y.)
+Full Title	(Composite of) Map of Staten Island (Richmond Co.) N.Y. Also cities of Bayonne & Perth Amboy, and village of Woodbridge, N.J. Shewing topography, farms, shore soundings &c. Published by M. Dripps, 34 Vesey St., N.Y. Mayer & Merkel, Lith., 24 Church St., N.Y. 1872.
+List No	5462.003
+Series No	4
+Engraver or Printer	Mayer & Merkel
+Publication Author	Dripps, Matthew
+Pub Date	1872
+Pub Title	Map of Staten Island (Richmond Co.) N.Y. Also cities of Bayonne & Perth Amboy, and village of Woodbridge, N.J. Shewing topography, farms, shore soundings &c. Published by M. Dripps, 34 Vesey St., N.Y. Mayer & Merkel, Lith., 24 Church St., N.Y. 1872.
+Pub Note	See note field above.
+Pub List No	5462.000
+Pub Type	Pocket Map
+Pub Maps	2
+Pub Height cm	19
+Pub Width cm	12
+Image No	5462003
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0117/5462003.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Dripps, Matthew
+Collection	Rumsey Collection

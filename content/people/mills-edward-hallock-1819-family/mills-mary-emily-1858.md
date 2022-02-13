@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 5
 ---
 
-Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY, who went by Emily, was the youngest child of Edward H. and Mary Ann Mills. Proprietor of [**M. E. Mills**]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktonale Congregational Church. She was highly regarded as a cheerful, kind, and charitable person.
+Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY, who went by Emily, as well as "M. E. Mills" or M. Emily Mills in more formal contexts. Youngest child of Edward H. and Mary Ann Mills. Proprietor of [**M. E. Mills**]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktonale Congregational Church. She was highly regarded as a cheerful, kind, and charitable person.
 
 <!--more-->
 
@@ -16,21 +16,21 @@ Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale
 <p>"If everyone to whom Miss Mills extended a helpful hand were to place a floral emblem upon her grave, she would sleep today amidst a wilderness of flowers."</p>
 </blockquote>
 
-{{% metable "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" "Summary of Census Data" %}}
+{{% table "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" "Summary of Census Data" %}}
 
 Emily was likely named for one of her ancestors, although, as the name Mary is quite common within both the Mills and Hallock families, there are several candidates for whom. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she would typically use "M. Emily Mills", particularly in later years.
 
 The date of birth on Emily's headstone is incorrect:
 
-{{% mefig "today/grave-emily/feature" "800" /%}}
+{{% fig "today/grave-emily/feature" "800" /%}}
 
 She is listed with her family in the 1860 Federal Census:
 
-{{% mefig "census/census-1860-us" "800" /%}}
+{{% fig "census/census-1860-us" "800" /%}}
 
-Furthermore, in her entry in the 1900 US census, Emily indicates her birth date is "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetieme, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolves to 1858 as indicated in the "Computed birthyear" column above. Given that these were self-reported by Emily, and we don't know the origin of the (I might add, less specific) 1861 date (Emily likely died before making her own funeral arrangements, and like her father, she died without a will), December 1858 seems the more accurate date and will be used going forward, implying the grave stone is in error.
+Furthermore, in her entry in the 1900 US census, Emily indicates her birth date is "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetime, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolves to 1858 as indicated in the "Computed birthyear" column above. Given that these were self-reported by Emily, and we don't know the origin of the (I might add, less specific) 1861 date (Emily likely died before making her own funeral arrangements, and like her father, she died without a will), December 1858 seems the more accurate date and will be used going forward, implying the grave stone is in error.
 
-{{% mefig "census/census-1900-us-inset" "800" /%}}
+{{% fig "census/census-1900-us-inset" "800" /%}}
 
 I have been in contact with two people at Brookton Cemetery who have both looked into the matter, and they each confirmed that the only information they have on Emily is the name and plot number "and what is on the headstone". There is no indication who made the funeral arrangements for Emily, who the plot was sold to, or any information that might shed light on the erroneous birth year. 
 
@@ -40,50 +40,50 @@ Documentation suggests the Mills family moved from Staten Island to Corfu someti
 
 Emily would return to Corfu in later years to bury Jonas, Mary Ann and Edward. But it would seem that she also returned to visit her school friends, at least this one time, surely with many mixed emotions.
 
-{{% mefig "1882-07-21-batavia-daily-news" "500" /%}}
+{{% fig "1882-07-21-batavia-daily-news" "500" /%}}
 
 The only thing we really know about Emily's earliest years in Mott's Corners/Brookton is that she was active in the local "lodge" of the temperance organization, the [Independent Order of Good Templars]({{% ref "features/temperance" %}}). At least by the 1890's, Emily was working as a clerk in her father's store.
 
 Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes, we have many examples of Emily's handwriting from this time. 
 
-{{% mefig "temperance/1886-04-23" "800" /%}}
+{{% fig "temperance/1886-04-23" "800" /%}}
 
 There are also a number of volumes of sales journals from [M. E. Mills]({{% ref "features/me-mills" %}}) in Emily's handwriting (and certainly Ellen Gould's handwriting must also be present in those books). 
 
-{{% mefig "handwriting/sig3" "800" /%}}
+{{% fig "handwriting/sig3" "800" /%}}
 
 <div class="cols">
-  {{% mefig "handwriting/sig1" "350" /%}}
-  {{% mefig "handwriting/sig2" "350" /%}}
+  {{% fig "handwriting/sig1" "350" /%}}
+  {{% fig "handwriting/sig2" "350" /%}}
 </div>
 
 A number of aspects of Emily's handwriting are quite distinctive—such as uppercase E's, M's, W's, C's, T's and F's as well as lowercase p's are often written with similar idiosyncracies. Note for example, the following entry in M. E. Mills sales journals, a close examination of which will reveal is entirely written by Emily. Notice how even though she is writing the same word on the same day, from one entry to the next, how she writes her uppercase T can vary in one of two ways, each quite distinctive in itself. It can either swoop down from the top and finish with a flourishing loop behind it, or can be two strokes of the pen, one down, and the cross rises and falls, the opposite of the cross in the other T. Notice that on James Caveney's entry, we get the flourishing T, but the capital F afterward on the same line item shows the mushroom cap shape characteristic of her other style of writing T:  
 
-{{% mefig "me-mills/1909-03-26-sales-journal" "800" /%}}
+{{% fig "me-mills/1909-03-26-sales-journal" "800" /%}}
 
 Her E's C's L's and J's tend to have big loops. Her lowercase p's practically pierce the line above it. And of course, her T's and F's have those distinctive crosses. Her handwriting is easily recognizable, and when others (most likely Ellen Gould) make entries in the Mill's store journals, it sticks out.
 
 Jonas would die unexpectedly from a brief illness on 14 October 1885. Whether Emily worked in the store prior to Jonas' death, by 1892, she lists herself as clerk in the state census. And here we get a small glimpse of Emily's interests around that time:
 
-{{% mefig "mills-emily-arthurs-home-magazine" "500" /%}}
+{{% fig "mills-emily-arthurs-home-magazine" "500" /%}}
 
 It seems that Emily acted as nurse at the end of her mother's life: 
 
-{{% mefig "1895-12-31-daily-news-p1" "800" /%}}
+{{% fig "1895-12-31-daily-news-p1" "800" /%}}
 
 In 1907, Emily would officially join the membership roll of Brookton Congregational Church, along with 10 other single women, in a baptism ceremony officiated by Reverend Annis Ford Eastman. Less than a year later, Emily was teaching Sunday School and continued working every day in the store, when Edward died and Emily made another heartbreaking trip to Evergreen Hill Cemetery in Corfu.
 
-{{% mefig "mills-emily-cvcc-baptism" "800" "img,blockquote,cite,link" /%}}
+{{% fig "mills-emily-cvcc-baptism" "800" "img,blockquote,cite,link" /%}}
 
 A closer examination of the circumstances around the baptism can be found [here]({{% ref "baptism" %}}). It is unclear what Emily's religious outlook was before being baptized, but at least from that point on, Emily's faith was a very important part of her life. 
 
 This photo, taken on 13 Jun 1907 shows the Congregational Church as Emily knew it then, with the original steeple:
 
-{{% mefig "1907-06-13-bcc" "800" /%}}
+{{% fig "1907-06-13-bcc" "800" /%}}
 
 Emily, along with many of the others baptized with her, immediately became deeply involved in church activities, a level of commitment they would sustain the rest of their lives. Emily was a Sunday School teacher, and possibly taught classes specifically for adults. There are newspaper accounts detailed below of her organizing bible study groups and prayer meetings in her home. In the following report, dated the eve of Edward's death, we see that in the months immediately after joining the church, Emily taught a class with an average attendance of five students: 
 
-{{% mefig "1907-12-31-bcc-sunday-school" "500" /%}}
+{{% fig "1907-12-31-bcc-sunday-school" "500" /%}}
 
 Gertrude Conant mentions that Emily played the piano or organ in the Church. The church historical records, as one would naturally expect, cover topics unevenly over the years. Concerning the piano/organ: there was an organ in the church at one time, but it was destroyed by mice. The roles of pianist/organist and that of assistant pianist/organist, were for a time at least, positions that were voted on at the annual meetings just as the roles of secretary and treasurer were. I have not found a reference to Emily being in either of those roles, but there are many years where these roles are not noted at all, so unless Gertrude is mis-remembering, without her noting this detail, this aspect of Emily's life would be lost. (Anna Mulks and Cassie Landon were several times noted in these roles.)
 
@@ -98,23 +98,23 @@ Originally a pipe organ stood on a raised platform (for choir) at the back of th
 
 Annual meetings were typically held the first Monday in January, in the afternoon or evening. A small group attended and Emily is not noted as attending these, despite being voted as Treasurer and being acknowledged as filling that role for at least two years:
 
-{{% mefig "1912-bcc-mills-emily-treasurer" "500"/%}}
-{{% mefig "1914-bcc-mills-emily-treasurer" "800" /%}}
-{{% mefig "1921-12-18-bcc-mills-emily" "800" /%}}
-{{% mefig "1914-bcc-mills-emily" "500" /%}}
-{{% mefig "bcc-mills-emilyb" "800" /%}}
-{{% mefig "bcc-mills-emily" "800" /%}}
+{{% fig "1912-bcc-mills-emily-treasurer" "500"/%}}
+{{% fig "1914-bcc-mills-emily-treasurer" "800" /%}}
+{{% fig "1921-12-18-bcc-mills-emily" "800" /%}}
+{{% fig "1914-bcc-mills-emily" "500" /%}}
+{{% fig "bcc-mills-emilyb" "800" /%}}
+{{% fig "bcc-mills-emily" "800" /%}}
 
 Emily continued to be involved in temperance, for some period of time, a member of the Women's Christian Temperance Union, along with her step-mother Hannah. This is almost certainly unknowable now, but I have wondered if Hannah was introduced to Edward through the Emily's involvement with the W. C. T. U. 
 
-{{% mefig "temperance/1917-wctu-directory-p8" "500" /%}}
+{{% fig "temperance/1917-wctu-directory-p8" "500" /%}}
 
 <div class="cols">
-  {{% mefig "1908-01-06-ithaca-daily-journal" "350" /%}}
-  {{% mefig "1908-01-06-batavia-daily-news-p4" "350" /%}}
+  {{% fig "1908-01-06-ithaca-daily-journal" "350" /%}}
+  {{% fig "1908-01-06-batavia-daily-news-p4" "350" /%}}
 </div>
 
-{{% mefig "1908-04-07-The-Ithaca-Daily-Journal-p3" "500" /%}}
+{{% fig "1908-04-07-The-Ithaca-Daily-Journal-p3" "500" /%}}
 
 Edward died "intestate", without a will, and until 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills home and Mills store assets. Emily followed her father's example and renamed the store *M. E. Mills*. When Hannah passed less than a decade later, Emily would inherit all assets and property.
 
@@ -154,91 +154,91 @@ These descriptions of Emily's demeanor are consistent with the personal recollec
 
 Due to the level of detail given to the context of this story, I am choosing to include the entire text and not just Emily's section:
 
-{{% mefig "1909-01-15-ithaca-daily-journal" "500" /%}}
-{{% mefig "1913-12-06-ithaca-daily-journal" "500" /%}}
+{{% fig "1909-01-15-ithaca-daily-journal" "500" /%}}
+{{% fig "1913-12-06-ithaca-daily-journal" "500" /%}}
 
 Emily, Edward, and Hannah are mentioned in the diaries of George Jansen. George notes in a number of entries throughout the years that he did odd jobs for Emily, such as painting her home and the store as well as planting her garden. 
 
-{{% mefig "1917-02-23-George-Jansen" "800" /%}}
-{{% mefig "1917-03-20-ithaca-journal" "500" /%}}
+{{% fig "1917-02-23-George-Jansen" "800" /%}}
+{{% fig "1917-03-20-ithaca-journal" "500" /%}}
 
-{{% mefig "1917-03-21-George-Jansen" "800" /%}}
-{{% mefig "1917-05-16-George-Jansen" "800" /%}}
-{{% mefig "1917-06-02-George-Jansen" "800" /%}}
+{{% fig "1917-03-21-George-Jansen" "800" /%}}
+{{% fig "1917-05-16-George-Jansen" "800" /%}}
+{{% fig "1917-06-02-George-Jansen" "800" /%}}
 
 It seems likely that Emily grew a garden not just for her own use, but to have fresh vegetables to sell in her store:
 
-{{% mefig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "800" /%}}
+{{% fig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "800" /%}}
 
 <div class="cols">
-  {{% mefig "1917-12-13-ithaca-journal" "350" /%}}
-  {{% mefig "1918-10-15-ithaca-journal" "350x300" "" "top" /%}}
+  {{% fig "1917-12-13-ithaca-journal" "350" /%}}
+  {{% fig "1918-10-15-ithaca-journal" "350x300" "" "top" /%}}
 </div>
 
-{{% mefig "1923-04-24-ithaca-journal" "500" /%}}
+{{% fig "1923-04-24-ithaca-journal" "500" /%}}
 
 George Jansen painted Emily's home in the Summer of 1924: 
 
-{{% mefig "1924-06-11-George-Jansen" "800" /%}}
-{{% mefig "1924-06-13-George-Jansen" "800" /%}}
-{{% mefig "1924-06-18-George-Jansen" "800" /%}}
-{{% mefig "1924-06-23-George-Jansen" "800" /%}}
-{{% mefig "1924-06-25-George-Jansen" "800" /%}}
-{{% mefig "1924-06-29-George-Jansen" "800" /%}}
-{{% mefig "1924-painting-George-Jansen" "800" /%}}
+{{% fig "1924-06-11-George-Jansen" "800" /%}}
+{{% fig "1924-06-13-George-Jansen" "800" /%}}
+{{% fig "1924-06-18-George-Jansen" "800" /%}}
+{{% fig "1924-06-23-George-Jansen" "800" /%}}
+{{% fig "1924-06-25-George-Jansen" "800" /%}}
+{{% fig "1924-06-29-George-Jansen" "800" /%}}
+{{% fig "1924-painting-George-Jansen" "800" /%}}
 
 <div class="cols">
-  {{% mefig "1924-05-10-ithaca-journal" "350" /%}}
-  {{% mefig "1924-10-14-ithaca-journal" "350" /%}}
-</div>
-
-<div class="cols">
-  {{% mefig "1924-09-04-ithaca-journal" "350" /%}}
-  {{% mefig "1925-01-14-ithaca-journal" "350" /%}}
-</div>
-<div class="cols">
-  {{% mefig "1925-03-11-ithaca-journal" "350" /%}}
-  {{% mefig "1925-04-08-ithaca-journal" "350" /%}}
-</div>
-<div class="cols">
-  {{% mefig "1925-12-17-ithaca-journal" "350" /%}}
-  {{% mefig "1926-01-12-ithaca-journal" "350" /%}}
+  {{% fig "1924-05-10-ithaca-journal" "350" /%}}
+  {{% fig "1924-10-14-ithaca-journal" "350" /%}}
 </div>
 
 <div class="cols">
-  {{% mefig "1926-10-30-ithaca-journal" "350" /%}}
-  {{% mefig "1931-02-02-ithaca-journal" "350x300" "" "top" /%}}
+  {{% fig "1924-09-04-ithaca-journal" "350" /%}}
+  {{% fig "1925-01-14-ithaca-journal" "350" /%}}
 </div>
 <div class="cols">
-  {{% mefig "1935-12-05-ithaca-journal" "350" /%}}
-  {{% mefig "1936-06-22-ithaca-journal" "350" /%}}
+  {{% fig "1925-03-11-ithaca-journal" "350" /%}}
+  {{% fig "1925-04-08-ithaca-journal" "350" /%}}
+</div>
+<div class="cols">
+  {{% fig "1925-12-17-ithaca-journal" "350" /%}}
+  {{% fig "1926-01-12-ithaca-journal" "350" /%}}
 </div>
 
-{{% mefig "1937-02-09-ithaca-journal" "500x500" "" "top" /%}}
+<div class="cols">
+  {{% fig "1926-10-30-ithaca-journal" "350" /%}}
+  {{% fig "1931-02-02-ithaca-journal" "350x300" "" "top" /%}}
+</div>
+<div class="cols">
+  {{% fig "1935-12-05-ithaca-journal" "350" /%}}
+  {{% fig "1936-06-22-ithaca-journal" "350" /%}}
+</div>
+
+{{% fig "1937-02-09-ithaca-journal" "500x500" "" "top" /%}}
 
 Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on 10 Oct 1937. She would spend the last several weeks of her life in Memorial Hospital in Ithaca where she died on November 3, at 78 years old, a few weeks shy of 79 years old. Presumably, she was the first in her family not to die within the walls of the Mills home. 
 
-{{% mefig "1937-10-15-ithaca-journal" "500" /%}}
-{{% mefig "1937-10-20-ithaca-journal" "500" /%}}
-{{% mefig "1937-11-03-ithaca-journal" "500" /%}}
-{{% mefig "1937-11-04-ithaca-journal" "500" /%}}
+{{% fig "1937-10-15-ithaca-journal" "500" /%}}
+{{% fig "1937-10-20-ithaca-journal" "500" /%}}
+{{% fig "1937-11-03-ithaca-journal" "500" /%}}
+{{% fig "1937-11-04-ithaca-journal" "500" /%}}
 
-{{% mefig "1937-11-05-ithaca-journal" "500" /%}}
+{{% fig "1937-11-05-ithaca-journal" "500" /%}}
 
 This moving tribute was authored by E. D. Shurter, a Brookton native who was at different times, an attorney, a college professor and a nationally renowned orator and author. This is Emily's only known obituary and is referenced elsewhere as such:
 
-{{% mefig "1937-11-11-ithaca-journal" "500" /%}}
+{{% fig "1937-11-11-ithaca-journal" "500" /%}}
 
 The professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, we can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't fully appreciate some of the most important aspects of Emily's life, most notably, her charity, One senses that the professor understood he was writing what would be the definitive statement of her life for the ages, and indeed, in several histories where Emily is mentioned, her only description consists of the text of this tribute, in its entirety, without further comment. 
 
 The professor makes it clear that charity was one of Emily's defining characteristics. The news clippings above give a sense of her contributions to the Red Cross, and of course, the W. C. T. U. did considerable charitable work. We have many sales journals of [M. E. Mills general store]({{% ref "features/me-mills" %}}) and know that it was common practice for Emily's customers to have accounts that they likely paid monthly. The professor seems to indicate that perhaps she allowed more time for payment to those who needed it. We can also see evidence here and there of direct donations from her store that she counted against her own account as "Goods for Charity":
 
-{{% mefig "me-mills/1909-03-26-emily-mills-entry-p554" "800" /%}}
+{{% fig "me-mills/1909-03-26-emily-mills-entry-p554" "800" /%}}
 
 There are also entries in the historical records of Caroline Valley Federated Church of extra donations made to the church by both Hannah and Emily among other members. By agreement with the Church, I have not reproduced any financial records here.
 
-{{% mefig "1937-11-26-ithaca-journal" "500" /%}}
-{{% mefig "1938-01-19-ithaca-journal" "500" /%}}
+{{% fig "1937-11-26-ithaca-journal" "500" /%}}
+{{% fig "1938-01-19-ithaca-journal" "500" /%}}
 
 The fact that only the birth and death dates are given on Emily's stone, and that even then, the birth year is incorrect, and by more than just a year, suggests that Emily's final arrangements were made by one or more people in Brooktondale, and likely someone from the Congregational Church, Jessie Brewer being the most likely candidate, although E. D. Shurter is also probable. This would further imply that Emily no longer had contact with any Mills family descendants on Long Island.
 
@@ -258,7 +258,7 @@ Emily is mentioned twice by Molly Adams in her chapter *Town of Caroline* in **T
 
 As indicated elsewhere, George Jansen predeceased Emily by two years. The entry that Molly must have been referring to is the mention of Edward's death:
 
-{{% mefig "george-jansen-ehmills-entry" "500" "img,cite" /%}}
+{{% fig "george-jansen-ehmills-entry" "500" "img,cite" /%}}
 
 And in the following, Molly seems to indicate that "at the store" was referring to what we know today as Brookton's Market, owned by Robert (Bob) Tucker at that time, and not M. E. Mills, although her choice of words is noticeably vague on the point. Presumably, I can find the original quote and get a better sense of this, but its not obvious that this isn't referring to Mills' store:
 
@@ -268,7 +268,7 @@ And in the following, Molly seems to indicate that "at the store" was referring 
 
 The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store, and facing the former Lockwood residence. 
 
-{{% mefig "lockwood-memorial" "500" /%}}
+{{% fig "lockwood-memorial" "500" /%}}
 
 Emily is not mentioned by name, but is implicitly referenced in a photo caption of a portrait of Jessie Brewer published in 2016, "Around Caroline" by Patricia A. Brhel, p23:
 
@@ -278,16 +278,16 @@ Jesse Brewer ran a dry goods store in Brooktondale, selling fabric, ribbon, gree
 
 Gertrude Conant's personal recollections provide valuable details, including physical descriptions of Emily and her store as well as reflections on her personality. If not for Gertrude, these precious details would be long forgotten.
 
-{{% mefig "conant-gertrude-1" "800" /%}}
-{{% mefig "conant-gertrude-2" "800" /%}}
+{{% fig "conant-gertrude-1" "800" /%}}
+{{% fig "conant-gertrude-2" "800" /%}}
 
 Shortly after I moved into the Mills' home in Brooktondale, Molly Adams visited me to sign me up for the Old Mill newsletter, and to give me the following history of Emily Mills and her store. I have since been told that this was a ritual Molly performed with other newcomers. Although I read this "Note" with some interest initially, I didn't appreciate its importance until several years too late to ask Molly to teach me more. I at least had the foresight to save it somewhere I could find it again years later when I needed it. I revisit this often, still mining it for clues about Emily, trying to learn what Molly knew. Despite its title, this exceptional account is more about the M. E. Mills store than it is about Emily herself. As I've done my own research, it does seem that much of what we know about Emily is in relation to the store in some way, and perhaps that is to be expected.
 
-{{% mefig "a-note-on-emily-mills" "800" /%}}
+{{% fig "a-note-on-emily-mills" "800" /%}}
 
 In the Caroline History Room, there is a copy of Molly's familiar-looking research notes that organizes her research on the Mills family and forms the basis of the more narrative "Note" above. Although largely a repetition of what is in the "Note" and elsewhere, this document is important as it contains further historical context and most importantly, indicates the sources of the quotes in the "Note" as well as the fact that the "leatherette booklet" was accessioned by the History Room. It also shows that Gertrude taught Molly much of what she knew about M. E. Mills in particular
 
-{{% mefig "a-note-on-emily-mills-research-notes" "800" /%}}
+{{% fig "a-note-on-emily-mills-research-notes" "800" /%}}
 
 The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner of the Mills Home would be, and was designed specifically to pique interest in Emily. 
 
@@ -316,8 +316,8 @@ In Gertrude Conant's recollections, she notes that Ellen Gould "looked a great d
 
 There is an intriguing photo in Around Caroline by Patricia A. Brhel that shows a woman minding a general store, with no indication which general store in Caroline it is:
 
-{{% mefig "emily/around-caroline-p85" "800" /%}}
-{{% mefig "emily/around-caroline-cropped-p85" "800" /%}}
+{{% fig "emily/around-caroline-p85" "800" /%}}
+{{% fig "emily/around-caroline-cropped-p85" "800" /%}}
 
 My sense is that this is probably not Emily, but obviously this needs to be investigated further. Barbara Kone believes that this photo did not come from the Caroline History Room, and multiple attempts to contact Patricial Brhel have been unsuccessful.
 
@@ -325,10 +325,12 @@ I believe there is ample contextual evidence to suggest that Emily was a member 
 
 I believe that the reference to "Bertha Mills" in the 1914 American Agriculturist Farm Directory shown below is in fact a misprinted reference to Emily. I have yet found no evidence of a Bertha Mills in Brookton at that time, and everything but the reference to the road on the map in that volume fits Emily. As for the map reference, I would point out that the same road reference is given for Dr. Lockwood and Frank Mulks, Emily's neighbors on what is now Brooktondale Road, who are listed on the same page:
 
-{{% mefig "emily/yatesschuylertom00oran_0212" "800" /%}}
-{{% mefig "emily/yatesschuylertom00oran_0449-zoomed" "500" /%}}
+{{% fig "emily/yatesschuylertom00oran_0212" "800" /%}}
+{{% fig "emily/yatesschuylertom00oran_0449-zoomed" "500" /%}}
 
-My own speculation after reading many of the Ithaca Journal "gossip columns" from Emily's lifetime is that there may be a decent probability that Emily, or someone very close to Emily, was the author of these during a period that included the final years of Hannah's life. The fact that Hannah was written of so much and in such glowing terms, and just the tone and subtle phrasing of references to Hannah's life, are very suggestive. For example, consider the similarity in wording to the gossip column on 17 Jan 1914, Ithaca Journal: "Mrs. Mills is a remarkable woman..."  and Hannah's obituary, presumably written by Emily, on 27 Feb 1917, Ithaca Journal: "Mrs. Mills was one of Brookton’s oldest and most respected citizens and a remarkable woman."
+My own speculation after reading many of the Ithaca Journal "gossip columns" from Emily's lifetime is that there may be a decent probability that Emily, or someone very close to Emily, was the author of these during a period that included the final years of Hannah's life. The fact that Hannah was written of so much and in such glowing terms, and just the tone and subtle phrasing of references to Hannah's life, are very suggestive. 
+
+For example, consider the similarity in wording to the gossip column on 17 Jan 1914, Ithaca Journal: "Mrs. Mills is a remarkable woman..."  and Hannah's obituary, presumably written by Emily, on 27 Feb 1917, Ithaca Journal: "Mrs. Mills was one of Brookton’s oldest and most respected citizens and a remarkable woman." Consider also the similarity in the phrases "...who was for many years a prominent merchant in this village..." in the 31 Dec 1895 Daily News of Batavia and the 24 Nov 1906 Ithaca Daily Journal article that refers to Edward as "...for many years a prominent merchant of Brookton...". Hannah and Edward are in several different instances referred to as 'aged' although that in itself is unremarkable. Consider too the level of detail, in say, the obituary for Mary Ann, which suggests it was written by Emily.
 
 Typically, the gossip columns had a default headline of the area, in this case "Brookton" or occasionally "Brookton Heights". However, there are times when a bigger headline would be added emphasizing one aspect of the column. These would have the initial appearance of a typical newspaper article, but then you see it is the relevant gossip column for that day, with perhaps a little more detail on the topic mentioned in the headline. This was the case with a few of Hannah's entries.
 

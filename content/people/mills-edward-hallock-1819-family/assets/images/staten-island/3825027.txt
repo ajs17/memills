@@ -1,0 +1,35 @@
+Author	Johnston, Alexander Keith, 1804-1871
+Author	Rogers, Henry Darwin
+Date	1857
+Short Title	New York and its Environs.
+Publisher	Edward Stanford
+Publisher Location	London
+Type	Atlas Map
+Obj Height cm	33
+Obj Width cm	20
+Scale 1	253,440
+Note	New York, Staten Island, part of Long Island, and Newark shown with no color. Water shown in full color.
+Reference	P3670; NMM 486.
+State/Province	New York
+City	New York (N.Y.)
+Full Title	New York and its Environs. London ... & according to an act of Congress ... 1857, by H.D. Rogers ... Massachusetts. London, John Murray, Albemarle Street, Edinburgh, W. & A.K. Johnston. Engraved by W. & A.K. Johnston, Edinburgh.
+List No	3825.027
+Page No	26
+Series No	30
+Engraver or Printer	Johnston, W. & A.K.
+Publication Author	Johnston, Alexander Keith, 1804-1871
+Publication Author	Rogers, Henry Darwin
+Pub Date	1857
+Pub Title	Atlas Of The United States Of North America, Canada, New Brunswick, Nova Scotia, Newfoundland, Mexico, Central America, Cuba, And Jamaica. On A Uniform Scale. From The Most Recent State Documents, Marine Surveys, And Unpublished Materials. With Plans Of The Principal Cities And Sea-Ports, And An Introductory Essay On The Physical Geography, Products, And Resources Of North America. By Professor Henry Darwin Rogers, Of Boston, U.S., And A. Keith Johnston, F.R.S.E., F.R.G.S., F.G.S., Geographer To The Queen. London: Edward Stanford, 6, Charing Cross, S.W. [The Authors Reserve The Right Of Translation.] (on verso) Entered at Stationers' Hall, London ... 1857 by H.D. Rogers ... Massachusetts.
+Pub Reference	P3670; NMM 486.
+Pub Note	Unusual collaboration between a Scot (Johnston), an American (Rogers), and an Englishman (Stanford). The maps are all on a scale of 54.5 miles to one inch, and are very well executed. They are derived from the large Map of The United States, British & Central America, by Rogers and Johnston, 1857. The western U.S. maps show the routes of the proposed Pacific Railroad. Rogers probably wrote the descriptive text. Johnston engraved and drew the maps - these maps are perhaps the best examples of Scottish highly detailed mapmaking applied to the western territories and states, in the pre civil war period. The only other example is Black's Atlas of North America, published in 1856, but not quite as detailed in the western states and territories, although it is just as good and maybe better in the eastern areas (these two atlas had to be competitive, with their issue within one year of each other). In 1873, J. David Williams issued the Jones and Hamilton "People's Pictorial Atlas" which uses most of these maps, updated. Then in 1875 the same maps appear in the Hardesty issue of the Jones and Hamilton "Historical Atlas of the World Illustrated." (see our copies). With full and outline color. Bound in half leather dark red cloth covered boards with "Atlas Of The United States, British & Central America: By Prof. Rogers & A. Keith Johnston."
+Pub List No	3825.000
+Pub Type	National Atlas
+Pub Maps	29
+Pub Height cm	38
+Pub Width cm	26
+Image No	3825027
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D0003/3825027.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Johnston, Alexander Keith, 1804-1871; Rogers, Henry Darwin
+Collection	Rumsey Collection

@@ -7,7 +7,7 @@
     --border-color:  white; 
 }
 
-aside, #TableOfContents {
+body > aside, #TableOfContents {
     display: none;
 }
 

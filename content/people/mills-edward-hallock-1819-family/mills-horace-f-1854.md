@@ -8,11 +8,11 @@ Horace F. Mills, born 1854, Staten Island, NY, died 27 October 1876, Corfu NY. S
 
 <!--more-->
 
-{{% metable "census-data.csv" "census-horace" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Horace" %}}
+{{% table "census-data.csv" "census-horace" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Horace" %}}
 
 Horace is the single biggest mystery in the family, all the more so because his death seems to be a pivotal event in the family's history:
 
-{{% mefig "evergreen-hill-cemetery-51" "800" /%}}
+{{% fig "evergreen-hill-cemetery-51" "800" /%}}
 
 Presumably, the fact that the family moved away from Corfu a few years after his death is more than coincidental, but that is speculation. However, this could also explain why Emily was so active in the [temperance movement]({{% ref "features/temperance/" %}}), if alcohol was a factor in Horace's death.
 
@@ -37,7 +37,7 @@ There is another Horace F. Mills in upstate New York in the 1800's, who was of s
 
 Yet another Horace F. Mills lived in Wawayanda, NY mentioned in Port Jervis newspapers in the 1870's and 1880's. He was married to M. J. Mills and had a daughter Bertha who died at four months old. And most frustrating of all is an unrelated Horace Mills listed in the 1850 United Stated Federal Census as a one year old living in Darien, which is very close to Corfu:
 
-{{% mefig "census/census-1850-us" "800" /%}}
+{{% fig "census/census-1850-us" "800" /%}}
 
 If this Horace was still living in the area at the same time as Edward's son, and especially being of similar age, extra care should be taken to correctly identify any reporting on "Horace Mills" at the time in the local papers. Given Edward's stature in the community, it seems likely that in any reporting his son would be identified in relation to him, perhaps something such as "Horace Mills, son of a local merchant...."
 
