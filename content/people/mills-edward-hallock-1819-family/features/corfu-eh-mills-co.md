@@ -71,9 +71,9 @@ A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
 
 {{% fig "corfu/1899-corfu-fire" "800" /%}}
 
-Allan confirms the Mills' home in Corfu no longer exists.
+Allan Starkweather, Corfu Village Historian, via personal correspondence, confirms the Mills' home in Corfu no longer exists.
 
-According Edward and Mary Ann's obituaries in the records of Caroline Valley Community Church, the Mills moved to Mott's Corners in Mar 1879. 
+According to Edward and Mary Ann's obituaries in the records of Caroline Valley Community Church, the Mills moved to Mott's Corners in Mar 1879. 
 
 {{% fig "mills-edward-mary-cvcc-obit" "800" /%}}
 
@@ -90,7 +90,7 @@ Emily would return to Corfu several times throughout her life.
 
 ## The MacGregors
 
-The MacGregors moved to Corfu near the same time as the Mills family, the maps indicate that they lived across the street from the Mills home in Corfu, and attended the Presbyterian Church with Mary Ann. 
+When Edward and Emily returned to Corfu with Mary Ann's remains, they spent the evening at the home of the MacGregors. The MacGregors moved to Corfu near the same time as the Mills family, the maps indicate that they lived across the street from the Mills home in Corfu, and they  attended the Presbyterian Church with Mary Ann. 
 
 {{% fig "corfu/1910-05-19-The-Daily-News-p6" "500" /%}}
 {{% fig "corfu/1915-11-06-The-Daily-News-p8" "500x500" ""  "top" /%}}

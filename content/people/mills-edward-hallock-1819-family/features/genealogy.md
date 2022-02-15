@@ -40,7 +40,7 @@ What follows is based initially on the data from the archived version of MillsAn
 
 <blockquote class="quote-only">
 
-<span>583.</span> [Jonas Davis Mills](https://www.findagrave.com/memorial/138421270/ jonas-d.-mills) (George , Isaac , Isaac , Timothy , Jonathan , George ) was born on 2 May 1795. He died on 30 Jan 1882.
+<span>583.</span> [Jonas Davis Mills](https://www.findagrave.com/memorial/138421270/%20jonas-d.-mills) (George , Isaac , Isaac , Timothy , Jonathan , George ) was born on 2 May 1795. He died on 30 Jan 1882.
 
 Jonas married (1) Mary Hallock [daughter of Thomas Hallock], on 25 Dec [Feb] 1818 in , Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827.
 
@@ -77,7 +77,7 @@ Edward married (2) **Hannah (Thatcher) Eastman Mills** (born England, 21 May 182
 
 Notes:
   - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries.
-  - Jonas Davis Mills and Mary Platt Mills may be related, although I have followed up on this. 
+  - Jonas Davis Mills and Mary Platt Mills may be related, although I have yet to followed up on this. 
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence, 21 Jul 2021)
   - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
@@ -102,7 +102,7 @@ As you can see, there is yet another Pine mentioned. For more information on Cha
 
 It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. The confusion with the name may arise because it would seem, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written as Thomas J.
 
-1827 as the birth year is corroborated by multiple sources. So, he was Edward's youngest brother, not the oldest. J. Thomas Mills' obituary suggests that either the family moved around a bit (see Jonas' obituary below), and/or perhaps Edward's purported birthplace is not Smithtown, but was assumed to be at some point. Also, the fact that the month of Jonas and Mary Hallock's marriage is disputed may be a clue of some kind, as December would mean that Edward was conceived before his parents were married, February would not. Such a revision of history under those circumstances is not unheard of. 
+1827 as the birth year is corroborated by multiple sources. So, he was Edward's younger brother, not older. J. Thomas Mills' obituary suggests that either the family moved around a bit (see Jonas' obituary below), and/or perhaps Edward's purported birthplace is not Smithtown, but was assumed to be at some point. Also, the fact that the month of Jonas and Mary Hallock's marriage is disputed may be a clue of some kind, as December would mean that Edward was conceived before his parents were married, February would not. Such a revision of history under those circumstances is not unheard of. 
 
 And so, we can update the cited genealogy entries accordingly:
 
