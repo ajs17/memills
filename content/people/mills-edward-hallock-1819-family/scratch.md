@@ -349,7 +349,7 @@ church questions
 
 TRANSCRIPTIONS
 
-From book labelled "CONGREGATIONAL CHURCH 1868-1933 Minutes of meetings & Membership"
+From book labelled "CONGREGATIONAL CHURCH 1868-1933 Minutes of Meetings & Membership"
 
 Different entries are separated by "---".(Book contains handwritten founding document of Congregational Church of Motts Corners! Book appears to have been rebound at least once as the binding covers handwritten text.)
 

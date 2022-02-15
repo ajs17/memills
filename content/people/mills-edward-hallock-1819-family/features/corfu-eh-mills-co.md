@@ -88,6 +88,10 @@ Emily would return to Corfu several times throughout her life.
 {{% fig "1895-12-31-daily-news-p1" "800" /%}}
 {{% fig "1908-01-06-batavia-daily-news-p4" "500" /%}}
 
+Every member of Edward's family, except for Emily, is buried in Corfu.
+
+{{% fig "evergreen-hill-cemetery-51" "800" /%}}
+
 ## The MacGregors
 
 When Edward and Emily returned to Corfu with Mary Ann's remains, they spent the evening at the home of the MacGregors. The MacGregors moved to Corfu near the same time as the Mills family, the maps indicate that they lived across the street from the Mills home in Corfu, and they  attended the Presbyterian Church with Mary Ann. 

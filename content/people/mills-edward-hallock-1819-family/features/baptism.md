@@ -61,7 +61,7 @@ The Deacons listed are:
   - **[Cantine Lounsbery](https://www.findagrave.com/memorial/89338791/cantine-lounsbery)** (1831-1910)
   - **[Harvey Smiley](https://www.findagrave.com/memorial/24763291/harvey-smiley)** (?-1917)
   - **[Orange Munson](https://www.findagrave.com/memorial/95123044/orange-munson)** (1834-1910):
-      - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Church records indicate that Orange Munson "was granted a letter by of the Ch Aug [unclear] 1908 to unite with the Methodist Ch at Erin N.Y." (**Congregational Church 1868-1933 Minutes of meetings and Membership**) 
+      - Via findagrave.com: "Orange, the son of Joseph, was born Aug 4 1834; married Mary (his 2nd cousin) Feb 18 1855; and after her death he married Johanna Ada Richardson. He was a farmer in 1880. They resided in Brookton, NY [Src: Munson Record V2. Myron Munson. p. 1091, 1112]" Church records indicate that Orange Munson "was granted a letter by of the Ch Aug [unclear] 1908 to unite with the Methodist Ch at Erin N.Y." (**Congregational Church 1868-1933 Minutes of Meetings and Membership**) 
 
 Selected data on the participants:
 

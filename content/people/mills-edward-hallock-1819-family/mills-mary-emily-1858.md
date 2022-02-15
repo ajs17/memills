@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 5
 ---
 
-Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY, and who went by Emily, as well as M. E. Mills or M. Emily Mills in more formal contexts. Youngest child of Edward H. and Mary Ann Mills. Proprietor of [**M. E. Mills**]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktonale Congregational Church.
+Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY, and who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktonale Congregational Church.
 
 <!--more-->
 
@@ -24,21 +24,21 @@ The date of birth on Emily's headstone is incorrect:
 
 {{% fig "today/grave-emily/feature" "800" /%}}
 
-She is listed with her family in the 1860 Federal Census:
+Emily is listed with her family in the 1860 Federal Census:
 
 {{% fig "census/census-1860-us" "800" /%}}
 
-Furthermore, in her entry in the 1900 US census, Emily indicates her birth date is "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetime, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolves to 1858 as indicated in the "Computed birthyear" column above. Given that these were self-reported by Emily, and we don't know the origin of the (I might add, less specific) 1861 date (Emily likely died before making her own funeral arrangements, and like her father, she died without a will), December 1858 seems the more accurate date and will be used going forward, implying the grave stone is in error.
+Furthermore, in her entry in the 1900 US census, Emily indicates her birth date is "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetime, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolves to 1858 as indicated in the "Computed birthyear" column above. 
 
 {{% fig "census/census-1900-us-inset" "800" /%}}
 
-I have been in contact with two people at Brookton Cemetery who have both looked into the matter, and they each confirmed that the only information they have on Emily is the name and plot number "and what is on the headstone". There is no indication who made the funeral arrangements for Emily, who the plot was sold to, or any information that might shed light on the erroneous birth year. 
+I have been in contact with two people at Brookton Cemetery who have both looked into the matter, and they each confirmed that the only information they have on Emily is the name and plot number "and what is on the headstone". There is no indication who made the funeral arrangements for Emily, who the plot was sold to, or any information that might shed light on the erroneous birth year. Emily's grave stone is the only documentation I have with this birth year other than subsequent histories that were written using the grave stone as the source for her birth year. 
 
-Further research will obviously need to be done, but ultimately, Emily's exact date of birth (and that of her brothers) may be lost, as she was born during a notoriously bad period for the recording and preservation of birth records. I am in contact with Calvary Presbyterian Church in Staten Island, which seems the most likely candidate for the church that Mary Ann may have belonged to at the time, to see if they have birth records for her children. I have also submitted a reference question to the staff of the Presbyterian Historical Society, but they were unable to find records for Mary Ann or her children. It is interesting to note however that according to [ldsgenealogy.com](https://ldsgenealogy.com/NY/Staten-Island-Birth-Records.htm), there are potentially many microfilm records for Richmond County (Staten Island) during this time period.
+Further research will obviously need to be done, but ultimately, Emily's exact date of birth (and that of her brothers) may be lost, as she was born during a notoriously bad period for the recording and preservation of birth records. I am in contact with Calvary Presbyterian Church in Staten Island, which seems the most likely candidate for the church that Mary Ann may have belonged to at the time, to see if they have birth records for her children. I also submitted a reference question to the staff of the Presbyterian Historical Society, but they were unable to find records for Mary Ann or her children. It is interesting to note however that according to [ldsgenealogy.com](https://ldsgenealogy.com/NY/Staten-Island-Birth-Records.htm), there are potentially many microfilm records for Richmond County (Staten Island) during this time period.
 
 Documentation suggests the Mills family moved from Staten Island to Corfu sometime between 01 Sept 1862 and 01 May 1863, a period overlapping Emily's fourth birthday. The family moved to Motts Corners in Mar 1879, a few months after Emily's 20th birthday, and in the few years immediately following Horace's suicide. 
 
-Emily would return to Corfu in later years to bury Jonas, Mary Ann and Edward. But it would seem that she also returned to visit her school friends, at least this one time, surely with many mixed emotions.
+Emily returned to Corfu in later years to bury Jonas, Mary Ann and Edward. But she also returned to visit her friends, at least this one time, surely with many mixed emotions.
 
 {{% fig "1882-07-21-batavia-daily-news" "500" /%}}
 
@@ -216,7 +216,7 @@ George Jansen painted Emily's home in the Summer of 1924:
 
 {{% fig "1937-02-09-ithaca-journal" "500x500" "" "top" /%}}
 
-Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on 10 Oct 1937. She would spend the last several weeks of her life in Memorial Hospital in Ithaca where she died on November 3, at 78 years old, a few weeks shy of 79 years old. Presumably, she was the first in her family not to die within the walls of the Mills home. 
+Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on 10 Oct 1937. She would spend the last several weeks of her life in Memorial Hospital in Ithaca where she died on November 3, at 78 years old, a few weeks shy of 79 years old. Presumably, she was the first in her family not to die at home (with the possible exception of Horace). Like her father, Emily died without a will.   
 
 {{% fig "1937-10-15-ithaca-journal" "500" /%}}
 {{% fig "1937-10-20-ithaca-journal" "500" /%}}
