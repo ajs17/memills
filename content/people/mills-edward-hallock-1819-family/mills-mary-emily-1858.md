@@ -42,40 +42,31 @@ Emily returned to Corfu in later years to bury Jonas, Mary Ann and Edward. But s
 
 {{% fig "1882-07-21-batavia-daily-news" "500" /%}}
 
-The only thing we really know about Emily's earliest years in Mott's Corners/Brookton is that she was active in the local "lodge" of the temperance organization, the [Independent Order of Good Templars]({{% ref "features/temperance" %}}). At least by the 1890's, Emily was working as a clerk in her father's store.
-
-Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes, we have many examples of Emily's handwriting from this time. 
+Only a few pieces of evidence survive of Emily's earliest years in Mott's Corners/Brookton. She was active in the local "lodge" of the temperance organization, the [Independent Order of Good Templars]({{% ref "features/temperance" %}}). Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes, we have many examples of Emily's handwriting from this time. 
 
 {{% fig "temperance/1886-04-23" "800" /%}}
 
-There are also a number of volumes of sales journals from [M. E. Mills]({{% ref "features/me-mills" %}}) in Emily's handwriting (and certainly Ellen Gould's handwriting must also be present in those books). 
-
 {{% fig "handwriting/sig3" "800" /%}}
 
-<div class="cols">
-  {{% fig "handwriting/sig1" "350" /%}}
-  {{% fig "handwriting/sig2" "350" /%}}
-</div>
+At least by the 1890's, Emily was working as a clerk in her father's store, just as her older brothers had. Several volumes of sales journals have survived from [M. E. Mills general store]({{% ref "features/me-mills" %}}) that are written by Emily's hand (and certainly Ellen Gould's handwriting must also be present in those books). 
 
-A number of aspects of Emily's handwriting are quite distinctive—such as uppercase E's, M's, W's, C's, T's and F's as well as lowercase p's are often written with similar idiosyncracies. Note for example, the following entry in M. E. Mills sales journals, a close examination of which will reveal is entirely written by Emily. Notice how even though she is writing the same word on the same day, from one entry to the next, how she writes her uppercase T can vary in one of two ways, each quite distinctive in itself. It can either swoop down from the top and finish with a flourishing loop behind it, or can be two strokes of the pen, one down, and the cross rises and falls, the opposite of the cross in the other T. Notice that on James Caveney's entry, we get the flourishing T, but the capital F afterward on the same line item shows the mushroom cap shape characteristic of her other style of writing T:  
+Many aspects of Emily's handwriting are quite distinctive—such as uppercase E's, M's, W's, C's, T's and F's as well as lowercase p's are often written with similar idiosyncrasies. Note for example, the following page of entries in M. E. Mills sales journals, a close examination of which reveals it is entirely written by Emily.
 
 {{% fig "me-mills/1909-03-26-sales-journal" "800" /%}}
 
-Her E's C's L's and J's tend to have big loops. Her lowercase p's practically pierce the line above it. And of course, her T's and F's have those distinctive crosses. Her handwriting is easily recognizable, and when others (most likely Ellen Gould) make entries in the Mill's store journals, it sticks out.
+Her E's C's L's and J's tend to have big loops. Her lowercase p's practically pierce the line above it. And her uppercase T's and F's have distinctive crosses that rise and fall. Her handwriting is easily recognizable, and when others (most likely Ellen Gould) make entries in the Mill's store journals, it is conspicuous.
 
-Jonas would die unexpectedly from a brief illness on 14 October 1885. Whether Emily worked in the store prior to Jonas' death, by 1892, she lists herself as clerk in the state census. And here we get a small glimpse of Emily's interests around that time:
+Jonas died unexpectedly from a brief illness on 14 October 1885. Whether Emily worked in the store prior to Jonas' death, by 1892, she lists herself as clerk in the state census. And here we get a small glimpse of Emily's interests around that time:
 
 {{% fig "mills-emily-arthurs-home-magazine" "500" /%}}
 
-It seems that Emily acted as nurse at the end of her mother's life: 
+And Emily acted as nurse at the end of her mother's life: 
 
 {{% fig "1895-12-31-daily-news-p1" "800" /%}}
 
-In 1907, Emily would officially join the membership roll of Brookton Congregational Church, along with 10 other single women, in a baptism ceremony officiated by Reverend Annis Ford Eastman. Less than a year later, Emily was teaching Sunday School and continued working every day in the store, when Edward died and Emily made another heartbreaking trip to Evergreen Hill Cemetery in Corfu.
+In 1907, Emily was baptized and officially joined the membership roll of Brookton Congregational Church, along with 10 other single women, in a ceremony officiated by Reverend Annis Ford Eastman. A closer examination of the circumstances around the baptism can be found [here]({{% ref "baptism" %}}). It is unclear what Emily's religious outlook was before being baptized, but at least from that point on, Emily's faith was a very important part of her life. 
 
 {{% fig "mills-emily-cvcc-baptism" "800" "img,blockquote,cite,link" /%}}
-
-A closer examination of the circumstances around the baptism can be found [here]({{% ref "baptism" %}}). It is unclear what Emily's religious outlook was before being baptized, but at least from that point on, Emily's faith was a very important part of her life. 
 
 This photo, taken on 13 Jun 1907 shows the Congregational Church as Emily knew it then, with the original steeple:
 
@@ -85,7 +76,7 @@ Emily, along with many of the others baptized with her, immediately became deepl
 
 {{% fig "1907-12-31-bcc-sunday-school" "500" /%}}
 
-Gertrude Conant mentions that Emily played the piano or organ in the Church. The church historical records, as one would naturally expect, cover topics unevenly over the years. Concerning the piano/organ: there was an organ in the church at one time, but it was destroyed by mice. The roles of pianist/organist and that of assistant pianist/organist, were for a time at least, positions that were voted on at the annual meetings just as the roles of secretary and treasurer were. I have not found a reference to Emily being in either of those roles, but there are many years where these roles are not noted at all, so unless Gertrude is mis-remembering, without her noting this detail, this aspect of Emily's life would be lost. (Anna Mulks and Cassie Landon were several times noted in these roles.)
+Gertrude Conant mentions that Emily played the piano or organ in the Church. The church historical records, as one would naturally expect, cover topics unevenly over the years. Concerning the piano/organ: there was an organ in the church at one time, but it was destroyed by mice. The roles of pianist/organist and that of assistant pianist/organist, were for a time at least, positions that were voted on at the annual meetings just as officers such as secretary and treasurer were. I have not found any references for Emily being in either of those roles, but there are many years where these roles are not noted at all, so unless Gertrude is mis-remembering, without her noting this detail, this aspect of Emily's life would be lost. (Anna Mulks and Cassie Landon were several times noted in these roles.)
 
 <figure class="quote-only">
 <blockquote> 
@@ -96,18 +87,20 @@ Originally a pipe organ stood on a raised platform (for choir) at the back of th
 </figcaption>
 </figure>
 
-Annual meetings were typically held the first Monday in January, in the afternoon or evening. A small group attended and Emily is not noted as attending these, despite being voted as Treasurer and being acknowledged as filling that role for at least two years:
+Annual meetings were typically held the first Monday in January, in the afternoon or evening. A small group attended and Emily is not listed as attending these meetings, despite being elected as Treasurer and being acknowledged as filling that role for at least two years:
 
 {{% fig "1912-bcc-mills-emily-treasurer" "500"/%}}
 {{% fig "1914-bcc-mills-emily-treasurer" "800" /%}}
-{{% fig "1921-12-18-bcc-mills-emily" "800" /%}}
 {{% fig "1914-bcc-mills-emily" "500" /%}}
 {{% fig "bcc-mills-emilyb" "800" /%}}
 {{% fig "bcc-mills-emily" "800" /%}}
+{{% fig "1921-12-18-bcc-mills-emily" "800" /%}}
 
-Emily continued to be involved in temperance, for some period of time, a member of the Women's Christian Temperance Union, along with her step-mother Hannah. This is almost certainly unknowable now, but I have wondered if Hannah was introduced to Edward through the Emily's involvement with the W. C. T. U. 
+Emily continued to be involved in temperance into the 1900's, and for some period of time, she was a member of the Women's Christian Temperance Union, along with her step-mother Hannah. This is almost certainly unknowable now, but I have wondered if Hannah was introduced to Edward through the Emily's involvement with temperance. This may also be how Emily knew Ellen Gould. It is interesting to note that the Brookton chapter of the W. C. T. U. was organized in 1907—the year of Emily Mills' and Jessie (Shurter) Brewer's baptism—and that Jessie is also active in the W. C. T. U.
 
 {{% fig "temperance/1917-wctu-directory-p8" "500" /%}}
+
+Edward died on New Year's day 1908 and Emily made another heartbreaking trip to Evergreen Hill Cemetery in Corfu.
 
 <div class="cols">
   {{% fig "1908-01-06-ithaca-daily-journal" "350" /%}}
@@ -116,15 +109,15 @@ Emily continued to be involved in temperance, for some period of time, a member 
 
 {{% fig "1908-04-07-The-Ithaca-Daily-Journal-p3" "500" /%}}
 
-Edward died "intestate", without a will, and until 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills home and Mills store assets. Emily followed her father's example and renamed the store *M. E. Mills*. When Hannah passed less than a decade later, Emily would inherit all assets and property.
+Edward died "intestate", without a will, and it appears that until approximately 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills home and Mills store assets. Emily followed her father's example and renamed the store M. E. Mills. When Hannah passed less than a decade later, Emily would inherit all assets and property.
 
 Thanks to Gertrude Conant's personal recollections, we have a basic description of Emily's appearance and personality:
 
 <figure class="quote-only">
 <blockquote>
-Emily Mills was a little woman, with her hair in a bun on top of her head, like Grandma Bacon’s. She was quiet, neat, cheerful and always smiling.
+<p>Emily Mills was a little woman, with her hair in a bun on top of her head, like Grandma Bacon’s. She was quiet, neat, cheerful and always smiling.</p>
 
-...I remember her as very kind...
+<p>...I remember her as very kind...</p>
 </blockquote>
 <figcaption>
 Full quote and citation are below. Ralph Conant in personal correspondence 24 Jul 2021 identifies "Grandma Bacon" as Mary Louise (Vandemark) Bacon.
@@ -133,7 +126,7 @@ Full quote and citation are below. Ralph Conant in personal correspondence 24 Ju
 
 <figure class="quote-only">
 <blockquote>
-She was a "sweet little lady"
+<p>She was a "sweet little lady"</p>
 </blockquote>
 <figcaption>
 <strong>A Drive-by Tour of the Town of Caroline</strong> sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 4 - P7, 484 Brooktondale Road
@@ -144,10 +137,10 @@ And from E. D. Shurter's *Tribute*:
 
 <figure class="quote-only">
 <blockquote>
-Reserved, unostentatious, and kindly...she went about her daily round of duties with a Christian fortitude and faithfulness...
+<p>Reserved, unostentatious, and kindly...she went about her daily round of duties with a Christian fortitude and faithfulness...</p> 
 </blockquote>
 <figcaption>
-11 Nov 1937, In Tribute To Emily Mills by E. D. Shurter, The Ithaca Journal (Ithaca, NY), p2. Full quote is below.</figcation>
+11 Nov 1937, In Tribute To Emily Mills by E. D. Shurter, The Ithaca Journal (Ithaca, NY), p2. Full quote is below.</figcaption>
 </figure>
 
 These descriptions of Emily's demeanor are consistent with the personal recollections of a current Brooktondale resident, currently in her 90's who has early childhood memories of Emily and her store in the last years of Emily's life.
@@ -160,6 +153,9 @@ Due to the level of detail given to the context of this story, I am choosing to 
 Emily, Edward, and Hannah are mentioned in the diaries of George Jansen. George notes in a number of entries throughout the years that he did odd jobs for Emily, such as painting her home and the store as well as planting her garden. 
 
 {{% fig "1917-02-23-George-Jansen" "800" /%}}
+
+Two days after that entry, Hannah dies.
+
 {{% fig "1917-03-20-ithaca-journal" "500" /%}}
 
 {{% fig "1917-03-21-George-Jansen" "800" /%}}
