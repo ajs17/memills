@@ -68,13 +68,13 @@ Edward and Hannah joined the church just weeks before their wedding:
 My impressions of Hannah are that she was an active and outgoing woman who was much loved in the community.
 
 {{% fig "1914-01-17-ithaca-journal" "500" /%}}
+
+Hannah's visit with Reverend Bogardus is her last meaningful trip outside the home documented. [Reverend Elder Charles Bogardus (1843-1925)](https://www.findagrave.com/memorial/98809451/charles-bogardus) was also postmaster of the White Church postoffice, from 27 Aug 1886 to 05 Jul 1892. He later officiated Hannah's funeral. 
+
 {{% fig "1914-05-22-ithaca-journal" "500" /%}}
 </div>
 
-[Reverend Elder Charles Bogardus (1843-1925)](https://www.findagrave.com/memorial/98809451/charles-bogardus) was also postmaster of the White Church postoffice, from 27 Aug 1886 to 5 Jul 1892. He would eventually officiate Hannah's funeral. 
-
-Hannah apparently had what must have been of very worrying health episode. This is the first mention I have found of [Ellen Gould]({{% ref "gould-ellen" %}}), and it seems quite probable that this is an accounting of the circumstances of her coming to live in the Mills Home, to care for Emily's elderly step-mother which Emily herself, as a business owner, would not have had adequate time to do. Ellen was already well known to the Mills as she was also a member of the W.C.T.U.
-
+A few months later, Hannah became ill and the first mentions of [Ellen Gould]({{% ref "gould-ellen" %}}) as Hannah's caretaker appear. It seems quite probable that this is an accounting of the circumstances of Ellen coming to live in the Mills home, to care for Emily's elderly step-mother which Emily herself, as a business owner, would not have had adequate time to do. Ellen was presumably already well known to the Mills as she was also a member of the W.C.T.U.
 
 <div class="cols">
   {{% fig "1914-10-26-ithaca-journal" "350" /%}}
@@ -87,6 +87,9 @@ Hannah apparently had what must have been of very worrying health episode. This 
 </div>
 
 {{% fig "1914-11-12-ithaca-journal" "500" /%}}
+
+At this time, there is a marked increase in the number of prayer and temperance meetings held in the Mills home, presumably to accommodate Hannah's inability to attend events outside the home. Hannah was clearly viewed as an important community leader to these women.
+
 {{% fig "1914-12-05-ithaca-journal" "500" /%}}
 
 <div class="cols">
@@ -103,7 +106,7 @@ Hannah apparently had what must have been of very worrying health episode. This 
 
 {{% fig "1916-05-23-ithaca-journal" "500" /%}}
 
-Hannah died, and her funeral was subsequently held, within the Mills Home.
+Hannah died 25 Feb 1917, and her funeral was held within the Mills Home. There is no direct indication that her death was related to the Influenza pandemic of that time.
 
 {{% fig "george-jansen-hannah-sick-entry" "800" /%}}
 {{% fig "george-jansen-hannah-death-entry" "800" /%}}
