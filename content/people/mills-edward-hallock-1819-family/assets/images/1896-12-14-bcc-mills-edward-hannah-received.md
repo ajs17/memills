@@ -1,5 +1,5 @@
 ---
-citation: "14 Dec 1896, Digitally photographed entry in **Congregational Church 1868-1933 Minutes of Meetings and Membership**, used with permission from Caroline Valley Community Church."
+citation: "14 Dec 1896, Digitally photographed entry in **Congregational Church 1868-1933 Minutes of Meetings and Membership**, used with permission from Caroline Valley Community Church"
 notes: >-
 
     - I tried to faithfully reproduce the punctuation and capitalization of the original text.

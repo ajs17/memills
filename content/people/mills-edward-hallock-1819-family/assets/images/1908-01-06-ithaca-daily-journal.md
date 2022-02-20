@@ -1,5 +1,12 @@
 ---
-citation: "06 Jan 1908, The Ithaca Daily Journal (Ithaca NY), p3, nyshistoricnewspapers.org"
+# citation: "06 Jan 1908, The Ithaca Daily Journal (Ithaca NY), p3, nyshistoricnewspapers.org"
+pubdate:  "1908-01-06"
+author: 
+title: 
+voltitle:  "The Ithaca Daily Journal"
+publocation:  "Ithaca NY"
+pages:  "3"
+source:  "nyshistoricnewspapers.org"
 Notes: >-
     An identical notice ran on 08 Jan 1908 in the Elmira Star Gazette (Elmira NY), p5.
 ---

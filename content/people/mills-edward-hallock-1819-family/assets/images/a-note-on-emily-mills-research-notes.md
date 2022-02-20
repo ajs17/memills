@@ -1,5 +1,5 @@
 ---
-citation: "Molly Adams via Caroline History Room files."
+citation: "Molly Adams, Caroline History Room"
 ---
 Information on MARY EMILY MILLS of BROOKTON, NY, to accompany advertising booklet donated by David VanDeMark, from the possessions of his mother, Grace VanDeMark, March 2002:
 

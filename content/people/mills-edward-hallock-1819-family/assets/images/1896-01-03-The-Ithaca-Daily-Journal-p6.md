@@ -1,5 +1,4 @@
 ---
-citation: "03 Jan 1896, The Ithaca Daily Journal (Ithaca NY), p6."
 # citation: "03 Jan 1896, The Ithaca Daily Journal (Ithaca NY), p6."
 pubdate:  "1896-01-03"
 author: 

@@ -25,6 +25,8 @@ In the early 1700s, the area became known as Mills Pond. According to the Smitht
  </footer>
 </figure>
 
+Just to the west of the Mills Pond House is the Mills Cemetery (also referred to as Mills Pond Cemetery and Mills Graveyard) where many of Emily's ancestors are buried. 
+
 Edward H. Mills has partial entries on at least two Mills family genealogies:
  
 1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.

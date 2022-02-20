@@ -13,7 +13,8 @@ notes: >-
     
     - The source of the quote in the last paragraph about extending credit is taken from E. D. Shurter's tribute in the Ithaca Journal.
     
-    - Erratum: Hannah Mills was Emily's step-mother.
+    - Errata: Hannah Mills was Emily's step-mother. Emily was born in 1858.
+
 ---
 #### A Note on Emily Mills
 
@@ -21,7 +22,7 @@ Before David VanDeMark's mother Grace died, he had found in her sewing
 machine (which had been acquired from Clara Lockwood) a little leatherette booklet
 labeled on the outside "M. E. MILLS, DEALER IN DRY GOODS, GROCERIES, HARDWARE
 AND CROCKERY, BROOKTON, N.Y." On the inside is a calendar covering July 1909 to
-July 1910, a pack of needles and a fabric needle holder. The text says *This is a
+July 1910, a pack of needles and a fabric needle holder. The text says "This is a
 complete set of needles for all purposes. All the best imported. We would very much
 appreciate your patronage when anything in our line is needed.”
 

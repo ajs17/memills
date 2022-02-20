@@ -1,5 +1,5 @@
 ---
-citation: "1924 George E. Jansen Notebook 1924, Tompkins County History Center."
+citation: "1924 George E. Jansen Notebook 1924, Tompkins County History Center"
 notes: >-
 
     - Paid itemized billing information for painting done by George Jansen on the  Mills home.

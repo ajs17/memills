@@ -1,5 +1,5 @@
 ---
-citation: "Evergreen Hills Cemetery, Corfu, directory listing, cropped image, page 51 is indicated in original, received by email May 21, 2021, personal correspondence with Diana Reding, Library Director at Corfu Public Library." 
+citation: "Evergreen Hills Cemetery, Corfu, directory listing, cropped image, page 51 is indicated in original, received by email May 21, 2021, personal correspondence with Diana Reding, Library Director at Corfu Public Library" 
 notes: >-
     Notes:
 
