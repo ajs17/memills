@@ -25,7 +25,7 @@ Documentation suggests the Mills family moved from Staten Island to Corfu someti
 {{% fig "tax-assessments/1865-05-01-District-29-Division-12" "800" /%}}
 </div>
 
-The tax assessments are divided by "districts" then further subdivided into "divisions" at which point, individuals and businesses are listed together alphabetically. Beginning with entries recorded 01 May 1863, for district 29, division 12, and each year thereafter, there are two entries for E. H. Mills & Co. and Edward H. Mills. The 1862 document shown, recorded on 01 Sep 1862, has no such entries where they would be expected. Of course, these are just record dates, but they do give us a better defined window for when the family moved. This time period overlaps Emily's fourth birthday as well as the issuance of the Emancipation Proclamation, five days after the Battle of Antietam, the Confederate invasion of Maryland that took place just 200 miles from Castleton. However, even if we are interpreting the meaning of these documents correctly, it could still very well be that the family moved as early as the Summer of 1862. 
+The tax assessments are divided by "districts" then further subdivided into "divisions" at which point, individuals and businesses are listed together alphabetically. Beginning with entries recorded 01 May 1863, for district 29, division 12, and each year thereafter, there are two entries for E. H. Mills & Co. and Edward H. Mills. The 1862 document shown, recorded on 01 Sep 1862, has no such entries where they would be expected. Of course, these are just record dates, but they do give us a better defined window for when the family moved. This time period overlaps Emily's fourth birthday as well as the issuance of the Emancipation Proclamation, five days after the Battle of Antietam, the Confederate invasion of Maryland that took place just 200 miles from Castleton. However, even if the above interpretation of these documents is correct, it could still very well be that the family moved as early as the Summer of 1862. 
 
 There is also a June 1863 Civil War Draft Registration record in Genesee County for Edward where his occupation was listed as "merchant":
 
@@ -81,7 +81,7 @@ Their records also include confirmation that Mary Ann was a member of First Pres
 
 {{% fig "mills-mary-cvcc-join" "800" /%}}
 
-Emily would return to Corfu several times throughout her life.
+Emily returned to Corfu several times throughout her life.
 
 {{% fig "1882-07-21-batavia-daily-news" "500" /%}}
 {{% fig "1885-10-16-batavia-daily-news-p1" "500" /%}}

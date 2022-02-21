@@ -61,7 +61,7 @@ The postoffice moved to Mill's store when Edward became postmaster. It appears t
 {{% fig "1887-05-27-The-Ithaca-Daily-Journal-p3" "350" /%}}
 </div>
 
-Mary Ann passed on the eve of their 45th wedding anniversary. A year and two days later, Edward would marry [Hannah (Thatcher) Eastman (1824-1917)]({{% ref "mills-hannah-1824" %}}). Whether perhaps by superstition or some practical matter, the date chosen seems less likely to be a coincidence due to the fact that Edward joined the church on the third to last Sunday before the marriage ceremony.
+Mary Ann passed on the eve of their 45th wedding anniversary. A year and two days later, Edward married [Hannah (Thatcher) Eastman (1824-1917)]({{% ref "mills-hannah-1824" %}}). Whether perhaps by superstition or some practical matter, the date chosen seems less likely to be a coincidence due to the fact that Edward joined the church on the third to last Sunday before the marriage ceremony.
 
 {{% fig "1895-12-31-daily-news-p1" "800" /%}}
 
@@ -128,7 +128,15 @@ Emily officially joined the church rolls in the months immediately following Edw
 
 {{% fig "1908-04-07-The-Ithaca-Daily-Journal-p3" "500" /%}}
 
+[Edward](https://www.findagrave.com/memorial/75958691/edward-h-mills) is interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu, NY 14036. 
+
 ## Notes for Future Researchers
+
+Edward seems to have been engaged in other work aside from the store and post office, or possibly working on behalf of Edward Lounsbery, as evidenced by the following:
+
+{{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
+
+{{% fig "1898-02-22-mills-edward-to-culver-little" "800"  /%}}
 
 There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversville NY in the 1880's that was a "knitting factory" and one that is written about in some detail in local historical accounts. This appears to be a completely different family, based in part on the following city directories that list family members associated with this business who are unaccounted for in the Mills Genealogy and are not documented in anything else that I have seen on Mills family. 
 
@@ -143,9 +151,5 @@ Edward Hallock's family are accounted for in the same census in Genesee County:
  
 {{% fig "census/census-1875a-nys" "800" /%}}
  
-Edward seems to have been engaged in other work aside from the store and post office, or possibly working on behalf of Edward Lounsbery, as evidenced by the following:
-
-{{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
-{{% fig "1898-02-22-mills-edward-to-culver-little" "800"  /%}}
 
 

@@ -4,7 +4,7 @@
 
     - The relative time reference “Monday evening of last week” is 30 Jan in 1882, corroborating the genealogical records cited. 
 
-    - Obviously, there is an entire line of vital information obscured, but I have done my best to fill in the data based on what we know from other sources. The most important detail is obviously the date of birth: “May” is clear, but the rest is open to interpretation. Fortunately, if we subtract “86 years, 8 months and 28 days” from 30 Jan 1882, we do arrive at precisely 02 May 1795, confirming the genealogical records cited.  
+    - Obviously, there is an entire line of vital information obscured, but I have done my best to fill in the data based on what is known from other sources. The most important detail is obviously the date of birth: “May” is clear, but the rest is open to interpretation. Fortunately, if one subtracts “86 years, 8 months and 28 days” from 30 Jan 1882, one does arrive at precisely 02 May 1795, confirming the genealogical records cited.  
    
     - Note that this references prior publication of this notice in the Hempstead Sentinel, so there is some chance of finding more legible text. I have yet to locate issues of this paper from this time period. 
    

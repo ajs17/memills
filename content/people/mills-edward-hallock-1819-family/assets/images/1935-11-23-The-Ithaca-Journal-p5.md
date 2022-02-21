@@ -9,7 +9,7 @@ pages:  "5"
 source:  "newspapers.com"
 notes: >-
     
-    - Here, it would seem that Emily was using an opportunity to publicize her store instead of "M. Emily Mills" or "Emily Mills" as she would normally refer to herself. E. D. Shurter, Charles and Anna Mulks, as well as Jessie (Shurter) and Lewis Brewer are among those mentioned.
+    - Here, it seems that Emily was using an opportunity to publicize her store instead of "M. Emily Mills" or "Emily Mills" as she normally referred to herself. E. D. Shurter, Charles and Anna Mulks, as well as Jessie (Shurter) and Lewis Brewer are among those mentioned.
 
     - A close reading suggests that the "Caroline resident" quoted is E. D. Shurter, and in fact, the style of the entire article is uncharacteristic of a Journal reporter and reads more like a press release the Professor wrote for the Journal.
 

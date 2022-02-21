@@ -88,7 +88,7 @@ A few months later, Hannah became ill and the first mentions of [Ellen Gould]({{
 
 {{% fig "1914-11-12-ithaca-journal" "500" /%}}
 
-At this time, there is a marked increase in the number of prayer and temperance meetings held in the Mills home, presumably to accommodate Hannah's inability to attend events outside the home. Hannah was clearly viewed as an important community leader to these women.
+At this time, there is a marked increase in the number of prayer and temperance meetings reported held in the Mills home, presumably to accommodate Hannah's inability to attend events outside the home. Hannah was clearly viewed as an important community leader to these women.
 
 {{% fig "1914-12-05-ithaca-journal" "500" /%}}
 
@@ -106,7 +106,7 @@ At this time, there is a marked increase in the number of prayer and temperance 
 
 {{% fig "1916-05-23-ithaca-journal" "500" /%}}
 
-Hannah died 25 Feb 1917, and her funeral was held within the Mills Home. There is no direct indication that her death was related to the Influenza pandemic of that time.
+Hannah died 25 Feb 1917, and her funeral was held within the Mills home. There is no direct indication that her death was related to the Influenza pandemic of that time.
 
 {{% fig "george-jansen-hannah-sick-entry" "800" /%}}
 {{% fig "george-jansen-hannah-death-entry" "800" /%}}

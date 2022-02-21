@@ -3,7 +3,7 @@ title: "The Mills Family in Staten Island NY"
 weight: 7
 ---
 
-It appears the Mills lived in Staten Island throughout much of the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1851, Edward is said to be "of Factoryville". All three Mills children were born in Staten Island. Edward worked as clerk in the grocery store of [Bartlett Brown (1833-24 Nov 1902)](https://www.findagrave.com/memorial/199802084/bartlett-brown) and at one time, the Mills family lived with Bartlett. Bartlett was a protege of [Charles Mills Pine (1812-8 Oct 1897)](https://www.findagrave.com/memorial/199952123/charles-m-pine), who may have been related to Edward through Edward's mother. Charles Pine is listed as a co-owner of E. H. Mills & Co. in Corfu, and it would appear that Charles likely acted only as an investor in the business and was not likely to be involved in its day-to-day operation. 
+It appears the Mills lived in Staten Island throughout much of the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1851, Edward is said to be "of Factoryville". All three Mills children were born in Staten Island. Edward worked as clerk in the grocery store of [Bartlett Brown (1833-24 Nov 1902)](https://www.findagrave.com/memorial/199802084/bartlett-brown) and at one time, the Mills family lived with Bartlett. Bartlett was a protege of [Charles Mills Pine (1812-8 Oct 1897)](https://www.findagrave.com/memorial/199952123/charles-m-pine), who may have been related to Edward through Edward's mother. Charles Pine is listed as a co-owner of E. H. Mills & Co. in Corfu, and it's likely that Charles acted only as an investor in the business and was not involved in its day-to-day operation. 
 
 <!--more-->
 
@@ -18,7 +18,7 @@ In the 1875 New York State Census, each of the children are listed with Staten I
 
 It may be of interest that the 1860 Census shows that there is a Betsey Mott born about 1807 living with Charles M. Pine.
 
-According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles was postmaster of what was then called the North Shore, Staten Island postoffice from 16 Dec 1850 to 26 Oct 1853. This postoffice would become the West New Brighton station of Staten Island on 21 Jan 1917.
+According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles was postmaster of what was then called the North Shore, Staten Island postoffice from 16 Dec 1850 to 26 Oct 1853. This postoffice became the West New Brighton station of Staten Island on 21 Jan 1917.
 
 1860 – Staten Island’s first railroad begins operating – April 23rd. The first magnetic telegraph line reaches Staten Island – June.
 
@@ -37,7 +37,8 @@ The 1860 census indicates the town is Castleton. Castleton is the name of one of
 {{% fig "staten-island/1862-1863-irs-tax-assessment" /%}}
 
 Bartlett Brown’s obituary
-So, the years around 1860 were a time of change for Bartlett and the Mills family. The Mills would soon leave for Corfu and Bartlett started a new grocery store, married, and started a family of his own, as indicated by the 1865 census:
+So, the years around 1860 were a time of change for Bartlett and the Mills family. The Mills moved to Corfu and Bartlett started a new grocery store, married, and started a family of his own, as indicated by the 1865 census:
+
 
 {{% fig "staten-island/census-1865-nys-brown" /%}}
 

@@ -8,24 +8,25 @@ Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long 
 
 <!--more-->
 
+The original Mills family home built by Timothy Mills still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." ([Mills Pond Gallery](https://www.millspondgallery.org/))  
+
+{{% fig "mills-pond-house-1" /%}}
+
 <figure class="quote-only">
- <blockquote>
+<blockquote>
 <p>It was Timothy Mills who bought the land from one of our town founder's sons in 1693, according to "Colonel Rockwell's Scrap-Book" published by the Smithtown Historical Society in 1968. As the sons of Timothy Mills married, houses were built around the pond found on the land.
 </p>
 <p>
 In the early 1700s, the area became known as Mills Pond. According to the Smithtown Township Arts Council's website, the area was originally called Cuttscunsuck, which means two small ponds in the Algonquian language.
 </p>
- </blockquote>
- <figcaption>
- <cite>— <a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>
- </cite>
- </figcaption>
- <footer>
- The original [Mills Pond House](https://www.millspondcols.org/history-of-mills-pond-house) that Timothy built still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." 
- </footer>
+</blockquote>
+<figcaption>
+<cite>— <a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>
+</cite>
+</figcaption>
 </figure>
 
-Just to the west of the Mills Pond House is the Mills Cemetery (also referred to as Mills Pond Cemetery and Mills Graveyard) where many of Emily's ancestors are buried. 
+Many photos of the Mills Pond House, both historic and contemporary exist online and in collections such as the Library of Congress. Just to the west of the Mills Pond House is the Mills Cemetery (also referred to as Mills Pond Cemetery and Mills Graveyard) where many of Emily's ancestors are buried. 
 
 Edward H. Mills has partial entries on at least two Mills family genealogies:
  
@@ -38,7 +39,7 @@ Edward H. Mills has partial entries on at least two Mills family genealogies:
 {{% fig "genealogy/1939-source2-pageb" "350" "img,link" /%}}
 </div>
 
-What follows is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents, and further supplementing with what we think we know of Edward's family.
+What follows is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents: 
 
 <blockquote class="quote-only">
 
@@ -48,8 +49,8 @@ Jonas married (1) Mary Hallock [daughter of Thomas Hallock], on 25 Dec [Feb] 181
 
 They had the following children:
 
-- 1029	M	i	Thomas James Mills was born on 13 Feb 181[2]7.
-- 1030	M	ii	Edward H. Mills was born on 25 Mar 1819.
+- 1029	M	i	[Thomas James Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 181[2]7.
+- 1030	M	ii	[Edward H. Mills](https://www.findagrave.com/memorial/75958691/edward-h-mills) was born on 25 Mar 1819.
 - 1031	F	iii	[Emily Tabitha Mills](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) was born on 19 Jun 1821. She died on 11 Apr 1849. [mar. in Nov. 1843, John S. Huntting.]
 
 Jonas married (2) [Mary Platt Mills](https://www.findagrave.com/memorial/138421346/mary-p.-mills) daughter of Jedediah Mills and Elizabeth [(Mills)] Mills [of Mills Pond] on 25 Apr 1831. Mary was born on 30 Jan 1801 in Long Island, New York. She died on 18 Jun 1881.
@@ -60,7 +61,7 @@ They had the following children:
 - 1033	M	v	[Robert Sydney Mills](https://www.findagrave.com/memorial/29864008/robert-sydney-mills) is printed as #624. ...born on 11 Nov 1835.
 </blockquote>
 
-And to the genealogies above, we can add Edward's branch to its ultimate conclusion:
+Add to these genealogies, Edward's branch to its ultimate conclusion:
 
 <span>1030.</span> **Edward Hallock Mills** (born Smithtown NY, 25 Mar 1819, died Brookton NY, 01 Jan 1908).
 
@@ -82,7 +83,7 @@ Notes:
   - Jonas Davis Mills and Mary Platt Mills may be related, although I have yet to followed up on this. 
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence, 21 Jul 2021)
-  - It would appear that Edward named his second son after his father, and Emily would appear to get her name from Edward's sister who passed over decade before Emily was born. 
+  - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over decade before Emily was born. 
 
 Several of the marriages above and below are referenced, if not corroborated, in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 
@@ -102,11 +103,11 @@ As you can see, there is yet another Pine mentioned. For more information on Cha
 {{% fig "long-island/1882-02-06-The-New-York-Times-p8" "500" /%}}
 {{% fig "1882-02-10-The-Long-Islander-Huntington-NY-p3" "500" /%}}
 
-It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. The confusion with the name may arise because it would seem, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written as Thomas J.
+It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. The confusion with the name may arise because it seems, based on the obituary for his son Watts, that J. Thomas Mills may have commonly gone by Thomas, and in some census records, it does appear that his name is written as Thomas J.
 
 1827 as the birth year is corroborated by multiple sources. So, he was Edward's younger brother, not older. J. Thomas Mills' obituary suggests that either the family moved around a bit (see Jonas' obituary below), and/or perhaps Edward's purported birthplace is not Smithtown, but was assumed to be at some point. Also, the fact that the month of Jonas and Mary Hallock's marriage is disputed may be a clue of some kind, as December would mean that Edward was conceived before his parents were married, February would not. Such a revision of history under those circumstances is not unheard of. 
 
-And so, we can update the cited genealogy entries accordingly:
+And so, the cited genealogical entries can be updated accordingly:
 
 - M iii [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 1827 in New York City. He died 22 Apr 1915 in Huntington NY. 
 

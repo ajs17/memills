@@ -13,9 +13,9 @@ April 7th fell on the Sunday after Easter in 1907. It was to be the final year o
 
 Reverend Annis Ford Eastman returned to Brookton to officiate. The Reverend made history by becoming one of the first women ordained in a Congregational Church while she was pastor of Brookton Congregational Church (now Caroline Valley Community Church) from 1889 to 1891. The Reverend wrote of her time in Brookton, including an account of her ordination, in "The Making of a Woman Minister" in the book **Enjoyment of Living** by her son Max Eastman. The Church's historical records also include an account of her ordination, including the names of the members of the "picked council" she refers to in her account. 
 
-After Reverend Eastman left Brookton, she became a very prominent religious and literary figure in New York and beyond, lecturing widely and counting among her friends the Reverend Thomas Beecher, brother of Henry Ward Beecher and Harriet Beecher Stowe, and Mark Twain, for whom she wrote the eulogy for his funeral service in Elmira, but which had to be delivered by her husband due to the Reverend's declining health. The Reverend would die in 1910, so this would have been one of her last return visits to Brookton. So, needless to say, her presence on this day was planned well in advance by the Reverend, and it was a very significant honor that hints at a rich context to this event that we can only speculate upon now.
+After Reverend Eastman left Brookton, she became a very prominent religious and literary figure in New York and beyond, lecturing widely and counting among her friends the Reverend Thomas Beecher, brother of Henry Ward Beecher and Harriet Beecher Stowe, and Mark Twain, for whom she wrote the eulogy for his funeral service in Elmira, but which had to be delivered by her husband due to the Reverend's declining health. The Reverend died in 1910, so this was one of her last return visits to Brookton. So, needless to say, her presence this day was planned well in advance by the Reverend, and it was a very significant honor that hints at a rich context to this event that we can only speculate upon now.
 
-(Interestingly, Mark Twain made his last visit to Elmira that very week, attending the dedication of a new organ at Park Church in Elmira on 03 Apr 1907. His remains would be buried in Woodlawn Cemetery Elmira exactly three years later.)
+(Interestingly, Mark Twain made his last visit to Elmira that very week, attending the dedication of a new organ at Park Church in Elmira on 03 Apr 1907. Twain was interred in Woodlawn Cemetery Elmira exactly three years later.)
 
 The scripture verse used in the sermon is cited carefully, and uniquely identifies it with the King James Version of the Bible. Therefore, we can know some of the exact words spoken that day by Reverend Ford Eastman:
 
@@ -24,7 +24,7 @@ The scripture verse used in the sermon is cited carefully, and uniquely identifi
 <figcaption>— <cite>Luke 13:24, King James Bible</cite></figcaption>
 </figure>
 
-This event and its recording are unusual in several respects, and deserving of further investigation. The record itself is quite unique in the amount of detail compared to similar records elsewhere in the same book. The number of people being baptized in one event also seems unusual for a congregation that size (it seemed more typical to have a small handful of people baptized in a year, and to not necessarily be grouped together) and may be related to the other notable fact: that eleven of the fifteen people are unmarried women (and two others were first degree relatives of women in that group of eleven). Add to this, the fact that Reverend Annis Ford Eastman returned to officiate this event, and a rough outline of what was happening begins to suggest itself, along with the significance that the cited scripture would have for the Reverend and these women.
+This event and its recording are unusual in several respects, and deserving of further investigation. The record itself is quite unique in the amount of detail compared to similar records elsewhere in the same book. The number of people being baptized in one event also seems unusual for a congregation that size (it seemed more typical to have a small handful of people baptized in a year, and to not necessarily be grouped together) and may be related to the other notable fact: that eleven of the fifteen people are unmarried women (and two others were first degree relatives of women in that group of eleven). Add to this, the fact that Reverend Annis Ford Eastman returned to officiate this event, and a rough outline of what was happening begins to suggest itself, along with the significance that the cited scripture had for the Reverend and these women.
 
 The following is a summary of information about the participants. Click on column headers to affect the sort order accordingly.
 
@@ -42,7 +42,7 @@ I could not find an account of this baptism in the Ithaca Journal, but there is 
 
 {{% fig "1907-04-17-elmira-gazette-and-free-press" "500" /%}}
 
-At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily would have had to the Reverend while she was pastor. During the Reverend's tenure, she would also give occasional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
+At the time that the Reverend Ford Eastman was pastor of Brookton Congregational Church, Emily's mother Mary Ann was the only one in the family on the Church rolls, so it is unclear how much exposure Emily had to the Reverend while she was pastor. During the Reverend's tenure, she also gave occasional public lectures at the Congregational Church. In the Reverend's account of her first visit to Brookton, one imagines that it is likely that Mary Ann, and possibly Emily too, were among those who "waited in the dim light of the smoky kerosene lamps to speak to me." (From **Enjoyment of Living** by Max Eastman, pg 70.)
 
 This is Brookton Congregational Church as it looked at the baptism that day:
 
@@ -68,7 +68,7 @@ Selected data on the participants:
 **Jessie (Shurter) Brewer (1881-1974)**
 
   - Married Lewis William Brewer (24 Jun 1882 to 10 Sep 1963) in Danby, 27 Jun 1923. According to the Permanent Membership Roll Book 2 of Caroline Valley Federated Church Records 1930-1960, Lewis was not a member of the church, while it is noted in "Mrs. Jessie Brewer and Mrs. Susie Lawrence have the longest membership records in church and Ladies' Aid." *— “**History of the Congregational Church, Brooktondale, New York.** Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.”*
-  - Jessie M. (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she would eventually purchase the Mills' home and M. E. Mills general store, which should would run under her own name, after Emily's death.
+  - Jessie M. (Shurter) Brewer grew up in the Shurter House next to M. E. Mills and she eventually purchased the Mills' home and M. E. Mills general store, which she ran under her own name, after Emily's death.
 
 **Susie C. (Westfall) Lawrence (1885-1977)**
 

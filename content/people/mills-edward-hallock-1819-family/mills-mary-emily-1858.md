@@ -18,7 +18,7 @@ Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale
 
 {{% table "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" "Summary of Census Data" %}}
 
-Emily was likely named for one of her ancestors, although, as the name Mary is quite common within both the Mills and Hallock families, there are several candidates for whom. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she would typically use "M. Emily Mills", particularly in later years.
+Emily was likely named for one of her ancestors, although, as the name Mary is quite common within both the Mills and Hallock families, there are several candidates for whom. Emily's middle name may be in memory of Edward's sister who died over a decade before Emily was born. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she typically used "M. Emily Mills", particularly in later years.
 
 The date of birth on Emily's headstone is incorrect:
 
@@ -42,7 +42,7 @@ Emily returned to Corfu in later years to bury Jonas, Mary Ann and Edward. But s
 
 {{% fig "1882-07-21-batavia-daily-news" "500" /%}}
 
-Only a few pieces of evidence survive of Emily's earliest years in Mott's Corners/Brookton. She was active in the local "lodge" of the temperance organization, the [Independent Order of Good Templars]({{% ref "features/temperance" %}}). Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes that includes associated forms and envelopes (the envelopes have her father's postmark), we have many examples of Emily's handwriting from this time. 
+Only a few pieces of evidence survive of Emily's earliest years in Mott's Corners/Brookton. She was active in the local "lodge" of the temperance organization, the [Independent Order of Good Templars]({{% ref "features/temperance" %}}). Emily was at times the recording and corresponding secretary for the Good Templars, and through the preservation of a book of their meeting minutes that includes associated forms and envelopes (the envelopes have her father's postmark), many examples of Emily's handwriting from this time survive. 
 
 {{% fig "temperance/1886-04-23" "800" /%}}
 
@@ -74,7 +74,7 @@ This photo, taken on 13 Jun 1907 shows the Congregational Church as Emily knew i
 
 {{% fig "1907-06-13-bcc" "800" /%}}
 
-Emily, along with many of the others baptized with her, immediately became deeply involved in church activities, a level of commitment they would sustain the rest of their lives. Emily was a Sunday School teacher, and possibly taught classes specifically for adults. There are newspaper accounts detailed below of her organizing bible study groups and prayer meetings in her home. In the following report, dated the eve of Edward's death, we see that in the months immediately after joining the church, Emily taught a class with an average attendance of five students: 
+Emily, along with many of the others baptized with her, immediately became deeply involved in church activities, a level of commitment they sustained the rest of their lives. Emily was a Sunday School teacher, and possibly taught classes specifically for adults. There are newspaper accounts detailed below of her organizing bible study groups and prayer meetings in her home. In the following report, dated the eve of Edward's death, we see that in the months immediately after joining the church, Emily taught a class with an average attendance of five students: 
 
 {{% fig "1907-12-31-bcc-sunday-school" "500" /%}}
 
@@ -98,7 +98,7 @@ Annual meetings were typically held the first Monday in January, in the afternoo
 {{% fig "bcc-mills-emily" "800" /%}}
 {{% fig "1921-12-18-bcc-mills-emily" "800" /%}}
 
-Emily continued to be involved in temperance into the 1900's, and for some period of time, she was a member of the Women's Christian Temperance Union, along with her step-mother Hannah. This is almost certainly unknowable now, but I have wondered if Hannah was introduced to Edward through the Emily's involvement with temperance. This may also be how Emily knew Ellen Gould. It is interesting to note that the Brookton chapter of the W. C. T. U. was organized in 1907—the year of Emily Mills' and Jessie (Shurter) Brewer's baptism—and that Jessie is also active in the W. C. T. U.
+Emily continued to be involved in temperance into the 1900's, and for some period of time, she was a member of the Women's Christian Temperance Union, along with her step-mother Hannah. This is almost certainly unknowable now, but I have wondered if Hannah was introduced to Edward through the Emily's involvement with temperance. This may also be how Emily knew Ellen Gould. It is interesting to note that the Brookton chapter of the W.C.T.U. was organized in 1907—the year of Emily Mills' and Jessie (Shurter) Brewer's baptism—and that Jessie is also active in the W.C.T.U.
 
 {{% fig "temperance/1917-wctu-directory-p8" "500" /%}}
 
@@ -111,7 +111,7 @@ Edward died on New Year's day 1908, and Emily made another heartbreaking trip to
 
 {{% fig "1908-04-07-The-Ithaca-Daily-Journal-p3" "500" /%}}
 
-Edward died "intestate", without a will, and based on the records I have seen, it appears that until approximately 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills home and Mills store assets. Emily followed her father's example and renamed the store M. E. Mills. When Hannah passed less than a decade later, Emily would inherit all assets and property.
+Edward died "intestate", without a will, and based on the records I have seen, it appears that until approximately 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills home and Mills store assets. Emily followed her father's example and renamed the store M. E. Mills. When Hannah passed less than a decade later, Emily inherited all assets and property.
 
 Thanks to Gertrude Conant's personal recollections, we have a basic description of Emily's appearance and personality:
 
@@ -212,7 +212,7 @@ George Jansen painted Emily's home in the Summer of 1924:
 
 {{% fig "1937-02-09-ithaca-journal" "500x500" "" "top" /%}}
 
-Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on 10 Oct 1937. She would spend the last several weeks of her life in Memorial Hospital in Ithaca where she died on 03 November, a few weeks shy of 79 years old. Presumably, she was the first in her family not to die at home (with the possible exception of Horace). Like her father, Emily died without a will.   
+Emily fell and broke her hip while on her way to services at Brooktondale Congregational Church on 10 Oct 1937. She spent the last several weeks of her life in Memorial Hospital in Ithaca where she died on 03 November, a few weeks shy of 79 years old. Presumably, she was the first in her family not to die at home (with the possible exception of Horace). Like her father, Emily died without a will.   
 
 {{% fig "1937-10-15-ithaca-journal" "500" /%}}
 {{% fig "1937-10-20-ithaca-journal" "500" /%}}
@@ -225,9 +225,9 @@ This moving tribute was authored by E. D. Shurter, a Brookton native who was at 
 
 {{% fig "1937-11-11-ithaca-journal" "500" /%}}
 
-The professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, we can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't fully appreciate some of the most important aspects of Emily's life, most notably, her charitable acts.
+The professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, one can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't fully appreciate some of the most important aspects of Emily's life, most notably, her charitable acts.
 
-The news clippings above give examples, such as her contributions to the Red Cross, and of course, the W. C. T. U. did considerable charitable work. In the M. E. Mills store sales journals, there are entries indicating direct donations from the store that Emily counted against her own account as "Goods for Charity":
+The news clippings above give examples, such as her contributions to the Red Cross, and of course, the W.C.T.U. did considerable charitable work. In the M. E. Mills store sales journals, there are entries indicating direct donations from the store that Emily counted against her own account as "Goods for Charity":
 
 {{% fig "me-mills/1909-03-26-emily-mills-entry-p554" "800" /%}}
 
@@ -236,9 +236,9 @@ There are also entries in the historical records of Caroline Valley Federated Ch
 {{% fig "1937-11-26-ithaca-journal" "500" /%}}
 {{% fig "1938-01-19-ithaca-journal" "500" /%}}
 
-That the birth year on Emily's grave is incorrect suggests Emily's final arrangements were made by one or more people in Brooktondale, likely someone from the Congregational Church, Jessie Brewer being the most likely candidate, although E. D. Shurter is another possibility. This would further imply that Emily no longer had contact with any Mills family descendants on Long Island, which would seem to be supported by the potential heirs sought out after her death as noted in the [Mills Home]({{% ref "features/mills-home-brooktondale" %}}) deeds.
+That the birth year on Emily's grave is incorrect suggests Emily's final arrangements were made by one or more people in Brooktondale, likely someone from the Congregational Church, Jessie Brewer being the most likely candidate, although E. D. Shurter is another possibility. This further implies that Emily no longer had contact with any Mills family descendants on Long Island, which seems to be supported by the potential heirs sought out after her death as noted in the [Mills home]({{% ref "features/mills-home-brooktondale" %}}) deeds.
 
-Emily was the last in the line of Edward H. Mills, and it would seem that her family's story has become unknown to the Mills of subsequent generations. 
+Emily was the last in the line of Edward H. Mills, and it seems that her family's story has become unknown to the Mills of subsequent generations. 
 
 [Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
 
@@ -256,7 +256,7 @@ As indicated elsewhere, George Jansen predeceased Emily by two years. The entry 
 
 {{% fig "george-jansen-ehmills-entry" "500" "img,cite" /%}}
 
-And in the following, Molly seems to indicate that "at the store" was referring to what we know today as Brookton's Market, owned by Robert (Bob) Tucker at that time, and not M. E. Mills, although her choice of words is noticeably vague on the point. Presumably, I can find the original quote and get a better sense of this, but its not obvious that this isn't referring to Mills' store:
+And in the following, Molly seems to indicate that "at the store" refers not to M. E. Mills but to Mulk's brothers store, known presently as Brookton's Market, owned by Robert (Bob) Tucker at that time, although her choice of words is noticeably vague on this point. Presumably, the original quote could be found for clarification, but it's not obvious that this isn't referring to Mills' store:
 
 <blockquote class="quote_only">
 ...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mill's store had been. *— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63*
@@ -277,7 +277,7 @@ Gertrude Conant's personal recollections provide valuable details, including phy
 {{% fig "conant-gertrude-1" "800" /%}}
 {{% fig "conant-gertrude-2" "800" /%}}
 
-Shortly after I moved into the Mills' home in Brooktondale, Molly Adams visited me to sign me up for the Old Mill newsletter, and to give me the following history of Emily Mills and her store. I have since been told that this was a ritual Molly performed with other newcomers. Although I read this "Note" with some interest initially, I didn't appreciate its importance until several years too late to ask Molly to teach me more. I at least had the foresight to save it somewhere I could find it again years later when I needed it. I revisit this often, still mining it for clues about Emily, trying to learn what Molly knew. Despite its title, this exceptional account is more about the M. E. Mills store than it is about Emily herself. As I've done my own research, it does seem that much of what we know about Emily is in relation to the store in some way, and perhaps that is to be expected.
+Shortly after I moved into the Mills' home in Brooktondale, Molly Adams visited me to sign me up for the Old Mill newsletter, and to give me the following history of Emily Mills and her store. I have since been told that this was a ritual Molly performed with other newcomers. Although I read this "Note" with some interest initially, I didn't appreciate its importance until several years too late to ask Molly to teach me more. I at least had the foresight to save it somewhere I could find it again years later when I needed it. I revisit this often, still mining it for clues about Emily, trying to learn what Molly knew. Despite its title, this exceptional account is more about the M. E. Mills store than it is about Emily herself. As I've done my own research, it does seem that much of what is known about Emily is in relation to the store in some way, and perhaps that is to be expected.
 
 {{% fig "a-note-on-emily-mills" "800" /%}}
 
@@ -285,7 +285,7 @@ In the Caroline History Room, there is a copy of Molly's familiar-looking resear
 
 {{% fig "a-note-on-emily-mills-research-notes" "800" /%}}
 
-The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner of the Mills Home would be, and was designed specifically to pique interest in Emily. 
+The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner of the Mills home would be, and was designed specifically to pique interest in Emily. 
 
 The answer to Molly's question "and some groceries?" seems to be yes. Perhaps the question arose because Jessie Brewer apparently did not continue to sell groceries, and this was what residents of the time would more likely remember.
 
@@ -319,7 +319,7 @@ My sense is that this is probably not Emily, but obviously this needs to be inve
 
 I believe there is ample contextual evidence to suggest that Emily was a member of the Ladies Aid Society and also involved in some capacity with the Red Cross, although I don't believe I have direct evidence of these. 
 
-I believe that the reference to "Bertha Mills" in the 1914 American Agriculturist Farm Directory shown below is in fact a misprinted reference to Emily. I have yet found no evidence of a Bertha Mills in Brookton at that time, and everything but the reference to the road on the map in that volume fits Emily. As for the map reference, I would point out that the same road reference is given for Dr. Lockwood and Frank Mulks, Emily's neighbors on what is now Brooktondale Road, and who are listed on the same page:
+I believe that the reference to "Bertha Mills" in the 1914 American Agriculturist Farm Directory shown below is in fact a misprinted reference to Emily. I have yet found no evidence of a Bertha Mills in Brookton at that time, and everything but the reference to the road on the map in that volume fits Emily. As for the map reference, consider that the same road reference is given for Dr. Lockwood and Frank Mulks, Emily's neighbors on what is now Brooktondale Road, and who are listed on the same page:
 
 {{% fig "emily/yatesschuylertom00oran_0212" "800" /%}}
 {{% fig "emily/yatesschuylertom00oran_0449-zoomed" "500" /%}}
@@ -328,34 +328,32 @@ My own speculation after reading many of the Ithaca Journal "gossip columns" fro
 
 For example, consider the similarity in wording to the gossip column on 17 Jan 1914, Ithaca Journal: "Mrs. Mills is a remarkable woman..."  and Hannah's obituary, presumably written by Emily, on 27 Feb 1917, Ithaca Journal: "Mrs. Mills was one of Brookton’s oldest and most respected citizens and a remarkable woman." Consider also the similarity in the phrases "...who was for many years a prominent merchant in this village..." in the 31 Dec 1895 Daily News of Batavia and the 24 Nov 1906 Ithaca Daily Journal article that refers to Edward as "...for many years a prominent merchant of Brookton...". (Although other aspects of the 31 Dec 1895 article suggests it was written by someone other than Emily.) Hannah and Edward are in several different instances referred to as 'aged' although that in itself is unremarkable. Consider too the level of detail, in say, the obituary for Mary Ann. 
 
-Typically, the gossip columns had a default headline of the area, in this case "Brookton" or occasionally "Brookton Heights". However, there are times when a bigger headline would be added emphasizing one aspect of the column. These would have the initial appearance of a typical newspaper article, but then you see it is the relevant gossip column for that day, with perhaps a little more detail on the topic mentioned in the headline. This was the case with a few of Hannah's entries.
+Typically, the gossip columns had a default headline of the area, in this case "Brookton" or occasionally "Brookton Heights". However, there are times when a bigger headline was added emphasizing one aspect of the column. These have the initial appearance of a typical newspaper article, but upon reading, it becomes clear it is the relevant gossip column for that day, with perhaps a little more detail on the topic mentioned in the headline. This was the case with a few of Hannah's entries.
 
 In an informal discussion on the topic with Barbara Kone, it seems unlikely that "Brookton Heights" was ever a name used in the community. The "Brookton Heights" columns are indeed about the people of Brookton, and Barbara suggested that adding "Heights" was someone's attempt to dress up the name.
 
-These gossip columns, it is my understanding, were written by people local to the areas they were reporting on, and over time, you can sense a shift in style, level of detail, who is reported on, etc. that suggest periodic changes in authorship. Brookton was not an enormous community, so it wouldn't be highly improbable that Emily could have been the author for a period. Someone who spends all day, every day at the center of the community, within one of its active hubs, would be well placed to observe people's activities.
+These gossip columns, it is my understanding, were written by people local to the areas they were reporting on, and over time, you can sense a shift in style, level of detail, who is reported on, etc. that suggest periodic changes in authorship. Brookton was not an enormous community, so it isn't highly improbable that Emily could have been the author for a period. Emily spent all day, every day at the center of the community, within one of its active hubs, and was well placed to observe people's activities.
 
 Further, consider these:
 
-  - Emily was "Superintendent of Literature and Publications" for the W. C. T. U. Why that position?
+  - Emily was "Superintendent of Literature and Publications" for the W.C.T.U. Why that position?
   - Consider how the store and church are mentioned, perhaps most notably, in the column where the glasses were left at the Congregational Church, and could be retrieved at M. E. Mills.
 
-Keep in mind that we have examples of Emily writing in longer form, albeit in very specific contexts:
+Keep in mind that several significant examples of Emily's writing in longer form exist, albeit in very specific contexts, that can be mined for patterns of phrasing, etc., that might be used to identify her unattributed words elsewhere:
 
   - The meeting minutes of the Good Templars that she recorded.
   - Presumably she wrote Hannah's obituary.
 
-Beginning with the Templars minutes, we can start to look for patterns of phrasing, etc. that might be used to identify her unattributed words elsewhere.
+Very rarely were authors acknowledged for the gossip columns. In an informal discussion about the gossip columns with Donna Eschenbrenner, it sounds like that The Ithaca Journal significantly downsized in the recent past, some of their records were sent to their parent company in Binghamton, while the rest were simply discarded, so it is very unlikely that any record of who the various "gossip column" authors were still exists.  I have tried to contact the Ithaca Journal to follow up on possible records but have not been able to get a response back.
 
-Very rarely were authors ever acknowledged for the gossip columns. In an informal discussion about the gossip columns with Donna Eschenbrenner, it sounds like that The Ithaca Journal significantly downsized in the recent past, some of their records were sent to their parent company in Binghamton, while the rest were simply discarded, so it is very unlikely that any record of who the various "gossip column" authors were still exists.  I have tried to contact the Ithaca Journal to follow up on possible records but have not been able to get a response back.
+Finally, I should point out the obvious role that Jessie Brewer played in preserving at least some of the information available here. She appears to have purchased all of Emily's personal and real property at auction, and so apparently, she is the first link the chain of custody for many of the surviving artifacts. 
 
-Finally, I would like to point out the obvious role that Jessie Brewer played in preserving at least some of the information available here. She appears to have purchased all of Emily's personal and real property at auction, so it would seem she is the first link the chain of custody for many of the surviving artifacts. 
-
-Consider for example that the 1917 W. C. T. U. Directory at the Tompkins County History Center is one of several dozen in the collection, yet it stands out as all of the others are from many years later. Isn't it curious that to my knowledge, this is the only documentation proving that Emily had been a member of the Union? (Although the gossip columns covering Hanna and Ellen strongly suggest she was, as we would expect her to be anyway.) I made note of the accession information from the Tompkins County History Center but there was no obvious connection to Emily or Jessie, but I suspect that this could have originally been in Emily's and then Jessie's possession.
+Consider for example that the 1917 W.C.T.U. Directory at the Tompkins County History Center is one of several dozen in the collection, yet it stands out as all of the others are from many years later. Isn't it curious that to my knowledge, this is the only documentation proving that Emily had been a member of the Union? (Although the gossip columns covering Hanna and Ellen strongly suggest she was, as one would expect her to be anyway.) I made note of the accession information from the Tompkins County History Center but there was no obvious connection to Emily or Jessie, but I suspect that this could have originally been in Emily's and then Jessie's possession.
 
 As for the Good Templars meeting notebook, according to Donna Eschenbrenner "Unfortunately we don't have an accession number on that ledger, so we don't know the donor." But again, I believe this was a possession of Emily's for many decades. She was the secretary for the final entry in the notebook, and the related items, forms, correspondences, etc., are all in Emily's hand, very strongly indicating that she was the last active member of the Templars to possess the notebook. 
 
-The final entry on 27 Aug 1886 seems routine, and there is no indication that the group was disbanding. The fact that there are correspondences and forms along with the notebooks could be an indication of unfinished work in progress, but of course all of this assumes that the letters and correspondences were together and not donated independently. But I believe that based on what we have, a compelling case can be made that at least some of these items were in Emily's possession for many decades. 
+The final entry on 27 Aug 1886 seems routine, and there is no indication that the group was disbanding. The fact that there are correspondences and forms along with the notebooks could be an indication of unfinished work in progress, but of course all of this assumes that the letters and correspondences were together and not donated independently. But I believe that based on what exists, a compelling case can be made that at least some of these items were in Emily's possession for many decades. 
 
-Assuming that Emily had these items in her possession when she died then it would logically follow that Jessie Brewer had the next hand in preserving these items. And if this argument holds, then this may give us insight into the depth of their relationship, intertwined over many years. I suggest that once Jessie had purchased all of Emily's property, she must have been deeply moved to see Emily's distinctive handwriting and so, she made a point of saving these items. And of course, having purchased Emily's store, Jessie Brewer was initially responsible for preserving the sales journals of M. E. Mills, and perhaps when they were finally removed from the basement, they were still in the place that Jessie had put them years before. This may also explain why the only books known to be preserved are those following Edward's death, when Emily took his place.
+Assuming that Emily had these items in her possession when she died then it logically follows that Jessie Brewer had the next hand in preserving these items. And if this argument holds, then this may give us insight into the depth of their relationship, intertwined over many years. I suggest that once Jessie had purchased all of Emily's property, she must have been deeply moved to see Emily's distinctive handwriting and so, she made a point of saving these items. And of course, having purchased Emily's store, Jessie Brewer was initially responsible for preserving the sales journals of M. E. Mills, and perhaps when they were finally removed from the basement, they were still in the place that Jessie had put them years before. This may also explain why the only books known to be preserved are those following Edward's death, when Emily took his place.
 
 
