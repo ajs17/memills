@@ -3,7 +3,7 @@ title: "The Mills Family in Corfu NY"
 weight: 6
 ---
 
-The family moves to Corfu NY in the early 1860's where Edward, along with partners Charles Pine and James Hillyer, starts E. H. Mills & Co. "cash store" offering general merchandise and dry goods. Horace clerks in the store for his father, and eventually commits suicide. Mary Ann is a member of First Presbyterian Church of Corfu.
+The family moved to Corfu NY in the early 1860's where Edward, along with partners Charles Pine and James Hillyer, started E. H. Mills & Co. "cash store" offering general merchandise and dry goods. Mary Ann was a member of First Presbyterian Church of Corfu. Horace clerked in his father’s store, and committed suicide. 
 
 <!--more-->
 

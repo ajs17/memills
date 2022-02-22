@@ -3,11 +3,11 @@ title: "E. H. Mills and M. E. Mills General Stores"
 weight: 1
 ---
 
-Upon moving to Mott's Corners, Edward restarted his general store, now simply *E. H, Mills*, on his own, with his son Jonas working as clerk. Emily eventually also worked as clerk in the store, taking it over upon Edward's death and operating it as *M. E. Mills* until her death in 1937.
+Upon moving to Mott's Corners, Edward restarted his general store, now simply called E. H, Mills, on his own, with his son Jonas working as clerk. Emily eventually also worked as clerk in the store, taking it over upon Edward's death and operating it under the name M. E. Mills until her death in 1937.
 
 <!--more-->
 
-The former location of the Mills store as it looks today, at 484 Brooktondale Road. Note  the stairs leading to the second floor on the side of the building mentioned later by Gertrude Conant, are visible here on the western side of the building.
+The former location of the Mills store as it looks presently, at 484 Brooktondale Road. Note  the stairs leading to the second floor on the side of the building mentioned later by Gertrude Conant, are visible here on the western side of the building.
 
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "800" /%}}
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "800" /%}}
