@@ -12,6 +12,10 @@ main article.summary a.more-link {
     display: none;
 }
 
+header {
+    padding-top: calc( var(--line-height) * 2 );
+}
+
 article .summary a.more-link { 
   display: inline;
 }

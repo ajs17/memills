@@ -18,7 +18,7 @@ In the 1875 New York State Census, each of the children are listed with Staten I
 
 It may be of interest that the 1860 Census shows that there is a Betsey Mott born about 1807 living with Charles M. Pine.
 
-According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles was postmaster of what was then called the North Shore, Staten Island postoffice from 16 Dec 1850 to 26 Oct 1853. This postoffice became the West New Brighton station of Staten Island on 21 Jan 1917.
+According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles was postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917.
 
 1860 – Staten Island’s first railroad begins operating – April 23rd. The first magnetic telegraph line reaches Staten Island – June.
 

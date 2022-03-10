@@ -54,8 +54,6 @@ The following are examples of Edward's postmark during that time:
   {{% fig "postmarks/envelope-postmark-white" "350" /%}}
 </div>
 
-The postoffice moved to Mill's store when Edward became postmaster. It appears that George Richardson was an employee of Edward's, as he is never identified as postmaster in the USPS records:
-
 <div class="cols">
 {{% fig "1885-08-13-Ithaca-Daily-Journal-p3" "350" /%}}
 {{% fig "1887-05-27-The-Ithaca-Daily-Journal-p3" "350" /%}}

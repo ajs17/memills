@@ -18,7 +18,7 @@ Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale
 
 {{% table "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" "Summary of Census Data" %}}
 
-Emily was likely named for one of her ancestors, although, as the name Mary is quite common within both the Mills and Hallock families, there are several candidates for whom. Emily's middle name may be in memory of Edward's sister who died over a decade before Emily was born. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she typically used "M. Emily Mills", particularly in later years.
+Emily's middle name may be in honor of Edward's sister who died over a decade before Emily was born. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she typically used "M. Emily Mills", particularly in later years.
 
 The date of birth on Emily's headstone is incorrect:
 
@@ -54,7 +54,7 @@ Many aspects of Emily's handwriting are quite distinctive—such as uppercase E'
 
 {{% fig "me-mills/1909-03-26-sales-journal" "800" /%}}
 
-Her E's C's L's and J's tend to have big loops. Her lowercase p's practically pierce the line above it. And her uppercase T's and F's have distinctive crosses that rise and fall. Her handwriting is easily recognizable, and when others (most likely Ellen Gould) make entries in the Mill's store journals, the differences are apparent.
+Her E's C's L's and J's tend to have big loops. Her lowercase p's practically pierce the line above it. And her uppercase T's and F's have distinctive crosses that rise and fall. Her handwriting is easily recognizable, and when others (most likely Ellen Gould) make entries in the Mills' store journals, the differences are apparent.
 
 Interestingly, her T's are sometimes written quite differently. See for example, the way "to" is written in the entries for John and James Caveny vs. those for J. T. Miller and Emily herself. These very different looking T's appear to all be written by Emily given other matches that can be verified, including most obviously, the capital J's which all begin in the center with an extra initial loop.
 
@@ -256,16 +256,6 @@ As indicated elsewhere, George Jansen predeceased Emily by two years. The entry 
 
 {{% fig "george-jansen-ehmills-entry" "500" "img,cite" /%}}
 
-And in the following, Molly seems to indicate that "at the store" refers not to M. E. Mills but to Mulk's brothers store, known presently as Brookton's Market, owned by Robert (Bob) Tucker at that time, although her choice of words is noticeably vague on this point. Presumably, the original quote could be found for clarification, but it's not obvious that this isn't referring to Mills' store:
-
-<blockquote class="quote_only">
-...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mill's store had been. *— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63*
-</blockquote>
-
-The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store, and facing the former Lockwood residence. 
-
-{{% fig "lockwood-memorial" "500" /%}}
-
 Emily is not mentioned by name, but is implicitly referenced in a photo caption of a portrait of Jessie Brewer published in 2016, "Around Caroline" by Patricia A. Brhel, p23:
 
 <blockquote class="quote-only">
@@ -296,7 +286,7 @@ Emily is also mentioned in Town of Caroline Historian Barbara Kone's compilation
 <blockquote class="quote-only">
 <p><strong>BROOKTONDALE POST OFFICE, left -- 484 Brooktondale Road</strong></p>
 
-<p>This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosene, Kerosene lamps with green shades, penny candy, stockings, handkerchiefs, yard goods, pins & sewing notions sheets & pillowcases, groceries, etc. She was a "sweet little lady" who succeeded her father in the business. Jessie Brewer had dry goods here after Miss Mills, and also had a lending library in the back postoffice has moved at least 3 times. This is the 3rd site.Between the Post Office and the bridge sat the Shurter House which was moved.</p>
+<p>This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosene, Kerosene lamps with green shades, penny candy, stockings, handkerchiefs, yard goods, pins & sewing notions sheets & pillowcases, groceries, etc. She was a "sweet little lady" who succeeded her father in the business. Jessie Brewer had dry goods here after Miss Mills, and also had a lending library in the back post office has moved at least 3 times. This is the 3rd site.Between the Post Office and the bridge sat the Shurter House which was moved.</p>
 </blockquote>
 
 (I tried to faithfully reproduce the punctuation, capitalization, spacing, etc. of the source.)
@@ -315,7 +305,7 @@ There is an intriguing photo in "Around Caroline" by Patricia A. Brhel that show
 {{% fig "emily/around-caroline-p85" "800" /%}}
 {{% fig "emily/around-caroline-cropped-p85" "800" /%}}
 
-My sense is that this is probably not Emily, but obviously this needs to be investigated further. Barbara Kone believes that this photo did not come from the Caroline History Room, and multiple attempts to contact Patricial Brhel have been unsuccessful.
+My sense is that this is probably not Emily, but obviously this needs to be investigated further. Barbara Kone believes that this photo did not come from the Caroline History Room, and multiple attempts to contact Patricia Brhel have been unsuccessful.
 
 I believe there is ample contextual evidence to suggest that Emily was a member of the Ladies Aid Society and also involved in some capacity with the Red Cross, although I don't believe I have direct evidence of these. 
 

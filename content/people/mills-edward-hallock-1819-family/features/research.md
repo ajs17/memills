@@ -44,7 +44,7 @@ Adam Smith, 26 Dec 2021
 
 The original structures of both the Mills' store in Brooktondale and the Mills' home in Brooktondale still exist at the time I write this. 
 
-There are relevant photos taken from the hills above and behind the Mills' store that show the roof and outline of the building. The storefront of M. E. Mills is visible in the background, mostly obstructed, in photos that feature the Shurter House next door (the Shurter House sat between the Mills' store and the lower bridge over Six Mile Creek in Brookton). Any photos taken from the parking lot of Mulk's store looking southwest should be examined closely for the Mill's store in the background across the street.
+There are relevant photos taken from the hills above and behind the Mills' store that show the roof and outline of the building. The storefront of M. E. Mills is visible in the background, mostly obstructed, in photos that feature the Shurter House next door (the Shurter House sat between the Mills' store and the lower bridge over Six Mile Creek in Brookton). Any photos taken from the parking lot of Mulks' store looking southwest should be examined closely for the Mills' store in the background across the street.
 
 In a book of local history that Gertrude Conant created for her son, there is a photo that includes the front of M. E. Mills, with the Mills' home in the background, purportedly taken approximately 1915. So far, I have only seen a photo of this photo, it appears quite small, and the store front appears to be over-exposed, hiding much detail. It is expected that this book will be donated to the Caroline Historian in the future, and I will be able to get a better look at it. I am also hopeful that an original print and/or negative exists somewhere in the collection. 
 
@@ -91,7 +91,7 @@ I have already collected much of this information, its just a matter of getting 
   - Charles Personius Mills?
   - See if there are radio schedules from April 1923 to see if we can deduce the radio concert that Emily and Ellen listened to at the Mulks'.
   - Train schedules, routes from Brookton to Corfu, corresponding to family burials.
-  - More information is needed about Emily's involvement in the Ladies Aid Society and Red Cross.
+  - More information is needed about Emily's involvement in the Ladie's Aid Society and Red Cross. The Ladie's Aid ceased activity in the past decade but while active, kept a separate record of their activities from the main church books. I am making arrangements to view these records and expect to find significant clues about the activities of Emily and Jessie Brewer among other contemporaries. In particular, its possible mention of Emily's funeral arrangements would help explain the erroneous 1861 birthdate.
   - Donna E. believes that the Ithaca office of the Red Cross has scrapbooks of their own history: I have contacted them and awaiting a response.
   - Research the apparent purchase for subsequent rental: a barn 23 Sep 1907.
   - Where did Emily go around 20 Mar 1917? (roughly a month after Hannah's death.) Ellen Gould is said to be keeping house, suggesting that Emily was out of town for a period of time.
@@ -108,9 +108,9 @@ Church Records and Baptism:
   - Letters exist at Univ of Ill library between the Reverend and her family.
   
 Planned:
-  - Research deeds on Mill's home and Mill's store prior to 1900. When did the Mills start living there? Survey maps that show mill race? Who owned the Mills store real estate?
+  - Research deeds on Mills' home and Mills' store prior to 1900. When did the Mills start living there? Survey maps that show mill race? Who owned the Mills' store real estate?
   - Photo inventory (completed) and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move. 
-  - The dimensions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mill's home could have been taken by Alice Shurter?
+  - The dimensions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mills' home could have been taken by Alice Shurter?
 
 
 ## Distribution

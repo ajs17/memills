@@ -3,36 +3,36 @@ title: "E. H. Mills and M. E. Mills General Stores"
 weight: 1
 ---
 
-Upon moving to Mott's Corners, Edward restarted his general store, now simply called E. H, Mills, on his own, with his son Jonas working as clerk. Emily eventually also worked as clerk in the store, taking it over upon Edward's death and operating it under the name M. E. Mills until her death in 1937.
+Upon moving to Mott's Corners, Edward restarted his general store on his own, now simply called E. H. Mills. Jonas clerked for his father, as did Emily, eventually taking over the store after Edward's death and operating it under the name M. E. Mills until her death in 1937.
 
 <!--more-->
 
-The former location of the Mills store as it looks presently, at 484 Brooktondale Road. Note  the stairs leading to the second floor on the side of the building mentioned later by Gertrude Conant, are visible here on the western side of the building.
+This photo shows Mills' store as it looks presently, at 484 Brooktondale Road: .
 
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "800" /%}}
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "800" /%}}
 
-It seems likely the Mills store was always in this building. The postoffice moved to Mills store when Edward became postmaster. It appears  George Richardson was an employee of Edward's, as he is never identified as postmaster in the USPS records:
+Long-time community members call this building "the old post office" referring to when it was used as such after it was M. E. Mills and then Jesse Brewer's store. But the post office had also been in that building many years prior, moving there when Edward Mills became postmaster. It appears George Richardson was an employee of Edward's, as he is never identified as postmaster in the USPS records:
 
 <div class="cols">
 {{% fig "1885-08-13-Ithaca-Daily-Journal-p3" "350" /%}}
 {{% fig "1887-05-27-The-Ithaca-Daily-Journal-p3" "350" /%}}
 </div>
 
-The following are some of the earliest references to the Mills' store and they recount misadventures  took place at a time when Emily was identified as "clerk" in E. H. Mills:
+It seems likely the Mills' store was always in this building. The following are some of the earliest references to the Mills' store and they recount misadventures that took place at a time when Emily was identified as "clerk" in E. H. Mills:
 
 {{% fig "1896-10-14-The-Ithaca-Daily-Journal-p6" "500" /%}}
 {{% fig "1897-03-18-ithaca-daily-journal" "500" /%}}
 
-The following shows  the Mills store was involved in charity while Edward was alive:
+The following shows  the Mills' store was involved in charity while Edward was alive:
 
 {{% fig "1898-03-31-The-Ithaca-Daily-Journal-p5" "500" /%}}
 
 {{% fig "1904-08-29-The-Ithaca-Daily-Journal-p6" "500" /%}}
 
-It is really in Brookton where we get a sense of the family's finances through property deeds, reported estate information and the Mills store sales journals. The Mills family likely always made a fairly modest, if stable, income from their general stores.
+It is really in Brookton where we get a sense of the family's finances through property deeds, reported estate information and the Mills' store sales journals. The Mills family likely always made a fairly modest, if stable, income from their general stores.
 
-I have seen perhaps more than a dozen volumes of sales journals and other financial record books  are in the possession of a local collector who told me  he was contacted by Frank Proto at the time  Frank took possession of the former Mills store building, and he was given the opportunity to go through the basement of the building and preserve anything of historical value. 
+I have seen perhaps more than a dozen volumes of sales journals and other financial record books  are in the possession of a local collector who told me  he was contacted by Frank Proto at the time  Frank took possession of the former Mills' store building, and he was given the opportunity to go through the basement of the building and preserve anything of historical value. 
 
 {{% fig "me-mills/vol-41-spine" "800" /%}}
 
@@ -117,7 +117,7 @@ In one of the present-day photos of 484 Brooktondale Road, you can see the stair
 
 This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosene, Kerosene lamps with green shades, penny candy, stockings, handkerchiefs, yard goods, pins & sewing notions sheets & pillowcases, groceries, etc. She was a "sweet little lady" who succeeded her father in the business. Jessie Brewer had dry goods here after Miss Mills, and also had a lending library in the back.
 
-The postoffice has moved at least 3 times. This is the 3rd site.Between the Post Office and the bridge sat the Shurter House which was moved.
+The post office has moved at least 3 times. This is the 3rd site.Between the Post Office and the bridge sat the Shurter House which was moved.
 </blockquote>
 
 (I tried to faithfully reproduce the punctuation, capitalization, spacing, etc. of the source.)
@@ -155,7 +155,7 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 {{% fig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "800" /%}}
 
 
-[Libbie H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929) took over ownership of the Mills store building upon the death of her sister [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921). 
+[Libbie H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929) took over ownership of the Mills' store building upon the death of her sister [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921). 
 
 {{% fig "me-mills/BF142829-001" "500" /%}}
 
@@ -166,7 +166,7 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 {{% fig "1922-09-George-Jansen" "800" /%}}
 {{% fig "1923-02-08-George-Jansen" "800" /%}}
 
-In 1925, Libbie Peck sells the Mills store property to Dr. Benjamin Lockwood.
+In 1925, Libbie Peck sells the Mills' store property to Dr. Benjamin Lockwood.
 
 <div class="cols">
 {{% fig "me-mills/BF050069-001" "350" /%}}
@@ -187,7 +187,7 @@ Identical notices for the Halloween party were run in The Ithaca Journal on 28 O
 And in the following, Molly Adams seems to indicate "at the store" refers to what is presently known as Brookton's Market, owned by Robert (Bob) Tucker at  time, and not M. E. Mills, although her choice of words is noticeably vague on the point. Presumably, I can find the original quote and get a better sense of this, but its not obvious this isn't referring to Mills' store:
 
 <blockquote class="quote-only">
-...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mill's store had been. 
+...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mills's store had been. 
 
 *— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63*
 </blockquote>
@@ -195,7 +195,7 @@ And in the following, Molly Adams seems to indicate "at the store" refers to wha
 {{% fig "1935-07-31-The-Ithaca-Journal-p14" "500" /%}}
 {{% fig "1935-11-23-The-Ithaca-Journal-p5" "500x500" "" "top" /%}}
 
-The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of Mill's store, and facing the former Lockwood residence. There is also a bronze sundial on top of the stone (not visible in the photo)  appears to have been attached along with the tablet.  
+The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, on the southwest corner of the former grist mill lot, directly across the street from the former location of the Mills' store, and facing the former Lockwood residence. There is also a bronze sundial on top of the stone (not visible in the photo)  appears to have been attached along with the tablet.  
 
 {{% fig "lockwood-memorial" "500" "img,link" /%}}
 
@@ -214,9 +214,9 @@ In the Caroline History Room in Slaterville Springs, there are a set of similar 
 {{% fig "me-mills/vorhis-sales-2" "350" /%}} 
 </div>
 
-These volumes are leather bound, but with badly deteriorating covers, containing entries from the 1890's to the early 190X's.  I could not find anything identifying the store these journals were for, but my review was merely introductory and far from exhaustive. A note accompanying them indicated they were donated by Frank Proto, owner of the Mills store location at the time of this writing. 
+These volumes are leather bound, but with badly deteriorating covers, containing entries from the 1890's to the early 190X's.  I could not find anything identifying the store these journals were for, but my review was merely introductory and far from exhaustive. A note accompanying them indicated they were donated by Frank Proto, owner of the Mills' store location at the time of this writing. 
 
-Given  Frank donated them, and  the style of record keeping is quite similar to known Mills sales journals, it was hoped  these might be earlier books of E. H. Mills' general store. When asked for more information on their origin, Barbara Kone said they came from Frank's basement, and when pressed further for which basement, she said "from the Mill" meaning the basement of Dalebrook, also owned by Frank Proto at the time of this writing, and at the time of the sales journals in question, was owned by Frank C. Vorhis, who also owned a general store next door in the location  eventually became Frank F. Mulks general store, and presently, Brookton's Market. According to the Brookton's Market 2011 Calendar, Vorhis owned the store from the 1880's to its sale to the Mulks brothers in 1902, when it became known as <strong>Frank F. Mulks</strong>. That timeframe matches up with these journals, and it appears  the prices used in the comparisons in the calendar came from these books. 
+Given  Frank donated them, and  the style of record keeping is quite similar to known Mills sales journals, it was hoped  these might be earlier books of E. H. Mills' general store. When asked for more information on their origin, Barbara Kone said they came from Frank's basement, and when pressed further for which basement, she said "from the Mill" meaning the basement of Dalebrook, also owned by Frank Proto at the time of this writing, and at the time of the sales journals in question, was owned by Frank C. Vorhis, who also owned a general store next door in the location  eventually became Frank F. Mulks general store, and presently, Brookton's Market. According to the Brookton's Market 2011 Calendar, Vorhis owned the store from the 1880's to its sale to the Mulks brothers in 1902, when it became known as Frank F. Mulks. That timeframe matches up with these journals, and it appears  the prices used in the comparisons in the calendar came from these books. 
 
 My review led me to conclude there were possibly several different handwriting styles, and although I have not looked through the entries thoroughly, I spent a little time reviewing a random sampling of entries over several books and could not confidently identify any handwriting as Emily's, although occasionally I thought I might have seen an interesting similarity, I could not see  similarity consistently. Obviously a more careful examination should be done, perhaps even by someone who knows how to actually analyze handwriting, but in the meantime, the weight of the evidence seems to lean toward these being the sales journals of Vorhis' store.
 

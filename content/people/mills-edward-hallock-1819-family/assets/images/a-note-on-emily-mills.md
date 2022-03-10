@@ -7,7 +7,7 @@ notes: >-
 
     - The "old postoffice" and prior to that, the location of M. E. Mills, is present-day 484 Brooktondale Road.
   
-    - "TNT" refers to the store that is presently Brookton's Market and was owned by the Mulks in early 1900's.  
+    - "TNT" refers to the store that is presently Brookton's Market and was owned by the Mulks' in early 1900's.  
     
     - The source of the quotes about the Mills' home are from the property deeds of the time. 
     

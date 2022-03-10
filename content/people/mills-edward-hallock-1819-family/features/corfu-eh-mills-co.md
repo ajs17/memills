@@ -31,7 +31,7 @@ There is also a June 1863 Civil War Draft Registration record in Genesee County 
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 
-As can be seen in the 1863 tax assessment documents, the Mills store is entered as "Mills E. H. & Co.", showing that it was already operating by 01 May 1863, several years before the 1866 date given by Allan Starkweather in the following account, which was likely simply based on what he knew to be the earliest confirmed records of the store, which he generously provided to me in what follows:
+As can be seen in the 1863 tax assessment documents, the Mills' store is entered as "Mills E. H. & Co.", showing that it was already operating by 01 May 1863, several years before the 1866 date given by Allan Starkweather in the following account, which was likely simply based on what he knew to be the earliest confirmed records of the store, which he generously provided to me in what follows:
 
 <figure class="quote-only">
 <blockquote>
