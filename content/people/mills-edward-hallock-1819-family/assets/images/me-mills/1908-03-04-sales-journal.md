@@ -4,7 +4,7 @@ notes: >
 
     - The entry on 23 Mar appears to not be Emily's writing.
     
-    - The 04 Apr entry for "D.F. Roe" is a reference to [DeWitt F. Roe](https://www.findagrave.com/memorial/51355047/dewitt-f-roe) (04 Apr 1853-08 Mar 1918). who notarized the sale of the Mills home to Edward Mills. 
+    - The 04 Apr entry for "D.F. Roe" is a reference to [DeWitt F. Roe](https://www.findagrave.com/memorial/51355047/dewitt-f-roe) (04 Apr 1853-08 Mar 1918). who notarized the sale of the Mills' home to Edward Mills. 
 ---
 The following are selected transcriptions from the image adapted for this presentation format:
 

@@ -1,5 +1,5 @@
 ---
-# citation: "20 Jul 1909, The Ithaca Daily Journal (Ithaca NY), p9, nyhistoricnewspapers.org."
+# citation: "20 Jul 1909, The Ithaca Daily Journal (Ithaca NY), p9, nyhistoricnewspapers.org"
 pubdate:  "1909-07-20"
 author: 
 title: 

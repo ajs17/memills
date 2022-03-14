@@ -9,7 +9,7 @@ pages:  "6"
 source:  "nyshistoricnewspapers.org"
 notes: >-
 
-    - Mulks store was broken into so often that it became somewhat of a local joke, but there are several news reports of Mills store also being broken into.
+    - Mulks store was broken into so often that it became somewhat of a local joke, but there are several news reports of Mills' store also being broken into.
 ---
 
 BURGLARY AT BROOKTON

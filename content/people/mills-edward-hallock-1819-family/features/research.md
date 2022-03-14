@@ -62,7 +62,7 @@ A thorough review of the seven boxes of scrapbooks of Edwin Dubois (E. D. Shurte
 
 The Good Templars items at the Tompkins County History Center appear to be most closely associated with Emily's activities, so it seems logical that the origin narrative of the Good Templars items, and possibly a number of others at the Center, such as the 1917 W.C.T.U. directory, can be traced back to Emily: these were her possessions, kept for many decades, that came into Jessie Brewer's possession when she purchased Emily's property at auction in 1938. As Jessie went through Emily's things, she took special care to save these remembrances of her old friends, and Emily in particular, and the very personal keepsake of her handwriting. If I am correct, it suggests a deep affection between these two, who were neighbors for many decades and who shared so much. Upon her death, Jessie Brewer made a significant donation to the library in Dryden which seems worthy of further investigation.
 
-If you review the boxes of W.C.T.U. directories, you will see that one book in particular is oddly out of place: a 1917 directory that is unique, as most of the others are from the 1930's and several decades after. This is intriguing for a few reasons: 1917 is the year Hannah died, and as she was a very highly regarded member, there is some chance of a connection there, although that may be a stretch. But also consider that the 1917 book is the only one that I found (after an admittedly modest review of the books from Emily's lifetime, given the access and time constraints) that explicitly documents Emily as a member. The coincidence seems potentially significant. 
+If you review the boxes of W.C.T.U. directories, you will see that one book in particular is oddly out of place: a 1917 directory that is unique, as most of the others are from the 1930's and after. This is intriguing for a few reasons: 1917 is the year Hannah died, and as she was a very highly regarded member, there is some chance of a connection there, although that may be a stretch. But also consider that the 1917 book is the only one that I found (after an admittedly modest review of the books from Emily's lifetime, given the access and time constraints) that explicitly documents Emily as a member. The coincidence seems potentially significant. 
 
 
 ## Information Yet To Be Incorporated
@@ -80,15 +80,14 @@ I have already collected much of this information, its just a matter of getting 
 
 ## Unanswered Questions and Areas of Further Research
 
-  - More precise birthdates and birthplaces for Jonas, Horace, Emily, Hannah.
+  - More precise birthdates and birthplaces for Jonas, Horace, Emily, Hannah. I am awaiting a response from New York State about records for Emily's birth. 
   - What is the source of "1961" as birth year on Emily's gravestone?
   - Jonas' and Horace's full middle names.
   - Corroborate Horace's date of death, as Evergreen Hill Cemetery directory listing is the only source of a date and given the mistakes in Edward's listing, I can't be completely confident in it.
   - Who were the sources for the gossip columns in those years?
   - Did Emily write Hannah's obituary?
   - Is Charles M. Pine, co-owner of E. H. Mills & Co. in Corfu, related to Edward's wife Mary Ann, whose maiden name is Pine?
-  - Photo of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
-  - Charles Personius Mills?
+  - Photos of anyone in Mills family, the stores, the homes, but in particular, a photo of Emily and her store in Brookton, M. E. Mills. 
   - See if there are radio schedules from April 1923 to see if we can deduce the radio concert that Emily and Ellen listened to at the Mulks'.
   - Train schedules, routes from Brookton to Corfu, corresponding to family burials.
   - More information is needed about Emily's involvement in the Ladie's Aid Society and Red Cross. The Ladie's Aid ceased activity in the past decade but while active, kept a separate record of their activities from the main church books. I am making arrangements to view these records and expect to find significant clues about the activities of Emily and Jessie Brewer among other contemporaries. In particular, its possible mention of Emily's funeral arrangements would help explain the erroneous 1861 birthdate.
@@ -112,6 +111,38 @@ Planned:
   - Photo inventory (completed) and digitally transcribe the complete notebook of Good Templars meeting minutes. Try to find a link between Horace's death and Emily's temperance activities, and a possible clue to Mott's Corners move. 
   - The dimensions and timing of the ("approximately") 1915 photo of Brooktondale Road that shows the front of M. E. Mills and the Mills' home could have been taken by Alice Shurter?
 
+## Conventions Used
+
+This is rudimentary documentation of stylistic decisions made. 
+
+Obviously in quotes and transcriptions, I tried to faithfully reproduce what the original authors wrote, as they wrote it. What follows only applies to my authorship.
+
+General notes:
+  - I decided not to boldface or italicize store names. (TODO: may need further remediation.)
+
+Dates:
+  - Goals: format that is consistent, succinct, lexicographically sortable, machine parsable, but also still easily human readable. Gracefully handle varying date precision.  
+  - Literal examples of date formatting used:
+      - 01 Jan 1908
+      - Mar 1889
+  - Spell out "born" "died" "married" and "to" (instead of a dash) when referencing dates and date ranges. (TODO: further remediation needed.)   
+
+Simplified citation format:
+  - As with date formatting, goals are a minimal, standardized, flexible format, easily entered and parsed by both human and machine. 
+  - As with date formatting, all fields are optional based on availability and applicability of data.
+  - Comma delimited fields.
+  - Uses date formatting defined above.
+  - Full format:
+      - 02 Jan 2006, Authorfirstname Authorlastname, "Item Title", Volume Title, Publication City NY, p7-9, url.com. Further descriptive information about item format, copyright, etc. 
+  - If the source of an item suggests a preferred citation format, that may be used instead. 
+
+Literal examples [brackets indicate optional inclusion]:
+  - [the] Mills' store
+  - [the] Mills' home
+  - The Mills' Place
+  - post office
+  - postmaster (when referring to title)
+  - Postmaster Edward H. Mills (as part of title)
 
 ## Distribution
 

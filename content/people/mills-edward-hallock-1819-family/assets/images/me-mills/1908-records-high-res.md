@@ -3,7 +3,7 @@ citation: "Dec 1907 - Jan 1908, E. H. Mills Family a/c, Mills Store Sales Journa
 notes: >-
     Notes:
 
-    - This page is the inside back cover of volume 41 of the Mills store sales journals show the store's businesses expenses in the final days of E. H. Mills and the transition after Edward's death to M. E. Mills. These books are hardcover, cloth.
+    - This page is the inside back cover of volume 41 of the Mills' store sales journals show the store's businesses expenses in the final days of E. H. Mills and the transition after Edward's death to M. E. Mills. These books are hardcover, cloth.
 
     - While typical sales are entered in the books as you would expect, the family account records start in the back and are filled in toward the front.
 

@@ -1,5 +1,5 @@
 ---
-# citation: "14 Oct 1896, The Ithaca Daily Journal (Ithaca NY), p6, nyhistoricnewspapers.org."
+# citation: "14 Oct 1896, The Ithaca Daily Journal (Ithaca NY), p6, nyhistoricnewspapers.org"
 pubdate:  "1896-10-14"
 author: 
 title: 

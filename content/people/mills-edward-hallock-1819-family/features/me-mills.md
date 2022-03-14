@@ -3,12 +3,12 @@ title: "E. H. Mills and M. E. Mills General Stores"
 weight: 1
 ---
 
-Upon moving to Mott's Corners, Edward restarted his general store on his own, now simply called E. H. Mills. Jonas clerked for his father, as did Emily, eventually taking over the store after Edward's death and operating it under the name M. E. Mills until her death in 1937.
+After moving to Mott's Corners in Mar 1889, Edward restarted his general store on his own, now simply called E. H. Mills. Both Jonas and Emily clerked at E. H. Mills. Emily took over the store after Edward's death and operated it under the name M. E. Mills until her death in 1937. Soon thereafter, Jesse Brewer took over the store and ran it for many years under her name, after which, the building became the location of the post office. The Mills' store structure survives today and is located at 484 Brooktondale Road.  
 
 <!--more-->
 
-This photo shows Mills' store as it looks presently, at 484 Brooktondale Road: .
-
+Mills' store, Summer 2021:
+ 
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "800" /%}}
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "800" /%}}
 
