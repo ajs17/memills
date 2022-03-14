@@ -1,3 +1,3 @@
 ---
-citation: "New York State Marriage Index, 1896, accessed via ancestry.com"
+citation: "1896, New York State Marriage Index, accessed via ancestry.com"
 ---

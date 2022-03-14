@@ -1,3 +1,3 @@
 ---
-citation: "30 Apr 1886, Quarterly Returns for Independent Order of Good Templars High Bridge Lodge No. 296"
+citation: "30 Apr 1886, Minute Book, Independent Order of Good Templars, Brookton, Tompkins County History Center"
 ---

@@ -1,5 +1,5 @@
 ---
-citation: "Gertrude Conant, used with permission"
+citation: "Gertrude Conant. Used with permission"
 notes: >-
     Notes:
 

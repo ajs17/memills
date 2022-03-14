@@ -1,5 +1,5 @@
 ---
-citation: "13 Jun 1924 to 17 Jun 1924, George E. Jansen Notebook 1924, Tompkins County History Center"
+citation: "Notebooks of George E. Jansen, Tompkins County History Center" 
 ---
 
 low 56 high 68  Rain lightly through the day  I painted for Miss Mills 2 hrs had to quit.

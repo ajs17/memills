@@ -1,5 +1,5 @@
 ---
-citation: "U.S., Newspaper Extractions from the Northeast, 1704-1930, ancestry.com."
+citation: "U.S., Newspaper Extractions from the Northeast, 1704-1930, ancestry.com"
 ---
 Vol. V, No. 238 - February 21, 1835.
 

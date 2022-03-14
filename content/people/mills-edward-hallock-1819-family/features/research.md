@@ -121,8 +121,8 @@ General notes:
   - I decided not to boldface or italicize store names. (TODO: may need further remediation.)
 
 Dates:
-  - Goals: format that is consistent, succinct, lexicographically sortable, machine parsable, but also still easily human readable. Gracefully handle varying date precision.  
-  - Literal examples of date formatting used:
+  - Goals: a format that is consistent, succinct, lexicographically sortable (compromised in favor of readability), machine parsable, but also still easily human readable. Gracefully handle varying date precision.  
+  - Literal examples of date formatting standard chosen:
       - 01 Jan 1908
       - Mar 1889
   - Spell out "born" "died" "married" and "to" (instead of a dash) when referencing dates and date ranges. (TODO: further remediation needed.)   
@@ -130,11 +130,13 @@ Dates:
 Simplified citation format:
   - As with date formatting, goals are a minimal, standardized, flexible format, easily entered and parsed by both human and machine. 
   - As with date formatting, all fields are optional based on availability and applicability of data.
-  - Comma delimited fields.
+  - Otherwise, entered as completely as possible for future breadcrumb trail. 
+  - Comma delimited fields. (Does not fully account for literal quotes, commas, dates in titles, a current compromise.)
   - Uses date formatting defined above.
   - Full format:
-      - 02 Jan 2006, Authorfirstname Authorlastname, "Item Title", Volume Title, Publication City NY, p7-9, url.com. Further descriptive information about item format, copyright, etc. 
+      - 02 Jan 2006, Authorfirstname Authorlastname, "Item Title", Volume Title, Edition, Publisher, Publication City NY, p7-9, url.com, Owner Name. Further descriptive information about item format, copyright, etc. 
   - If the source of an item suggests a preferred citation format, that may be used instead. 
+  - I may take liberties with my own format at times when it favors clarity/readability.
 
 Literal examples [brackets indicate optional inclusion]:
   - [the] Mills' store

@@ -1,5 +1,5 @@
 ---
-citation: "Tompkins County History Center."
+citation: "Tompkins County History Center"
 notes: >-
     The last digit of the year could be either a 5 or a 6. If the year is 1885, then this is two weeks before Jonas dies.
 ---

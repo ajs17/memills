@@ -1,4 +1,4 @@
 ---
-citation: "Tompkins County History Center."
+citation: "Tompkins County History Center"
 ---
 (date unclear)
