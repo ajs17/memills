@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center" 
+citation: "Notebooks of George E. Jansen, Tompkins County History Center."
 notes: >-
 
     - Em is a reference to Emma (English) Wheeler (1875-1968), wife of Clarence Wheeler (1876-1951). George writes of both often. 

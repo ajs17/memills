@@ -1,9 +1,9 @@
 ---
-citation: "Gertrude Conant. Used with permission"
+citation: "Gertrude Conant. Used with permission."
 notes: >-
     Notes:
 
-    - Dr. Benjamin Lockwood's house is present day 480 Brooktondale Road. Later, "Dr. Mary" Ridgway Tinker lived and practiced there for a time. Dr. Lockwood was also a member of Brookton Congregational Church and he built the Dalebrook apartments on the foundation of the Grist Mill in the 1920's. After Dr. Lockwood's death, E. D. Shurter placed a plaque in his honor outside Dalebrook that remains today.
+    - Dr. Benjamin Lockwood's house is present day 480 Brooktondale Road. Later, "Dr. Mary" Ridgway Tinker lived and practiced there for a time. Dr. Lockwood was also a member of Brookton Congregational Church, and he built the Dalebrook apartments on the foundation of the Grist Mill in the 1920's. After Dr. Lockwood's death, E. D. Shurter facilitated the placement of a plaque in Dr. Lockwood's honor outside Dalebrook that remains today.
   
     - The "woman who lived in and kept house" whose name Gertrude couldn't remember, is a reference to Ellen Gould.
 ---

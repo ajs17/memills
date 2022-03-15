@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center" 
+citation: "Notebooks of George E. Jansen, Tompkins County History Center."
 notes: >-
 
     - [Dana H. Jansen](https://www.findagrave.com/memorial/71685445/dana-h-jansen) (1861 to 24 Oct 1932)

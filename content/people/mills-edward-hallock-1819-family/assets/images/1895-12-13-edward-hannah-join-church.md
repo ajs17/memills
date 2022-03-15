@@ -1,5 +1,5 @@
 ---
-citation: "13 Dec 1895. Digitally photographed entry in **Congregational Church 1868-1933 Minutes of Meetings and Membership**, used with permission from Caroline Valley Community Church"
+citation: "13 Dec 1895. Digitally photographed entry in **Congregational Church 1868-1933 Minutes of Meetings and Membership**, used with permission from Caroline Valley Community Church."
 notes: >-
 
     - The date is obviously a later mis-transcription of George Wolcott's earlier entry, where the 6 could easily be mistaken for a 5.

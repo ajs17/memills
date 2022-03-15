@@ -1,5 +1,5 @@
 ---
-citation: "Molly Adams"
+citation: "Molly Adams."
 notes: >- 
     Notes:
     

@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center" 
+citation: "Notebooks of George E. Jansen, Tompkins County History Center."
 ---
 
 High East winds, light rain very cloudy I Painted for Mrs Peck 7 hrs on Mills Store

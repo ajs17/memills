@@ -1,3 +1,3 @@
 ---
-citation: "1900, United States Federal Census, ancestry.com"
+citation: "1900, United States Federal Census, ancestry.com."
 ---

@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center" 
+citation: "Notebooks of George E. Jansen, Tompkins County History Center."
 ---
 Alfred Gould Died
 

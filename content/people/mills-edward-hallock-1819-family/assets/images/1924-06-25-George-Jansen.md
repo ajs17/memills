@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center" 
+citation: "Notebooks of George E. Jansen, Tompkins County History Center."
 ---
 
 low 66 high 76  Rain in the night + most of forenoon  I went to Ithaca in forenoon  In afternoon I went to Brookton + up as far as Danas + back

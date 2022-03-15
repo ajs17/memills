@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center" 
+citation: "Notebooks of George E. Jansen, Tompkins County History Center."
 notes: >-
 
     - Paid itemized billing information for painting done by George Jansen on the Mills' home.

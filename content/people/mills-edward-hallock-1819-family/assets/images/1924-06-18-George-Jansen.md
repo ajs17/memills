@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center" 
+citation: "Notebooks of George E. Jansen, Tompkins County History Center."
 ---
 
 low 62 high 80  Fair nice day not much wind  I painted for Miss Mills all day  I set out early cabbage at night

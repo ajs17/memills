@@ -1,5 +1,5 @@
 ---
-citation: "1920, \"Clock System\" Map and Farmer Directory, Tompkins County History Center"
+citation: "1920, \"Clock System\" Map and Farmer Directory, Tompkins County History Center."
 ---
 
 ...

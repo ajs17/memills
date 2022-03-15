@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center" 
+citation: "Notebooks of George E. Jansen, Tompkins County History Center."
 ---
 
 low 60 high 80  Fair till 5PM then it rained a little  I painted for Miss Mills all day  All quiet

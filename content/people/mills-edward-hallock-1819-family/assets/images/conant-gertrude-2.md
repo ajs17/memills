@@ -1,5 +1,5 @@
 ---
-citation: "Gertrude Conant. Used with permission"
+citation: "Gertrude Conant. Used with permission."
 notes: >-
     As mentioned in a newspaper clipping above, Dr. Lockwood and his wife lived for a time in the apartment above M. E. Mills while his house was being "reconstructed" from May 1 to late October, 1926.
 ---
