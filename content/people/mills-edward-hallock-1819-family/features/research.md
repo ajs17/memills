@@ -34,7 +34,7 @@ I am certainly not the person Emily would have chosen to care for her home and f
 
 I am no historian, and so the limitations of my abilities are severe. What I present here is something more like a online scrapbook. My goals are simple: to discover, make visible, and help preserve, all surviving information on Edward's family, for Caroline residents and Mills descendants who may be interested in this little rural family. I am leaving behind breadcrumbs in the hopes that others with better skills can fill in the many gaps. If I never see Emily's face, maybe someday others will find her. Emily, her family, and her neighbors lived lives worth remembering.
 
-I ask any Mills family descendants, or descendants of old Brookton residents who may discover this site, please review any materials you have and share with me anything you may have related to Edward's family at asmith607 at gmail.com for possible inclusion in these materials. Even photos with unidentified people in them may be helpful in my search for Emily.
+I ask any Mills family descendants, or descendants of old Brookton residents who may discover this site, please review any materials you have and share with me anything you may have related to Edward's family at asmith607 at gmail dot com for possible inclusion in these materials. Even photos with unidentified people in them may be helpful in my search for Emily.
 
 Thank you for your interest.
 
