@@ -3,7 +3,7 @@ title: "The Mills Family in Corfu NY"
 weight: 6
 ---
 
-The family moved to Corfu NY in the early 1860's where Edward, along with partners Charles Pine and James Hillyer, started E. H. Mills & Co. "cash store" offering general merchandise and dry goods. Mary Ann was a member of First Presbyterian Church of Corfu. Horace clerked in his father’s store, and committed suicide. 
+The family moved to Corfu NY in the early 1860's where Edward, along with partners Charles Pine and James Hillyer, started E. H. Mills & Co. "cash store" offering general merchandise and dry goods. Horace clerked in his father’s store, and Mary Ann was a member of First Presbyterian Church of Corfu. 
 
 <!--more-->
 
@@ -94,7 +94,7 @@ Every member of Edward's family, except for Emily, is buried in Corfu.
 
 ## The MacGregors
 
-When Edward and Emily returned to Corfu with Mary Ann's remains, they spent the evening at the home of the MacGregors. The MacGregors moved to Corfu near the same time as the Mills family, the maps indicate that they lived across the street from the Mills home in Corfu, and they  attended the Presbyterian Church with Mary Ann. 
+When Edward and Emily returned to Corfu with Mary Ann's remains, they spent the evening at the home of the MacGregors. The MacGregors moved to Corfu near the same time as the Mills family, and the maps above indicate that they lived across the street from the Mills' home in Corfu. The MacGregors also attended the Presbyterian Church with Mary Ann. 
 
 {{% fig "corfu/1910-05-19-The-Daily-News-p6" "500" /%}}
 {{% fig "corfu/1915-11-06-The-Daily-News-p8" "500x500" ""  "top" /%}}
@@ -103,7 +103,7 @@ When Edward and Emily returned to Corfu with Mary Ann's remains, they spent the 
 
 ## Churches in Corfu 
 
-We know that Mary Ann was a member of the Presbyterian Church in Corfu, but the interconnections with the Congregationalists is interesting nonetheless:
+Although Mary Ann was a member of the Presbyterian Church in Corfu, the interconnections with the Congregationalists are interesting nonetheless:
 
 <figure class="quote-only">
 <blockquote>

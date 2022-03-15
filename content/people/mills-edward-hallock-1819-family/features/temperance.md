@@ -3,7 +3,7 @@ title: "Temperance Activity"
 weight: 4
 ---
 
-The temperance movement was a significant cultural phenomena of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. There was significant overlap between members of the temperance movement and those supporting suffrage, and before that, abolition. Emily, Hannah and Ellen were all active in temperance.
+The temperance movement was a significant cultural phenomenon of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. There was significant overlap between members of the temperance movement and those supporting suffrage, and before that, abolition. Emily, Hannah and Ellen were all active in temperance.
 
 <!--more-->
 
@@ -18,9 +18,9 @@ Temperance groups don't appear to be very strong here. The only mention I found 
 </figcaption>
 </figure>
 
-There are records of a number of "lodges" of the Independent Order of Good Templars
+There are records of a number of "lodges" of the Independent Order of Good Templars in the Batavia area. (TODO: expand)
 
-In the 1880's Emily was an officer in the Independent Order of Good Templars, in the Brookton chapter called "High Bridge Lodge, No. 296".
+In the 1880's, Emily was an officer in the Independent Order of Good Templars, in the Brookton chapter called "High Bridge Lodge, No. 296".
 
 {{% fig "temperance/good-templars-form-inside" "800" /%}}
 {{% fig "temperance/good-templars-form-outside" "800" /%}}
