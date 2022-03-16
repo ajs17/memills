@@ -152,7 +152,7 @@ Due to the level of detail given to the context of this story, I am choosing to 
 {{% fig "1909-01-15-ithaca-daily-journal" "500" /%}}
 {{% fig "1913-12-06-ithaca-daily-journal" "500" /%}}
 
-Hannah died 25 Feb 1917, and the funeral was held the following Wednesday in the Mills home. 
+Hannah died 25 Feb 1917, and the funeral was held the following Wednesday in the Mills' home. 
 
 {{% fig "1917-03-20-ithaca-journal" "500" /%}}
 
@@ -236,7 +236,7 @@ There are also entries in the historical records of Caroline Valley Federated Ch
 {{% fig "1937-11-26-ithaca-journal" "500" /%}}
 {{% fig "1938-01-19-ithaca-journal" "500" /%}}
 
-That the birth year on Emily's grave is incorrect suggests Emily's final arrangements were made by one or more people in Brooktondale, likely someone from the Congregational Church, Jessie Brewer being the most likely candidate, although E. D. Shurter is another possibility. This further implies that Emily no longer had contact with any Mills family descendants on Long Island, which seems to be supported by the potential heirs sought out after her death as noted in the [Mills home]({{% ref "features/mills-home-brooktondale" %}}) deeds.
+That the birth year on Emily's grave is incorrect suggests Emily's final arrangements were made by one or more people in Brooktondale, likely someone from the Congregational Church, Jessie Brewer being the most likely candidate, although E. D. Shurter is another possibility. This further implies that Emily no longer had contact with any Mills family descendants on Long Island, which seems to be supported by the potential heirs sought out after her death as noted in the [Mills' home]({{% ref "features/mills-home-brooktondale" %}}) deeds.
 
 Emily was the last in the line of Edward H. Mills, and it seems that her family's story has become unknown to the Mills of subsequent generations. 
 
@@ -275,7 +275,7 @@ In the Caroline History Room, there is a copy of Molly's familiar-looking resear
 
 {{% fig "a-note-on-emily-mills-research-notes" "800" /%}}
 
-The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner of the Mills home would be, and was designed specifically to pique interest in Emily. 
+The date of these notes suggests that perhaps the "Note" that Molly gave me was something she created specifically for whoever the new owner of the Mills' home would be, and was designed specifically to pique interest in Emily. 
 
 The answer to Molly's question "and some groceries?" seems to be yes. Perhaps the question arose because Jessie Brewer apparently did not continue to sell groceries, and this was what residents of the time would more likely remember.
 
