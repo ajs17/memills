@@ -37,7 +37,7 @@ Despite modern adaptations such as gallery lighting and handicap access, the str
 The regal Mills Pond House provides the perfect location to expose Smithtown residents to art and also reminds us of a noted local family and our rich history. 
 </blockquote>
 <figcaption>
-<cite>— Rita J. Egan, <a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>
+<cite>— Rita J. Egan, "Smithtown, A History: Mills Pond House", <a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>
 </cite>
 </figcaption>
 </figure>
