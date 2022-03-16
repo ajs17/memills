@@ -1,18 +1,18 @@
 ---
-title: "The Mills Home in Brooktondale"
+title: "The Mills' Home in Brooktondale"
 weight: 3
 ---
 
-The Mills home in Brooktondale is located at present-day (2021) 475 Brooktondale Road.
+The Mills' home in Brooktondale is located at present-day (2021) 475 Brooktondale Road.
 
 <!--more-->
 
 <figure class="image" width="500px">
     <img src="/people/mills-edward-hallock-1819-family/assets/images/mills-home/hero.jpg" width="500" />
-    <figcaption style="max-width: 500px">02 Jan 1964 entry in the Mills home deeds. Andrea Talmage, who owned the Mills home in the 1990’s, had the opportunity to talk with both Carl English and Grace Vandemark who confirmed that the Mills home had been commonly called “The Mills Place” for many years.</figcaption>
+    <figcaption style="max-width: 500px">02 Jan 1964 entry in the Mills' home deeds. Andrea Talmage, who owned the Mills' home in the 1990’s, had the opportunity to talk with both Carl English and Grace Vandemark who confirmed that the Mills' home had been commonly called “The Mills Place” for many years.</figcaption>
 </figure>
 
-The early history of the home is still quite murky. The mid-2000’s real estate listings say the home was built in 1865, although I can’t confirm that yet. The only owner I presently know of before the Lounsbery's is [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911), the son of George and Sarah Wolcott. The historical deeds for the Dalebrook Apartments (the former grist mill) indicates that William owned the adjoining, future Mills property, referring to it as the "Wolcott lot". William lists himself as a carpenter and a painter in the census data, and he was a Civil War veteran in the 137th New York Volunteer Infantry Regiment.
+The early history of the home is still quite murky. The mid-2000’s real estate listings say the home was built in 1865, although I can’t confirm that yet. The only owner I presently know of before the Lounsbery's is [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911), the son of George and Sarah Wolcott. The historical deeds for the Dalebrook Apartments (the former grist mill) indicates that William owned the adjoining, future Mills' property, referring to it as the "Wolcott lot". William lists himself as a carpenter and a painter in the census data, and he was a Civil War veteran in the 137th New York Volunteer Infantry Regiment.
 
 The first three names of possible heirs listed in the deeds are Emily's cousins, the children of [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills), Edward's younger brother:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.

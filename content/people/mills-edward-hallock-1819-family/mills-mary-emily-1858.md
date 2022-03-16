@@ -111,7 +111,7 @@ Edward died on New Year's day 1908, and Emily made another heartbreaking trip to
 
 {{% fig "1908-04-07-The-Ithaca-Daily-Journal-p3" "500" /%}}
 
-Edward died "intestate", without a will, and based on the records I have seen, it appears that until approximately 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills home and Mills store assets. Emily followed her father's example and renamed the store M. E. Mills. When Hannah passed less than a decade later, Emily inherited all assets and property.
+Edward died "intestate", without a will, and based on the records I have seen, it appears that until approximately 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills' home and Mills' store assets. Emily followed her father's example and renamed the store M. E. Mills. When Hannah passed less than a decade later, Emily inherited all assets and property.
 
 Thanks to Gertrude Conant's personal recollections, we have a basic description of Emily's appearance and personality:
 

@@ -37,12 +37,12 @@ Despite modern adaptations such as gallery lighting and handicap access, the str
 The regal Mills Pond House provides the perfect location to expose Smithtown residents to art and also reminds us of a noted local family and our rich history. 
 </blockquote>
 <figcaption>
-<cite>— Rita J. Egan, "Smithtown, A History: Mills Pond House", <a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>
+<cite>— Rita J. Egan, "<a href="https://patch.com/new-york/smithtown/smithtown-a-history-mills-pond-house">Smithtown, A History: Mills Pond House</a>", patch.com.
 </cite>
 </figcaption>
 </figure>
 
-Many photos of the Mills Pond House, both historic and contemporary, exist online and in collections such as the Library of Congress. Just to the west of the Mills Pond House is the Mills Cemetery (also referred to as Mills Pond Cemetery and Mills Graveyard) where many of Emily's ancestors are buried. 
+Many photos of the Mills Pond House, both historic and contemporary, exist online and in collections such as the Library of Congress. As an historic building, there is also substantial documentation on the structure itself, including detailed information on renovations and restorations over the generations, that is publicly available. Just to the west of the Mills Pond House is the Mills Cemetery (also referred to as Mills Pond Cemetery and Mills Graveyard) where many of Emily's ancestors are buried. 
 
 Edward H. Mills has partial entries on at least two Mills family genealogies:
  
@@ -135,7 +135,7 @@ Several of James' children died in infancy, and according to a history of Huntin
 
 There is also a census entry for a daughter Cora M. born Jan 1871. 
 
-The first three names of possible heirs listed in the [Mills home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
+The first three names of possible heirs listed in the [Mills' home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
   - George E. Mills (Feb 1856 to ?)
   - [Clarissa H. Etsell (Jun 1852 to Jan 1846)](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
@@ -148,7 +148,7 @@ And the 1900 census is worth highlighting for the density of information it cont
 
 {{% fig "long-island/1900-us-census-huntington-mills" "800" /%}}
 
-The last name referenced in the list of possible heirs in the Mills home deeds, Mary Huntting Smith, is likely a reference to another of Emily's cousin, or perhaps a descendent of Emily's cousin:
+The last name referenced in the list of possible heirs in the Mills' home deeds, Mary Huntting Smith, is likely a reference to another of Emily's cousin, or perhaps a descendent of Emily's cousin:
   - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
   - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
   - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), married: James M. Cross.

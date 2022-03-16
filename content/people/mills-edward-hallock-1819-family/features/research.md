@@ -159,4 +159,4 @@ To preserve this information, and as an aid to future researchers, the following
   - Smithtown Historical Society
   - Mills Pond? Hallockville?
 
-All accompanying materials are publicly available in a Github repository and licensed under a Creative Commons license. I am also contributing content to Findagrave.com and Ancestry.com as I am able for Mills descendants.
+All accompanying materials are publicly available in a Github repository and licensed under a Creative Commons license. I am also contributing content to Findagrave.com and Ancestry.com as I am able, for the benefit of Mills descendants.

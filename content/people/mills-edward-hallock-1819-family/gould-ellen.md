@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 7
 ---
 
-Ellen Jane (Andrews) Predmore Gould, born 27 Mar 1848, died 31 Oct 1929. Ellen lived in the Mills home, possibly for over a decade, to help care for Hannah and to help Emily with the home and store. She was a devoted member of Brookton Baptist Church and active in the temperance movement.
+Ellen Jane (Andrews) Predmore Gould, born 27 Mar 1848, died 31 Oct 1929. Ellen lived in the Mills' home, possibly for over a decade, to help care for Hannah and to help Emily with the home and store. She was a devoted member of Brookton Baptist Church and active in the temperance movement.
 
 <!--more-->
 
@@ -22,7 +22,7 @@ The first (presumed) mention I have of Ellen in connection to the Mills family i
 
 {{% fig "ellen-gould/1909-03-06-Alfred-Gould-Died"  "500" /%}}
 
-It isn't clear when exactly Ellen started living in the Mills home, but she may have lived there roughly a decade, or possibly a dozen years. In late 1914, when Ellen is first mentioned in the "gossip columns" in relation to the Mills, Ellen had been widowed a second time, and it is in the final few years of Hannah's life. Ellen was getting older herself, and this arrangement not only helped Emily care for Hannah, but also provided Ellen with additional social and financial support. It had the added benefit of being a short walk from both the Baptist Church, and her son Myron Predmore's farm, located near Brookton Depot, in the area where the gravel pit is presently.
+It isn't clear when exactly Ellen started living in the Mills' home, but she may have lived there roughly a decade, or possibly a dozen years. In late 1914, when Ellen is first mentioned in the "gossip columns" in relation to the Mills, Ellen had been widowed a second time, and it is in the final few years of Hannah's life. Ellen was getting older herself, and this arrangement not only helped Emily care for Hannah, but also provided Ellen with additional social and financial support. It had the added benefit of being a short walk from both the Baptist Church, and her son Myron Predmore's farm, located near Brookton Depot, in the area where the gravel pit is presently.
 
 <div class="cols">
   {{% fig "1914-10-26-ithaca-journal" "350" /%}}
@@ -76,7 +76,7 @@ However, as the following reporting suggests, the relationship between Emily and
   {{% fig "1926-01-12-ithaca-journal" "350" /%}}
 </div>
 
-According to reporting at the time, sometime later in 1926 or early in 1927, Ellen moved out of the Mills home to live with her family for the last few years of her life. It looks as though she may have spent a significant amount of time at her son Myron Predmore's home before finally settling with her daughter Clara. Ellen is mentioned often in the "gossip columns" during that time, but these are some of the more telling reports as to where she was living:
+According to reporting at the time, sometime later in 1926 or early in 1927, Ellen moved out of the Mills' home to live with her family for the last few years of her life. It looks as though she may have spent a significant amount of time at her son Myron Predmore's home before finally settling with her daughter Clara. Ellen is mentioned often in the "gossip columns" during that time, but these are some of the more telling reports as to where she was living:
 
 
 <div class="cols">

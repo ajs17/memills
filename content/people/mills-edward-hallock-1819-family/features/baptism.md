@@ -84,4 +84,4 @@ Selected data on the participants:
 
   - Descendents confirm she commonly went by Esther.
   - Married George W. Pancoe (1895-1969).
-  - Esther’s father was Frank C. Vorhis, who was owner of the general store prior to the Mulks brothers and who was a former owner of the Mills home.
+  - Esther’s father was Frank C. Vorhis, who was owner of the general store prior to the Mulks brothers and who was a former owner of the Mills' home.
