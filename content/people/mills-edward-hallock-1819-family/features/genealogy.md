@@ -1,6 +1,6 @@
 ---
 title: "Genealogy and Long Island Origins"
-weight: 8
+weight: 7 
 ---
 
 
@@ -44,7 +44,7 @@ The regal Mills Pond House provides the perfect location to expose Smithtown res
 
 Many photos of the Mills Pond House, both historic and contemporary, exist online and in collections such as the Library of Congress. As an historic building, there is also substantial documentation on the structure itself, including detailed information on renovations and restorations over the generations, that is publicly available. Just to the west of the Mills Pond House is the Mills Cemetery (also referred to as Mills Pond Cemetery and Mills Graveyard) where many of Emily's ancestors are buried. 
 
-Edward H. Mills has partial entries on at least two Mills family genealogies:
+Edward H. Mills has partial entries on the following Mills family genealogies:
  
 1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
 
@@ -96,7 +96,7 @@ Edward married (2) **Hannah (Thatcher) Eastman Mills** (born England, 21 May 182
 
 Notes:
   - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries.
-  - Jonas Davis Mills and Mary Platt Mills may be related, although I have yet to followed up on this. 
+  - Jonas Davis Mills and Mary Platt Mills may be related, although I have yet to follow up on this. 
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence, 21 Jul 2021)
   - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over decade before Emily was born. 
@@ -148,12 +148,12 @@ And the 1900 census is worth highlighting for the density of information it cont
 
 {{% fig "long-island/1900-us-census-huntington-mills" "800" /%}}
 
-The last name referenced in the list of possible heirs in the Mills' home deeds, Mary Huntting Smith, is likely a reference to another of Emily's cousin, or perhaps a descendent of Emily's cousin:
+The last name listed as a possible heir in the Mills' home deeds, Mary Huntting Smith, is likely a reference to Emily's cousin, or perhaps a descendent of Emily's cousin:
   - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
   - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
   - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), married: James M. Cross.
 
-Several documents pertaining to Emily Tabitha Mills' marriage were referenced above.
+Several documents pertaining to Emily Tabitha Mills' marriage were included above.
 
 I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". Emily Huntting predeceased Emily Mills as the result of a strange accident with a bus in front of her home:
 

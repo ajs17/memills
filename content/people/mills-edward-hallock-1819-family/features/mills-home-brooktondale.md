@@ -1,6 +1,6 @@
 ---
-title: "The Mills' Home in Brooktondale"
-weight: 3
+title: "The Mills’ Home in Brooktondale"
+weight: 2 
 ---
 
 The Mills' home in Brooktondale is located at present-day (2021) 475 Brooktondale Road.
@@ -9,12 +9,12 @@ The Mills' home in Brooktondale is located at present-day (2021) 475 Brooktondal
 
 <figure class="image" width="500px">
     <img src="/people/mills-edward-hallock-1819-family/assets/images/mills-home/hero.jpg" width="500" />
-    <figcaption style="max-width: 500px">02 Jan 1964 entry in the Mills' home deeds. Andrea Talmage, who owned the Mills' home in the 1990’s, had the opportunity to talk with both Carl English and Grace Vandemark who confirmed that the Mills' home had been commonly called “The Mills Place” for many years.</figcaption>
+    <figcaption style="max-width: 500px">02 Jan 1964 entry in the Mills' home deeds. Andrea Talmage, who owned the Mills' home in the 1990’s, had the opportunity to talk with both Carl English and Grace Vandemark who confirmed that the Mills' home had been commonly called “The Mills' Place” for many years.</figcaption>
 </figure>
 
 The early history of the home is still quite murky. The mid-2000’s real estate listings say the home was built in 1865, although I can’t confirm that yet. The only owner I presently know of before the Lounsbery's is [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911), the son of George and Sarah Wolcott. The historical deeds for the Dalebrook Apartments (the former grist mill) indicates that William owned the adjoining, future Mills' property, referring to it as the "Wolcott lot". William lists himself as a carpenter and a painter in the census data, and he was a Civil War veteran in the 137th New York Volunteer Infantry Regiment.
 
-The first three names of possible heirs listed in the deeds are Emily's cousins, the children of [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills), Edward's younger brother:
+In the deeds following Emily’s death, the first three names of possible heirs listed are Emily's cousins, the children of [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills), Edward's younger brother:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
   - George E. Mills (Feb 1856 to ?)
   - [Clarissa H. Etsell (Jun 1852 to Jan 1846)](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
@@ -24,7 +24,7 @@ The first three names of possible heirs listed in the deeds are Emily's cousins,
 Aside from the members of the Mills family, the following people are mentioned in the deeds:
 
 - [DeWitt F. Roe](https://www.findagrave.com/memorial/51355047/dewitt-f-roe) (04 Apr 1853 to 08 Mar 1918)
-- [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) Edward and his wife Amanda (below) are among the original, charter members of the Congregational Church of Mott's Corners. Edward died within the church while addressing the Christian Endeavor Society "about 7 o'clock" in the evening. "Death, however, had come instantaneously and was caused by apoplexy brought on it is thought by the mental effort he exerted in addressing the meeting." (28 Nov 1904, Ithaca Daily Journal, p6.) Church records show that Edward was one of the original organizers and members of the Congregational Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the official organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward and Amanda are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. Milliam Personius was chosen chairman and Walker V. Personius secretary." 
+- [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) Edward and his wife Amanda (below) are among the original, charter members of the Congregational Church of Mott's Corners. Edward died within the church while addressing the Christian Endeavor Society "about 7 o'clock" in the evening. "Death, however, had come instantaneously and was caused by apoplexy brought on it is thought by the mental effort he exerted in addressing the meeting." (28 Nov 1904, Ithaca Daily Journal, p6.) Church records show that Edward was one of the original organizers and members of the Congregational Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the official organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward and Amanda are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personius was chosen chairman and Walker V. Personius secretary." 
 - [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921) Amanda was clerk in the church for many years, including after Edward's death and many entries in the church records are written by her hand.
 - [Esther C. (Cary) Vorhis](https://www.findagrave.com/memorial/148400355/esther-vorhis) (1836 to 23 Jan 1917) Esther is the mother of Frank Vorhis below.
 - [Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 1919) According to the Brookton's Market 2011 Calendar, Frank C. Vorhis owned the general store at that location from the 1880's to its sale to the Mulks brothers in 1902, when it became known as Frank F. Mulks. Frank Vorhis is the father of [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964) who was [baptized]({{% ref "baptism" %}}) with Emily and Jessie Brewer and is often referred to as "Miss Esther Vorhis" during that time.
@@ -39,10 +39,37 @@ A summary of the documents:
 
 {{% fig "mills-home/138-329" "800" /%}}
 {{% fig "mills-home/157-593" "800" /%}}
-{{% fig "mills-home/475-deed-pg-1" "800" /%}}
+
+<div class="cols">
+    {{% fig "mills-home/475-deed-pg-1" "800" /%}}
+    {{% fig "mills-home/1909-deeds-millls-172-306" "800" /%}}
+</div>
+ 
 {{% fig "mills-home/475-deed-pg-2" "800" /%}}
 {{% fig "mills-home/475-deed-pg-3" "800" /%}}
 {{% fig "mills-home/475-deed-pg-4" "800" /%}}
 {{% fig "mills-home/475-deed-pg-5" "800" /%}}
 {{% fig "mills-home/475-deed-pg-6" "800" /%}}
+
+
+## Related Research
+
+The Mills' home is the only real estate that I can find official documentation for the Mills' owning. Mills' store was at different times owned by Edward and Amanda Lounsbery, Amanda's sister Libbie Peck, and then Dr. Lockwood. 
+
+Yet in the sales journals of [E. H. Mills]({{% ref "me-mills" %}}) general store in Brookton, the inside front cover of volume 41 seems to indicate the family purchased a barn on 23 Sep 1907 and rented it to John Roe for $0.50 a month starting in 1908:
+
+{{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
+
+I have not found a deed that corresponds to this date. Interestingly, there is a real estate transaction between Amanda Lounsbery and John Roe earlier in 1907, that is perhaps related to the barn rental: 
+
+{{% fig "mills-home/deeds-164-253-lounsbery-roe" "800" /%}}
+
+There is only one other deed unrelated to the Mills’ home that I found associated with the Mills’ family, and it was a transaction that Emily helped facilitate between Willis Shurter and his wife Betsey:
+
+<div class="cols">
+    {{% fig "mills-home/deeds-171-334" "400" /%}}
+    {{% fig "mills-home/deeds-171-335" "400" /%}}
+</div>
+
+Notice that these deeds include an affidavit from Dr. Lockwood.
 

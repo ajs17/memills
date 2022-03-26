@@ -1,6 +1,6 @@
 ---
 title: "Temperance Activity"
-weight: 4
+weight: 3
 ---
 
 The temperance movement was a significant cultural phenomenon of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. There was significant overlap between members of the temperance movement and those supporting suffrage, and before that, abolition. Emily, Hannah and Ellen were all active in temperance.

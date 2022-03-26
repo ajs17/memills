@@ -5,11 +5,10 @@ date: "2021-05-25"
 mainid: "index" 
 hideAutoListDisplay: true
 cascade:
-    defaultPageBundle: "/people/mills-edward-hallock-1819-family/assets"
-
+    defaultResourceBundlePath: "/people/mills-edward-hallock-1819-family"
 ---
 
-This publication attempts to document all extant information on the family of Edward H. Mills (1819-1908), with particular emphasis on Emily Mills (1858-1937) and the family's time in Brooktondale.
+This publication attempts to document all extant information on the family of Edward H. Mills (1819-1908), with particular emphasis on Emily Mills (1858-1937) and the family's time in Brooktondale (formerly known as Brookton, and before that, Mott's Corners).
 
 <!--more-->
 

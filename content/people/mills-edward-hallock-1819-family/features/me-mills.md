@@ -47,15 +47,11 @@ The Mills Family account in the months following Edward's death:
 
 {{% fig "me-mills/1908-03-04-sales-journal" "800" /%}}
 
-It is interesting to note that the inside front cover of this book seems to indicate the family purchased a barn on 23 Sep 1907 and rented it to John Roe for $0.50 a month:
-
-{{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
-
 The store was open on New Year's eve and New Year's day 1908, the day Edward died, and Emily was working on an otherwise typical day of business at the store:
 
 <div class="cols">
-    {{% fig "me-mills/1907-dec-31-sales-journal-p16" "350" /%}}
-    {{% fig "me-mills/1908-01-01-sales-journal" "350" /%}}
+{{% fig "me-mills/1907-dec-31-sales-journal-p16" "350" /%}}
+{{% fig "me-mills/1908-01-01-sales-journal" "350" /%}}
 </div>
 
 As you can see, these books contain many easily recognizable names of former Brookton residents, along with a glimpse into their regular purchases. It is interesting to note the store was closed on Sundays, but open on Christmas day, if a bit slow:

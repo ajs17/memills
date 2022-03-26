@@ -1,6 +1,6 @@
 ---
 title: "The Mills Family in Corfu NY"
-weight: 6
+weight: 5
 ---
 
 The family moved to Corfu NY in the early 1860's where Edward, along with partners Charles Pine and James Hillyer, started E. H. Mills & Co. "cash store" offering general merchandise and dry goods. Horace clerked in his father’s store, and Mary Ann was a member of First Presbyterian Church of Corfu. 
@@ -38,7 +38,7 @@ As can be seen in the 1863 tax assessment documents, the Mills' store is entered
 The E.H. Mills General store was on the NE corner of Main and Allegheny in Corfu.  It was open from 1866-1880. The building burned to the ground in a fire in 1899.  It is now the site of the M&T Bank building.
 </blockquote>
 <figcaption>
-— <cite>20 May 2021, Personal correspondence with Allan Starkweather, Corfu Village Historian</cite>
+— <cite>20 May 2021, Personal correspondence with Allan Starkweather, Corfu Village Historian.</cite>
 </figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ Although Mary Ann was a member of the Presbyterian Church in Corfu, the intercon
 The Congregationalist Church was active in Corfu from 1810-1830s. It never had its own building. It spent a few years as part of the Presbyterian Church,  then ceased to exist.
 </blockquote>
 <figcaption>
-— <cite>May 20, 2021, personal correspondence with Allan Starkweather, Corfu Village Historian</cite>
+— <cite>May 20, 2021, personal correspondence with Allan Starkweather, Corfu Village Historian.</cite>
 </figcaption>
 </figure>
 

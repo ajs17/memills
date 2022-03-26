@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 5
 ---
 
-Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY, who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktonale Congregational Church.
+Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY, who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktonale Congregational Church, now Caroline Valley Community Church.
 
 <!--more-->
 
@@ -111,7 +111,7 @@ Edward died on New Year's day 1908, and Emily made another heartbreaking trip to
 
 {{% fig "1908-04-07-The-Ithaca-Daily-Journal-p3" "500" /%}}
 
-Edward died "intestate", without a will, and based on the records I have seen, it appears that until approximately 02 August 1909, Emily and Hannah worked with their lawyer Fordyce Cobb to become official legal co-owners of the Mills' home and Mills' store assets. Emily followed her father's example and renamed the store M. E. Mills. When Hannah passed less than a decade later, Emily inherited all assets and property.
+Edward died "intestate", without a will, and it wasn't until July 1909 that Emily and Hannah, working with their lawyer Fordyce Cobb, became official legal co-owners of the Mills' home and Mills' store assets. Emily followed her father's example and renamed the store M. E. Mills. When Hannah passed less than a decade later, Emily inherited all assets and property.
 
 Thanks to Gertrude Conant's personal recollections, we have a basic description of Emily's appearance and personality:
 

@@ -20,7 +20,7 @@ Family history interested me, but it always seemed like such an enormous topic t
 
 After living in Brooktondale for just over a decade, I was reaching a point where I needed to start planning for the next, presumably final, phase of my life, and I had always had definite ideas of what that might look like, and it involved moving away from Brooktondale. I was still in the early stages of this planning, while walking home from Brookton's Market in the fading twilight, and reflecting on how much I had done during my time in Brooktondale, and how much I had changed as a person since my arrival, that when I arrived back at my home, I finally caught a glimpse of the obvious truth: I could never bring myself to leave this place.
 
-For the first time, I truly began to see Brooktondale as my home, and I finally allowed myself to fall in love with what I came to know as "The Mills Place". I began investing heavily in my home and its improvement, in ways that seemed impractical before. I expended not only money, but my own physical effort, as I began teaching myself skills to properly care for her. The home is very quirky, very challenging in many ways, but I learned her ways and how to work with her. As I was doing this, I also tried to become more involved in community activities and charities, and also for the first time, I started to meet people beyond my immediate neighbors.
+For the first time, I truly began to see Brooktondale as my home, and I finally allowed myself to fall in love with what I came to know as "The Mills' Place". I began investing heavily in my home and its improvement, in ways that seemed impractical before. I expended not only money, but my own physical effort, as I began teaching myself skills to properly care for her. The home is very quirky, very challenging in many ways, but I learned her ways and how to work with her. As I was doing this, I also tried to become more involved in community activities and charities, and also for the first time, I started to meet people beyond my immediate neighbors.
 
 Naturally, there came a time when I wanted to learn more about the object of my love. I began to appreciate that I was just a link in a chain of people who shaped my home, and that in turn, my decisions will impact those who will care for her in the future. And so, to learn about my home, it seemed logical to learn about the former owners who shaped it before me. 
 
@@ -28,7 +28,7 @@ I suppose I naively thought that after sending a quick message to the Town Histo
 
 I remembered my question about my Great Great Grandfather, and decided that the intersection of these two paths made a logical starting point. I had my deeds, and looked up the owners at that time: Edward, Hannah and Emily Mills. And of course, I re-discovered the history of the kind that I had been hoping for: A Note on Emily Mills by Molly Adams. Molly had passed several years earlier, but with my deeds and her Note as a starting point, I quickly realized that to know my home, I had to learn about the Mills, and in particular, Emily, as she lived in the home the longest of anyone by far. I can now appreciate that more information exists about Emily than I could reasonably expect to find, yet it is human nature to want what we don't have, and after I made some initial inquiries for photos and learned there were none known to exist, gazing upon Emily's face became my greatest desire.
 
-This material is my first attempt to learn about my home and to honor the Mills family, especially Emily. And what an amazing journey it has been! To learn about Emily, I had to start learning about Brookton at the time, and the people in her community, all of which are subjects of endless fascination. The era of Brookton was a special time and place, overflowing with interesting people whose stories are much more compelling than any Hollywood entertainment. I now appreciate why the first question every long-time Caroline resident asks me is: "How long have you lived here?" (Eventually, when these same people asked where I lived, I could offer my own challenge: "If I told you I lived in the Mills Place, would you know where that is?" That piece of once-common knowledge had been forgotten.) 
+This material is my first attempt to learn about my home and to honor the Mills family, especially Emily. And what an amazing journey it has been! To learn about Emily, I had to start learning about Brookton at the time, and the people in her community, all of which are subjects of endless fascination. The era of Brookton was a special time and place, overflowing with interesting people whose stories are much more compelling than any Hollywood entertainment. I now appreciate why the first question every long-time Caroline resident asks me is: "How long have you lived here?" (Eventually, when these same people asked where I lived, I could offer my own challenge: "If I told you I lived in The Mills' Place, would you know where that is?" That piece of once-common knowledge had been forgotten.) 
 
 I am certainly not the person Emily would have chosen to care for her home and family memories. (It was well after I left the Finger Lakes Beer Trail that I learned the irony.) But Emily and I are now forever connected to one another, in ways that are deeply personal, and which I choose to keep private. 
 
@@ -128,6 +128,8 @@ Dates:
       - Mar 1889
   - Spell out "born" "died" "married" and "to" (instead of a dash) when referencing dates and date ranges. (TODO: further remediation needed.)   
 
+States are generally written as their two letter abbreviation without additional punctuation. Towns and states are not separated by a comma: "Brookton NY". (TODO: inconsistently applied.)
+
 Simplified citation format:
   - As with date formatting, goals are a minimal, standardized, flexible format, easily entered and parsed by both human and machine. 
   - As with date formatting, all fields are optional based on availability and applicability of data.
@@ -144,7 +146,7 @@ Literal examples [brackets indicate optional inclusion]:
   - [the] Mills' home
   - The Mills' Place
   - post office
-  - postmaster (when referring to title)
+  - postmaster (when referring to position)
   - Postmaster Edward H. Mills (as part of title)
 
 ## Distribution
