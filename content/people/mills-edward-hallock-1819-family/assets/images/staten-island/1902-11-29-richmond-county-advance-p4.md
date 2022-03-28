@@ -1,9 +1,9 @@
 ---
-# citation: "29 Nov 1902, Richmond County advance (West New Brighton NY), p4, newspapers.com"
+# citation: "29 Nov 1902, Richmond County Advance, West New Brighton NY, p4, newspapers.com"
 pubdate:  "1902-11-29"
 author: 
 title: 
-voltitle:  "Richmond County advance"
+voltitle:  "Richmond County Advance"
 publocation:  "West New Brighton NY"
 pages:  "4"
 source:  "newspapers.com"

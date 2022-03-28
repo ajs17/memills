@@ -123,7 +123,7 @@ Thanks to Gertrude Conant's personal recollections, we have a basic description 
 </blockquote>
 <figcaption>
 Full quote and citation are below. Ralph Conant in personal correspondence 24 Jul 2021 identifies "Grandma Bacon" as Mary Louise (Vandemark) Bacon (1867-1950).
-</figcation>
+</figcaption>
 </figure>
 
 <figure class="quote-only">

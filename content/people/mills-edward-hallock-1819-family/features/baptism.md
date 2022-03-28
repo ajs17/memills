@@ -1,5 +1,5 @@
 ---
-title: "Emily's Baptism"
+title: "Emily’s Baptism"
 weight: 4
 ---
 
