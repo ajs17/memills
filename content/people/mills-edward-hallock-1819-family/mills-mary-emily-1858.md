@@ -142,7 +142,7 @@ And from E. D. Shurter's *Tribute*:
 <p>Reserved, unostentatious, and kindly...she went about her daily round of duties with a Christian fortitude and faithfulness...</p> 
 </blockquote>
 <figcaption>
-11 Nov 1937, In Tribute To Emily Mills by E. D. Shurter, The Ithaca Journal (Ithaca, NY), p2. Full quote is below.</figcaption>
+11 Nov 1937, In Tribute To Emily Mills by E. D. Shurter, The Ithaca Journal, Ithaca NY), p2. Full quote is below.</figcaption>
 </figure>
 
 These descriptions of Emily's demeanor are consistent with the personal recollections of a current Brooktondale resident, currently in her 90's who has early childhood memories of Emily and her store in the last years of Emily's life.
