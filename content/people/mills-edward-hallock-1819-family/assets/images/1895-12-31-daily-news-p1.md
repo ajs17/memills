@@ -14,7 +14,7 @@ notes: >-
 ---
 **DEATH OF MRS. E. H. MILLS.**
 
-**Event occurred in Brookton, Tompkins County—Interrment at Corfu.**
+**Event occurred in Brookton, Tompkins County—Interment at Corfu.**
 
 Corfu, Dec 31.—The remains of Mrs. E. H. Mills of Brookton, Tompkins county, arrived here on the 4:26 p. m. train yesterday and were interred in Evergreen Hill Cemetery. The deceased was the wife of Edward H. Mills who was for many years a prominent merchant in this village who removed to Tompkins county sixteen years ago, re-engaging in mercantile pursuits, and where he has since resided.
 

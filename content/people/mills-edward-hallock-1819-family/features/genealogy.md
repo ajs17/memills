@@ -138,7 +138,7 @@ There is also a census entry for a daughter Cora M. born Jan 1871.
 The first three names of possible heirs listed in the [Mills' home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
   - George E. Mills (Feb 1856 to ?)
-  - [Clarissa H. Etsell (Jun 1852 to Jan 1846)](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
+  - [Clarissa H. Etsell (Jun 1852 to Jan 1946)](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
 
 At the time I am compiling this information, findagrave.com does not have entries for all the Mills in Huntington Rural Cemetery:
 
@@ -149,7 +149,7 @@ And the 1900 census is worth highlighting for the density of information it cont
 {{% fig "long-island/1900-us-census-huntington-mills" "800" /%}}
 
 The last name listed as a possible heir in the Mills' home deeds, Mary Huntting Smith, is likely a reference to Emily's cousin, or perhaps a descendent of Emily's cousin:
-  - Edwards's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
+  - Edward's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
   - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
   - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), married: James M. Cross.
 
