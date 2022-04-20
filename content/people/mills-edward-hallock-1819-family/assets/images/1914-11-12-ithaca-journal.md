@@ -8,4 +8,4 @@ publocation:  "Ithaca NY"
 pages:  "9"
 source:  "newspapers.com"
 ---
-Mrs. Hannah Mills, who has been so ill, is slowly recovering. 
+Mrs. Hannah Mills, who has been so ill is slowly recovering. 

@@ -60,7 +60,7 @@ Yet in the sales journals of [E. H. Mills]({{% ref "me-mills" %}}) general store
 
 {{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
 
-I have not found a deed that corresponds to this date. Interestingly, there is a real estate transaction between Amanda Lounsbery and John Roe earlier in 1907, that is perhaps related to the barn rental: 
+I have not found a deed that corresponds to this date in the deed indexes for Caroline or Danby that are preserved by the Tompkins County Clerk. Interestingly, there is a real estate transaction between Amanda Lounsbery and John Roe earlier in 1907, that is perhaps related to the barn rental: 
 
 {{% fig "mills-home/deeds-164-253-lounsbery-roe" "800" /%}}
 

@@ -12,19 +12,15 @@ Horace F. Mills, born 1854, Staten Island, NY, died 27 October 1876, Corfu NY. S
 
 Horace is the single biggest mystery in the family, all the more so because his death seems to be a pivotal event in the family's history:
 
+{{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "500" /%}}
 {{% fig "evergreen-hill-cemetery-51" "800" /%}}
 
-Presumably, the fact that the family moved away from Corfu a few years after his death is more than coincidental, but that is speculation. However, this could also explain why Emily was so active in the [temperance movement]({{% ref "features/temperance/" %}}), if alcohol was a factor in Horace's death.
-
-It is unlikely that the exact details of Horace's death would have ever been recorded, but I continue to search for clues:
-
-  - I have contacted the Batavia Daily News for help as they may have old editions that have not yet been digitized and made publicly available, and therefore, currently outside my ability to pursue in any other way. Although there may not be an account of his death, he may be featured in other reporting that may shed light on his life circumstances. (Then again, it appears that suicides were regularly reported on in that time.)
-  - I have taken an initial photographic inventory of every page of the Good Templars meeting minutes, and I intend to read these more closely for clues.
+Presumably, the fact that the family moved away from Corfu a few years after his death is more than coincidental, but that is speculation. However, this could also explain why Emily was so active in the [temperance movement]({{% ref "features/temperance/" %}}), if alcohol was a factor in Horace's death. I have taken an initial photographic inventory of every page of the Good Templars meeting minutes, and I intend to read these more closely for clues.
 
 And a very big mystery relevant to the Caroline audience in particular, is why they chose Mott's Corners as their next destination? At this point, I have only a few vague theories to explore.
 
-  - If the Caroline area was a particularly active area for Temperance, that could have been a draw. But, it is unclear if anyone in Emily's family were involved in temperance.
-  - They knew someone who lived Mott's Corners.
+  - If the Caroline area was a particularly active area for Temperance, that could have been a draw. But, it is unclear if anyone in Emily's family were involved in temperance in Corfu.
+  - They knew someone who lived Mott's Corners. One possibility I am exploring is the presence of (possibly related) [Hallocks in Caroline]({{% ref "features/caroline-hallocks"%}}) at the time.
   - Perhaps Edward sold products from the mills and factories of Mott's Corners in his store and knew of it that way?
   - As Edward Mills appeared to have multiple business relationships with Edward Lounsbery, perhaps that offers at least a partial explanation. 
 

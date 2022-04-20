@@ -38,7 +38,7 @@ Like Hannah and Emily, Ellen was active in the Women's Christian Temperance Unio
 My mother was born in 1916 and had only two memories of Ellen. That she was very proper and spoke with an English accent.
 </blockquote>
 <figcaption>
-— <cite>18 May 2021, personal correspondence with great great granddaughter of Ellen Gould</cite>
+— <cite>18 May 2021, personal correspondence with great great granddaughter of Ellen Gould.</cite>
 </figcaption>
 </figure>
 

@@ -7,6 +7,22 @@ voltitle:  "The Ithaca Journal"
 publocation:  "Ithaca NY"
 pages:  "5"
 source:  "newspapers.com"
+notes: >-
+
+  - George W. Townsend
+
+  - William M. Kent 
+
+  - [Edward C. Thatcher](https://www.findagrave.com/memorial/122023540/edward-c-thatcher) (1863 to 04 Jun 1937).
+  
+  - Lora E. Moat
+  
+  - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 1935), wife of [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919).
+
+  - (Possible identity) [Minnie Almira (Durling) Smith](https://www.findagrave.com/memorial/26896799/minnie-almira-smith) (04 Feb 1864 to 16 Nov 1936). 
+
+  - Myron N. Tompkins
+
 ---
 **$4,000 ESTATE GOES TO NIECES AND NEPHEWS**
 

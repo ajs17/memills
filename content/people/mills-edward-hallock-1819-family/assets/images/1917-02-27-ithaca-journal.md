@@ -9,7 +9,10 @@ pages:  "7"
 source:  "newspapers.com"
 notes: >-
 
-    The text for this obituary was presumably written by Emily.
+  - Although impossible to say with certainty, several aspects of this notice suggest to me that it could have been written by Emily. 
+  
+  - The text of the poem is the first four lines of "Rest" by Mary T. Lathrap (commonly cited as Latrhop) who was herself a nationally recognized temperance leader in the late 1800's. According to Wikipedia: "Mary Torrans Lathrap née, Torrans; (pen name, Lena; April 25, 1838 - January 3, 1895), known as "The Daniel Webster of Prohibition", was a 19th-century American poet, preacher, suffragist, and temperance reformer. For 20 years, she was identified with the progressive women of Michigan who had temperance, purity, and prohibition as their watchwords, and the white ribbon as their badge. A licensed preacher for the Methodist Episcopal Church (1871), she served as president of Michigan's Woman's Christian Temperance Union (1882), co-founded the state's suffrage organization (1870), and worked on the amendment campaign (1874). Lathrap died in 1895." Note the parallels to Annis Ford Eastman. This poem has been used often in obituaries since it was penned, either in part or in its entirety, and it was obviously a fitting tribute to Hannah's life.
+  
 ---
 
 **BROOKTON**

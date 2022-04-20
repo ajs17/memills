@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 6
 ---
 
-Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Brookton, NY. Second wife of Edward H. Mills, married 30 Dec 1896 and step-mother to Emily. Active member of Brookton Congregational Church, Ladies Aid Society and Women's Christian Temperance Union.
+Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Brookton, NY. Second wife of Edward H. Mills, married 30 Dec 1896 and step-mother to Emily. Active member of Brookton Congregational Church, Ladies' Aid Society and Women's Christian Temperance Union.
 
 <!--more-->
 
@@ -69,7 +69,7 @@ My impressions of Hannah are that she was an active and outgoing woman who was m
 
 {{% fig "1914-01-17-ithaca-journal" "500" /%}}
 
-Hannah's visit with Reverend Bogardus is her last meaningful trip outside the home documented. [Reverend Elder Charles Bogardus (1843-1925)](https://www.findagrave.com/memorial/98809451/charles-bogardus) was also postmaster of the White Church post office, from 27 Aug 1886 to 05 Jul 1892. He later officiated Hannah's funeral. 
+Hannah's visit with Reverend Bogardus is her last meaningful trip outside the home documented. [Reverend Elder Charles Bogardus (1843 to 1925)](https://www.findagrave.com/memorial/98809451/charles-bogardus) was also postmaster of the White Church post office, from 27 Aug 1886 to 05 Jul 1892. He later officiated Hannah's funeral. 
 
 {{% fig "1914-05-22-ithaca-journal" "500" /%}}
 </div>
@@ -115,6 +115,42 @@ Hannah died 25 Feb 1917, and her funeral was held within the Mills' home. There 
 {{% fig "1917-02-26-ithaca-journal" "500" /%}}
 {{% fig "1917-02-27-ithaca-journal" "800" /%}}
 
+<figure class="quote-only">
+<blockquote>
+<pre>
+Beautiful toiler, thy work all done,
+Beautiful soul into glory gone,
+Beautiful life with its crown now won,
+    God giveth thee rest.
+Rest from all sorrows, and watching, and fears,
+Rest from all possible sighing and tears,
+Rest through God's endless, wonderful years —
+    At home with the blest.
+<br/>
+Beautiful spirit, free from all stain,
+Ours the heartache, the sorrow and pain,
+Thine is the glory and infinite gain —
+    Thy slumber is sweet.
+Peace on the brow and the eyelids so calm,
+Peace in the heart, ‘neath the white folded palm,
+Peace dropping down like a wondrous balm
+    From the head to the feet.
+<br/>
+“It was so sudden,” our white lips said,
+“How we shall miss her, the beautiful dead,
+Who take the place of the precious one fled;
+    But Got knoweth best.
+We know He watches the sparrows that fall,
+Hears the sad cry of the grieved hearts that call,
+Friends, husband, children, He loveth them all —
+    We can trust for the rest.”
+</blockquote>
+<figcaption>
+— <cite> Rest by Mary T. Lathrap </cite>
+</figcaption>
+</figure>
+
+
 {{% fig "1917-02-28-George-Jansen" "800" /%}}
 
 {{% fig "1917-03-03-ithaca-journal" "500" /%}}
@@ -127,4 +163,8 @@ As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastm
 {{% fig "1917-05-08-ithaca-journal" "500" /%}}
 {{% fig "1917-06-16-ithaca-journal" "800" /%}}
 
-[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850.
+[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850. 
+
+However, I have walked the cemetery several times and have not yet found a marker for Hannah. I made several inquiries with the caretaker of the cemetery, and there is no entry in their records for Hannah Mills. So for the moment at least, it seems that the exact whereabouts of Hannah’s remains is unknown.
+
+The cemetery records are known to be incomplete, and I need to inquire further to see if Hannah is listed under the name of the person who purchased her plot. I have already inquired about a record under the name Tompkins, and also need to check for Thatcher and Smith. I have also corresponded with Bea Szekely, Cayuga Heights Village Historian, and she is unaware of any other cemetery records that could help locate Hannah.

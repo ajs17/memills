@@ -64,6 +64,10 @@ By 1876, the year that Horace died, Corfu had grown, but E. H. Mills & Co. and t
 {{% fig "corfu/1876-corfu-map" "800" /%}}
 {{% fig "corfu/1876-corfu-map-notes" "800" /%}}
 
+Horace commits suicide, presumably in the Mills' home in Corfu:
+
+{{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "500" /%}}
+
 A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.:
 
 {{% fig "corfu/1899-corfu-fire" "800" /%}}

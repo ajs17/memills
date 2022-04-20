@@ -34,7 +34,7 @@ Furthermore, in her entry in the 1900 US census, Emily indicates her birth date 
 
 I have been in contact with two people at Brookton Cemetery who have both looked into the matter, and they each confirmed that the only information they have on Emily is the name and plot number "and what is on the headstone". There is no indication who made the funeral arrangements for Emily, who the plot was sold to, or any information that might shed light on the erroneous birth year. Emily's grave stone is the only documentation I have with this birth year other than subsequent histories that were written using the grave stone as the source for her birth year. 
 
-Further research will obviously need to be done, but ultimately, Emily's exact date of birth (and that of her brothers) may be lost, as she was born during a notoriously bad period for the recording and preservation of birth records. I am in contact with Calvary Presbyterian Church in Staten Island, which seems the most likely candidate for the church that Mary Ann may have belonged to at the time, to see if they have birth records for her children. I also submitted a reference question to the staff of the Presbyterian Historical Society, but they were unable to find records for Mary Ann or her children. It is interesting to note however that according to [ldsgenealogy.com](https://ldsgenealogy.com/NY/Staten-Island-Birth-Records.htm), there are potentially many microfilm records for Richmond County (Staten Island) during this time period.
+Further research will obviously need to be done, but ultimately, Emily's exact date of birth (and that of her brothers) may be lost, as she was born during a notoriously bad period for the recording and preservation of birth records. I am in contact with Calvary Presbyterian Church in Staten Island, which seems the most likely candidate for the church that Mary Ann may have belonged to at the time, to see if they have birth records for her children. I also submitted a reference question to the staff of the Presbyterian Historical Society, but they were unable to find records for Mary Ann or her children. (Much of the Church's digitized records are actually available via ancestry.com, and in fact, entries can be round for Edward's sister Emily Tabitha Mills for example.) I have also submitted requests to the New York State Department of Health vital records as well as the New York City Department of Records and Information Services, and in both cases so records for Emily's birth were found. It is interesting to note however that according to [ldsgenealogy.com](https://ldsgenealogy.com/NY/Staten-Island-Birth-Records.htm), there are potentially many microfilm records for Richmond County (Staten Island) during this time period.
 
 Documentation suggests the Mills family moved from Staten Island to Corfu sometime between 01 Sept 1862 and 01 May 1863, a period overlapping Emily's fourth birthday. The family moved to Motts Corners in Mar 1879, a few months after Emily's 20th birthday, and in the few years immediately following Horace's suicide. 
 
@@ -142,7 +142,7 @@ And from E. D. Shurter's *Tribute*:
 <p>Reserved, unostentatious, and kindly...she went about her daily round of duties with a Christian fortitude and faithfulness...</p> 
 </blockquote>
 <figcaption>
-11 Nov 1937, In Tribute To Emily Mills by E. D. Shurter, The Ithaca Journal, Ithaca NY), p2. Full quote is below.</figcaption>
+11 Nov 1937, In Tribute To Emily Mills by E. D. Shurter, The Ithaca Journal, Ithaca NY, p2. Full quote is below.</figcaption>
 </figure>
 
 These descriptions of Emily's demeanor are consistent with the personal recollections of a current Brooktondale resident, currently in her 90's who has early childhood memories of Emily and her store in the last years of Emily's life.
@@ -291,7 +291,7 @@ Emily is also mentioned in Town of Caroline Historian Barbara Kone's compilation
 
 (I tried to faithfully reproduce the punctuation, capitalization, spacing, etc. of the source.)
 
-*M. E. Mills* is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village".
+*M. E. Mills* is listed as a "present merchant" in The Ithaca Daily Journal, 26 Aug 1909, p5, in an article "Early History of Brookton Village".
 
 
 ## Notes for Future Researchers

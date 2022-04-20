@@ -7,6 +7,11 @@ voltitle:  "The Ithaca Journal"
 publocation:  "Ithaca NY"
 pages:  "5"
 source:  "newspapers.com"
+notes: >-
+
+  - [Cyrus Eastman](https://www.findagrave.com/memorial/96729265/cyrus-eastman) (15 May 1843 to 29 Mar 1917). According to his entry on findagrave.com "A Soldier of the Grand Army of the Republic. Cyrus Enlisted as a Private on 4 January 1864 at the age of 20 and served in Company F, 16th Heavy Artillery Regiment New York. He Mustered Out on 8 Jun 1865 at Fort Monroe, VA."
+
+  - [John N. Eastman](https://www.findagrave.com/memorial/37542371/john-n-eastman) (May 1835 to 24 May 1921). 
 ---
 **Hannah Mills**
 

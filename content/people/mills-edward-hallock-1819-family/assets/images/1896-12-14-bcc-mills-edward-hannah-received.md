@@ -6,11 +6,11 @@ notes: >-
 
     - Rev George Danforth was pastor from 1896 to 1898. (150th Anniversary Handbook, Caroline Valley Community Church, 16 Sep 2018.)
 
-    - [Arthur E. Green](https://www.findagrave.com/memorial/99548243/arthur-e-green) (Sep 1860 to 1935 Mar 16)
+    - [Arthur E. Green](https://www.findagrave.com/memorial/99548243/arthur-e-green) (Sep 1860 to 16 Mar 1935)
 
     - Lura A. Green (Dec 1870 to 14 Sep 1958)
 
-    - [George Wolcott](https://www.findagrave.com/memorial/99535313/george-wolcott) (1836-1916) is the father of [Reverend Clarence Reed Wolcott](https://www.findagrave.com/memorial/100452488/clarence-r-wolcott) (1864-1950), who represented Edward in court on 18 Mar 1897 when Edward was accused of selling "poisonous drugs" at E. H. Mills general store in Brookton. 
+    - [George Wolcott](https://www.findagrave.com/memorial/99535313/george-wolcott) (1836 to 1916) is the father of [Reverend Clarence Reed Wolcott](https://www.findagrave.com/memorial/100452488/clarence-r-wolcott) (1864 to 1950), who represented Edward in court on 18 Mar 1897 when Edward was accused of selling "poisonous drugs" at E. H. Mills general store in Brookton. 
 ---
 Dec 14 1896
 
