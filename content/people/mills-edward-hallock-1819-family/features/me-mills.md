@@ -3,7 +3,7 @@ title: "E. H. Mills and M. E. Mills General Stores"
 weight: 1
 ---
 
-After moving to Mott's Corners in Mar 1889, Edward restarted his general store on his own, now simply called E. H. Mills. Both Jonas and Emily clerked at E. H. Mills. Emily took over the store after Edward's death and operated it under the name M. E. Mills until her death in 1937. Soon thereafter, Jesse Brewer took over the store and ran it for many years under her name, after which, the building became the location of the post office. The Mills' store structure survives today and is located at 484 Brooktondale Road. 
+After moving to Mott's Corners in Mar 1889, Edward restarted his general store on his own, now simply called E. H. Mills. Both Jonas and Emily clerked at E. H. Mills. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jesse Brewer took over the store and ran it under her name for many years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road. 
 
 <!--more-->
 
@@ -19,7 +19,7 @@ Long-time community members call this building "the old post office" referring t
 {{% fig "1887-05-27-The-Ithaca-Daily-Journal-p3" "350" /%}}
 </div>
 
-It seems likely the Mills' store was always in this building. The following are some of the earliest references to the Mills' store, detailing misadventures that took place while Emily was known to be a "clerk" at the store:
+It seems likely Mills' store was always in this building. The following are some of the earliest references to Mills' store, detailing misadventures that took place while Emily was known to be a "clerk" at the store:
 
 {{% fig "1896-10-14-The-Ithaca-Daily-Journal-p6" "500" /%}}
 {{% fig "1897-03-18-ithaca-daily-journal" "500" /%}}
