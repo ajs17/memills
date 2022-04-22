@@ -69,7 +69,7 @@ My impressions of Hannah are that she was an active and outgoing woman who was m
 
 {{% fig "1914-01-17-ithaca-journal" "500" /%}}
 
-Hannah's visit with Reverend Bogardus is her last meaningful trip outside the home documented. [Reverend Elder Charles Bogardus (1843 to 1925)](https://www.findagrave.com/memorial/98809451/charles-bogardus) was also postmaster of the White Church post office, from 27 Aug 1886 to 05 Jul 1892. He later officiated Hannah's funeral. 
+Hannah's visit with Reverend Bogardus is her last meaningful trip outside the home documented. Reverend Bogardus was also postmaster of the White Church post office, from 27 Aug 1886 to 05 Jul 1892. He later officiated Hannah's funeral. 
 
 {{% fig "1914-05-22-ithaca-journal" "500" /%}}
 </div>

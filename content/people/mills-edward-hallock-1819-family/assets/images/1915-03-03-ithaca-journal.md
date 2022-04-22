@@ -7,5 +7,8 @@ voltitle:  "The Ithaca Journal"
 publocation:  "Ithaca NY"
 pages:  "9"
 source:  "newspapers.com"
+notes: >-
+
+  - Dr. William A. Smith ( to 1934). Tompkins County Coroner, married to Hannah Mills' sister, Minnie. 
 ---
 Dr. Smith and family of Newfield motored to Brookton Monday to visit their aunt, Mrs. Hannah Mills.
