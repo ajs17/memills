@@ -19,7 +19,7 @@ notes: >-
   
   - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 1935), Hannah's sister, wife of [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919).
 
-  - [Minnie A. (Thatcher) Smith]() (to 23 Jun 1936), Hannah's sister, married to Dr. William A. Smith, Tompkins County Coroner. 
+  - [Minnie A. (Thatcher) Smith](https://www.findagrave.com/memorial/86690565/minnie-a-smith) (? to 23 Jun 1936), Hannah's sister, married to [Dr. William A. Smith](https://www.findagrave.com/memorial/86690515/william-smith) (01 Feb 186? to 31 Mar 1934), Tompkins County Coroner.
 
   - Myron N. Tompkins
 
