@@ -8,6 +8,9 @@ publocation:  "Ithaca NY"
 pages:  "7"
 source:  "newspapers.com"
 notes: >-
-    Kline Cemetery is a previous name of Pleasant Grove Cemetery.
+
+  - Kline Cemetery is a previous name of Pleasant Grove Cemetery.
+
+  - [Dr. William A. Smith](https://www.findagrave.com/memorial/86690515/william-smith) (01 Feb 186? to 31 Mar 1934). Tompkins County Coroner, married to Hannah Mills' sister, [Minnie A. (Thatcher) Smith](https://www.findagrave.com/memorial/86690565/minnie-a-smith) (? to 23 Jun 1936). 
 --- 
 Dr. and Mrs. W. A. Smith attended the burial of their aunt Mrs. Hannah Mills at Kline Cemetery last Wednesday.

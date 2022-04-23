@@ -153,7 +153,7 @@ Friends, husband, children, He loveth them all —
 
 {{% fig "1917-02-28-George-Jansen" "800" /%}}
 
-{{% fig "1917-03-03-ithaca-journal" "500" /%}}
+{{% fig "1917-03-03-ithaca-journal" "500x500" ""  "top" /%}}
 {{% fig "1917-03-28-ithaca-journal" "500" /%}}
 
 As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastman died shortly after her:
@@ -165,6 +165,9 @@ As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastm
 
 [Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850. 
 
-However, I have walked the cemetery several times and have not yet found a marker for Hannah. I made several inquiries with the caretaker of the cemetery, and there is no entry in their records for Hannah Mills. So for the moment at least, it seems that the exact whereabouts of Hannah’s remains is unknown.
 
-The cemetery records are known to be incomplete, and I need to inquire further to see if Hannah is listed under the name of the person who purchased her plot. I have already inquired about a record under the name Tompkins, and also need to check for Thatcher and Smith. I have also corresponded with Bea Szekely, Cayuga Heights Village Historian, and she is unaware of any other cemetery records that could help locate Hannah.
+## Notes for Future Researchers
+
+There is another Hannah Eastman in Caroline at this time: [Hannah V. (Smith) Eastman](https://www.findagrave.com/memorial/91574581/hannah-v-eastman) (1826 to 05 Feb 1892) who was married to [Reuben B. Eastman](https://www.findagrave.com/memorial/91575045/reuben-b-eastman) (Jun 1829 to 15 Nov 1913). Both had property in their names in Danby and Caroline. 
+
+
