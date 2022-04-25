@@ -17,6 +17,10 @@ Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Br
 
 {{% table "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Hannah" %}}
 
+Hannah immigrated with her parents and brother from the "Parish of Hawkhurst in the county of Kent, England", arriving in New York City on 28 May 1830.
+
+Hannah's first marriage was to [Charles Eastman](https://www.findagrave.com/memorial/99264784/charles-c-eastman) (05 Aug 1807 to 22 May 1890), a prominent farmer in Danby. This was Charles' second marriage after the death of his first wife, and the mother of all of his children, [Polly (Coy) Eastman](https://www.findagrave.com/memorial/99264890/polly-eastman) (14 Feb 1808 to 03 Dec 1862).
+
 Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward's marriage to Hannah and identifies Edward's parents:
 
 <figure class="quote-only">
@@ -163,11 +167,82 @@ As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastm
 {{% fig "1917-05-08-ithaca-journal" "500" /%}}
 {{% fig "1917-06-16-ithaca-journal" "800" /%}}
 
-[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850. 
+[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850, in the Thatcher family plot and is listed on the same marker as her parents and a couple named Vandermeere:
 
+  - [Thomas Thatcher]() (03 Jul 1785 to 17 Jun 1863), Hannah's father.
+  
+  - [Elizabeth (Crosby) Thatcher]() (12 Feb 1790 to 29 Mar 1873), Hannah's mother.
+
+  - [William P. Vandermeere](https://www.findagrave.com/memorial/166934176/william-vanderveere) (04 Sep 1831 to 27 May 1882).
+
+  - [Elizabeth Vandermeere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888).
+
+After Thomas's death, Hannah's mother lived with the Vandermeere's (perhaps sometimes spelled Vandermere) in Ithaca. William Vandermeere was a local farmer, and also an English immigrant. Beyond that, I do not know the exact relationship between the Thatchers and Vandermeeres. 
+
+As with Emily, the birth year on Hannah's grave is incorrect based on two independent sources: the 1900 United States Federal census in which Hannah self reports being born "May 1824" in England: 
+
+{{% fig "census/census-1900-us-inset" "800" /%}}
+
+The exact date is reported in The Ithaca Journal, 23 May 1916, p9: "Mrs. Hannah Mills spent her ninety-second birthday Sunday, May 21." Yet her stone lists the dates as 1825 to 1917. 
+
+As I write this in Spring 2022, the Thatcher stone is badly weathered and difficult to read, Hannah's face in particular. The footstones are in even worse condition. The plot is in the front of the cemetery, the middle section, a few rows back from the road. The Thatcher name faces the back of the cemetery, and Hannah's side faces toward Community Corners in Cayuga Heights. 
+
+
+## The Thatchers
+
+Hannah's parents:
+
+  - [Thomas Thatcher]() (03 Jul 1785 to 17 Jun 1863).
+  
+  - [Elizabeth (Crosby) Thatcher]() (12 Feb 1790 to 29 Mar 1873).
+
+Hannah's siblings:
+  
+  - [David Thatcher](https://www.findagrave.com/memorial/122023538/david-thatcher) (15 Jun 1816 to 1893). Married: [Agnes (Tannahill) Thatcher](https://www.findagrave.com/memorial/122023539/agnes-thatcher) (1828 to 1896). Their children:
+
+    - [Sarah (Thatcher) Moot](https://www.findagrave.com/memorial/50409396/sarah-moot) (1855 to 10 Jul 1942).
+    
+    - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 30 May 1935), wife of [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919).
+
+      - Monroe Earl Tompkins (24 Jan 1897 to 07 Jun 1963), Nellie and Monroe's son. Typically referred to as "Earl Tompkins" there are also records for him that indicate "Earl M. Tompkins". Other children of Nellie and Monroe are Olin and Myrtle (Tompkins) Talbett.
+    
+    - [Edward C. Thatcher](https://www.findagrave.com/memorial/122023540/edward-c-thatcher) (1863 to 04 Jun 1937), Hannah's nephew.
+
+    - [Minnie A. (Thatcher) Smith](https://www.findagrave.com/memorial/86690565/minnie-a-smith) (1867 to 23 Jun 1936), married to [Dr. William A. Smith](https://www.findagrave.com/memorial/86690515/william-smith) (01 Feb 186? to 31 Mar 1934), former Tompkins County Coroner. Minnie's obituary notes: "she is survived by two daughters, Mrs. Agnes Shulman of Ithaca and Mrs. Alleine Estabrook of Newfield...". 
+
+Both the Thatchers and the Tompkins are associated with the towns of Newfield and Catharine, with Edward living in Cayutaville, and a few descendants living in Ithaca.
+
+Currently unknown:
+
+  - [Myron N. Tompkins](https://www.findagrave.com/memorial/188088574/myron-n-tompkins) (1859 to 21 Mar 1911) former Dean of the Tompkins county bar. I do not currently know the relationship between Myron and the other Tompkins', if any, but he is the person Hannah named as her executor.
+
+  - Edgar Thatcher. I initially thought this was a mistaken reference to Edward Thatcher, and that is still a possibility, but I have seen this name referenced in a few places, so perhaps not. I have been unable to identify this person.
+
+Hannah's immigration information is based on naturalization documents of her brother David Thatcher from 1839, that are on still on file with the Tompkins County Clerk's Office. I conclude this document identifies Hannah Mills' brother based on the document matching several known data points: first and last name, town of residence, age, country of origin, and the voyage happened within the expected timeframe. As a result, I am also using this document as the source for David's exact birthdate, as prior to seeing this, I only knew the year.
+
+
+<figure class="quote-only">
+<blockquote>
+Dr. W. A. Smith's full name was Dr. William Addison Smith and he lived up South St., now called Shaffer Rd. on the right I think a short distance behind the Tioga State Bank.  I know his full name as I remember the old folks calling him William Addison Smith.  He and his wife, Minnie A. are buried over in the Laurel Hill Cemetery east of Odessa in the Town of Catharine.  His stone reads William A. Smith, M. D., blank - 1934.  His wife Minnie A. reads, blank - 1936 and Anna E. Smith 1877 - 1960. Anna's grave marker is right next to the grave marker for Dr. Smith and his wife Minnie.   
+</blockquote>
+<figcaption>
+— <cite>2022 Apr 22, personal correspondence with Alan Chaffee.</cite>
+</figcaption>
+</figure>
 
 ## Notes for Future Researchers
 
-There is another Hannah Eastman in Caroline at this time: [Hannah V. (Smith) Eastman](https://www.findagrave.com/memorial/91574581/hannah-v-eastman) (1826 to 05 Feb 1892) who was married to [Reuben B. Eastman](https://www.findagrave.com/memorial/91575045/reuben-b-eastman) (Jun 1829 to 15 Nov 1913). Both had property in their names in Danby and Caroline. 
+Charles Eastman had a daughter [Hannah (Eastman) Meaker](https://www.findagrave.com/memorial/80753410/hannah-meaker) (15 May 1843 to 20 Dec 1881), who appears to be Cyrus' twin sister and wife of George M. Meaker.
 
+Wife of George M Meaker
+Daughter-in-law of Reuben E & Elsie B Meaker
+
+https://www.findagrave.com/memorial/80752505/reuben-e-meaker
+
+daughter Mamie Elsie (Meaker) Crance (15 Jan 1873 to 13 Oct 1955) https://www.findagrave.com/memorial/187482089/mame-crance
+
+daughter Ida Adele Meaker(21 Jul 1878 to 08 Jul 1958) https://www.findagrave.com/memorial/231453734/ida-adelia-husted
+
+
+There is another Hannah Eastman in Caroline at this time: [Hannah V. (Smith) Eastman](https://www.findagrave.com/memorial/91574581/hannah-v-eastman) (1826 to 05 Feb 1892) who was married to [Reuben B. Eastman](https://www.findagrave.com/memorial/91575045/reuben-b-eastman) (Jun 1829 to 15 Nov 1913). Both had property in their names in Danby and Caroline. 
 

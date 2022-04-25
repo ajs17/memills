@@ -11,9 +11,9 @@ notes: >-
 
   - Hannah's funeral was held at the Mills' home in Brookton, Wednesday, 28 Feb 1917.
 
-  - [Dr. William A. Smith](https://www.findagrave.com/memorial/86690515/william-smith) (01 Feb 186? to 31 Mar 1934). Tompkins County Coroner, married to Hannah Mills' sister, [Minnie A. (Thatcher) Smith](https://www.findagrave.com/memorial/86690565/minnie-a-smith) (? to 23 Jun 1936). 
+  - [Dr. William A. Smith](https://www.findagrave.com/memorial/86690515/william-smith) (01 Feb 186? to 31 Mar 1934). Tompkins County Coroner, married to Hannah Mills' niece, [Minnie A. (Thatcher) Smith](https://www.findagrave.com/memorial/86690565/minnie-a-smith) (1867 to 23 Jun 1936). 
 
-  - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 1935), Hannah's sister, wife of [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919).
+  - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 1935), wife of [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919).
 
   - Monroe Earl Tompkins (24 Jan 1897 to 07 Jun 1963), Nellie and Monroe's son. Typically referred to as "Earl Tompkins" there are also records for him that indicate "Earl M. Tompkins". Other children of Nellie and Monroe are Olin and Myrtle.
 

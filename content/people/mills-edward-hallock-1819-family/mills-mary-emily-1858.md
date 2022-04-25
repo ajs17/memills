@@ -78,7 +78,7 @@ Emily, along with many of the others baptized with her, immediately became deepl
 
 {{% fig "1907-12-31-bcc-sunday-school" "500" /%}}
 
-Gertrude Conant mentions that Emily played the piano or organ in the Church. The church historical records, as one would naturally expect, cover topics unevenly over the years. Concerning the piano/organ: there was an organ in the church at one time, but it was destroyed by mice. The roles of pianist/organist and that of assistant pianist/organist, were for a time at least, positions that were voted on at the annual meetings just as officers such as secretary and treasurer were. I have not found any references for Emily being in either of those roles, but there are many years where these roles are not noted at all, so unless Gertrude is mis-remembering, without her noting this detail, it would be lost. (Anna Mulks and Cassie Landon were several times noted in these roles.)
+[Gertrude Conant](https://www.findagrave.com/memorial/162726499/gertrude-l-conant) (19 Jul 1924 to 04 Sep 2007) mentions that Emily played the piano or organ in the Church. The church historical records, as one would naturally expect, cover topics unevenly over the years. Concerning the piano/organ: there was an organ in the church at one time, but it was destroyed by mice. The roles of pianist/organist and that of assistant pianist/organist, were for a time at least, positions that were voted on at the annual meetings just as officers such as secretary and treasurer were. I have not found any references for Emily being in either of those roles, but there are many years where these roles are not noted at all, so unless Gertrude is mis-remembering, without her noting this detail, it would be lost. (Anna Mulks and Cassie Landon were several times noted in these roles.)
 
 <figure class="quote-only">
 <blockquote> 
@@ -246,7 +246,7 @@ Emily was the last in the line of Edward H. Mills, and it seems that her family'
 
 Understandably, histories of the Mills family have typically focused almost exclusively on Emily. All previous secondary sources of information on Emily accepted 1861 as her birth year.
 
-Emily is mentioned twice by Molly Adams in her chapter *Town of Caroline* in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann:
+Emily is mentioned twice by Molly Adams (1936 to 23 Jun 2014) in her chapter *Town of Caroline* in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann:
 
 <blockquote class="quote_only">
 ...[George Jansen] noted the death of Emily Mills, who had continued her father's store for thirty years, extending credit to many needy individuals. (p62)

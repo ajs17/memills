@@ -17,17 +17,21 @@ Edward Hallock Mills, born 25 Mar 1819, Smithtown, NY, died 01 Jan 1908, Brookto
 
 Note that the account of the Mills family's travels around the time of J. Thomas Mills' birth in 1827, as described in his obituary in the accompanying account of the Mills' [Long Island origins]({{% ref "genealogy" %}}), appears inconsistent with Edward's purported birthplace referenced in several sources, including the census. 
 
-Edward was living in [Factoryville (West New Brighton) Staten Island]({{% ref "features/staten-island" %}}) by the time he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in 1851.
+Edward was living in [Factoryville (West New Brighton) Staten Island]({{% ref "features/staten-island" %}}) by the time he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in 1850.
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
-All of the Mills children were born in Staten Island, and by 1860, Edward was working as a clerk in the grocery store of Bartlett Brown and living in Bartlett's home adjoining the store. 
+All of the Mills children were born in Staten Island, and by 1860, the family was living with Barlett Brown in a home adjoining a store he had recently purchased. Both Edward and Bartlett were among the proteges of local businessman Charles M. Pine.  
 
 The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime between 01 Sept 1862 and 01 May 1863. Edward was now co-owner of [E. H. Mills & Co.]({{% ref "features/corfu-eh-mills-co" %}}) "cash store". Edward's son Horace clerked for him as Edward had for Bartlett. 
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 
-[Horace]({{% ref "mills-horace-f-1854" %}}) committed suicide in Corfu in Oct 1876, and in Mar 1879, the family move again, this time to Motts Corners, one of several earlier names for Brooktondale. At Motts Corners, Edward restarted his grocery and dry goods business on his own as [E. H. Mills]({{% ref "features/me-mills" %}}). Both [Jonas]({{% ref "mills-jonas-e-1852" %}}) and [Emily]({{% ref "mills-mary-emily-1858" %}}) clerked for their father. 
+[Horace]({{% ref "mills-horace-f-1854" %}}) committed suicide in Corfu in Oct 1876. 
+
+{{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "500" /%}}
+
+In Mar 1879, the family moved again, this time to Motts Corners, one of several earlier names for Brooktondale. At Motts Corners, Edward restarted his grocery and dry goods business on his own as [E. H. Mills]({{% ref "features/me-mills" %}}). Both [Jonas]({{% ref "mills-jonas-e-1852" %}}) and [Emily]({{% ref "mills-mary-emily-1858" %}}) clerked for their father. 
 
 Edward's father Jonas died in 1882. 
 
