@@ -31,7 +31,9 @@ There is also a June 1863 Civil War Draft Registration record in Genesee County 
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 
-As can be seen in the 1863 tax assessment documents, the Mills' store is entered as "Mills E. H. & Co.", showing that it was already operating by 01 May 1863, several years before the 1866 date given by Allan Starkweather in the following account, which was likely simply based on what he knew to be the earliest confirmed records of the store, which he generously provided to me in what follows:
+As can be seen in the 1863 tax assessment documents, the Mills' store is entered as "Mills E. H. & Co.", showing that it was already operating by 01 May 1863, and I suspect that it was always in the Kinne building, although I don't know that for a fact. 
+
+Most of what I know about the Mills' time in Corfu is the result of prior research over a period of many years by Alan Starkweather, Corfu Village Historian, which he has generously shared and allowed me to republish here.
 
 <figure class="quote-only">
 <blockquote>
@@ -41,9 +43,6 @@ The E.H. Mills General store was on the NE corner of Main and Allegheny in Corfu
 — <cite>20 May 2021, Personal correspondence with Allan Starkweather, Corfu Village Historian.</cite>
 </figcaption>
 </figure>
-
-
-
 
 {{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "500" /%}}
 
@@ -60,14 +59,31 @@ The following map images and associated business directories show both the E. H.
 {{% fig "corfu/1866-corfu-po-map" "800" /%}}
 {{% fig "corfu/1866-corfu-business-directory" "800" /%}}
 
+As it would later be in Motts Corners/Brookton, theft was a fact of life for Edward: 
+
+{{% fig "corfu/1867-07-19-Evening-Courier-and-Republic-Buffalo-NY-p3" "500" /%}}
+
+And also like Motts Corners, there was a Corfu lodge of the Good Templars, although I don't yet know if Emily was a member there: 
+
+{{% fig "corfu/1869-12-20-Buffalo-Express-Buffalo-NY-p4" "400" /%}}
+
+Mary Ann was known to be a member of the Presbyterian Church of Corfu, as were the MacGregors, the Mills' neighbors and friends: 
+
+<div class="cols">
+{{% fig "corfu/1871-08-24-The-Brockport-Republic-Brockport-NY-p3" "400" /%}}
+{{% fig "corfu/1874-12-03-The-Brockport-Republic-Brockport-NY-p3" "400" /%}}
+</div>
+
 {{% fig "corfu/Town-of-Pembroke-Bicentennial-History-1776-1976" "800" /%}}
 
-By 1876, the year that Horace died, Corfu had grown, but E. H. Mills & Co. and the Mills' home are still there:
+By 1876, Corfu had grown, but E. H. Mills & Co. and the Mills' home are still there:
 
 {{% fig "corfu/1876-corfu-map" "800" /%}}
 {{% fig "corfu/1876-corfu-map-notes" "800" /%}}
 
-Horace commits suicide, presumably in the Mills' home in Corfu:
+{{% fig "corfu/1876-08-10-The-Brockport-Republic-Brockport-NY-p3" "500" /%}}
+
+In 1876, Horace shoots himself, presumably in the Mills' home in Corfu:
 
 {{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "500" /%}}
 
@@ -79,12 +95,35 @@ Their records also include confirmation that Mary Ann was a member of First Pres
 
 {{% fig "mills-mary-cvcc-join" "800" /%}}
 
+The following appear to advertise the sale of Mills' store in Corfu:
+
+{{% fig "corfu/1879-03-22-buffalo-morning-express-buffalo-ny-p1" "500" /%}}
+{{% fig "corfu/1879-04-19-buffalo-morning-express-buffalo-ny-p1" "500" /%}}
+
+Although, as it was in Motts Corners/Brookton, in Corfu, Mills' store was directly across the street from another general store, Porter's, and the advertisements could be referring to this or another store in Corfu, obviously. However, the timing of the ads closely matches the Mills' leaving Corfu.  
+
+And although this is even more speculative, the timing is right for the following advertisements to possibly be referencing Mills' home in Corfu. I intend to do deed research in Corfu in the future to try to determine if George Chadeayne is listed as an owner of the property. Note that the 1866 map lists a "D. Chaydeayne" and the 1876 map of Corfu lists "Cheadayne Coffin Manufactures".
+
+<div class="cols">
+{{% fig "corfu/1879-04-08-Buffalo-Express-Buffalo-NY-p3" "350" /%}}
+{{% fig "corfu/1879-05-20-buffalo-morning-express-buffalo-ny-p3"  "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "corfu/1879-07-22-buffalo-morning-express-buffalo-ny-p3" "305" /%}}
+{{% fig "corfu/1880-01-03-buffalo-morning-express-buffalo-ny-p1" "305" /%}}
+</div>
+
 Emily returned to Corfu several times throughout her life.
 
 {{% fig "1882-07-21-batavia-daily-news" "500" /%}}
 {{% fig "1885-10-16-batavia-daily-news-p1" "500" /%}}
 {{% fig "1895-12-31-daily-news-p1" "800" /%}}
-{{% fig "1908-01-06-batavia-daily-news-p4" "500" /%}}
+
+<div class="cols">
+  {{% fig "1908-01-06-ithaca-daily-journal" "350" /%}}
+  {{% fig "1908-01-06-batavia-daily-news-p4" "350" /%}}
+</div>  
 
 Every member of Edward's family, except for Emily, is buried in Corfu.
 
@@ -121,7 +160,7 @@ Allan Starkweather in personal correspondence 27 Jun 2021 offered this timeline 
 </blockquote>
 </figure>
 
-(It was after this exchange that we discovered the above referenced documentation for the existence of E. H. Mills & Co. starting May 1863.)
+(It was after this exchange that we discovered the above referenced documentation for the existence of E. H. Mills & Co. starting May 1863, so the 1866 date will need to be verified. Either the date is incorrect, or Mills' store began at another location.)
 
 Finally, Allan Starkweather confirms the Mills' home in Corfu no longer exists at the time this is written.
 

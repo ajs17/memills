@@ -192,9 +192,9 @@ As I write this in Spring 2022, the Thatcher stone is badly weathered and diffic
 
 Hannah's parents:
 
-  - [Thomas Thatcher]() (03 Jul 1785 to 17 Jun 1863).
+  - [Thomas Thatcher](https://www.findagrave.com/memorial/239203286/thomas-thatcher) (03 Jul 1785 to 17 Jun 1863).
   
-  - [Elizabeth (Crosby) Thatcher]() (12 Feb 1790 to 29 Mar 1873).
+  - [Elizabeth (Crosby) Thatcher](https://www.findagrave.com/memorial/239203315/elizabeth-thatcher) (12 Feb 1790 to 29 Mar 1873).
 
 Hannah's siblings:
   
@@ -226,7 +226,16 @@ Hannah's immigration information is based on naturalization documents of her bro
 Dr. W. A. Smith's full name was Dr. William Addison Smith and he lived up South St., now called Shaffer Rd. on the right I think a short distance behind the Tioga State Bank.  I know his full name as I remember the old folks calling him William Addison Smith.  He and his wife, Minnie A. are buried over in the Laurel Hill Cemetery east of Odessa in the Town of Catharine.  His stone reads William A. Smith, M. D., blank - 1934.  His wife Minnie A. reads, blank - 1936 and Anna E. Smith 1877 - 1960. Anna's grave marker is right next to the grave marker for Dr. Smith and his wife Minnie.   
 </blockquote>
 <figcaption>
-— <cite>2022 Apr 22, personal correspondence with Alan Chaffee.</cite>
+— <cite>22 Apr 2022, personal correspondence with Alan Chaffee.</cite>
+</figcaption>
+</figure>
+
+<figure class="quote-only">
+<blockquote>
+Dr. William Addison Smith's father was George Addison Smith, 1835 - 1911 who is also buried in Laurel Hill Cemetery over in the Town of Catharine
+</blockquote>
+<figcaption>
+— <cite>25 Apr 2022, personal correspondence with Alan Chaffee.</cite>
 </figcaption>
 </figure>
 

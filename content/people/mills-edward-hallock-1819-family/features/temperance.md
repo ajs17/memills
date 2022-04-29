@@ -20,7 +20,11 @@ Temperance groups don't appear to be very strong here. The only mention I found 
 
 There are records of a number of "lodges" of the Independent Order of Good Templars in the Batavia area. (TODO: expand)
 
-In the 1880's, Emily was an officer in the Independent Order of Good Templars, in the Brookton chapter called "High Bridge Lodge, No. 296".
+There was a Corfu lodge of the Good Templars, although I don't yet know if Emily was a member there: 
+
+{{% fig "corfu/1869-12-20-Buffalo-Express-Buffalo-NY-p4" "400" /%}}
+
+ At Motts Corners in the 1880's, Emily was an officer in the Independent Order of Good Templars, in the Brookton chapter called "High Bridge Lodge, No. 296".
 
 {{% fig "temperance/good-templars-form-inside" "800" /%}}
 {{% fig "temperance/good-templars-form-outside" "800" /%}}

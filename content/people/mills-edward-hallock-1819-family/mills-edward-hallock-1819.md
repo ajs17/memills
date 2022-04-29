@@ -21,9 +21,9 @@ Edward was living in [Factoryville (West New Brighton) Staten Island]({{% ref "f
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
-All of the Mills children were born in Staten Island, and by 1860, the family was living with Barlett Brown in a home adjoining a store he had recently purchased. Both Edward and Bartlett were among the proteges of local businessman Charles M. Pine.  
+All of the Mills children were born in Staten Island, and by 1860, the family was living with Barlett Brown in a home adjoining a store Bartlett had recently purchased. Both Edward and Bartlett were among the proteges of local businessman Charles M. Pine.  
 
-The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime between 01 Sept 1862 and 01 May 1863. Edward was now co-owner of [E. H. Mills & Co.]({{% ref "features/corfu-eh-mills-co" %}}) "cash store". Edward's son Horace clerked for him as Edward had for Bartlett. 
+The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime between 01 Sept 1862 and 01 May 1863. Edward was now co-owner of [E. H. Mills & Co.]({{% ref "features/corfu-eh-mills-co" %}}) "cash store".
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 
@@ -40,7 +40,6 @@ Edward's father Jonas died in 1882.
 Edward's son Jonas died after a brief illness in Oct 1885.
 
 {{% fig "1885-10-16-batavia-daily-news-p1" "500" /%}}
-</div> 
 
 Edward's obituary mentions that he was "postmaster during the Cleveland administration" which I can confirm refers to the first Cleveland administration from 1885 to 1889. (As this is written, Cleveland is the only president to have two non-consecutive terms.) A partial list of Brooktondale postmasters from usps.gov, beginning with the very first, up to the 1970's:
 

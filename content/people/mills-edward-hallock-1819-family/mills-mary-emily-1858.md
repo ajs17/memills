@@ -20,21 +20,6 @@ Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale
 
 Emily's middle name may be in honor of Edward's sister who died over a decade before Emily was born. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she typically used "M. Emily Mills", particularly in later years.
 
-The date of birth on Emily's headstone is incorrect:
-
-{{% fig "today/grave-emily/feature" "800" /%}}
-
-Emily is listed with her family in the 1860 Federal Census:
-
-{{% fig "census/census-1860-us" "800" /%}}
-
-Furthermore, in her entry in the 1900 US census, Emily indicates her birth date is "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetime, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolves to 1858 as indicated in the "Computed birthyear" column above. 
-
-{{% fig "census/census-1900-us-inset" "800" /%}}
-
-I have been in contact with two people at Brookton Cemetery who have both looked into the matter, and they each confirmed that the only information they have on Emily is the name and plot number "and what is on the headstone". There is no indication who made the funeral arrangements for Emily, who the plot was sold to, or any information that might shed light on the erroneous birth year. Emily's grave stone is the only documentation I have with this birth year other than subsequent histories that were written using the grave stone as the source for her birth year. 
-
-Further research will obviously need to be done, but ultimately, Emily's exact date of birth (and that of her brothers) may be lost, as she was born during a notoriously bad period for the recording and preservation of birth records. I am in contact with Calvary Presbyterian Church in Staten Island, which seems the most likely candidate for the church that Mary Ann may have belonged to at the time, to see if they have birth records for her children. I also submitted a reference question to the staff of the Presbyterian Historical Society, but they were unable to find records for Mary Ann or her children. (Much of the Church's digitized records are actually available via ancestry.com, and in fact, entries can be round for Edward's sister Emily Tabitha Mills for example.) I have also submitted requests to the New York State Department of Health vital records as well as the New York City Department of Records and Information Services, and in both cases so records for Emily's birth were found. It is interesting to note however that according to [ldsgenealogy.com](https://ldsgenealogy.com/NY/Staten-Island-Birth-Records.htm), there are potentially many microfilm records for Richmond County (Staten Island) during this time period.
 
 Documentation suggests the Mills family moved from Staten Island to Corfu sometime between 01 Sept 1862 and 01 May 1863, a period overlapping Emily's fourth birthday. The family moved to Motts Corners in Mar 1879, a few months after Emily's 20th birthday, and in the few years immediately following Horace's suicide. 
 
@@ -236,12 +221,27 @@ There are also entries in the historical records of Caroline Valley Federated Ch
 {{% fig "1937-11-26-ithaca-journal" "500" /%}}
 {{% fig "1938-01-19-ithaca-journal" "500" /%}}
 
-That the birth year on Emily's grave is incorrect suggests Emily's final arrangements were made by one or more people in Brooktondale, likely someone from the Congregational Church, Jessie Brewer being the most likely candidate, although E. D. Shurter is another possibility. This further implies that Emily no longer had contact with any Mills family descendants on Long Island, which seems to be supported by the potential heirs sought out after her death as noted in the [Mills' home]({{% ref "features/mills-home-brooktondale" %}}) deeds.
-
 Emily was the last in the line of Edward H. Mills, and it seems that her family's story has become unknown to the Mills of subsequent generations. 
 
 [Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
 
+As is the case with Hannah, the date of birth on Emily's headstone is incorrect:
+
+{{% fig "today/grave-emily/feature" "800" /%}}
+
+Emily is listed with her family in the 1860 Federal Census:
+
+{{% fig "census/census-1860-us" "800" /%}}
+
+Furthermore, in her entry in the 1900 US census, Emily indicates her birth date is "Dec 1858". The census data I have seen is presently limited to what is available online through ancestry.com, but among those I was able to find during Emily's lifetime, only the 1900 census asked for month and year of birth, while all others, including 1900, simply ask for age at last birthday. Census' were typically done in May or June of the appropriate years, and Emily's self reported age in each census consistently resolves to 1858 as indicated in the "Computed birthyear" column above. 
+
+{{% fig "census/census-1900-us-inset" "800" /%}}
+
+I have been in contact with two people at Brookton Cemetery who have both looked into the matter, and they each confirmed that the only information they have on Emily is the name and plot number "and what is on the headstone". There is no indication who made the funeral arrangements for Emily, who the plot was sold to, or any information that might shed light on the erroneous birth year. Emily's grave stone is the only documentation I have with this birth year other than subsequent histories that were written using the grave stone as the source for her birth year. 
+
+That the birth year on Emily's grave is incorrect suggests Emily's final arrangements were made by one or more people in Brooktondale, likely someone from the Congregational Church, Jessie Brewer being the most likely candidate, although E. D. Shurter is another possibility. This further implies that Emily no longer had contact with any Mills family descendants on Long Island, which seems to be supported by the potential heirs sought out after her death as noted in the [Mills' home]({{% ref "features/mills-home-brooktondale" %}}) deeds.
+
+Further research will obviously need to be done, but ultimately, Emily's exact date of birth (and that of her brothers) may be lost, as she was born during a notoriously bad period for the recording and preservation of birth records. I am in contact with Calvary Presbyterian Church in Staten Island, which seems the most likely candidate for the church that Mary Ann may have belonged to at the time, to see if they have birth records for her children. I also submitted a reference question to the staff of the Presbyterian Historical Society, but they were unable to find records for Mary Ann or her children. (Much of the Church's digitized records are actually available via ancestry.com, and in fact, entries can be round for Edward's sister Emily Tabitha Mills for example.) I have also submitted requests to the New York State Department of Health vital records as well as the New York City Department of Records and Information Services, and in both cases so records for Emily's birth were found. It is interesting to note however that according to [ldsgenealogy.com](https://ldsgenealogy.com/NY/Staten-Island-Birth-Records.htm), there are potentially many microfilm records for Richmond County (Staten Island) during this time period.
 ## Other Historical Accounts
 
 Understandably, histories of the Mills family have typically focused almost exclusively on Emily. All previous secondary sources of information on Emily accepted 1861 as her birth year.
