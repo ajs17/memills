@@ -138,7 +138,7 @@ There is also a census entry for a daughter Cora M. born Jan 1871.
 The first three names of possible heirs listed in the [Mills' home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
   - George E. Mills (Feb 1856 to ?)
-  - [Clarissa H. Etsell (Jun 1852 to Jan 1946)](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
+  - [Clarissa H. (Mills) Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (Jun 1852 to Jan 1946). (Her name is misspelled as "Etsall" on the deeds.)
 
 At the time I am compiling this information, findagrave.com does not have entries for all the Mills in Huntington Rural Cemetery:
 
@@ -155,7 +155,7 @@ The last name listed as a possible heir in the Mills' home deeds, Mary Huntting 
 
 Several documents pertaining to Emily Tabitha Mills' marriage were included above.
 
-I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". Emily Huntting predeceased Emily Mills as the result of a strange accident with a bus in front of her home:
+I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". She predeceased Emily Mills as the result of a strange accident with a bus in front of her home:
 
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}

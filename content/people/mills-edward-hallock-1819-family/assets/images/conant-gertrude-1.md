@@ -2,7 +2,7 @@
 citation: "Gertrude Conant. Used with permission."
 notes: >-
 
-    - In a journal entry on 08 Feb 1923, George Jansen notes that he took "1 bin of potatoes" to "Miss Mills".
+    - Gertrude notes "Many people had kerosene lights then, and she sold it by the gallon. You took your container, and she filled it, usually with a potato on the end so it wouldn't spill." In a journal entry on 08 Feb 1923, George Jansen notes that he took "1 bin of potatoes" to "Miss Mills".
 
     - Dr. Benjamin Lockwood's house is present day 480 Brooktondale Road. Later, "Dr. Mary" Ridgway Tinker lived and practiced there for a time. Dr. Lockwood was also a member of Brookton Congregational Church, and he built the Dalebrook apartments on the foundation of the Grist Mill in the 1920's. After Dr. Lockwood's death, E. D. Shurter facilitated the placement of a plaque in Dr. Lockwood's honor outside Dalebrook that remains today.
   

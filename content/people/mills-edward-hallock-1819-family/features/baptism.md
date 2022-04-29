@@ -68,7 +68,7 @@ Selected data on the participants:
 **Jessie (Shurter) Brewer (1881-1974)**
 
   - Married Lewis William Brewer (24 Jun 1882 to 10 Sep 1963) in Danby, 27 Jun 1923. According to the Permanent Membership Roll Book 2 of Caroline Valley Federated Church Records 1930-1960, Lewis was not a member of the church, while it is noted in "Mrs. Jessie Brewer and Mrs. Susie Lawrence have the longest membership records in church and Ladies' Aid." — **History of the Congregational Church, Brooktondale, New York.** Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.
-  - Jessie M. (Shurter) Brewer grew up in the Shurter House next to M. E. Mills, and she eventually purchased the Mills' home and M. E. Mills general store, which she ran under her own name, after Emily's death.
+  - Jessie M. (Shurter) Brewer lived in the Shurter House, which originally sat between Six Mile Creek and M. E. Mills. Jesse eventually purchased the Mills' home and continued Emily's store under her own name after Emily's death.
 
 **Susie C. (Westfall) Lawrence (1885-1977)**
 
