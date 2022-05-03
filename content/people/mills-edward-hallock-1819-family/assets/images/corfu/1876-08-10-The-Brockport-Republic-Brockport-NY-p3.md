@@ -9,5 +9,5 @@ pages:  "3"
 source:  "nyshistoricnewspapers.org"
 ---
 
-The town of Corfu is troubled with juvenile thieves who robe the money drawers, etc.
+The town of Corfu is troubled with juvenile thieves who rob the money drawers, etc.
 

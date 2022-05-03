@@ -15,7 +15,7 @@ notes: >-
 
   - [Edward C. Thatcher](https://www.findagrave.com/memorial/122023540/edward-c-thatcher) (1863 to 04 Jun 1937), Hannah's nephew.
   
-  - Lora E. Moat. Based on a number of factors, I believe this is a mistaken reference to [Sarah (Thatcher) Moot](https://www.findagrave.com/memorial/50409396/sarah-moot) (1855 to 10 Jul 1942), Hannah's neice.)
+  - Lora E. Moat. Based on a number of factors, I believe this is a mistaken reference to [Sarah (Thatcher) Moot](https://www.findagrave.com/memorial/50409396/sarah-moot) (1855 to 10 Jul 1942), Hannah's niece.)
   
   - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 1935), wife of [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919).
 

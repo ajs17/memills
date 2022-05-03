@@ -177,7 +177,7 @@ As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastm
 
   - [Elizabeth Vandermeere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888).
 
-After Thomas's death, Hannah's mother lived with the Vandermeere's (perhaps sometimes spelled Vandermere) in Ithaca. William Vandermeere was a local farmer, and also an English immigrant. Beyond that, I do not know the exact relationship between the Thatchers and Vandermeeres. 
+After Thomas's death, Hannah's mother lived with the Vandermeere's (perhaps sometimes spelled Vandermere) in Ithaca. William Vandermeere was a local farmer, and also an English immigrant. 
 
 As with Emily, the birth year on Hannah's grave is incorrect based on two independent sources: the 1900 United States Federal census in which Hannah self reports being born "May 1824" in England: 
 
@@ -185,8 +185,40 @@ As with Emily, the birth year on Hannah's grave is incorrect based on two indepe
 
 The exact date is reported in The Ithaca Journal, 23 May 1916, p9: "Mrs. Hannah Mills spent her ninety-second birthday Sunday, May 21." Yet her stone lists the dates as 1825 to 1917. 
 
-As I write this in Spring 2022, the Thatcher stone is badly weathered and difficult to read, Hannah's face in particular. The footstones are in even worse condition. The plot is in the front of the cemetery, the middle section, a few rows back from the road. The Thatcher name faces the back of the cemetery, and Hannah's side faces toward Community Corners in Cayuga Heights. 
+As I write this in Spring 2022, the Thatcher stone is badly weathered and difficult to read, and the footstones are in even worse condition. The plot is in the front of the cemetery, the middle section, a few rows back from the road. The Thatcher name, and the side of the stone with Hannah's parents names, faces toward the back of the cemetery, Hannah's side faces toward Community Corners in Cayuga Heights, the Vanderveere's side faces toward Cornell. 
 
+{{% fig "thatchers/grave-photos/use/thatcher-full" "800" /%}}
+{{% fig "thatchers/grave-photos/use/thatcher-zoomed" "500" /%}}
+
+It's likely the main stone has been moved somewhat, and the footstones realigned with it. According to the Pleasant Grove Cemetery records show below, William Vanderveere's stone is the one that appears to missing. 
+
+{{% fig "thatchers/grave-photos/use/pleasant-grove-record" "800" /%}}
+
+The transcriptions in the following photographs have also been compared against a spreadsheet of transcribed memorials from over 100 local cemeteries, compiled over several decade by Alan Chafee, Newfield Historian, relevant portions of which he shared with me via personal correspondence, April 2022.
+
+Thomas and Elizabeth Thatcher's full side:
+<div class="cols">
+{{% fig "thatchers/grave-photos/use/thatcher" /%}}
+{{% fig "thatchers/grave-photos/use/thatcher-closer" /%}}
+</div>
+
+{{% fig "thatchers/grave-photos/use/thomas-thatcher-zoomed" /%}}
+
+Elizabeth (Crosby) Thatcher's section:
+<div class="cols">
+{{% fig "thatchers/grave-photos/use/elizabeth-crosby-zoomed-grayscale" /%}}
+{{% fig "thatchers/grave-photos/use/elizabeth-crosby-zoomed" /%}}
+</div>
+
+{{% fig "thatchers/grave-photos/use/thomas-thatcher-zoomed-grayscale" /%}}
+
+William and Elizabeth Vanderveere:
+
+{{% fig "thatchers/grave-photos/use/vanderveere-full" /%}}
+{{% fig "thatchers/grave-photos/use/william-vanderveere-zoomed-grayscale" /%}}
+{{% fig "thatchers/grave-photos/use/william-vanderveere-zoomed" /%}}
+{{% fig "thatchers/grave-photos/use/elizabeth-vanderveere-zoomed" /%}}
+{{% fig "thatchers/grave-photos/use/elizabeth-vanderveere-zoomed-grayscale" /%}}
 
 ## The Thatchers
 
@@ -220,6 +252,18 @@ Currently unknown:
 
 Hannah's immigration information is based on naturalization documents of her brother David Thatcher from 1839, that are on still on file with the Tompkins County Clerk's Office. I conclude this document identifies Hannah Mills' brother based on the document matching several known data points: first and last name, town of residence, age, country of origin, and the voyage happened within the expected timeframe. As a result, I am also using this document as the source for David's exact birthdate, as prior to seeing this, I only knew the year.
 
+{{% fig "thatchers/1839-david-thatcher-naturalization-003" /%}}
+{{% fig "thatchers/1839-david-thatcher-naturalization-002" /%}}
+
+
+{{% fig "thatchers/1911-03-22-The-Democrat-And-Chronicle-Rochester-NY-p8" /%}}
+{{% fig "thatchers/1934-04-02-The-Ithaca-Journal-Ithaca-NY-p3" /%}}
+{{% fig "thatchers/1935-05-31-The-Ithaca-Journal-Ithaca-NY-p7" /%}}
+{{% fig "thatchers/1936-06-24-The-Ithaca-Journal-Ithaca-NY-p5" /%}}
+{{% fig "thatchers/1937-06-05-the-ithaca-journal-ithaca-ny-p9" /%}}
+{{% fig "thatchers/1942-07-15-Star-Gazette-Elmira-NY-p15" /%}}
+{{% fig "thatchers/1963-06-09-The-Post-Standard-Syracuse-NY-p106" /%}}
+{{% fig "thatchers/1963-06-10-The-Ithaca-Journal-Ithaca-NY-p2" /%}}
 
 <figure class="quote-only">
 <blockquote>
