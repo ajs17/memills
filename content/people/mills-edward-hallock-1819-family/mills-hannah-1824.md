@@ -17,11 +17,11 @@ Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Br
 
 {{% table "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Hannah" %}}
 
-Hannah immigrated with her parents and brother from the "Parish of Hawkhurst in the county of Kent, England", arriving in New York City on 28 May 1830.
+Hannah immigrated with her parents and siblings from the "Parish of Hawkhurst in the county of Kent, England", arriving in New York City on 28 May 1830.
 
 Hannah's first marriage was to [Charles Eastman](https://www.findagrave.com/memorial/99264784/charles-c-eastman) (05 Aug 1807 to 22 May 1890), a prominent farmer in Danby. This was Charles' second marriage after the death of his first wife, and the mother of all of his children, [Polly (Coy) Eastman](https://www.findagrave.com/memorial/99264890/polly-eastman) (14 Feb 1808 to 03 Dec 1862).
 
-Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward's marriage to Hannah and identifies Edward's parents:
+Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward Mills' marriage to Hannah and identifies Edward's parents:
 
 <figure class="quote-only">
 <blockquote>
@@ -167,23 +167,21 @@ As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastm
 {{% fig "1917-05-08-ithaca-journal" "500" /%}}
 {{% fig "1917-06-16-ithaca-journal" "800" /%}}
 
-[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850, in the Thatcher family plot and is listed on the same marker as her parents and a couple named Vandermeere:
+[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850, in the Thatcher family plot and is listed on the same marker as her parents, her sister, and her sister's husband:  
 
-  - [Thomas Thatcher]() (03 Jul 1785 to 17 Jun 1863), Hannah's father.
+  - [Thomas Thatcher](https://www.findagrave.com/memorial/239203286/thomas-thatcher) (03 Jul 1785 to 17 Jun 1863), Hannah's father.
   
-  - [Elizabeth (Crosby) Thatcher]() (12 Feb 1790 to 29 Mar 1873), Hannah's mother.
+  - [Elizabeth (Crosby) Thatcher](https://www.findagrave.com/memorial/239203315/elizabeth-thatcher) (12 Feb 1790 to 29 Mar 1873), Hannah's mother.
 
-  - [William P. Vandermeere](https://www.findagrave.com/memorial/166934176/william-vanderveere) (04 Sep 1831 to 27 May 1882).
+  - [William P. Vandermeere](https://www.findagrave.com/memorial/166934176/william-vanderveere) (04 Sep 1831 to 27 May 1882), Hannah's brother-in-law.
 
-  - [Elizabeth Vandermeere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888).
+  - [Elizabeth Vandermeere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888), Hannah's sister.
 
-After Thomas's death, Hannah's mother lived with the Vandermeere's (perhaps sometimes spelled Vandermere) in Ithaca. William Vandermeere was a local farmer, and also an English immigrant. 
-
-As with Emily, the birth year on Hannah's grave is incorrect based on two independent sources: the 1900 United States Federal census in which Hannah self reports being born "May 1824" in England: 
+As with Emily, the birth year on Hannah's grave is incorrect based on two independent sources: the 1900 United States Federal census that indicates Hannah was born "May 1824" in England: 
 
 {{% fig "census/census-1900-us-inset" "800" /%}}
 
-The exact date is reported in The Ithaca Journal, 23 May 1916, p9: "Mrs. Hannah Mills spent her ninety-second birthday Sunday, May 21." Yet her stone lists the dates as 1825 to 1917. 
+The exact date is reported in The Ithaca Journal, 23 May 1916, p9: "Mrs. Hannah Mills spent her ninety-second birthday Sunday, May 21." Although admittedly, the wording of this does leave some room for imprecision with regard to the exact day, it at least corroborates the month and year from the 1900 census. Yet her stone lists her birth year as 1825. 
 
 As I write this in Spring 2022, the Thatcher stone is badly weathered and difficult to read, and the footstones are in even worse condition. The plot is in the front of the cemetery, the middle section, a few rows back from the road. The Thatcher name, and the side of the stone with Hannah's parents names, faces toward the back of the cemetery, Hannah's side faces toward Community Corners in Cayuga Heights, the Vanderveere's side faces toward Cornell. 
 
@@ -198,27 +196,39 @@ The transcriptions in the following photographs have also been compared against 
 
 Thomas and Elizabeth Thatcher's full side:
 <div class="cols">
-{{% fig "thatchers/grave-photos/use/thatcher" /%}}
-{{% fig "thatchers/grave-photos/use/thatcher-closer" /%}}
+{{% fig "thatchers/grave-photos/use/thatcher" "350" /%}}
+{{% fig "thatchers/grave-photos/use/thatcher-closer" "350" /%}}
 </div>
 
-{{% fig "thatchers/grave-photos/use/thomas-thatcher-zoomed" /%}}
+In an attempt to aid legibility, I have provided the original digital photographs taken April 2022, along with modified versions in grayscale with enhanced contrast.
 
-Elizabeth (Crosby) Thatcher's section:
+Thomas Thatcher's portion:
 <div class="cols">
-{{% fig "thatchers/grave-photos/use/elizabeth-crosby-zoomed-grayscale" /%}}
-{{% fig "thatchers/grave-photos/use/elizabeth-crosby-zoomed" /%}}
+{{% fig "thatchers/grave-photos/use/thomas-thatcher-zoomed" "350" /%}}
+{{% fig "thatchers/grave-photos/use/thomas-thatcher-zoomed-grayscale" "350" /%}}
 </div>
 
-{{% fig "thatchers/grave-photos/use/thomas-thatcher-zoomed-grayscale" /%}}
+Elizabeth (Crosby) Thatcher's portion:
+<div class="cols">
+{{% fig "thatchers/grave-photos/use/elizabeth-crosby-zoomed"  "350" /%}}
+{{% fig "thatchers/grave-photos/use/elizabeth-crosby-zoomed-grayscale" "350" /%}}
+</div>
 
-William and Elizabeth Vanderveere:
+William and Elizabeth Vanderveere's full side:
+{{% fig "thatchers/grave-photos/use/vanderveere-full" "500" /%}}
 
-{{% fig "thatchers/grave-photos/use/vanderveere-full" /%}}
-{{% fig "thatchers/grave-photos/use/william-vanderveere-zoomed-grayscale" /%}}
-{{% fig "thatchers/grave-photos/use/william-vanderveere-zoomed" /%}}
-{{% fig "thatchers/grave-photos/use/elizabeth-vanderveere-zoomed" /%}}
-{{% fig "thatchers/grave-photos/use/elizabeth-vanderveere-zoomed-grayscale" /%}}
+William P. Vanderveere's portion:
+<div class="cols">
+{{% fig "thatchers/grave-photos/use/william-vanderveere-zoomed" "350" /%}}
+{{% fig "thatchers/grave-photos/use/william-vanderveere-zoomed-grayscale" "350" /%}}
+</div>
+
+Elizabeth Vanderveere:
+<div class="cols">
+{{% fig "thatchers/grave-photos/use/elizabeth-vanderveere-zoomed" "350" /%}}
+{{% fig "thatchers/grave-photos/use/elizabeth-vanderveere-zoomed-grayscale" "350" /%}}
+</div>
+
 
 ## The Thatchers
 
@@ -242,28 +252,48 @@ Hannah's siblings:
 
     - [Minnie A. (Thatcher) Smith](https://www.findagrave.com/memorial/86690565/minnie-a-smith) (1867 to 23 Jun 1936), married to [Dr. William A. Smith](https://www.findagrave.com/memorial/86690515/william-smith) (01 Feb 186? to 31 Mar 1934), former Tompkins County Coroner. Minnie's obituary notes: "she is survived by two daughters, Mrs. Agnes Shulman of Ithaca and Mrs. Alleine Estabrook of Newfield...". 
 
-Both the Thatchers and the Tompkins are associated with the towns of Newfield and Catharine, with Edward living in Cayutaville, and a few descendants living in Ithaca.
-
 Currently unknown:
 
   - [Myron N. Tompkins](https://www.findagrave.com/memorial/188088574/myron-n-tompkins) (1859 to 21 Mar 1911) former Dean of the Tompkins county bar. I do not currently know the relationship between Myron and the other Tompkins', if any, but he is the person Hannah named as her executor.
 
   - Edgar Thatcher. I initially thought this was a mistaken reference to Edward Thatcher, and that is still a possibility, but I have seen this name referenced in a few places, so perhaps not. I have been unable to identify this person.
 
+  - Silas Thatcher
+
+Both the Thatchers and the Tompkins are associated with the towns of Newfield and Catharine, with Edward living in Cayutaville, and a few descendants living in Ithaca.
+
 Hannah's immigration information is based on naturalization documents of her brother David Thatcher from 1839, that are on still on file with the Tompkins County Clerk's Office. I conclude this document identifies Hannah Mills' brother based on the document matching several known data points: first and last name, town of residence, age, country of origin, and the voyage happened within the expected timeframe. As a result, I am also using this document as the source for David's exact birthdate, as prior to seeing this, I only knew the year.
 
 {{% fig "thatchers/1839-david-thatcher-naturalization-003" /%}}
 {{% fig "thatchers/1839-david-thatcher-naturalization-002" /%}}
 
+Elizabeth Vanderveere appears to be Hannah's sister, based on the following data points:
 
-{{% fig "thatchers/1911-03-22-The-Democrat-And-Chronicle-Rochester-NY-p8" /%}}
-{{% fig "thatchers/1934-04-02-The-Ithaca-Journal-Ithaca-NY-p3" /%}}
-{{% fig "thatchers/1935-05-31-The-Ithaca-Journal-Ithaca-NY-p7" /%}}
-{{% fig "thatchers/1936-06-24-The-Ithaca-Journal-Ithaca-NY-p5" /%}}
-{{% fig "thatchers/1937-06-05-the-ithaca-journal-ithaca-ny-p9" /%}}
-{{% fig "thatchers/1942-07-15-Star-Gazette-Elmira-NY-p15" /%}}
-{{% fig "thatchers/1963-06-09-The-Post-Standard-Syracuse-NY-p106" /%}}
-{{% fig "thatchers/1963-06-10-The-Ithaca-Journal-Ithaca-NY-p2" /%}}
+  - The 16 Oct 1850 United States Federal census shows the Thatcher family in Newfield with a 21 year old woman named Elizabeth. The age and birthplace are consistent with this being the Thomas and Elizabeth's daughter, and matches the age of Elizabeth Vanderveere.
+  - The 04 Aug 1870 United States Federal census shows William and Elizabeth Vanderveere living with the widowed Elizabeth (Crosby) Thatcher. Both Elizabeth Thatcher and Elizabeth Vanderveere list England as their birthplace.
+  - And obviously, the Vanderveere's are buried in the family plot. 
+
+<div class="cols">
+{{% fig "thatchers/census/census-1850-us-thatcher" "350" /%}}
+{{% fig "thatchers/census/census-1870-us-thatcher" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "thatchers/census/census-1850-us-thatcher" /%}}
+{{% fig "thatchers/census/census-1870-us-thatcher" /%}}
+</div>
+
+
+{{% fig "thatchers/census/census-1855-nys-thatcher" "500" /%}}
+{{% fig "thatchers/census/census-1860-us-vanderveere" "500" /%}}
+{{% fig "thatchers/1911-03-22-The-Democrat-And-Chronicle-Rochester-NY-p8" "500" /%}}
+{{% fig "thatchers/1934-04-02-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "thatchers/1935-05-31-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
+{{% fig "thatchers/1936-06-24-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+{{% fig "thatchers/1937-06-05-the-ithaca-journal-ithaca-ny-p9" "500" /%}}
+{{% fig "thatchers/1942-07-15-Star-Gazette-Elmira-NY-p15" "500" /%}}
+{{% fig "thatchers/1963-06-09-The-Post-Standard-Syracuse-NY-p106" "500" /%}}
+{{% fig "thatchers/1963-06-10-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
 
 <figure class="quote-only">
 <blockquote>
