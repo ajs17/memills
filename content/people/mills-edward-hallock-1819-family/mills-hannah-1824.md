@@ -192,7 +192,7 @@ It's likely the main stone has been moved somewhat, and the footstones realigned
 
 {{% fig "thatchers/grave-photos/use/pleasant-grove-record" "800" /%}}
 
-The transcriptions in the following photographs have also been compared against a spreadsheet of transcribed memorials from over 100 local cemeteries, compiled over several decade by Alan Chafee, Newfield Historian, relevant portions of which he shared with me via personal correspondence, April 2022.
+The transcriptions in the following photographs have also been compared against a spreadsheet of transcribed memorials from over 100 local cemeteries, compiled over several decades by Alan Chafee, Newfield Historian, relevant portions of which he shared with me via personal correspondence, April 2022.
 
 Thomas and Elizabeth Thatcher's full side:
 <div class="cols">
@@ -229,6 +229,12 @@ Elizabeth Vanderveere:
 {{% fig "thatchers/grave-photos/use/elizabeth-vanderveere-zoomed-grayscale" "350" /%}}
 </div>
 
+Hannah (Thatcher) Mills:
+{{% fig "thatchers/grave-photos/use/hannah-full" "500" /%}}
+<div class="cols">
+{{% fig "thatchers/grave-photos/use/hannah-zoomed" "350" /%}}
+{{% fig "thatchers/grave-photos/use/hanna-zoomed-grayscale" "350" /%}}
+</div>
 
 ## The Thatchers
 
@@ -239,7 +245,9 @@ Hannah's parents:
   - [Elizabeth (Crosby) Thatcher](https://www.findagrave.com/memorial/239203315/elizabeth-thatcher) (12 Feb 1790 to 29 Mar 1873).
 
 Hannah's siblings:
-  
+
+  - [Elizabeth (Thatcher) Vandermeere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888), married: [William P. Vandermeere](https://www.findagrave.com/memorial/166934176/william-vanderveere) (04 Sep 1831 to 27 May 1882).
+
   - [David Thatcher](https://www.findagrave.com/memorial/122023538/david-thatcher) (15 Jun 1816 to 1893). Married: [Agnes (Tannahill) Thatcher](https://www.findagrave.com/memorial/122023539/agnes-thatcher) (1828 to 1896). Their children:
 
     - [Sarah (Thatcher) Moot](https://www.findagrave.com/memorial/50409396/sarah-moot) (1855 to 10 Jul 1942).
@@ -258,7 +266,7 @@ Currently unknown:
 
   - Edgar Thatcher. I initially thought this was a mistaken reference to Edward Thatcher, and that is still a possibility, but I have seen this name referenced in a few places, so perhaps not. I have been unable to identify this person.
 
-  - Silas Thatcher
+  - Silas Thatcher, a "farm laborer" listed in the 1850 federal census living with the Thatcher family, and in the 1860 federal census was living with a family by the name Fleming. He also indicates England is his origin, and given his age, he is likely Thomas Thatcher's brother. (A possible daughter: [Sarah C. (Thatcher) O'Brien](https://www.findagrave.com/memorial/79475027/sarah-c-o'brien).) 
 
 Both the Thatchers and the Tompkins are associated with the towns of Newfield and Catharine, with Edward living in Cayutaville, and a few descendants living in Ithaca.
 
