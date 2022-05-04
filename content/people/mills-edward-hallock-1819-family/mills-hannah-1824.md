@@ -17,7 +17,7 @@ Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Br
 
 {{% table "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Hannah" %}}
 
-Hannah immigrated with her parents and siblings from the "Parish of Hawkhurst in the county of Kent, England", arriving in New York City on 28 May 1830.
+Hannah immigrated with her parents and siblings from the "Parish of Hawkhurst in the county of Kent, England", arriving in New York City on 28 Jul 1830.
 
 Hannah's first marriage was to [Charles Eastman](https://www.findagrave.com/memorial/99264784/charles-c-eastman) (05 Aug 1807 to 22 May 1890), a prominent farmer in Danby. This was Charles' second marriage after the death of his first wife, and the mother of all of his children, [Polly (Coy) Eastman](https://www.findagrave.com/memorial/99264890/polly-eastman) (14 Feb 1808 to 03 Dec 1862).
 
@@ -252,11 +252,15 @@ Hannah's siblings:
 
     - [Sarah (Thatcher) Moot](https://www.findagrave.com/memorial/50409396/sarah-moot) (1855 to 10 Jul 1942).
     
-    - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 30 May 1935), wife of [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919).
+    - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 30 May 1935), wife of [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919). Their children:
 
-      - Monroe Earl Tompkins (24 Jan 1897 to 07 Jun 1963), Nellie and Monroe's son. Typically referred to as "Earl Tompkins" there are also records for him that indicate "Earl M. Tompkins". Other children of Nellie and Monroe are Olin and Myrtle (Tompkins) Talbett.
+      - Monroe Earl Tompkins (24 Jan 1897 to 07 Jun 1963).
+
+      - [Olin M. Tompkins Sr.](https://www.findagrave.com/memorial/67026256/olin-m-tompkins) (1888 to 1972).
+
+      - [Myrtle C. Talbott](https://www.findagrave.com/memorial/80863372/myrtle-c-talbott) (1892 to 1981).
     
-    - [Edward C. Thatcher](https://www.findagrave.com/memorial/122023540/edward-c-thatcher) (1863 to 04 Jun 1937), Hannah's nephew.
+    - [Edward C. Thatcher](https://www.findagrave.com/memorial/122023540/edward-c-thatcher) (1863 to 04 Jun 1937).
 
     - [Minnie A. (Thatcher) Smith](https://www.findagrave.com/memorial/86690565/minnie-a-smith) (1867 to 23 Jun 1936), married to [Dr. William A. Smith](https://www.findagrave.com/memorial/86690515/william-smith) (01 Feb 186? to 31 Mar 1934), former Tompkins County Coroner. Minnie's obituary notes: "she is survived by two daughters, Mrs. Agnes Shulman of Ithaca and Mrs. Alleine Estabrook of Newfield...". 
 
@@ -286,29 +290,23 @@ Elizabeth Vanderveere appears to be Hannah's sister, based on the following data
 {{% fig "thatchers/census/census-1870-us-thatcher" "350" /%}}
 </div>
 
-<div class="cols">
-{{% fig "thatchers/census/census-1850-us-thatcher" /%}}
-{{% fig "thatchers/census/census-1870-us-thatcher" /%}}
-</div>
-
-
+Sometime between 1850 and 1855, David Thatcher married Agnes Tannahill, and along with his parents, moved to Catharine NY. 
 {{% fig "thatchers/census/census-1855-nys-thatcher" "500" /%}}
+
+And the 1860 federal census shows William Vanderveere working as a farm laborer in Dryden.
+
 {{% fig "thatchers/census/census-1860-us-vanderveere" "500" /%}}
+
+
 {{% fig "thatchers/1911-03-22-The-Democrat-And-Chronicle-Rochester-NY-p8" "500" /%}}
 {{% fig "thatchers/1934-04-02-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
-{{% fig "thatchers/1935-05-31-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
-{{% fig "thatchers/1936-06-24-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
-{{% fig "thatchers/1937-06-05-the-ithaca-journal-ithaca-ny-p9" "500" /%}}
-{{% fig "thatchers/1942-07-15-Star-Gazette-Elmira-NY-p15" "500" /%}}
-{{% fig "thatchers/1963-06-09-The-Post-Standard-Syracuse-NY-p106" "500" /%}}
-{{% fig "thatchers/1963-06-10-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
 
 <figure class="quote-only">
 <blockquote>
 Dr. W. A. Smith's full name was Dr. William Addison Smith and he lived up South St., now called Shaffer Rd. on the right I think a short distance behind the Tioga State Bank.  I know his full name as I remember the old folks calling him William Addison Smith.  He and his wife, Minnie A. are buried over in the Laurel Hill Cemetery east of Odessa in the Town of Catharine.  His stone reads William A. Smith, M. D., blank - 1934.  His wife Minnie A. reads, blank - 1936 and Anna E. Smith 1877 - 1960. Anna's grave marker is right next to the grave marker for Dr. Smith and his wife Minnie.   
 </blockquote>
 <figcaption>
-— <cite>22 Apr 2022, personal correspondence with Alan Chaffee.</cite>
+— <cite>22 Apr 2022, personal correspondence with Alan Chaffee, Historian, Newfield NY.</cite>
 </figcaption>
 </figure>
 
@@ -317,9 +315,16 @@ Dr. W. A. Smith's full name was Dr. William Addison Smith and he lived up South 
 Dr. William Addison Smith's father was George Addison Smith, 1835 - 1911 who is also buried in Laurel Hill Cemetery over in the Town of Catharine
 </blockquote>
 <figcaption>
-— <cite>25 Apr 2022, personal correspondence with Alan Chaffee.</cite>
+— <cite>25 Apr 2022, personal correspondence with Alan Chaffee, Historian, Newfield NY.</cite>
 </figcaption>
 </figure>
+{{% fig "thatchers/1935-05-31-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
+{{% fig "thatchers/1936-06-24-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+{{% fig "thatchers/1937-06-05-the-ithaca-journal-ithaca-ny-p9" "500" /%}}
+{{% fig "thatchers/1942-07-15-Star-Gazette-Elmira-NY-p15" "500" /%}}
+{{% fig "thatchers/1963-06-09-The-Post-Standard-Syracuse-NY-p106" "500" /%}}
+{{% fig "thatchers/1963-06-10-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
+
 
 ## Notes for Future Researchers
 
