@@ -15,7 +15,7 @@ notes: >-
 
 NEWFIELD—Monroe Earl Tompkins, 66, of the South Hill Road, died at his residence Friday evening.
 
-Hew was the son of Monroe and Millie Thatcher Tompkins and a life resident of the community. Mr. Tompkins was a retired farmer.
+He was the son of Monroe and Millie Thatcher Tompkins and a life resident of the community. Mr. Tompkins was a retired farmer.
 
 Surviving are: his wife, Mrs. Minnie Wademan Tompkins; a son, Lloyd; a daughter, Miss Marcella Tompkins; a brother, Olin, all of Newfield, and a sister, Mrs. William Talbott of Elmira.
 
