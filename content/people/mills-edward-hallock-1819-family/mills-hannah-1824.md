@@ -276,8 +276,8 @@ Both the Thatchers and the Tompkins are associated with the towns of Newfield an
 
 Hannah's immigration information is based on naturalization documents of her brother David Thatcher from 1839, that are on still on file with the Tompkins County Clerk's Office. I conclude this document identifies Hannah Mills' brother based on the document matching several known data points: first and last name, town of residence, age, country of origin, and the voyage happened within the expected timeframe. As a result, I am also using this document as the source for David's exact birthdate, as prior to seeing this, I only knew the year.
 
-{{% fig "thatchers/1839-david-thatcher-naturalization-003" /%}}
 {{% fig "thatchers/1839-david-thatcher-naturalization-002" /%}}
+{{% fig "thatchers/1839-david-thatcher-naturalization-003" /%}}
 
 Elizabeth Vanderveere appears to be Hannah's sister, based on the following data points:
 
@@ -328,16 +328,7 @@ Dr. William Addison Smith's father was George Addison Smith, 1835 - 1911 who is 
 
 ## Notes for Future Researchers
 
-Charles Eastman had a daughter [Hannah (Eastman) Meaker](https://www.findagrave.com/memorial/80753410/hannah-meaker) (15 May 1843 to 20 Dec 1881), who appears to be Cyrus' twin sister and wife of George M. Meaker.
-
-Wife of George M Meaker
-Daughter-in-law of Reuben E & Elsie B Meaker
-
-https://www.findagrave.com/memorial/80752505/reuben-e-meaker
-
-daughter Mamie Elsie (Meaker) Crance (15 Jan 1873 to 13 Oct 1955) https://www.findagrave.com/memorial/187482089/mame-crance
-
-daughter Ida Adele Meaker(21 Jul 1878 to 08 Jul 1958) https://www.findagrave.com/memorial/231453734/ida-adelia-husted
+Charles Eastman had a daughter [Hannah (Eastman) Meaker](https://www.findagrave.com/memorial/80753410/hannah-meaker) (15 May 1843 to 20 Dec 1881), who appears to be Cyrus' twin sister and wife of George M. Meaker. George M. Meaker's parents are [Reuben E. Meaker](https://www.findagrave.com/memorial/80752505/reuben-e-meaker) (1823 to 09 Jun 1894) and [Elsie (Briggs) Meaker](https://www.findagrave.com/memorial/80752649/elsie-meaker) (1824 to 09 Mar 1893). Hannah and George's children include two daughters, [Mamie Elsie (Meaker) Crance](https://www.findagrave.com/memorial/187482089/mame-crance) (15 Jan 1873 to 13 Oct 1955) and [Ida Adelia (Meaker) Husted](https://www.findagrave.com/memorial/231453734/ida-adelia-husted) (21 Jul 1878 to 08 Jul 1958) 
 
 
 There is another Hannah Eastman in Caroline at this time: [Hannah V. (Smith) Eastman](https://www.findagrave.com/memorial/91574581/hannah-v-eastman) (1826 to 05 Feb 1892) who was married to [Reuben B. Eastman](https://www.findagrave.com/memorial/91575045/reuben-b-eastman) (Jun 1829 to 15 Nov 1913). Both had property in their names in Danby and Caroline. 
