@@ -173,9 +173,9 @@ As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastm
   
   - [Elizabeth (Crosby) Thatcher](https://www.findagrave.com/memorial/239203315/elizabeth-thatcher) (12 Feb 1790 to 29 Mar 1873), Hannah's mother.
 
-  - [William P. Vandermeere](https://www.findagrave.com/memorial/166934176/william-vanderveere) (04 Sep 1831 to 27 May 1882), Hannah's brother-in-law.
+  - [William P. Vanderveere](https://www.findagrave.com/memorial/166934176/william-vanderveere) (04 Sep 1831 to 27 May 1882), Hannah's brother-in-law.
 
-  - [Elizabeth Vandermeere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888), Hannah's sister.
+  - [Elizabeth Vanderveere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888), Hannah's sister.
 
 As with Emily, the birth year on Hannah's grave is incorrect based on two independent sources: the 1900 United States Federal census that indicates Hannah was born "May 1824" in England: 
 
@@ -246,13 +246,13 @@ Hannah's parents:
 
 Hannah's siblings:
 
-  - [Elizabeth (Thatcher) Vandermeere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888), married: [William P. Vandermeere](https://www.findagrave.com/memorial/166934176/william-vanderveere) (04 Sep 1831 to 27 May 1882).
+  - [Elizabeth (Thatcher) Vandermeere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888). Married [William P. Vandermeere](https://www.findagrave.com/memorial/166934176/william-vanderveere) (04 Sep 1831 to 27 May 1882).
 
-  - [David Thatcher](https://www.findagrave.com/memorial/122023538/david-thatcher) (15 Jun 1816 to 1893). Married: [Agnes (Tannahill) Thatcher](https://www.findagrave.com/memorial/122023539/agnes-thatcher) (1828 to 1896). Their children:
+  - [David Thatcher](https://www.findagrave.com/memorial/122023538/david-thatcher) (15 Jun 1816 to 1893). Married [Agnes (Tannahill) Thatcher](https://www.findagrave.com/memorial/122023539/agnes-thatcher) (1828 to 1896). Their children:
 
     - [Sarah (Thatcher) Moot](https://www.findagrave.com/memorial/50409396/sarah-moot) (1855 to 10 Jul 1942).
     
-    - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 30 May 1935), wife of [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919). Their children:
+    - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 30 May 1935). Married [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919). Their children:
 
       - Monroe Earl Tompkins (24 Jan 1897 to 07 Jun 1963).
 
@@ -260,9 +260,9 @@ Hannah's siblings:
 
       - [Myrtle C. Talbott](https://www.findagrave.com/memorial/80863372/myrtle-c-talbott) (1892 to 1981).
     
-    - [Edward C. Thatcher](https://www.findagrave.com/memorial/122023540/edward-c-thatcher) (1863 to 04 Jun 1937).
+    - [Edward C. Thatcher](https://www.findagrave.com/memorial/122023540/edward-c-thatcher) (1863 to 04 Jun 1937). Married [Blanche M. Thatcher](https://www.findagrave.com/memorial/122023541/blanche-m-thatcher) (1886 to 24 Sep 1968)
 
-    - [Minnie A. (Thatcher) Smith](https://www.findagrave.com/memorial/86690565/minnie-a-smith) (1867 to 23 Jun 1936), married to [Dr. William A. Smith](https://www.findagrave.com/memorial/86690515/william-smith) (01 Feb 186? to 31 Mar 1934), former Tompkins County Coroner. Minnie's obituary notes: "she is survived by two daughters, Mrs. Agnes Shulman of Ithaca and Mrs. Alleine Estabrook of Newfield...". 
+    - [Minnie A. (Thatcher) Smith](https://www.findagrave.com/memorial/86690565/minnie-a-smith) (1867 to 23 Jun 1936). Married [Dr. William A. Smith](https://www.findagrave.com/memorial/86690515/william-smith) (01 Feb 186? to 31 Mar 1934), former Tompkins County Coroner. Minnie's obituary notes: "she is survived by two daughters, Mrs. Agnes Shulman of Ithaca and Mrs. Alleine Estabrook of Newfield...". 
 
 Currently unknown:
 
@@ -318,6 +318,7 @@ Dr. William Addison Smith's father was George Addison Smith, 1835 - 1911 who is 
 — <cite>25 Apr 2022, personal correspondence with Alan Chaffee, Historian, Newfield NY.</cite>
 </figcaption>
 </figure>
+
 {{% fig "thatchers/1935-05-31-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
 {{% fig "thatchers/1936-06-24-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 {{% fig "thatchers/1937-06-05-the-ithaca-journal-ithaca-ny-p9" "500" /%}}
