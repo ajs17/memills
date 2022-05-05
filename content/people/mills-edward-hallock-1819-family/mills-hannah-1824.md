@@ -246,7 +246,7 @@ Hannah's parents:
 
 Hannah's siblings:
 
-  - [Elizabeth (Thatcher) Vandermeere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888). Married [William P. Vandermeere](https://www.findagrave.com/memorial/166934176/william-vanderveere) (04 Sep 1831 to 27 May 1882).
+  - [Elizabeth (Thatcher) Vanderveere](https://www.findagrave.com/memorial/166933990/elizabeth-vanderveere) (1829 to 1888). Married [William P. Vanderveere](https://www.findagrave.com/memorial/166934176/william-vanderveere) (04 Sep 1831 to 27 May 1882).
 
   - [David Thatcher](https://www.findagrave.com/memorial/122023538/david-thatcher) (15 Jun 1816 to 1893). Married [Agnes (Tannahill) Thatcher](https://www.findagrave.com/memorial/122023539/agnes-thatcher) (1828 to 1896). Their children:
 
