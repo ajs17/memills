@@ -7,6 +7,7 @@ It appears the Mills lived in Staten Island throughout much of the 1850's, and E
 
 <!--more-->
 
+
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "400" /%}}
 
 In the 1875 New York State Census, each of the children are listed with Staten Island as their birthplace (years 1852, 1854 and 1858), and they were still living in Staten Island in 1860 as reflected in the Federal Census:
@@ -44,6 +45,8 @@ He set a fine example with regard to everything in which he was engaged during t
 {{% /fig %}}
 
 According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles Pine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. (It may also be of interest that the 1860 Census shows that there is a Betsey Mott born about 1807 living with Charles M. Pine.) 
+
+{{% fig "staten-island/1850-us-census-castleton" "400" /%}}
 
 [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895)
 
@@ -88,6 +91,11 @@ Further investigation is needed, but an obvious concrete question to explore is 
 {{% fig "staten-island/1835-02-21-charles-pine" "700" /%}}
 
 Charles lists himself as a merchant in Castleton in the 1850 Federal census, and James M. Hillyer lives with the Pine family, as a clerk in Charles' store. 
+
+<div class="cols">
+{{% fig "staten-island/1914-02-06-The-New-York-Times-New-York-NY-p9" "350" /%}}
+{{% fig "staten-island/1925-03-21-The-Evening-Star-Washington-DC-p32" "350" /%}}
+</div> 
 
 This Staten Island Directory from 1886 still lists Barlett Brown’s store:
 
