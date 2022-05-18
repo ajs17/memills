@@ -14,11 +14,27 @@ Ellen Jane (Andrews) Predmore Gould, born 27 Mar 1848, died 31 Oct 1929. Ellen l
 </p>
 </blockquote>
 
-For my immediate purposes here, I will focus on the period of Ellen's life that intersects with the Mills family.
+For my immediate purposes here, I will focus initially on the period of Ellen's life that intersects with the Mills family, and fill in more detail later.
 
 {{% table "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Ellen" %}}
 
-The first (presumed) mention I have of Ellen in connection to the Mills family is an entry made by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>: "1908, Jan 23, Sewing by Mrs. Gould, 0.75".
+The following historical research comes from a direct descendent of Ellen Gould:
+
+<figure class="quote-only">
+<blockquote>
+<p>Ellen Jane Andrews (1848-1929) was born in Bourne, Lincolnshire, England as were both of her parents. And her parents were married in Bourne.</p>
+
+<p>…Ellen Jane Andrews (age 3) arrived with her parents Joseph (age 27) and Ellen Pell Andrews (25) and Charlotte (infant) on 6/21/1851 in NYC. The passenger and Crew List (including Castle Garden and Ellis Island) 1820-1957 is found in Ancestry.com. Also on the passenger list is Henry Pell (age 50) and his wife Ellen Newton (age 50). Ellen Jane's maternal grandparents. And two of Ellen Pell Andrews sibling Sarah (age 19) and James (age 17). Of the 760 names on the passenger list of the Western World that sailed from Liverpool, England I do not find any other Andrews. So I think Joseph and Ellen Pell Andrews were sailing with Ellen's parents. Joseph and Ellen Newton Pell both died in the 1880 in Howell, Michigan.</p>
+
+<p>…There was a Andrews family in Ithaca but it appears to not be our Ellen Jane Andrews parents.</p>
+
+</blockquote>
+<figcaption>
+— <cite>07 May 2022, personal correspondence with Carol Coggshall, great great granddaughter of Ellen Gould.</cite>
+</figcaption>
+</figure>
+
+The first (presumed) mention of Ellen in connection to the Mills family is an entry made by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>: "1908, Jan 23, Sewing by Mrs. Gould, 0.75".
 
 {{% fig "ellen-gould/1909-03-06-Alfred-Gould-Died"  "500" /%}}
 
@@ -31,14 +47,14 @@ It isn't clear when exactly Ellen started living in the Mills' home, but she may
 
 {{% fig "1914-12-05-ithaca-journal" "500" /%}}
 
-Like Hannah and Emily, Ellen was active in the Women's Christian Temperance Union. Both Hannah and Ellen were born in England, and Ellen at least, spoke with an English accent. Ellen's temperament also sounds like it was very compatible with what we know of Hannah and Emily:
+Like Hannah and Emily, Ellen was active in the Women's Christian Temperance Union. Both Hannah and Ellen were born in England, and Ellen at least, spoke with an English accent. Hannah herself likely spoke with an English accent, but at the very least, Ellen's familiar voice surely added comfort. Ellen's temperament also sounds like it was very compatible with what we know of Hannah and Emily:
 
 <figure class="quote-only">
 <blockquote>
 My mother was born in 1916 and had only two memories of Ellen. That she was very proper and spoke with an English accent.
 </blockquote>
 <figcaption>
-— <cite>18 May 2021, personal correspondence with great great granddaughter of Ellen Gould.</cite>
+— <cite>18 May 2021, personal correspondence Carol Coggshall, with great great granddaughter of Ellen Gould.</cite>
 </figcaption>
 </figure>
 
@@ -103,7 +119,7 @@ Although she had repeated boughts of illness, Ellen appears to have been active 
   {{% fig "ellen-gould/1929-11-07-ithaca-journal-p14" "350" /%}}
 </div>
 
-Ellen is [interred](https://www.findagrave.com/memorial/35944445/ellen-jane-predmore) at Seneca Union Cemetery, Valois, NY.
+Ellen is [interred](https://www.findagrave.com/memorial/35944445/ellen-jane-predmore) at Seneca Union Cemetery, Valois NY.
 
 ## Notes for Future Researchers
 

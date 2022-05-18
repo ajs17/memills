@@ -17,9 +17,12 @@ Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Br
 
 {{% table "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Hannah" %}}
 
-Hannah immigrated with her parents and siblings from the "Parish of Hawkhurst in the county of Kent, England", arriving in New York City on 28 Jul 1830.
+Hannah immigrated with her parents and siblings from the "Parish of Hawkhurst in the county of Kent, England", arriving in New York City on 28 Jul 1830. It is likely that like Ellen Gould, Hannah may have retained an English accent.
 
 Hannah's first marriage was to [Charles Eastman](https://www.findagrave.com/memorial/99264784/charles-c-eastman) (05 Aug 1807 to 22 May 1890), a prominent farmer in Danby. This was Charles' second marriage after the death of his first wife, and the mother of all of his children, [Polly (Coy) Eastman](https://www.findagrave.com/memorial/99264890/polly-eastman) (14 Feb 1808 to 03 Dec 1862).
+
+{{% fig "1876-07-19-The-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
+{{% fig "1896-07-24-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "500" /%}}
 
 Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward Mills' marriage to Hannah and identifies Edward's parents:
 
@@ -167,7 +170,7 @@ As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastm
 {{% fig "1917-05-08-ithaca-journal" "500" /%}}
 {{% fig "1917-06-16-ithaca-journal" "800" /%}}
 
-[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850, in the Thatcher family plot and is listed on the same marker as her parents, her sister, and her sister's husband:  
+[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca NY 14850, in the Thatcher family plot and is listed on the same marker as her parents, her sister, and her sister's husband:  
 
   - [Thomas Thatcher](https://www.findagrave.com/memorial/239203286/thomas-thatcher) (03 Jul 1785 to 17 Jun 1863), Hannah's father.
   
@@ -254,11 +257,11 @@ Hannah's siblings:
     
     - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 30 May 1935). Married [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919). Their children:
 
-      - Monroe Earl Tompkins (24 Jan 1897 to 07 Jun 1963).
-
       - [Olin M. Tompkins Sr.](https://www.findagrave.com/memorial/67026256/olin-m-tompkins) (1888 to 1972).
 
       - [Myrtle C. Talbott](https://www.findagrave.com/memorial/80863372/myrtle-c-talbott) (1892 to 1981).
+      
+      - Monroe Earl Tompkins (24 Jan 1897 to 07 Jun 1963).
     
     - [Edward C. Thatcher](https://www.findagrave.com/memorial/122023540/edward-c-thatcher) (1863 to 04 Jun 1937). Married [Blanche M. Thatcher](https://www.findagrave.com/memorial/122023541/blanche-m-thatcher) (1886 to 24 Sep 1968)
 
@@ -283,7 +286,7 @@ Elizabeth Vanderveere appears to be Hannah's sister, based on the following data
 
   - The 16 Oct 1850 United States Federal census shows the Thatcher family in Newfield with a 21 year old woman named Elizabeth. The age and birthplace are consistent with this being the Thomas and Elizabeth's daughter, and matches the age of Elizabeth Vanderveere.
   - The 04 Aug 1870 United States Federal census shows William and Elizabeth Vanderveere living with the widowed Elizabeth (Crosby) Thatcher. Both Elizabeth Thatcher and Elizabeth Vanderveere list England as their birthplace.
-  - And obviously, the Vanderveere's are buried in the family plot. 
+  - And obviously, the Vanderveere's are buried in the Thatcher family plot. 
 
 <div class="cols">
 {{% fig "thatchers/census/census-1850-us-thatcher" "350" /%}}

@@ -27,22 +27,19 @@ Documentation suggests the Mills family moved from Staten Island to Corfu someti
 
 The tax assessments are divided by "districts" then further subdivided into "divisions" at which point, individuals and businesses are listed together alphabetically. Beginning with entries recorded 01 May 1863, for district 29, division 12, and each year thereafter, there are two entries for E. H. Mills & Co. and Edward H. Mills. The 1862 document shown, recorded on 01 Sep 1862, has no such entries where they would be expected, strongly suggesting the family had not yet arrived in the area. Of course, these are just record dates, but they do give us a better defined window for when the family moved. This time period overlaps Emily's fourth birthday as well as the issuance of the Emancipation Proclamation, five days after the Battle of Antietam, the Confederate invasion of Maryland that took place just 200 miles from Castleton. However, even if the above interpretation of these documents is correct, it could still very well be that the family moved as early as the Summer of 1862. 
 
+As can be seen in the 1863 tax assessment documents, the Mills' store is entered as "Mills E. H. & Co.", showing that it was already operating by 01 May 1863, and I suspect that it was always in the Kinne building, although I don't know that for a fact. In the following property timeline provided by Allan Starkweather, Corfu Village Historian, I suspect that the 1866 date may have been derived from the 1866 Porter Store advertisement shown elsewhere. I can find no evidence in the Genesee County Clerk's Office deed indexes that Edward ever owned the store property.
+
+{{% fig "corfu/location-timelines-3" /%}}
+
+Most of what I know about the Mills' time in Corfu is the result of prior research over a period of many years by Alan Starkweather, Corfu Village Historian, which he has generously shared and allowed me to republish here.
+
 There is also a June 1863 Civil War Draft Registration record in Genesee County for Edward where his occupation was listed as "merchant":
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 
-As can be seen in the 1863 tax assessment documents, the Mills' store is entered as "Mills E. H. & Co.", showing that it was already operating by 01 May 1863, and I suspect that it was always in the Kinne building, although I don't know that for a fact. 
+In Mar 1864, the Mills purchased their home in Corfu at what is presently 31 West Main Street:
 
-Most of what I know about the Mills' time in Corfu is the result of prior research over a period of many years by Alan Starkweather, Corfu Village Historian, which he has generously shared and allowed me to republish here.
-
-<figure class="quote-only">
-<blockquote>
-The E.H. Mills General store was on the NE corner of Main and Allegheny in Corfu.  It was open from 1866-1880. The building burned to the ground in a fire in 1899.  It is now the site of the M&T Bank building.
-</blockquote>
-<figcaption>
-— <cite>20 May 2021, Personal correspondence with Allan Starkweather, Corfu Village Historian.</cite>
-</figcaption>
-</figure>
+{{% fig "corfu/1864-03-09-genesee-county-clerk-batavia-ny-deeds-book-124-page-415" "800" /%}}
 
 {{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "500" /%}}
 
@@ -76,7 +73,7 @@ Mary Ann was known to be a member of the Presbyterian Church of Corfu, as were t
 
 {{% fig "corfu/Town-of-Pembroke-Bicentennial-History-1776-1976" "800" /%}}
 
-By 1876, Corfu had grown, but E. H. Mills & Co. and the Mills' home are still there:
+By 1876, Corfu had grown, but E. H. Mills & Co. and the Mills' home are still in the same locations:
 
 {{% fig "corfu/1876-corfu-map" "800" /%}}
 {{% fig "corfu/1876-corfu-map-notes" "800" /%}}
@@ -91,28 +88,23 @@ According to Edward and Mary Ann's obituaries in the records of Caroline Valley 
 
 {{% fig "mills-edward-mary-cvcc-obit" "800" /%}}
 
-Their records also include confirmation that Mary Ann was a member of First Presbyterian Church of Cofu:
+Church records also include confirmation that Mary Ann had been a member of First Presbyterian Church of Cofu:
 
 {{% fig "mills-mary-cvcc-join" "800" /%}}
 
-The following appear to advertise the sale of Mills' store in Corfu:
-
-{{% fig "corfu/1879-03-22-buffalo-morning-express-buffalo-ny-p1" "500" /%}}
-{{% fig "corfu/1879-04-19-buffalo-morning-express-buffalo-ny-p1" "500" /%}}
-
-Although, as it was in Motts Corners/Brookton, in Corfu, Mills' store was directly across the street from another general store, Porter's, and the advertisements could be referring to this or another store in Corfu, obviously. However, the timing of the ads closely matches the Mills' leaving Corfu.  
-
-And although this is even more speculative, the timing is right for the following advertisements to possibly be referencing Mills' home in Corfu. I intend to do deed research in Corfu in the future to try to determine if George Chadeayne is listed as an owner of the property. Note that the 1866 map lists a "D. Chaydeayne" and the 1876 map of Corfu lists "Cheadayne Coffin Manufactures".
+The following advertisements may be for the Mills' store, as both the description and timing fit, or this could possibly be for the Porter Store. According to the information provided by Allan Starkweather, F. H. Edwards started a hardware store at 3 East Main Street in 1879. Note too that Henry Porter, who owned the larger general store on the opposite corner of E. H. Mills & Co., retired in 1879. 
 
 <div class="cols">
-{{% fig "corfu/1879-04-08-Buffalo-Express-Buffalo-NY-p3" "350" /%}}
-{{% fig "corfu/1879-05-20-buffalo-morning-express-buffalo-ny-p3"  "350" /%}}
+{{% fig "corfu/1879-03-22-buffalo-morning-express-buffalo-ny-p1" "350" /%}}
+{{% fig "corfu/1879-04-19-buffalo-morning-express-buffalo-ny-p1" "350" /%}}
 </div>
 
-<div class="cols">
-{{% fig "corfu/1879-07-22-buffalo-morning-express-buffalo-ny-p3" "305" /%}}
-{{% fig "corfu/1880-01-03-buffalo-morning-express-buffalo-ny-p1" "305" /%}}
-</div>
+{{% fig "corfu/location-timelines-1" "800" /%}}
+{{% fig "corfu/location-timelines-2" "800" /%}}
+
+The Mills' home in Corfu sold later that year.
+
+{{% fig "corfu/1879-08-22-genesee-county-clerk-batavia-ny-deeds-book-150-page-343" "800" /%}}
 
 Emily returned to Corfu several times throughout her life.
 
@@ -129,40 +121,13 @@ Every member of Edward's family, except for Emily, is buried in Corfu.
 
 {{% fig "evergreen-hill-cemetery-51" "800" /%}}
 
-A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.
+When Emily returned to Corfu with Edward's remains, both the building that housed E. H. Mills & Co., as well as the home she grew up in, were gone. 
 
-<figure class="quote-only">
-<blockquote>
-Randolph Kinne opened a store on the northeast corner (where M&T Bank now stands); later called Ogden's Corners, as Alfred E. Ogden operated it from 1881. This building burned in Corfu's first large fire in 1899, and the lot sat vacant until the bank was built in 1927.
-</blockquote>
-<figcaption>
-— <cite>History, <a href="https://www.corfuny.gov/municipalityhistory.php">Village of Corfu NY website</a>. I presume this was also written by Allan Starkweather.</cite>
-</figcaption>
-</figure>
+A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.
 
 {{% fig "corfu/1899-corfu-fire" "800" /%}}
 
-Allan Starkweather in personal correspondence 27 Jun 2021 offered this timeline for the ownership of Mills' store location in Corfu:
-
-<figure class="quote-only">
-<blockquote>
-<ul>
-<li>Randolph Kinne built store in 1845</li>
-<li>1845-1866 Kinne's General Store</li>
-<li>1866-1880 E.H. Mills General Store</li>
-<li>1880-1899 Ogden's Cash Store  [type of general store]</li>
-<li>April 27, 1899 this and 5 other buildings destroyed by fire</li>
-<li>1899-1927 lot sat vacant, owned by Palmer Hardware, used for outdoor storage.</li>
-<li>1927-1946 Bank of Corfu [built 1927]</li>
-<li>1946-2021 M&T Bank [merged w/ M&T 1946]</li>
-<li>2021 bank closed, became ATM only, building still there</li>
-</ul>
-</blockquote>
-</figure>
-
-(It was after this exchange that we discovered the above referenced documentation for the existence of E. H. Mills & Co. starting May 1863, so the 1866 date will need to be verified. Either the date is incorrect, or Mills' store began at another location.)
-
-Finally, Allan Starkweather confirms the Mills' home in Corfu no longer exists at the time this is written.
+Finally, Allan Starkweather confirms the Mills' home in Corfu no longer exists at the time this is written. Real estate listings indicate the present structure was erected in 1900. 
 
 ## The MacGregors
 

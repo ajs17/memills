@@ -2,7 +2,7 @@
 citation: "Digital photograph of record at Pleasant Grove Cemetery, Ithaca NY, taken April 2022."
 notes: >-
 
-  - Presumably "William Thatcher is a mistake, as is the spelling and capitalization "Van DerVere".
+  - Presumably "William Thatcher" is a mistake, as is the spelling and capitalization "Van DerVere".
 ---
 
 Thatcher William  Lot 6  Sec I

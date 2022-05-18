@@ -30,8 +30,6 @@ The following shows that the Mills' store was involved in charity while Edward w
 
 {{% fig "1904-08-29-The-Ithaca-Daily-Journal-p6" "500" /%}}
 
-It is really in Brookton where we get a sense of the family's finances through property deeds, reported estate information and the Mills' store sales journals. The Mills family likely always made a fairly modest, if stable, income from their general stores.
-
 I have seen perhaps more than a dozen volumes of sales journals and other financial record books that are in the possession of a local collector who told me he was contacted by Frank Proto at the time Frank took possession of the former Mills' store building, and he was given the opportunity to go through the basement of the building and preserve anything of historical value. 
 
 {{% fig "me-mills/vol-41-spine" "800" /%}}
@@ -121,7 +119,7 @@ The post office has moved at least 3 times. This is the 3rd site.Between the Pos
 And Molly Adams, in A Note on Emily Mills tells of Emily's initial marketing attempts on her own:
 
 <blockquote class="quote-only">
-Before David VanDeMark’s mother Grace died, he had found in her sewing machine (which had been acquired from Clara Lockwood) a little leatherette booklet labeled on the outside “M. E. MILLS, DEALER IN DRY GOODS, GROCERIES, HARDWARE AND CROCKERY, BROOKTON, N.Y.” On the inside is a calendar covering July 1909 to July 1910, a pack of needles and a fabric needle holder. The text says *This is a complete set of needles for all purposes. All the best imported. We would very much appreciate your patronage when anything in our line is needed.”
+Before David VanDeMark’s mother Grace died, he had found in her sewing machine (which had been acquired from Clara Lockwood) a little leatherette booklet labeled on the outside “M. E. MILLS, DEALER IN DRY GOODS, GROCERIES, HARDWARE AND CROCKERY, BROOKTON, N.Y.” On the inside is a calendar covering July 1909 to July 1910, a pack of needles and a fabric needle holder. The text says "This is a complete set of needles for all purposes. All the best imported. We would very much appreciate your patronage when anything in our line is needed.”
 </blockquote>
 
 We know a great deal about Emily through the activities of M. E. Mills, which Emily made a community focal point as a natural consequence of her many interests and activities, and intentional or not, had to have been excellent marketing for her store. (My impressions are that Emily took a great deal of pride in the running of her store and took its effective management very seriously and did indeed consider every opportunity to volunteer her store for free press and increased foot traffic, such as the regular millinery exhibits by Margaret LaBar.)
@@ -169,6 +167,8 @@ In 1925, Libbie Peck sells the Mills' store property to Dr. Benjamin Lockwood.
 {{% fig "me-mills/BF052409-001" "350" /%}}
 </div>
 
+Although I have only had limited access to the Mills' store journals--and therefore cannot claim to have reviewed them carefully or completely--I do not recall ever seeing expenses for leasing the Mills store space. While most of the business expenses in the journals are understandably for inventory, many other types of business expenses are also recorded there. Perhaps payment was on a longer schedule and I simply didn't see the entries.
+
 <div class="cols">
 {{% fig "1925-03-13-ithaca-journal" "350" /%}}
 {{% fig "1926-04-07-ithaca-journal" "350" /%}}
@@ -178,7 +178,7 @@ Two articles in the 14 Jul 1934 (p3) and 20 Nov 1934 (p5) issues of The Ithaca J
 
 {{% fig "1935-10-25-ithaca-journal" "500" /%}}
 
-Identical notices for the Halloween party were run in The Ithaca Journal on 28 Oct and 29 Oct 1935.
+Identical notices for the Halloween party ran in The Ithaca Journal on 28 Oct and 29 Oct 1935.
 
 And in the following, Molly Adams seems to indicate "at the store" refers to what is presently known as Brookton's Market, owned by Robert (Bob) Tucker at that time, and not M. E. Mills, although her choice of words is noticeably vague on the point. Presumably, I can find the original quote and get a better sense of this, but it's not obvious this isn't referring to Mills' store:
 

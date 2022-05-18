@@ -296,6 +296,10 @@ Emily is also mentioned in Town of Caroline Historian Barbara Kone's compilation
 
 ## Notes for Future Researchers
 
+Unfortunately, Emily's death certificate does little to clarify her birthdate:
+
+{{% fig "emily-mills-death-certificate" "500" /%}}
+
 One of my main goals is to find photos of the family and their stores, but my highest priority is Emily. No known photos of the family exist. I know of only one person still living who interacted with Emily, and that person says their memory would not be good enough to identify Emily in a photo. 
 
 In Gertrude Conant's recollections, she notes that Ellen Gould "looked a great deal like Miss Mills," so when looking for photos of either woman, one must be cautious not to mis-identify one for the other.
@@ -303,11 +307,9 @@ In Gertrude Conant's recollections, she notes that Ellen Gould "looked a great d
 There is an intriguing photo in "Around Caroline" by Patricia A. Brhel that shows a woman minding a general store, with no indication which general store in Caroline it is:
 
 {{% fig "emily/around-caroline-p85" "800" /%}}
-{{% fig "emily/around-caroline-cropped-p85" "800" /%}}
+{{% fig "emily/around-caroline-cropped-p85" "350" /%}}
 
-My sense is that this is probably not Emily, but obviously this needs to be investigated further. Barbara Kone believes that this photo did not come from the Caroline History Room, and multiple attempts to contact Patricia Brhel have been unsuccessful.
-
-I believe there is ample contextual evidence to suggest that Emily was a member of the Ladies Aid Society and also involved in some capacity with the Red Cross, although I don't believe I have direct evidence of these. 
+My sense is that this is probably not Emily, but obviously this needs to be investigated further. Barbara Kone believes that this photo did not come from the Caroline History Room. I have contacted Patricia Brhel who is checking her notes for information on this photo, and she suggests that is it likely a store in Speedsville or Caroline Center.
 
 I believe that the reference to "Bertha Mills" in the 1914 American Agriculturist Farm Directory shown below is in fact a misprinted reference to Emily. I have yet found no evidence of a Bertha Mills in Brookton at that time, and everything but the reference to the road on the map in that volume fits Emily. As for the map reference, consider that the same road reference is given for Dr. Lockwood and Frank Mulks, Emily's neighbors on what is now Brooktondale Road, and who are listed on the same page:
 

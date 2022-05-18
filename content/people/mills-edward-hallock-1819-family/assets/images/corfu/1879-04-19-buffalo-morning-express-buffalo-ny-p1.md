@@ -9,5 +9,5 @@ pages:  "1"
 source:  "nyshistoricnewspapers.org"
 ---
 
-CORNER STORE FOR SALE in Corfu, small down payment. Address F H EDWARDS, [unclear] N Y
+CORNER STORE FOR SALE in Corfu, small down payment. Address F H EDWARDS, [unclear, presumably: Corfu] N Y
 

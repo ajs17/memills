@@ -74,5 +74,12 @@ The source documents are:
 {{% fig "census/census-1930-us" "250" /%}}
 </div>
 
+Hannah's entries as an Eastman:
+
+<div class="cols">
+{{% fig "census/1870-us-census-danby-eastman" "500" /%}}
+{{% fig "census/1880-nys-census-danby" "500" /%}}
+{{% fig "census/1892-nys-census-danby" "500" /%}}
+</div>
 
 
