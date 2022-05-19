@@ -44,11 +44,24 @@ He set a fine example with regard to everything in which he was engaged during t
 (Partial transcription, emphasis added. Click on the accompanying link to view the full article.)
 {{% /fig %}}
 
-According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles Pine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. (It may also be of interest that the 1860 Census shows that there is a Betsey Mott born about 1807 living with Charles M. Pine.) 
+If Bartlett's obituary is accurate, then in 1860, the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained the same over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. 
 
-{{% fig "staten-island/1850-us-census-castleton" "400" /%}}
+The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of Castleton and State Street.
 
-[Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895)
+{{% fig "staten-island/1874-beers-map" "800" /%}}
+
+A closer view: 
+
+{{% fig "staten-island/1874-beers-map-cropped" "800" /%}}
+
+Other maps showing this property include the Colton Dripps maps:
+
+{{% fig "staten-island/1866-colton-map-cropped" "800" /%}}
+{{% fig "staten-island/1872-dripps-map-cropped" "800" /%}}
+
+This Staten Island Directory from 1886 still lists Barlett Brown’s store, referencing the residence at 114 Broadway that was mentioned in his obituary, as well as a reference to the corner of State and Castleton streets:
+
+{{% fig "staten-island/1886-staten-island-directory-p117" /%}}
 
 A partial timeline of events in Staten Island while the Mills lived there:
 <figure class="quote-only">
@@ -82,7 +95,7 @@ The early 1860’s were a time of significant life changes for the Mills family 
 
 {{% fig "staten-island/census-1865-nys-brown" /%}}
 
-As already mentioned, Charles M. Pine was listed as co-owner of E. H. Mills & Co. in Corfu:
+Charles M.As already mentioned, Charles M. Pine was listed as co-owner of E. H. Mills & Co. in Corfu:
 
 {{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "400" /%}}
 
@@ -90,58 +103,46 @@ Further investigation is needed, but an obvious concrete question to explore is 
 
 {{% fig "staten-island/1835-02-21-charles-pine" "700" /%}}
 
-Charles lists himself as a merchant in Castleton in the 1850 Federal census, and James M. Hillyer lives with the Pine family, as a clerk in Charles' store. 
+Charles lists himself as a merchant in Castleton in the 1850 Federal census, and James Hillyer lives with the Pine family, as a clerk in Charles' store. 
+
+{{% fig "staten-island/1850-us-census-castleton" "400" /%}}
+
+According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles Pine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. Charles M. Pine was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. 
+
+So, it appears that Charles M. Pine was a prominent and prolific business man who was a central figure in the lives of many proteges and business partners that included Edward Mills, Bartlett Brown, James Hiller, George Mersereau and his son, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895). 
+
+<div class="cols">
+{{% fig "staten-island/1890-staten-island-directory-p287" /%}}
+{{% fig "staten-island/1890-staten-island-directory-p388" /%}}
+</div> 
 
 <div class="cols">
 {{% fig "staten-island/1914-02-06-The-New-York-Times-New-York-NY-p9" "350" /%}}
 {{% fig "staten-island/1925-03-21-The-Evening-Star-Washington-DC-p32" "350" /%}}
 </div> 
 
-This Staten Island Directory from 1886 still lists Barlett Brown’s store:
-
-{{% fig "staten-island/census-1865-nys-pine" /%}}
-
-{{% fig "staten-island/1886-staten-island-directory-p117" /%}}
-{{% fig "staten-island/1890-staten-island-directory-p287" /%}}
-{{% fig "staten-island/1890-staten-island-directory-p388" /%}}
-
-{{% fig "staten-island/5462003" /%}}
-{{% fig "staten-island/nypl.digitalcollections.00e88990-1d60-0131-f6f3-58d385a7b928.002.g" /%}}
-{{% fig "staten-island/Staten_Island_map_1891" /%}}
-
-
-maps
-beers
-https://digitalcollections.nypl.org/items/510d47e2-0b97-a3d9-e040-e00a18064a99
-
-dripps
-https://digitalcollections.nypl.org/items/07321b00-1d60-0131-4a3c-58d385a7b928
-
-
-
 <figure class="quote-only">
 <blockquote>
-HILLYER. John Hillyer, sometimes written Hilliard, lived on Staten Island in 1693, and married Elizabeth Dey in 1714. their children were : John, Elizabeth, Mary, James, William, Nathaniel, Simon and Lawrence. The present families of the name are descended from the youngest son Lawrence. His son John was born in July, 1763, and died in July, 1848. His wife Elsie Merrill was born in November, 1768, and died in August, 1858. Their children were : Lawrence, and John B., the father of James A., late of the firm of Pine, Hillyer & Co., of West New Brighton; and Abraham, of the firm of Hillyer & Hartley, of New Brighton, beside several other children.
+HILLYER. John Hillyer, sometimes written Hilliard, lived on Staten Island in 1693, and married Elizabeth Dey in 1714. their children were : John, Elizabeth, Mary, James, William, Nathaniel, Simon and Lawrence. The present families of the name are descended from the youngest son Lawrence. His son John was born in July, 1763, and died in July, 1848. His wife Elsie Merrill was born in November, 1768, and died in August, 1858. <strong>Their children were : Lawrence, and John B., the father of James A., late of the firm of Pine, Hillyer & Co., of West New Brighton; and Abraham, of the firm of Hillyer & Hartley, of New Brighton, beside several other children</strong>.
 </blockquote>
 <figcaption>
 1877, Annals of Staten Island, from Its Discovery to the Present Time, Volume 2 By J. J. Clute, p390 
-https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya/page-53-history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya.shtml
-figcaption>
+https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya/page-53-history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya.shtml. Emphasis added. 
+<figcaption>
 </figure>
-
 
 <figure class="quote-only">
 <blockquote>
 <p>At  West  New  Brighton  there  were  in  1859:</p> 
 
-<p>William  Bamber,  painter,  on  Water  Street;  Abraham  Jones,  painter,  on  Water Street;  James  Burgher,  mason  and  builder;  Daniel  A.  Smith,  mason  and  builder;  William  Vroom,  mason  and  builder;  J.  J.  Clute,  engineer  and  surveyor;  R.  M.  Cary,  Comfort  Home,  engineer  and  surveyor;  F.  Rossback,  tailor;  Benjamin  F.  Cook,  tailor;  T. Smith,  Cherry  Lane  Nursery,  whose  plantings  may  still  be  recognized;  J.  M.  Snedeker, merchant;  <strong>C.  M.  Pine,  merchant;</strong>  John  Balzer,  hotel;  Matthew  Cain,  Castleton  Shade House,  George  W.  Vroom,  grocer,  Castleton  Four  Corners;  Stephen  Martling,  grocer; W.  J.  Bodem  (Bodine),  building  material  and  fuel;  Bodine  Bros.,  building  materials,  at the  mouth  of  Palmer’s  Run,  planing  mill  on  the  water  side  of  the  Shore  Road;  Bodine Bros.  Mill  Pond;  Ford’s  Dock,  opposite  Church  of  the  Ascension; <strong> Pine  Hillyer  &  Co., general  store  on  the  bend  between  Van  Street  and  Broadway;</strong>  W.  H.  Bodine,  Castleton House,  foot  of  Van  Street;  Cornelius  DuBois,  22  acre  Manor  Farm;  J.  De  Groot’s  store; P.  Carlin’s  store,  near  brook  crossing  Broadway  above  South  Street;  H.  Fountain’s Hotel,  near  Trinity  Chapel,  now  Church  of  Ascension; <strong> Old  Store  and  Mill,  and  C.  M. Pine  &  Co’s.,  store;</strong>  Coal  Yard;  Frederick  Reissenweber,  tinsmith  at  Four  Corners.</p>
+<p>William  Bamber,  painter,  on  Water  Street;  Abraham  Jones,  painter,  on  Water Street;  James  Burgher,  mason  and  builder;  Daniel  A.  Smith,  mason  and  builder;  William  Vroom,  mason  and  builder;  J.  J.  Clute,  engineer  and  surveyor;  R.  M.  Cary,  Comfort  Home,  engineer  and  surveyor;  F.  Rossback,  tailor;  Benjamin  F.  Cook,  tailor;  T. Smith,  Cherry  Lane  Nursery,  whose  plantings  may  still  be  recognized;  J.  M.  Snedeker, merchant;  <strong>C.  M.  Pine,  merchant;</strong>  John  Balzer,  hotel;  Matthew  Cain,  Castleton  Shade House,  George  W.  Vroom,  grocer,  Castleton  Four  Corners;  Stephen  Martling,  grocer; W.  J.  Bodem  (Bodine),  building  material  and  fuel;  Bodine  Bros.,  building  materials,  at the  mouth  of  Palmer’s  Run,  planing  mill  on  the  water  side  of  the  Shore  Road;  Bodine Bros.  Mill  Pond;  Ford’s  Dock,  opposite  Church  of  the  Ascension; <strong> Pine  Hillyer  &  Co., general  store  on  the  bend  between  Van  Street  and  Broadway;</strong>  W.  H.  Bodine,  Castleton House,  foot  of  Van  Street;  Cornelius  DuBois,  22  acre  Manor  Farm;  J.  De  Groot’s  store; P.  Carlin’s  store,  near  brook  crossing  Broadway  above  South  Street;  H.  Fountain’s Hotel,  near  Trinity  Chapel,  now  Church  of  Ascension; Old  Store  and  Mill,  and  <strong>C.  M. Pine  &  Co’s.,  store;</strong>  Coal  Yard;  Frederick  Reissenweber,  tinsmith  at  Four  Corners.</p>
 
 <p> In  the  vicinity  of  New  Brighton  there  were  in  1859:</p>
 
 <p>Mark  Cox,  painter,  Jersey  Street;  Joseph  Easterbrook,  mason  and  builder;  James Easterbrook,  mason  and  builder;  Cary  Deven,  mason  and  builder;  James  Dowd,  mason and  builder;  William  Heath,  mason  and  builder;  Benjamin  P.  Brower,  merchant,  store and  post  office ;  Martin  Weiner,  Ferry  House  Saloon ;  G.  Pero,  planing  mill,  near  foot  of York  Avenue ;  Pero  Bros.,  lumber  yard,  near  foot  of  York  Avenue ;  James  Dempsey,  livery stable,  foot  of  York  Avenue ; <strong> Hillyer  &  Hartley,  grocers ;</strong>  Assembly  Rooms,  on  Fifth Street  near  Westervelt  Avenue;  Pavilion  Hotel,  M.  Blanchard;  Belmont  Hotel,  Richmond  Terrace  and  Westervelt  Avenue;  St.  Mark’s  Hotel,  DeCamp  &  Johnson,  proprietors;  Hotel  on  Wilkinson  Estate;  Cottage  Tavern,  M.  Farley,  on  Lafayette  Avenue; Carey’s  Hotel,  on  New  Brighton  Dock;  T.  Dunn’s  Hotel,  on  York  Avenue;  Half  Way House,  on  Jersey  Street.</p>
 </blockquote>
 <figcaption>
-1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651.
+1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651. Emphasis added.
 </figcaption>
 </figure>
 
@@ -157,7 +158,7 @@ figcaption>
 <p>Benedict  Parker,  established  1872;  F.  Klemcke,  established  1887;  M.  A.  Bamber, established  1867;  <strong>Hillyer  &  Egbert,  established  1878;</strong> W.  J.  Grimshaw,  established  1876; </p>
 </blockquote>
 <figcaption>
-1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p655.
+1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p655. Emphasis added.
 </figcaption>
 </figure>
 
@@ -176,20 +177,15 @@ figcaption>
 <p>The  Richmond  County  Savings  Bank  was  organized  on  October  30, 1886.  It  was  at  first  located  in  Odd  Fellows  Hall,  West  New  Brighton, until  1899  when  it  removed  to  its  own  building  on  Richmond  Terrace. From  that  it  moved  to  the  handsome  building  it  now  owns  and  occupies at  the  corner  of  Castleton  Avenue  and  Taylor  Street,  West  New  Brigh¬ ton.  Its  first  officers  were  Monroe  Eckstein,  president;  John  Westbrook,  first  vice-president;  Jacob  I.  Housman,  second  vice-president; Robert  Moore,  cashier.  Trustees :  George  Bechtel,  Thomas  Humphrey, Stephen  D.  Simonson,  Richard  L’H.  Finch,  <strong>Charles  T.  Pine,</strong>  Charles W.  Hunt,  Charles  W.  Kennedy,  John  W.  Winmill,  Otto  Ahlmann,  Daniel  T.  Cornell,  Thomas  Byrne,  David  Soloman.  By  1900  John  Westbrook  had  become  president  and  the  following  had  joined  the  board, Henry  P.  Morrison,  Frank  W.  Tompkins,  Herbert  Crabtree,  J.  A. Snyder,  Benedict  Parker,  Azel  F.  Merrell,  Samuel  A.  Robinson,  George M.  Matthius,  John  F.  Smith,  Edward  D.  Clark.  In  1911  Mr.  Smith  was president  with  the  late  G.  H.  Tredwell  as  secretary.  Upon  Mr.  Tred- well’s  death,  Mr.  Matthius  became  secretary. </p>
 </blockquote>
 <figcaption>
-1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p671.
+1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p671. Emphasis added.
 </figcaption>
 </figure>
 
 <figure class="quote-only">
 <blockquote>
-<p>The  most  interesting  of  these  1856  advertisements  are  those  which relate  to  the  Richmond  County  Mutual  Insurance  Company.  On  March 27,  1856,  it  advertised  that  its  charter  had  been  extended  for  twenty years,  the  notice  being  signed  by  H.  B.  Metcalfe,  secretary,  he  being also  the  county  judge  and  surrogate.  Elsewhere  this  company  adver¬ tised  the  names  of  its  agents,  viz. ;  C.  M.  Pine,  Castleton  ;  Elwood  Taylor, Southfield;  Michael  Van  Name,  Jr.,  Northfield;  Bornt  P.  Winant,  West- field.  The  junior  author  remembers  policies  issued  by  this  company among  his  grandfather’s  papers. </p> 
+<p>The  most  interesting  of  these  1856  advertisements  are  those  which relate  to  the  Richmond  County  Mutual  Insurance  Company.  On  March 27,  1856,  it  advertised  that  its  charter  had  been  extended  for  twenty years,  the  notice  being  signed  by  H.  B.  Metcalfe,  secretary,  he  being also  the  county  judge  and  surrogate.  Elsewhere  this  company  advertised  the  names  of  its  agents,  viz. ;  <strong>C.  M.  Pine,  Castleton</strong> ;  Elwood  Taylor, Southfield;  Michael  Van  Name,  Jr.,  Northfield;  Bornt  P.  Winant,  West- field.  The  junior  author  remembers  policies  issued  by  this  company among  his  grandfather’s  papers. </p> 
 </blockquote>
 <figcaption>
 1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p905.
 </figcaption>
 </figure>
-Charles M. Pine was one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. 
-
-Phoebe Hillyer
-Birth	22 Jul 1834 Staten Island
-Death	5 Feb 1914 New York City, New York, USA

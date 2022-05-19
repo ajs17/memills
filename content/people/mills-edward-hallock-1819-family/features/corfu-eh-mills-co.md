@@ -48,6 +48,8 @@ In Mar 1864, the Mills purchased their home in Corfu at what is presently 31 Wes
 {{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-p201" "350" /%}}
 </div>
 
+It would appear that "James M. Hillyer" is an error as the James Hillyer that is closely associated with Charles Pine in the Staten Island grocery business was James A. Hillyer. 
+
 From the documents available to me, that include city directories and census data, I see no evidence that James Hillyer or Charles Pine ever lived in Corfu, and instead multiple sources in the 1860's and 1870's tie them only to Castleton, and I get the sense that they were probably more in the role of investors and possibly advisers and likely not involved in the day-to-day operations of the store.  For more information on Charles Pine and James Hillyer, see [The Mills Family in Staten Island]({{% ref "staten-island" %}}).
 
 The following map images and associated business directories show both the E. H. Mills & Co. general store as well as the Mills' home in Corfu in the same locations in 1866 and 1876. E. H. Mills & Co. was also referred to, on these maps and directories at least, as "Mills Cash Store" or just simply "Cash Store." 
