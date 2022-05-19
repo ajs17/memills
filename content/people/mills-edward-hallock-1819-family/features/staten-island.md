@@ -54,7 +54,7 @@ A closer view:
 
 {{% fig "staten-island/1874-beers-map-cropped" "800" /%}}
 
-Other maps showing this property include the Colton Dripps maps:
+Other maps showing this property include the Colton and  Dripps maps:
 
 {{% fig "staten-island/1866-colton-map-cropped" "800" /%}}
 {{% fig "staten-island/1872-dripps-map-cropped" "800" /%}}
@@ -116,10 +116,8 @@ So, it appears that Charles M. Pine was a prominent and prolific business man wh
 {{% fig "staten-island/1890-staten-island-directory-p388" /%}}
 </div> 
 
-<div class="cols">
-{{% fig "staten-island/1914-02-06-The-New-York-Times-New-York-NY-p9" "350" /%}}
-{{% fig "staten-island/1925-03-21-The-Evening-Star-Washington-DC-p32" "350" /%}}
-</div> 
+{{% fig "staten-island/1914-02-06-The-New-York-Times-New-York-NY-p9" "500" /%}}
+{{% fig "staten-island/1925-03-21-The-Evening-Star-Washington-DC-p32" "500" /%}}
 
 <figure class="quote-only">
 <blockquote>
