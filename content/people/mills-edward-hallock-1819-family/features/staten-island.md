@@ -109,7 +109,7 @@ Charles lists himself as a merchant in Castleton in the 1850 Federal census, and
 
 According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles Pine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. Charles M. Pine was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. 
 
-So, it appears that Charles M. Pine was a prominent and prolific business man who was a central figure in the lives of many proteges and business partners that included Edward Mills, Bartlett Brown, James Hiller, George Mersereau and his son, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895). 
+So, it appears that Charles M. Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hiller, George Mersereau (who is also listed residing with Charles Pine in the 1950 census) and Charles' own son, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895). 
 
 <div class="cols">
 {{% fig "staten-island/1890-staten-island-directory-p287" /%}}
