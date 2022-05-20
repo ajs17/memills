@@ -32,19 +32,19 @@ The 1860 census also shows that Edward and his family are living with Bartlett B
 
 {{% fig "staten-island/1862-1863-irs-tax-assessment" /%}}
 
-Barlett Brown was a protege of Charles Pine, both in the grocery business, and later, succeeding Charles as President of the Richmond County Mutual Insurance Company:
+Barlett Brown was another protege of Charles Pine, both in the grocery business, and later, succeeding Charles as President of the Richmond County Mutual Insurance Company:
 
 {{% fig "staten-island/1902-11-29-richmond-county-advance-p4" "700x400" "" "top" %}}
 Mr. Brown was born at Oak Farm, Long Island, and was one of ten children. His parents were among the most intelligent and estimable people of that section, and he was trained to many kinds of usefulness on the farm from a very early age. Indeed, the experiences which then came to him were invaluable, and fitted him in a superior degree for the diligent, manly and honorable life which succeeded.
 
-He began business for himself as a coal and wood merchant in the city of Brooklyn, but later, in the year 1857, he accepted a position in the grocery store of Charles M. Pine at West Brighton, and remained there, highly esteemed by the proprietor and by the many customers, until the year 1859, when he purchased the valuable property at the corner of Broadway and Castleon avenue and began business in the same line for himself. He resided in the adjoining house with his family. He was a man of the very strictest integrity in all of his affairs, and with the merchants of the city with whom he dealt, and with the other people with whom he had financial relations, he was held in the highest regard. In 1892 he retired from active life.
+He began business for himself as a coal and wood merchant in the city of Brooklyn, but later, <strong>in the year 1857, he accepted a position in the grocery store of Charles M. Pine at West Brighton, and remained there, highly esteemed by the proprietor and by the many customers, until the year 1859, when he purchased the valuable property at the corner of Broadway and Castleon avenue and began business in the same line for himself. He resided in the adjoining house with his family.</strong> He was a man of the very strictest integrity in all of his affairs, and with the merchants of the city with whom he dealt, and with the other people with whom he had financial relations, he was held in the highest regard. In 1892 he retired from active life.
 
 He set a fine example with regard to everything in which he was engaged during the forty-seven years when he made Staten Island his home. Beside the store he had a profitable cranberry business at Calverton, L.I., which he sold to a brother two years ago.
 
 (Partial transcription, emphasis added. Click on the accompanying link to view the full article.)
 {{% /fig %}}
 
-If Bartlett's obituary is accurate, then in 1860, the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained the same over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. 
+If Bartlett's obituary is accurate, then in 1860, the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained the same over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. In fact this area, described elsewhere as "the bend between Van Street and Broadway", is the location of Pine, Hillyer & Co. general store in 1859. (1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651.)
 
 The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of Castleton and State Street.
 
@@ -95,7 +95,7 @@ The early 1860’s were a time of significant life changes for the Mills family 
 
 {{% fig "staten-island/census-1865-nys-brown" /%}}
 
-Charles M.As already mentioned, Charles M. Pine was listed as co-owner of E. H. Mills & Co. in Corfu:
+As already mentioned, Charles M. Pine was listed as co-owner of E. H. Mills & Co. in Corfu:
 
 {{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "400" /%}}
 
@@ -107,9 +107,9 @@ Charles lists himself as a merchant in Castleton in the 1850 Federal census, and
 
 {{% fig "staten-island/1850-us-census-castleton" "400" /%}}
 
-According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles Pine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. Charles M. Pine was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. 
+According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles Pine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. He was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. 
 
-So, it appears that Charles M. Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hiller, George Mersereau (who is also listed residing with Charles Pine in the 1950 census) and Charles' own son, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895). 
+So, it appears that Charles Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hiller, George Mersereau (who is also listed residing with Charles Pine in the 1950 census) and Charles' own son, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895). 
 
 <div class="cols">
 {{% fig "staten-island/1890-staten-island-directory-p287" /%}}
