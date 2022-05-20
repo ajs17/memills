@@ -46,7 +46,7 @@ He set a fine example with regard to everything in which he was engaged during t
 
 If Bartlett's obituary is accurate, then in 1860, the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained the same over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. In fact this area, described elsewhere as "the bend between Van Street and Broadway", is the location of Pine, Hillyer & Co. general store in 1859. (1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651.)
 
-The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of Castleton and State Street.
+The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of State Street and Castleton Avenue. This is corroborated by the 1886 Webb's Directory shown below.
 
 {{% fig "staten-island/1874-beers-map" "800" /%}}
 
@@ -54,14 +54,15 @@ A closer view:
 
 {{% fig "staten-island/1874-beers-map-cropped" "800" /%}}
 
+This Staten Island Directory from 1886 lists Barlett Brown’s store, referencing the residence at 114 Broadway that was mentioned in his obituary, as well as a reference to the corner of State Street and Castleton Avenue:
+
+{{% fig "staten-island/1886-staten-island-directory-p117" "500" /%}}
+
 Other maps showing this property include the Colton and  Dripps maps:
 
 {{% fig "staten-island/1866-colton-map-cropped" "800" /%}}
 {{% fig "staten-island/1872-dripps-map-cropped" "800" /%}}
 
-This Staten Island Directory from 1886 still lists Barlett Brown’s store, referencing the residence at 114 Broadway that was mentioned in his obituary, as well as a reference to the corner of State and Castleton streets:
-
-{{% fig "staten-island/1886-staten-island-directory-p117" /%}}
 
 A partial timeline of events in Staten Island while the Mills lived there:
 <figure class="quote-only">
@@ -95,9 +96,11 @@ The early 1860’s were a time of significant life changes for the Mills family 
 
 {{% fig "staten-island/census-1865-nys-brown" /%}}
 
-As already mentioned, Charles M. Pine was listed as co-owner of E. H. Mills & Co. in Corfu:
+As already mentioned, Charles M. Pine and James Hillyer were listed as co-owners of E. H. Mills & Co. in Corfu:
 
 {{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "400" /%}}
+
+(James M. Hillyer is a presumed misprint of James A. Hillyer.)
 
 Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine. Charles Pine married Almira (sometimes spelled "Elmira", although "Almira" appears to be correct) Jane Loper in 1835 in South Hempstead, New York: 
 
@@ -109,15 +112,23 @@ Charles lists himself as a merchant in Castleton in the 1850 Federal census, and
 
 According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles Pine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. He was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. 
 
-So, it appears that Charles Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hiller, George Mersereau (who is also listed residing with Charles Pine in the 1950 census) and Charles' own son, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895). 
+Charles Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hillyer, George Mersereau (who is also listed residing with Charles Pine in the 1950 census) and Charles' own son, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895). 
+
+{{% fig "staten-island/1886-staten-island-directory-p2" "800" /%}}
+{{% fig "staten-island/1886-staten-island-directory-p117" "500" /%}}
 
 <div class="cols">
-{{% fig "staten-island/1890-staten-island-directory-p287" /%}}
-{{% fig "staten-island/1890-staten-island-directory-p388" /%}}
+{{% fig "staten-island/1886-staten-island-directory-p160" "350" /%}}
+{{% fig "staten-island/1886-staten-island-directory-p207" "350" /%}}
 </div> 
 
-{{% fig "staten-island/1914-02-06-The-New-York-Times-New-York-NY-p9" "500" /%}}
-{{% fig "staten-island/1925-03-21-The-Evening-Star-Washington-DC-p32" "500" /%}}
+{{% fig "staten-island/1886-staten-island-directory-p315" "500" /%}}
+{{% fig "staten-island/1890-staten-island-directory-p90" "800" /%}}
+
+<div class="cols">
+{{% fig "staten-island/1890-staten-island-directory-p287" "350" /%}}
+{{% fig "staten-island/1890-staten-island-directory-p388" "350" /%}}
+</div> 
 
 <figure class="quote-only">
 <blockquote>
@@ -187,3 +198,8 @@ https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond
 1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p905.
 </figcaption>
 </figure>
+
+{{% fig "staten-island/1914-02-06-The-New-York-Times-New-York-NY-p9" "500" /%}}
+{{% fig "staten-island/1925-03-21-The-Evening-Star-Washington-DC-p32" "500" /%}}
+ 
+{{% fig "staten-island/1886-staten-island-directory-p351" "500" /%}}
