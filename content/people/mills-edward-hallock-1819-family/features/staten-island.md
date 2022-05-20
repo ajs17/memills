@@ -44,9 +44,9 @@ He set a fine example with regard to everything in which he was engaged during t
 (Partial transcription, emphasis added. Click on the accompanying link to view the full article.)
 {{% /fig %}}
 
-If Bartlett's obituary is accurate, then in 1860, the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained the same over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. In fact this area, described elsewhere as "the bend between Van Street and Broadway", is the location of Pine, Hillyer & Co. general store in 1859. (1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651.)
+If Bartlett's obituary is accurate, then in 1860, the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained the same over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. In fact this area, described elsewhere as "the bend between Van Street and Broadway", is the location of Pine, Hillyer & Co. general store in 1859, co-owned by Charles Pine and James Hillyer. (1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651.) 
 
-The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of State Street and Castleton Avenue. This is corroborated by the 1886 Webb's Directory shown below.
+The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of State Street and Castleton Avenue. This interpretation appears to be corroborated by the 1886 edition of Webb's Consolidated Directory referenced below.
 
 {{% fig "staten-island/1874-beers-map" "800" /%}}
 
@@ -110,35 +110,7 @@ Charles lists himself as a merchant in Castleton in the 1850 Federal census, and
 
 {{% fig "staten-island/1850-us-census-castleton" "400" /%}}
 
-According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles Pine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. He was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. 
-
-Charles Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hillyer, George Mersereau (who is also listed residing with Charles Pine in the 1950 census) and Charles' own son, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895). 
-
-{{% fig "staten-island/1886-staten-island-directory-p2" "800" /%}}
-{{% fig "staten-island/1886-staten-island-directory-p117" "500" /%}}
-
-<div class="cols">
-{{% fig "staten-island/1886-staten-island-directory-p160" "350" /%}}
-{{% fig "staten-island/1886-staten-island-directory-p207" "350" /%}}
-</div> 
-
-{{% fig "staten-island/1886-staten-island-directory-p315" "500" /%}}
-{{% fig "staten-island/1890-staten-island-directory-p90" "800" /%}}
-
-<div class="cols">
-{{% fig "staten-island/1890-staten-island-directory-p287" "350" /%}}
-{{% fig "staten-island/1890-staten-island-directory-p388" "350" /%}}
-</div> 
-
-<figure class="quote-only">
-<blockquote>
-HILLYER. John Hillyer, sometimes written Hilliard, lived on Staten Island in 1693, and married Elizabeth Dey in 1714. their children were : John, Elizabeth, Mary, James, William, Nathaniel, Simon and Lawrence. The present families of the name are descended from the youngest son Lawrence. His son John was born in July, 1763, and died in July, 1848. His wife Elsie Merrill was born in November, 1768, and died in August, 1858. <strong>Their children were : Lawrence, and John B., the father of James A., late of the firm of Pine, Hillyer & Co., of West New Brighton; and Abraham, of the firm of Hillyer & Hartley, of New Brighton, beside several other children</strong>.
-</blockquote>
-<figcaption>
-1877, Annals of Staten Island, from Its Discovery to the Present Time, Volume 2 By J. J. Clute, p390 
-https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya/page-53-history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya.shtml. Emphasis added. 
-<figcaption>
-</figure>
+Charles Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hillyer, George Mersereau (who is also listed residing with Charles Pine in the 1950 census) and Charles' own son, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 26 May 1895).
 
 <figure class="quote-only">
 <blockquote>
@@ -153,6 +125,31 @@ https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond
 <figcaption>
 1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651. Emphasis added.
 </figcaption>
+</figure>
+
+
+{{% fig "staten-island/1886-staten-island-directory-p2" "800" /%}}
+
+<div class="cols">
+{{% fig "staten-island/1886-staten-island-directory-p160" "350" /%}}
+{{% fig "staten-island/1886-staten-island-directory-p207" "350" /%}}
+</div> 
+
+{{% fig "staten-island/1886-staten-island-directory-p315" "500" /%}}
+
+<div class="cols">
+{{% fig "staten-island/1890-staten-island-directory-p287" "350" /%}}
+{{% fig "staten-island/1890-staten-island-directory-p388" "350" /%}}
+</div> 
+
+<figure class="quote-only">
+<blockquote>
+HILLYER. John Hillyer, sometimes written Hilliard, lived on Staten Island in 1693, and married Elizabeth Dey in 1714. their children were : John, Elizabeth, Mary, James, William, Nathaniel, Simon and Lawrence. The present families of the name are descended from the youngest son Lawrence. His son John was born in July, 1763, and died in July, 1848. His wife Elsie Merrill was born in November, 1768, and died in August, 1858. <strong>Their children were : Lawrence, and John B., the father of James A., late of the firm of Pine, Hillyer & Co., of West New Brighton; and Abraham, of the firm of Hillyer & Hartley, of New Brighton, beside several other children</strong>.
+</blockquote>
+<figcaption>
+1877, Annals of Staten Island, from Its Discovery to the Present Time, Volume 2 By J. J. Clute, p390 
+https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya/page-53-history-of-richmond-county-staten-island-new-york-from-its-discovery-to-the-p-lya.shtml. Emphasis added. 
+<figcaption>
 </figure>
 
 
@@ -171,10 +168,22 @@ https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond
 </figcaption>
 </figure>
 
+{{% fig "staten-island/1890-staten-island-directory-p90" "800" /%}}
 
 <figure class="quote-only">
 <blockquote>
 <p>Hartley — The  Hartley  family  came  from  England  about  1844  and became  identified  with  the  retail  grocery  business.  Mark  Hartley  appears in  the  directory  of  1882,  and  Hillyer  and  Hartley,  whose  store  was  in New  Brighton,  will  be  remembered  by  many  readers. </p>
+</blockquote>
+<figcaption>
+1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p905.
+</figcaption>
+</figure>
+
+Charles and his son also had significant business dealings beyond groceries. According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles M.  wPine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. He was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. 
+
+<figure class="quote-only">
+<blockquote>
+<p>The  most  interesting  of  these  1856  advertisements  are  those  which relate  to  the  Richmond  County  Mutual  Insurance  Company.  On  March 27,  1856,  it  advertised  that  its  charter  had  been  extended  for  twenty years,  the  notice  being  signed  by  H.  B.  Metcalfe,  secretary,  he  being also  the  county  judge  and  surrogate.  Elsewhere  this  company  advertised  the  names  of  its  agents,  viz. ;  <strong>C.  M.  Pine,  Castleton</strong> ;  Elwood  Taylor, Southfield;  Michael  Van  Name,  Jr.,  Northfield;  Bornt  P.  Winant,  West- field.  The  junior  author  remembers  policies  issued  by  this  company among  his  grandfather’s  papers. </p> 
 </blockquote>
 <figcaption>
 1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p905.
@@ -189,17 +198,10 @@ https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond
 1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p671. Emphasis added.
 </figcaption>
 </figure>
-
-<figure class="quote-only">
-<blockquote>
-<p>The  most  interesting  of  these  1856  advertisements  are  those  which relate  to  the  Richmond  County  Mutual  Insurance  Company.  On  March 27,  1856,  it  advertised  that  its  charter  had  been  extended  for  twenty years,  the  notice  being  signed  by  H.  B.  Metcalfe,  secretary,  he  being also  the  county  judge  and  surrogate.  Elsewhere  this  company  advertised  the  names  of  its  agents,  viz. ;  <strong>C.  M.  Pine,  Castleton</strong> ;  Elwood  Taylor, Southfield;  Michael  Van  Name,  Jr.,  Northfield;  Bornt  P.  Winant,  West- field.  The  junior  author  remembers  policies  issued  by  this  company among  his  grandfather’s  papers. </p> 
-</blockquote>
-<figcaption>
-1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p905.
-</figcaption>
-</figure>
-
 {{% fig "staten-island/1914-02-06-The-New-York-Times-New-York-NY-p9" "500" /%}}
 {{% fig "staten-island/1925-03-21-The-Evening-Star-Washington-DC-p32" "500" /%}}
+
  
+Finally, here is some basic information on the Presbyterian churches on Staten Island in the 1886 edition of Webb's Consolidated Directory. Notice that Calvary was not established until after the Mills left Staten Island.  
+
 {{% fig "staten-island/1886-staten-island-directory-p351" "500" /%}}

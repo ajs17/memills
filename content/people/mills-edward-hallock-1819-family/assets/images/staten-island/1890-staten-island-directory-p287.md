@@ -1,5 +1,8 @@
 ---
 citation: "1890-91, Webb's Consolidated Directory of the North and South Shorts Staten Island, p287, ancestry.com."
+notes: >-
+
+  - Alverade Pine is another son of Charles M. Pine.
 ---
 Pine Alverade R., clerk, h 4 New, W B
 
