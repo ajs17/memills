@@ -3,7 +3,7 @@ title: "The Mills Family in Staten Island NY"
 weight: 6
 ---
 
-It appears the Mills lived in Staten Island throughout the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1850, Edward is said to be "of Factoryville". All three Mills children were born in Staten Island. At one point, the Mills family lived with [Bartlett Brown](https://www.findagrave.com/memorial/199802084/bartlett-brown) (1833 to 24 Nov 1902), who was also in the grocery business and appears to also be a protege of [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 8 Oct 1897). Charles Pine (who may have been related to Edward through Edward's mother) is listed as a co-owner of E. H. Mills & Co. in Corfu, but it's likely that Charles acted only as an investor, and perhaps also an adviser, in the business and was not involved in its day-to-day operation. 
+It appears the Mills lived in Staten Island throughout the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1850, Edward is said to be "of Factoryville". All three Mills children were born in Staten Island. At one point, the Mills family lived with [Bartlett Brown](https://www.findagrave.com/memorial/199802084/bartlett-brown) (1833 to 24 Nov 1902), who was also in the grocery business and appears to also be a protege of [Charles M. Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 8 Oct 1897). Charles Pine (who may have been related to Edward through Edward's mother) is listed as a co-owner of E. H. Mills & Co. in Corfu, but it's likely that Charles acted only as an investor, and perhaps also an adviser, in the business and was not involved in its day-to-day operation. 
 
 <!--more-->
 
@@ -181,7 +181,7 @@ https://www.ebooksread.com/authors-eng/richard-mather-bayles/history-of-richmond
 </figcaption>
 </figure>
 
-Charles and his son also had significant business dealings beyond groceries. According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles M.  wPine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. He was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. 
+Charles and his son also had significant business dealings beyond groceries. According to data provided by the [Empire State Postal History Society](https://www.esphs.org/), Charles M. Pine was also postmaster of what was then called the North Shore, Staten Island post office from 16 Dec 1850 to 26 Oct 1853. This post office became the West New Brighton station of Staten Island on 21 Jan 1917. 
 
 <figure class="quote-only">
 <blockquote>
@@ -192,9 +192,11 @@ Charles and his son also had significant business dealings beyond groceries. Acc
 </figcaption>
 </figure>
 
+Charles M. Pine was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. His son Charles Theodore Pin was a trustee of Richmond County Savings Bank. 
+
 <figure class="quote-only">
 <blockquote>
-<p>The  Richmond  County  Savings  Bank  was  organized  on  October  30, 1886.  It  was  at  first  located  in  Odd  Fellows  Hall,  West  New  Brighton, until  1899  when  it  removed  to  its  own  building  on  Richmond  Terrace. From  that  it  moved  to  the  handsome  building  it  now  owns  and  occupies at  the  corner  of  Castleton  Avenue  and  Taylor  Street,  West  New  Brigh¬ ton.  Its  first  officers  were  Monroe  Eckstein,  president;  John  Westbrook,  first  vice-president;  Jacob  I.  Housman,  second  vice-president; Robert  Moore,  cashier.  Trustees :  George  Bechtel,  Thomas  Humphrey, Stephen  D.  Simonson,  Richard  L’H.  Finch,  <strong>Charles  T.  Pine,</strong>  Charles W.  Hunt,  Charles  W.  Kennedy,  John  W.  Winmill,  Otto  Ahlmann,  Daniel  T.  Cornell,  Thomas  Byrne,  David  Soloman.  By  1900  John  Westbrook  had  become  president  and  the  following  had  joined  the  board, Henry  P.  Morrison,  Frank  W.  Tompkins,  Herbert  Crabtree,  J.  A. Snyder,  Benedict  Parker,  Azel  F.  Merrell,  Samuel  A.  Robinson,  George M.  Matthius,  John  F.  Smith,  Edward  D.  Clark.  In  1911  Mr.  Smith  was president  with  the  late  G.  H.  Tredwell  as  secretary.  Upon  Mr.  Tred- well’s  death,  Mr.  Matthius  became  secretary. </p>
+<p>The  Richmond  County  Savings  Bank  was  organized  on  October  30, 1886.  It  was  at  first  located  in  Odd  Fellows  Hall,  West  New  Brighton, until  1899  when  it  removed  to  its  own  building  on  Richmond  Terrace. From  that  it  moved  to  the  handsome  building  it  now  owns  and  occupies at  the  corner  of  Castleton  Avenue  and  Taylor  Street,  West  New  Brighton.  Its  first  officers  were  Monroe  Eckstein,  president;  John  Westbrook,  first  vice-president;  Jacob  I.  Housman,  second  vice-president; Robert  Moore,  cashier.  Trustees :  George  Bechtel,  Thomas  Humphrey, Stephen  D.  Simonson,  Richard  L’H.  Finch,  <strong>Charles  T.  Pine,</strong>  Charles W.  Hunt,  Charles  W.  Kennedy,  John  W.  Winmill,  Otto  Ahlmann,  Daniel  T.  Cornell,  Thomas  Byrne,  David  Soloman.  By  1900  John  Westbrook  had  become  president  and  the  following  had  joined  the  board, Henry  P.  Morrison,  Frank  W.  Tompkins,  Herbert  Crabtree,  J.  A. Snyder,  Benedict  Parker,  Azel  F.  Merrell,  Samuel  A.  Robinson,  George M.  Matthius,  John  F.  Smith,  Edward  D.  Clark.  In  1911  Mr.  Smith  was president  with  the  late  G.  H.  Tredwell  as  secretary.  Upon  Mr.  Tred- well’s  death,  Mr.  Matthius  became  secretary. </p>
 </blockquote>
 <figcaption>
 1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p671. Emphasis added.
