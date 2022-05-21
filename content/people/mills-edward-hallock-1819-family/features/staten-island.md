@@ -1,12 +1,13 @@
 ---
 title: "The Mills Family in Staten Island NY"
-weight: 6
+weight: 4
 ---
 
-It appears the Mills lived in Staten Island throughout the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1850, Edward is said to be "of Factoryville". All three Mills children were born in Staten Island. At one point, the Mills family lived with [Bartlett Brown](https://www.findagrave.com/memorial/199802084/bartlett-brown) (1833 to 24 Nov 1902), who was also in the grocery business and appears to also be a protege of [Charles M. Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 8 Oct 1897). Charles Pine (who may have been related to Edward through Edward's mother) is listed as a co-owner of E. H. Mills & Co. in Corfu, but it's likely that Charles acted only as an investor, and perhaps also an adviser, in the business and was not involved in its day-to-day operation. 
+Edward and Mary Ann began their married lives in Staten Island NY where they lived throughout the 1850's and where all three Mills children were born. Here, Edward learned the grocery business from [Charles M. Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 8 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. 
 
 <!--more-->
 
+It appears the Mills lived in Staten Island throughout the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1850, Edward is said to be "of Factoryville". 
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
@@ -28,11 +29,10 @@ William T. Davis, <a href="https://sites.google.com/a/nypl.org/staten-island-pap
 </figcaption>
 </figure>
 
-The 1860 census also shows that Edward and his family are living with Bartlett Brown, and according to the following tax assessment, Bartlett also lists Factoryville in the "Residence" column.
+The 1860 census also shows that the Mills family were living with [Bartlett Brown](https://www.findagrave.com/memorial/199802084/bartlett-brown) (1833 to 24 Nov 1902), another protege of Charles M. Pine in the grocery business, and later, Bartlett succeeded Charles as President of the Richmond County Mutual Insurance Company. According to the following tax assessment, Bartlett also lists Factoryville in the "Residence" column.
 
 {{% fig "staten-island/1862-1863-irs-tax-assessment" /%}}
 
-Barlett Brown was another protege of Charles Pine, both in the grocery business, and later, succeeding Charles as President of the Richmond County Mutual Insurance Company:
 
 {{% fig "staten-island/1902-11-29-richmond-county-advance-p4" "700x400" "" "top" %}}
 Mr. Brown was born at Oak Farm, Long Island, and was one of ten children. His parents were among the most intelligent and estimable people of that section, and he was trained to many kinds of usefulness on the farm from a very early age. Indeed, the experiences which then came to him were invaluable, and fitted him in a superior degree for the diligent, manly and honorable life which succeeded.
@@ -44,7 +44,7 @@ He set a fine example with regard to everything in which he was engaged during t
 (Partial transcription, emphasis added. Click on the accompanying link to view the full article.)
 {{% /fig %}}
 
-Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained the same over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. In fact this area, described elsewhere as "the bend between Van Street and Broadway", is the location of Pine, Hillyer & Co. general store in 1859, co-owned by Charles Pine and James Hillyer. (1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651.) 
+Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained consistent over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. In fact this area, described elsewhere as "the bend between Van Street and Broadway", is the location of Pine, Hillyer & Co. general store in 1859, co-owned by Charles Pine and James Hillyer. (1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651.) 
 
 If Bartlett's obituary is accurate, then it seems likely that in 1860, the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of State Street and Castleton Avenue. This interpretation appears to be corroborated by the 1886 edition of Webb's Consolidated Directory referenced below.
 
@@ -54,13 +54,13 @@ A closer view:
 
 {{% fig "staten-island/1874-beers-map-cropped" "800" /%}}
 
-This Staten Island Directory from 1886 lists Barlett Brown’s store, referencing the residence at 114 Broadway that was mentioned in his obituary, as well as a reference to the home on the corner of State Street and Castleton Avenue:
+Webb's Consolidated Directory of Staten Island from 1886 lists Barlett Brown’s store, referencing the residence at 114 Broadway that was mentioned in his obituary, as well as a reference to the home on State Street "near" Castleton Avenue:
 
 {{% fig "staten-island/1886-staten-island-directory-p117" "500" /%}}
 
-If I understand the maps and references correctly, Brown's store front faced Broadway and the front of the home faced the opposite direction onto State Street.
+If I understand the maps and references correctly, Brown's storefront faced Broadway and the front of the home faced the opposite direction onto State Street.
 
-Other maps showing this property include the Colton and  Dripps maps:
+Other maps showing this property include the Colton and  Dripps maps which both indicate only three structures on the lot:
 
 {{% fig "staten-island/1866-colton-map-cropped" "800" /%}}
 {{% fig "staten-island/1872-dripps-map-cropped" "800" /%}}

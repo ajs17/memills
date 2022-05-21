@@ -16,7 +16,7 @@ Ellen Jane (Andrews) Predmore Gould, born 27 Mar 1848, died 31 Oct 1929. Ellen l
 
 For my immediate purposes here, I will focus initially on the period of Ellen's life that intersects with the Mills family, and fill in more detail later.
 
-{{% table "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Ellen" %}}
+{{% table "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Ellen" %}}
 
 The following historical research comes from a direct descendent of Ellen Gould:
 

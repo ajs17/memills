@@ -3,7 +3,7 @@ title: "Edward H. Mills"
 weight: 1
 ---
 
-Edward Hallock Mills, born 25 Mar 1819, Smithtown, NY, died 01 Jan 1908, Brookton, NY. Patriarch of the Mills family. Co-owner of [E. H. Mills & Co.]({{% ref "features/corfu-eh-mills-co" %}}) general store in Corfu NY and owner of [E. H. Mills]({{% ref "features/me-mills" %}}) in Motts Corners/Brookton NY.
+Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton, NY. Patriarch of the Mills family. Co-owner of [E. H. Mills & Co.]({{% ref "features/corfu-eh-mills-co" %}}) general store in Corfu NY and owner of [E. H. Mills]({{% ref "features/me-mills" %}}) in Motts Corners/Brookton NY.
 
 <!--more-->
 
@@ -13,7 +13,7 @@ Edward Hallock Mills, born 25 Mar 1819, Smithtown, NY, died 01 Jan 1908, Brookto
 <p>"...his loss seems irreparable..."</p>
 </blockquote>
 
-{{% table "census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Edward" %}}
+{{% table "census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Edward" %}}
 
 Note that the account of the Mills family's travels around the time of J. Thomas Mills' birth in 1827, as described in his obituary in the accompanying account of the Mills' [Long Island origins]({{% ref "genealogy" %}}), appears inconsistent with Edward's purported birthplace referenced in several sources, including the census. 
 
@@ -129,7 +129,7 @@ Emily officially joined the church rolls in the months immediately following Edw
 
 {{% fig "1908-04-07-The-Ithaca-Daily-Journal-p3" "500" /%}}
 
-[Edward](https://www.findagrave.com/memorial/75958691/edward-h-mills) is interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu, NY 14036. 
+[Edward](https://www.findagrave.com/memorial/75958691/edward-h-mills) is interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu NY 14036. 
 
 ## Notes for Future Researchers
 

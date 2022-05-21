@@ -13,7 +13,7 @@ notes: >-
 
   - [John N. Eastman](https://www.findagrave.com/memorial/37542371/john-n-eastman) (May 1835 to 24 May 1921). 
 
-  - [Reverend Elder Charles Bogardus](https://www.findagrave.com/memorial/98809451/charles-bogardus) (19 Nov 1843 to 12 Oct 1925). Reverend Bogardus was a Baptist minister residing in Brookton. "For 20 or more years he was pastor of five churches visiting them once each month." (17 Oct 1925, The Ithaca Journal, Ithaca NY, p5.) "He was one of the best known clergymen in this section and many couples now residing here, began their married life with his blessing. He was also called upon to officiate at many funerals. He was well-known as Elder Bogardus." (12 Oct 1925, The Ithaca Journal, Ithaca, NY, p5.)
+  - [Reverend Elder Charles Bogardus](https://www.findagrave.com/memorial/98809451/charles-bogardus) (19 Nov 1843 to 12 Oct 1925). Reverend Bogardus was a Baptist minister residing in Brookton. "For 20 or more years he was pastor of five churches visiting them once each month." (17 Oct 1925, The Ithaca Journal, Ithaca NY, p5.) "He was one of the best known clergymen in this section and many couples now residing here, began their married life with his blessing. He was also called upon to officiate at many funerals. He was well-known as Elder Bogardus." (12 Oct 1925, The Ithaca Journal, Ithaca NY, p5.)
 ---
 **Hannah Mills**
 

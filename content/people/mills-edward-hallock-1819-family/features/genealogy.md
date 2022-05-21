@@ -1,10 +1,10 @@
 ---
 title: "Genealogy and Long Island Origins"
-weight: 7 
+weight: 5 
 ---
 
 
-Edward H. Mills' ancestors were early settlers of the Town of Smithtown on Long Island and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them.
+Edward H. Mills' ancestors were early settlers of Edward's birthplace, the Town of Smithtown on Long Island, and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them.
 
 <!--more-->
 

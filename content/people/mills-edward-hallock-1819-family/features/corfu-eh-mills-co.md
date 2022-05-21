@@ -1,9 +1,9 @@
 ---
 title: "The Mills Family in Corfu NY"
-weight: 5
+weight: 3
 ---
 
-The family moved to Corfu NY in the early 1860's where Edward, along with partners Charles Pine and James Hillyer, started E. H. Mills & Co. "cash store" offering general merchandise and dry goods. Horace clerked in his father’s store, and Mary Ann was a member of First Presbyterian Church of Corfu. 
+Before calling Mott's Corners home, the Mills moved to Corfu NY in the early 1860's where Edward, along with partners Charles Pine and James Hillyer, started E. H. Mills & Co. "cash store" offering general merchandise and dry goods. Horace clerked in his father’s store, and Mary Ann was a member of First Presbyterian Church of Corfu. 
 
 <!--more-->
 

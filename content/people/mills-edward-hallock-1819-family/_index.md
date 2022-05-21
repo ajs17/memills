@@ -27,9 +27,9 @@ This publication attempts to document all extant information on the family of Ed
 
 ## Burials
 
-[Edward](https://www.findagrave.com/memorial/75958691/edward-h-mills), [Mary Ann](https://www.findagrave.com/memorial/75958702/mary-ann-mills), [Jonas](https://www.findagrave.com/memorial/75958930/jonas-e-mills ) and [Horace](https://www.findagrave.com/memorial/75958913/horace-f-mills) are interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu, NY 14036.
+[Edward](https://www.findagrave.com/memorial/75958691/edward-h-mills), [Mary Ann](https://www.findagrave.com/memorial/75958702/mary-ann-mills), [Jonas](https://www.findagrave.com/memorial/75958930/jonas-e-mills ) and [Horace](https://www.findagrave.com/memorial/75958913/horace-f-mills) are interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu NY 14036.
 
-[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca, NY 14850.
+[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca NY 14850.
 
 [Emily](https://www.findagrave.com/memorial/160363879/mary-emily-mills) is interred at Brookton (formerly Quick) Cemetery at the corner of Landon Road and Lounsbery Road in Brooktondale NY, 14817.
 
@@ -39,7 +39,7 @@ This publication attempts to document all extant information on the family of Ed
 
 The following represents a summary of all of the census data that I have been able to access. 
 
-{{% table "census-data.csv" "census-all" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" %}}
+{{% table "census-data.csv" "census-all" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census* accessed via [ancestry.com](https://www.ancestry.com)" %}}
 
 According to [newyorkfamilyhistory.org](https://www.newyorkfamilyhistory.org/):
     

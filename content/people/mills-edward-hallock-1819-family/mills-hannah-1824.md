@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 6
 ---
 
-Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Brookton, NY. Second wife of Edward H. Mills, married 30 Dec 1896 and step-mother to Emily. Active member of Brookton Congregational Church, Ladies' Aid Society and Women's Christian Temperance Union.
+Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Brookton NY. Second wife of Edward H. Mills, married 30 Dec 1896 and step-mother to Emily. Active member of Brookton Congregational Church, Ladies' Aid Society and Women's Christian Temperance Union.
 
 <!--more-->
 
@@ -15,9 +15,9 @@ Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Br
 </p>
 </blockquote>
 
-{{% table "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Hannah" %}}
+{{% table "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Hannah" %}}
 
-Hannah immigrated with her parents and siblings from the "Parish of Hawkhurst in the county of Kent, England", arriving in New York City on 28 Jul 1830. It is likely that like Ellen Gould, Hannah may have retained an English accent.
+Hannah immigrated with her parents and siblings from the "Parish of Hawkhurst in the county of Kent, England", arriving in New York City on 28 Jul 1830. Like Ellen Gould, Hannah may have retained an English accent.
 
 Hannah's first marriage was to [Charles Eastman](https://www.findagrave.com/memorial/99264784/charles-c-eastman) (05 Aug 1807 to 22 May 1890), a prominent farmer in Danby. This was Charles' second marriage after the death of his first wife, and the mother of all of his children, [Polly (Coy) Eastman](https://www.findagrave.com/memorial/99264890/polly-eastman) (14 Feb 1808 to 03 Dec 1862).
 

@@ -3,7 +3,7 @@ title: "E. H. Mills and M. E. Mills General Stores"
 weight: 1
 ---
 
-After moving to Mott's Corners in Mar 1889, Edward restarted his general store on his own, now simply called E. H. Mills. Both Jonas and Emily clerked at E. H. Mills. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jesse Brewer took over the store and ran it under her name for many years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road. 
+After moving to Mott's Corners in Mar 1889, Edward restarted his general store on his own, now simply called E. H. Mills. Both Jonas and Emily clerked at E. H. Mills. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jesse Brewer took over the store and ran it under her name for many years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road. At present, the location is commonly known as "the old postoffice". 
 
 <!--more-->
 
@@ -185,7 +185,7 @@ And in the following, Molly Adams seems to indicate "at the store" refers to wha
 <blockquote class="quote-only">
 <p>...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mills's store had been. 
 </p>  
-<p>— Molly Adams, "Town of Caroline" in **The Towns of Tompkins County: From Podunk to the Magnetic Springs** edited by Jane Marsh Dieckmann, p63
+<p>— Molly Adams, "Town of Caroline" in *The Towns of Tompkins County: From Podunk to the Magnetic Springs* edited by Jane Marsh Dieckmann, p63
 </p>
 </blockquote>
 

@@ -5,6 +5,7 @@ publishDir = "docs"
 enableGitInfo = true
 footnoteReturnLinkContents = "↩"
 lastmod = [":fileModTime", ":default"] # auto populates lastmod date
+paginate = "50"
 
 [params]
   ImageMaxWidth = "1000"

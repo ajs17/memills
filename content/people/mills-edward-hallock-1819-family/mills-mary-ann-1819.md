@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 2
 ---
 
-Mary Ann (Pine) Mills, born 08 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookton NY. Matriarch of the Mills family. First wife of Edward Hallock Mills, married 29 Dec 1850, Hempstead, NY.
+Mary Ann (Pine) Mills, born 08 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookton NY. Matriarch of the Mills family. First wife of Edward Hallock Mills, married 29 Dec 1850, Hempstead NY. Mary Ann was a devoted Presbyterian/Congregationalist.
 
 <!--more-->
 
@@ -16,7 +16,7 @@ Mary Ann (Pine) Mills, born 08 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookto
 </p>
 </blockquote>
 
-{{% table "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Mary" %}}
+{{% table "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Mary" %}}
 
 Mary Ann Pine of Hempstead Long Island marries Edward Hallock Mills, then of Castleton Staten Island, on 29 Dec 1850:
 
@@ -43,4 +43,4 @@ Mary Ann's son Jonas died after a brief illness in Oct 1885:
 {{% fig "mills-edward-mary-cvcc-obit" "800" /%}}
 
  
-[Mary Ann](https://www.findagrave.com/memorial/75958702/mary-ann-mills) is interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu, NY 14036.
+[Mary Ann](https://www.findagrave.com/memorial/75958702/mary-ann-mills) is interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu NY 14036.

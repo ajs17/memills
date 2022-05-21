@@ -4,11 +4,11 @@ date: "2021-05-25"
 weight: 4
 ---
 
-Horace F. Mills, born 1854, Staten Island, NY, died 27 October 1876, Corfu NY. Second child of Edward H. and Mary Ann Mills.
+Horace F. Mills, born 1854, Staten Island NY, died 27 October 1876, Corfu NY. Second child of Edward H. and Mary Ann Mills. Horace worked as clerk in E. H. Mills & Co., Corfu.
 
 <!--more-->
 
-{{% table "census-data.csv" "census-horace" "year,type,town,name,age,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census**, ancestry.com" "firstname" "=" "Horace" %}}
+{{% table "census-data.csv" "census-horace" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Horace" %}}
 
 Horace is the single biggest mystery in the family, all the more so because his death seems to be a pivotal event in the family's history:
 
@@ -24,7 +24,7 @@ And a very big mystery relevant to the Caroline audience in particular, is why t
   - Perhaps Edward sold products from the mills and factories of Mott's Corners in his store and knew of it that way?
   - As Edward Mills appeared to have multiple business relationships with Edward Lounsbery, perhaps that offers at least a partial explanation. 
 
-Horace is [interred](https://www.findagrave.com/memorial/75958913/horace-f-mills) at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu, NY 14036.
+Horace is [interred](https://www.findagrave.com/memorial/75958913/horace-f-mills) at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu NY 14036.
 
 ### Notes for Future Researchers
 
@@ -32,7 +32,7 @@ As already discussed above in relation to the Evergreen Hill Cemetery records an
 
 There is another Horace F. Mills in upstate New York in the 1800's, who was of some prominence, but who does not appear to be related to this Mills family. That Horace Mills was born in 1847, lived in Penn Yan NY, attended the University at Albany in 1861 but left to serve in the Civil War, ultimately rising to the rank of Major in the 9th USCT. Several photos of this Horace Mills can be found online.
 
-Yet another Horace F. Mills lived in Wawayanda, NY mentioned in Port Jervis newspapers in the 1870's and 1880's. He was married to M. J. Mills and had a daughter Bertha who died at four months old. 
+Yet another Horace F. Mills lived in Wawayanda NY mentioned in Port Jervis newspapers in the 1870's and 1880's. He was married to M. J. Mills and had a daughter Bertha who died at four months old. 
 
 And most frustrating of all is an unrelated Horace Mills listed in the 1850 United Stated Federal Census as a one year old living in Darien, which is very close to Corfu:
 

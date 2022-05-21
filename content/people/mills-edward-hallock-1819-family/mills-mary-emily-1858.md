@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 5
 ---
 
-Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale NY, who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktonale Congregational Church, now Caroline Valley Community Church.
+Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale NY, who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktonale Congregational Church, now Caroline Valley Community Church.
 
 <!--more-->
 
@@ -16,7 +16,7 @@ Mary Emily Mills, born Dec 1858 Staten Island, NY, died 03 Nov 1937 Brooktondale
 <p>"If everyone to whom Miss Mills extended a helpful hand were to place a floral emblem upon her grave, she would sleep today amidst a wilderness of flowers."</p>
 </blockquote>
 
-{{% table "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "**United States Federal Census** and **New York, U.S., State Census** accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" "Summary of Census Data" %}}
+{{% table "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census* accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" "Summary of Census Data" %}}
 
 Emily's middle name may be in honor of Edward's sister who died over a decade before Emily was born. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she typically used "M. Emily Mills", particularly in later years.
 
