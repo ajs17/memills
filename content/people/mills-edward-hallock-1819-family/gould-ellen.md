@@ -34,7 +34,7 @@ The following historical research comes from a direct descendent of Ellen Gould:
 </figcaption>
 </figure>
 
-{{% fig "1851-06-21-Western-World" "800" /%}}
+{{% fig "1851-06-21-Western-World" "500" /%}}
 
 The first (presumed) mention of Ellen in connection to the Mills family is an entry made by Emily in the sales journal of <a href="{{% relref "features/me-mills" %}}"> E. H. Mills general store</a>: "1908, Jan 23, Sewing by Mrs. Gould, 0.75".
 

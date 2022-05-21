@@ -3,12 +3,12 @@ title: "The Mills Family in Staten Island NY"
 weight: 6
 ---
 
-It appears the Mills lived in Staten Island throughout much of the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1850, Edward is said to be "of Factoryville". All three Mills children were born in Staten Island. At one point, the Mills family lived with [Bartlett Brown](https://www.findagrave.com/memorial/199802084/bartlett-brown) (1833 to 24 Nov 1902), who was also in the grocery business and appears to also be a protege of [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 8 Oct 1897). Charles Pine (who may have been related to Edward through Edward's mother) is listed as a co-owner of E. H. Mills & Co. in Corfu, but it's likely that Charles acted only as an investor, and perhaps also an adviser, in the business and was not involved in its day-to-day operation. 
+It appears the Mills lived in Staten Island throughout the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1850, Edward is said to be "of Factoryville". All three Mills children were born in Staten Island. At one point, the Mills family lived with [Bartlett Brown](https://www.findagrave.com/memorial/199802084/bartlett-brown) (1833 to 24 Nov 1902), who was also in the grocery business and appears to also be a protege of [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 8 Oct 1897). Charles Pine (who may have been related to Edward through Edward's mother) is listed as a co-owner of E. H. Mills & Co. in Corfu, but it's likely that Charles acted only as an investor, and perhaps also an adviser, in the business and was not involved in its day-to-day operation. 
 
 <!--more-->
 
 
-{{% fig "1851-01-03-Brooklyn-Daily-Eagle" "400" /%}}
+{{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
 In the 1875 New York State Census, each of the children are listed with Staten Island as their birthplace (years 1852, 1854 and 1858), and they were still living in Staten Island in 1860 as reflected in the Federal Census:
 
@@ -44,9 +44,9 @@ He set a fine example with regard to everything in which he was engaged during t
 (Partial transcription, emphasis added. Click on the accompanying link to view the full article.)
 {{% /fig %}}
 
-If Bartlett's obituary is accurate, then in 1860, the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained the same over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. In fact this area, described elsewhere as "the bend between Van Street and Broadway", is the location of Pine, Hillyer & Co. general store in 1859, co-owned by Charles Pine and James Hillyer. (1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651.) 
+Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained the same over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. In fact this area, described elsewhere as "the bend between Van Street and Broadway", is the location of Pine, Hillyer & Co. general store in 1859, co-owned by Charles Pine and James Hillyer. (1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651.) 
 
-The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of State Street and Castleton Avenue. This interpretation appears to be corroborated by the 1886 edition of Webb's Consolidated Directory referenced below.
+If Bartlett's obituary is accurate, then it seems likely that in 1860, the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of State Street and Castleton Avenue. This interpretation appears to be corroborated by the 1886 edition of Webb's Consolidated Directory referenced below.
 
 {{% fig "staten-island/1874-beers-map" "800" /%}}
 
@@ -54,9 +54,11 @@ A closer view:
 
 {{% fig "staten-island/1874-beers-map-cropped" "800" /%}}
 
-This Staten Island Directory from 1886 lists Barlett Brown’s store, referencing the residence at 114 Broadway that was mentioned in his obituary, as well as a reference to the corner of State Street and Castleton Avenue:
+This Staten Island Directory from 1886 lists Barlett Brown’s store, referencing the residence at 114 Broadway that was mentioned in his obituary, as well as a reference to the home on the corner of State Street and Castleton Avenue:
 
 {{% fig "staten-island/1886-staten-island-directory-p117" "500" /%}}
+
+If I understand the maps and references correctly, Brown's store front faced Broadway and the front of the home faced the opposite direction onto State Street.
 
 Other maps showing this property include the Colton and  Dripps maps:
 
@@ -106,7 +108,7 @@ Further investigation is needed, but an obvious concrete question to explore is 
 
 {{% fig "staten-island/1835-02-21-charles-pine" "700" /%}}
 
-Charles lists himself as a merchant in Castleton in the 1850 Federal census, and James Hillyer lives with the Pine family, as a clerk in Charles' store. 
+Charles lists himself as a merchant in Castleton in the 1850 Federal census, and James Hillyer lives with the Pine family, as a clerk, presumably in Charles' store. 
 
 {{% fig "staten-island/1850-us-census-castleton" "400" /%}}
 
