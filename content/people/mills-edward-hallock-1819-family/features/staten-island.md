@@ -54,7 +54,7 @@ A closer view:
 
 {{% fig "staten-island/1874-beers-map-cropped" "800" /%}}
 
-Webb's Consolidated Directory of Staten Island from 1886 lists Barlett Brown’s store, referencing the residence at 114 Broadway that was mentioned in his obituary, as well as a reference to the home on State Street "near" Castleton Avenue:
+Webb's Consolidated Directory of Staten Island from 1886 lists Barlett Brown’s store, referencing 114 Broadway, the address mentioned in his obituary,  as well as a reference to the home on State Street "near" Castleton Avenue:
 
 {{% fig "staten-island/1886-staten-island-directory-p117" "500" /%}}
 

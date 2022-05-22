@@ -337,3 +337,5 @@ Charles Eastman had a daughter [Hannah (Eastman) Meaker](https://www.findagrave.
 
 There is another Hannah Eastman in Caroline at this time: [Hannah V. (Smith) Eastman](https://www.findagrave.com/memorial/91574581/hannah-v-eastman) (1826 to 05 Feb 1892) who was married to [Reuben B. Eastman](https://www.findagrave.com/memorial/91575045/reuben-b-eastman) (Jun 1829 to 15 Nov 1913). Both had property in their names in Danby and Caroline. 
 
+
+
