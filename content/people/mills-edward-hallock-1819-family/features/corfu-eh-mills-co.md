@@ -39,7 +39,7 @@ There is also a June 1863 Civil War Draft Registration record in Genesee County 
 
 In Mar 1864, the Mills purchased their home in Corfu at what is presently 31 West Main Street:
 
-{{% fig "corfu/1864-03-09-genesee-county-clerk-batavia-ny-deeds-book-124-page-415" "500" /%}}
+{{% fig "corfu/1864-03-09-pembroke-deeds-book-124-page-415" "800" /%}}
 
 {{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "500" /%}}
 
@@ -82,7 +82,7 @@ By 1876, Corfu had grown, but E. H. Mills & Co. and the Mills' home are still in
 
 {{% fig "corfu/1876-08-10-The-Brockport-Republic-Brockport-NY-p3" "500" /%}}
 
-In 1876, Horace shoots himself, presumably in the Mills' home in Corfu:
+In 1876, Horace shot himself, presumably in the Mills' home in Corfu:
 
 {{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "500" /%}}
 
@@ -106,7 +106,7 @@ The following advertisements may be for the Mills' store, as both the descriptio
 
 The Mills' home in Corfu sold later that year.
 
-{{% fig "corfu/1879-08-22-genesee-county-clerk-batavia-ny-deeds-book-150-page-343" "500" /%}}
+{{% fig "corfu/1879-08-22-pembroke-deeds-book-150-page-343" "800" /%}}
 
 Emily returned to Corfu several times throughout her life.
 
