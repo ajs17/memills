@@ -11,7 +11,7 @@ source:  "newspapers.com"
 
 **JAMES A. HILLYER DEAD.**
 
-**Native of New York, 93, Expires at Son's Home Here.
+**Native of New York, 93, Expires at Son's Home Here.**
 
 James A. Hillyer, 93 years old, who was born in what is now a downtown business section of New York City, but which was at the time of his birth only a farming section of Manhattan Island, died at the residence of his son, A. S. Hillyer, 3409 Fessenden street, yesterday. Coming from a family noted for its longevity of life, the elder Mr. Hillyer's father lived until he was past the century mark while of three brothers and a sister, who survive Mr. Hillyer, the youngest is 78 years old.
 
