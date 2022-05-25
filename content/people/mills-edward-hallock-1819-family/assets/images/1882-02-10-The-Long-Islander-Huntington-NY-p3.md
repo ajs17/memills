@@ -10,7 +10,7 @@
 
     - Note that this references prior publication of this notice in the Hempstead Sentinel, so there is some chance of finding more legible text. I have yet to locate issues of this paper from this time period. 
    
-    - [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) (13 Feb 1827 to 22 Apr 1915) is Edward’s brother, and [Robert Sydney Mills](https://www.findagrave.com/memorial/29864008/robert-sydney-mills) (11 Nov 1835 to 15 Jan 1912) is Edward’s step-brother. 
+    - [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) (13 Feb 1827 to 22 Apr 1915) is Edward’s brother, and [Robert Sydney Mills](https://www.findagrave.com/memorial/29864008/robert-sydney-mills) (11 Nov 1835 to 15 Jan 1912) is Edward’s half brother. 
 ---
 
 —On Monday evening of last week one of the old residents of Hempstead died. Mr. Jonas D. Mills, who was born at Stony Brook, [Suffolk County?], May [unclear day and year], making him at the time of his death, 86 years, 8 months, and 28 days old. In his young days he learned the wheelwright trade, which at that time included the undertaking business. He subsequently took up farming in Queens County, but for the past 30 years he has not been actively engaged in business. He was married twice, and had two daughters and three sons, the latter still living—Edward H., J. Thomas, and Robert S. Mills. He came to this town about [unclear 1838?], locating at Trimming (now Franklin) Square; in 1837 he came to this village, where he has ever since resided, with the exception of a few years. He always enjoyed good health, never needing a physician, and died of old age. 
