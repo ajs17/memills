@@ -232,6 +232,15 @@ Elizabeth Vanderveere:
 {{% fig "thatchers/grave-photos/use/elizabeth-vanderveere-zoomed-grayscale" "350" /%}}
 </div>
 
+The following images from 2016 are much clearer:
+<div class="cols">
+{{% fig "thatchers/grave-photos/use/2016-07-don-short-william-vanderveere" "350" /%}}
+{{% fig "thatchers/grave-photos/use/2016-07-don-short-elizabeth-vanderveere" "350" /%}}
+</div>
+
+
+
+
 Hannah (Thatcher) Mills:
 {{% fig "thatchers/grave-photos/use/hannah-full" "500" /%}}
 <div class="cols">
