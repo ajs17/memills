@@ -79,7 +79,7 @@ In the 1920's, more sophisticated business records emerge, both new types of rec
   {{% fig "me-mills/1927-02-01-record-of-cash-payments" "350" /%}}
 </div>
 
-As Molly Adams wrote in her "Note", Emily begins aggressively advertising the newly branded store in 1909. She advertised perhaps dozens of times in the Ithaca Daily Journal alongside the Vorhis Mill and the meat market that is attributed at one time to Clarence Wheeler, someone mentioned many times in the journals of George Jansen. The first such advertisement I could find was in the 29 Mar 1909 edition, and the last was on 30 Jun 1910. What follows are a sample of some of them, many of which were repeated for weeks at a time, and they give us a good sense of the diverse products offered in the small country store:
+As Molly Adams wrote in her "Note", Emily began aggressively advertising the newly branded store in 1909. She advertised perhaps dozens of times in the Ithaca Daily Journal alongside the Vorhis Mill and the meat market that is attributed at one time to Clarence Wheeler, someone mentioned many times in the journals of George Jansen. The first such advertisement I could find was in the 29 Mar 1909 edition, and the last was on 30 Jun 1910. What follows are a sample of some of them, many of which were repeated for weeks at a time, and they give us a good sense of the diverse products offered in the small country store:
 
 {{% fig "1909-03-29-The-Ithaca-Daily-Journal-p9" "500" /%}}
 <div class="cols">

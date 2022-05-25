@@ -3,7 +3,7 @@ title: "The Mills Family in Staten Island NY"
 weight: 4
 ---
 
-Edward and Mary Ann began their married lives in Staten Island NY where they lived throughout the 1850's and where all three Mills children were born. Here, Edward learned the grocery business from [Charles M. Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 8 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. 
+Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where all three Mills children were born. Here, Edward likely learned the grocery business from [Charles M. Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 8 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. 
 
 <!--more-->
 
