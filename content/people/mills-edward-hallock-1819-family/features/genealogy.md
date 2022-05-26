@@ -107,6 +107,7 @@ Several of the marriages above and below are referenced, if not corroborated, in
 {{% fig "genealogy/mills-marriages-34" "350" /%}}
 {{% fig "long-island/1843-12-17-Brooklyn-Evening-Star-p2" "350" /%}}
 </div>
+    
 <div class="cols">
 {{% fig "genealogy/mills-marriages-35" "350" /%}}
 {{% fig "genealogy/mills-marriages-36" "350" /%}}
@@ -148,6 +149,11 @@ And the 1900 census is worth highlighting for the density of information it cont
 
 {{% fig "long-island/1900-us-census-huntington-mills" "800" /%}}
 
+Alonzo's daughter [Sarah](https://www.findagrave.com/memorial/215406844/sarah-reddy) (18 Jun 1883 to 02 Aug 1911)—Emily's neice—died in a gruesome accident. Understandably, her gravestone has inscribed “I have suffered”.
+
+{{% fig "long-island/1911-07-19-The-Times-Union-Brooklyn-NY-p24" "500" /%}}
+{{% fig "long-island/1911-08-02-The-Brooklyn-Daily-Eagle-Brooklyn-NY-p3" "500" /%}}
+ 
 The last name listed as a possible heir in the Mills' home deeds, Mary Huntting Smith, is likely a reference to Emily's cousin, or perhaps a descendent of Emily's cousin:
   - Edward's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
   - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
@@ -160,5 +166,5 @@ I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears t
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
 
-
+Partial genealogical data on the Mills and Thatcher families can be <a href="/genealogy-data.csv">downloaded here</a>. 
 

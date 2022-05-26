@@ -238,8 +238,7 @@ The following images from 2016 are much clearer:
 {{% fig "thatchers/grave-photos/use/2016-07-don-short-elizabeth-vanderveere" "350" /%}}
 </div>
 
-
-
+The 2016 photos show the "MOTHER" footstone leaning against the main family stone, confirming that the stones have been moved in the past. In fact, because these photos are close-up, the direction of the camera and therefore, the orientation of the main stone, is not clear, and the main stone itself may have been turned. (As I write this, the main stone faces the rear of the cemetery, away from the road.)
 
 Hannah (Thatcher) Mills:
 {{% fig "thatchers/grave-photos/use/hannah-full" "500" /%}}

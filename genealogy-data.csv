@@ -87,8 +87,8 @@ p85,,Mary,Pine,,,02/08/1819,12/28/1895,Hempstead NY,Brookton NY,"Evergreen Hill 
 p86,,Jonas,Mills,,,1852,10/14/1885,Staten Island NY,Brookton NY,"Evergreen Hill Cemetery, Corfu NY",75958930,,https://www.findagrave.com/memorial/75958930
 p87,,Horace ,Mills,,,1854,10/27/1876,Staten Island NY,Corfu NY,"Evergreen Hill Cemetery, Corfu NY",75958913,,https://www.findagrave.com/memorial/75958913
 p88,,Mary,Mills,,Emily,12/1858,11/03/1937,Staten Island NY,Brookton NY,"Brookton Cemetery, Brooktondale NY",160363879,,https://www.findagrave.com/memorial/160363879
-p89,,Jonas,Mills,,,05/02/1895,01/30/1882,,,"Smithtown Cemetery, Smithtown NY",138421270,,https://www.findagrave.com/memorial/138421270
-p90,,Mary,Hallock,,,12/08/1898,03/02/1827,,,,,,https://www.findagrave.com/memorial/
+p89,,Jonas,Mills,,,05/02/1795,01/30/1882,,,"Smithtown Cemetery, Smithtown NY",138421270,,https://www.findagrave.com/memorial/138421270
+p90,,Mary,Hallock,,,12/08/1798,03/02/1827,,,,,,https://www.findagrave.com/memorial/
 p91,,Mary,Mills,,,01/30/1801,06/18/1881,Long Island NY,,"Smithtown Cemetery, Smithtown NY",138421346,,https://www.findagrave.com/memorial/138421346
 p92,,Emily,Mills,,,06/19/1821,04/11/1849,,,"Smithtown Cemetery, Smithtown NY",23991494,,https://www.findagrave.com/memorial/23991494
 p93,,James,Mills,,Thomas,02/13/1827,04/22/1915,New York City NY,Huntington NY,"Huntington Rural Cemetery, Huntington NY",74905990,,https://www.findagrave.com/memorial/74905990
@@ -116,7 +116,7 @@ p116,,George,Mills,,,2/1856,,,,,,,https://www.findagrave.com/memorial/
 p117,,Alonzo,Mills,,,7/1858,05/09/1942,,,"Huntington Rural Cemetery, Huntington NY",,,https://www.findagrave.com/memorial/
 p118,,Alice,,,,1/1861,,,,,,,https://www.findagrave.com/memorial/
 p119,,Louise,,,,6/1862,,,,,,,https://www.findagrave.com/memorial/
-p120,,Sarah,Mills,,,6/1892,,,,,,,https://www.findagrave.com/memorial/
+p120,,Sarah,Mills,,,06/18/93,08/02/11,,,"Huntington Rural Cemetery, Huntington NY",215406844,,https://www.findagrave.com/memorial/
 p121,,Joseph,Mills,,,7/1888,,,,,,,https://www.findagrave.com/memorial/
 p122,,Cora,Mills,,,1/1871,,,,,,,https://www.findagrave.com/memorial/
 p123,,Esther,Losea,,,08/22/1832,01/27/1911,,,"Greenfield Cemetery, Uniondale NY",29864055,,https://www.findagrave.com/memorial/29864055
@@ -194,7 +194,6 @@ m34,p14,p15,,,,,,,,,,,
 m35,p23,p22,,,,,,,,,,,
 m36,p61,p60,,,,,,,,,,,
 m37,p63,p62,,,,,,,,,,,
-m38,p65,p66,,,,,,,,,,,
 m39,p84,p83,,,,,,,,,,,
 m40,p7,p85,,,,,,,,,,,
 m41,p89,p90,02/25/1818,Smithtown NY,,,,,,,,,
@@ -315,3 +314,6 @@ m59,p152,,,,,,,,,,,,
 m59,p153,,,,,,,,,,,,
 m65,p160,,,,,,,,,,,,
 m52,p126,,,,,,,,,,,,
+,p124,,,,,,,,,,,,
+,p125,,,,,,,,,,,,
+,p126,,,,,,,,,,,,

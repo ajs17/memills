@@ -3,7 +3,7 @@ title: "Acknowledgements and Areas of Further Research"
 weight: 99
 ---
 
-This research was made possible by the generosity of many people who have offered their time, access to their materials and access to their knowledge, to allow me to start putting together the puzzle pieces of Emily's life. I apologize to those I have forgotten; these I recall in no particular order: Molly Adams, Barbara Kone, Allan Starkweather, Al Chafee, Donna Eschenbrenner, Ken Rumble, Richard Wines, Margaret Wegener, Bea Szekely, Ted Sobel, Becky Dewitt, Sarah Michelle, Ralph Conant, Carol Coggshall, Alanna Congdon, Rob Bernhardt, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church. And those throughout the years who preserved precious memories: Gertrude Conant, E. D. Shurter, and Jessie Brewer.
+This research was made possible by the generosity of many people who have offered their time, access to their materials and access to their knowledge, to allow me to start putting together the puzzle pieces of Emily's life. I apologize to those I have forgotten; these I recall in no particular order: Molly Adams, Barbara Kone, Allan Starkweather, Al Chafee, Donna Eschenbrenner, Betsy Abramson, Linda Tucker, Ken Rumble, Richard Wines, Margaret Wegener, Bea Szekely, Ted Sobel, Becky Dewitt, Sarah Michelle, Ralph Conant, Carol Coggshall, Alanna Congdon, Rob Bernhardt, Lois Lounsbery, Bea Raponi, Emily Adams, Bill Besemer, Mike Scaglione, Elaine Sapp, Pastor Kayti Dean and the council of Caroline Valley Community Church. And those throughout the years who preserved precious memories: Gertrude Conant, E. D. Shurter, and Jessie Brewer.
 
 <!--more-->
 ---
@@ -100,7 +100,6 @@ I have already collected much of this information, its just a matter of getting 
   - The circumstances of Horace's death: Was it related to alcohol, and the reason for Emily's passion for temperance? Presumably this will never be knowable, but perhaps there will be clues in the Good Templars notebooks.
   - Presumably Horace's death is at least part of the reason why the family moved *away from* Corfu?
   - But why did they move *to* Mott's Corners? Perhaps relevant: there are a number of Hallocks living throughout Tompkins County, including Brooktondale prior to, and contemporary, with the Mills. I don't know if these are distant relations or not. Mott's Corners appeared to be a politically progressive place even then, which would perhaps appeal to Emily who was just finishing school (and temperance along with suffrage and abolition were among the major progressive issues of the day), in combination with the financial opportunities of a mill town near Ithaca? Is Edward Lounsbery the key? The Mills live in a home he initially owned, operated the store in another building he owned, evidence suggests they had other business arrangements? 
-   - [William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901) and wife [Sarah Hallock](https://www.findagrave.com/memorial/66472059/sarah-hallock) (08 Dec 1829 to 19 Oct 1910) lived in Caroline in 1860's. 
 
 Church Records and Baptism:
   - Any information on Emily's baptism from Park Church, any diaries of Reverend Ford Eastman? (Contacted.)

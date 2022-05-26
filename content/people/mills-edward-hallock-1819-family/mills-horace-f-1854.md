@@ -24,7 +24,7 @@ And a very big mystery relevant to the Caroline audience in particular, is why t
   - Perhaps Edward sold products from the mills and factories of Mott's Corners in his store and knew of it that way?
   - As Edward Mills appeared to have multiple business relationships with Edward Lounsbery, perhaps that offers at least a partial explanation. 
 
-Horace is [interred](https://www.findagrave.com/memorial/75958913/horace-f-mills) at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu NY 14036.
+Horace is [interred](https://www.findagrave.com/memorial/75958913/horace-f-mills) at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu NY 14036. I have contacted the cemetery, and the records that survive do not have any further date information than the year each family member died. 
 
 ### Notes for Future Researchers
 
