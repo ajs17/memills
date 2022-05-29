@@ -18,6 +18,8 @@ This publication attempts to document all extant information on the family of Ed
     <figcaption style="max-width: 500px">From the records of E. H. Mills general store in Brookton, written by Emily Mills' hand, in the months immediatiately following her father Edward's death.</figcaptio>
 </figure>
 
+Genealogical data accumulated through this research can be <a href="/data/genealogy-data.csv">downloaded here</a>. The file format is based on the [Gramps 4.2 documentation](https://gramps-project.org/wiki/index.php/Gramps_4.2_Wiki_Manual_-_Manage_Family_Trees:_CSV_Import_and_Export) ([cached version](/data/gramps-project.org-CSV-Import.pdf)).
+
 ## Family Photographs
 
 {{% fig "portraits/jamesthomasmills" "300" /%}}

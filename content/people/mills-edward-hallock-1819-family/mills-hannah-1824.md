@@ -188,63 +188,63 @@ The exact date is reported in The Ithaca Journal, 23 May 1916, p9: "Mrs. Hannah 
 
 As I write this in Spring 2022, the Thatcher stone is badly weathered and difficult to read, and the footstones are in even worse condition. The plot is in the front of the cemetery, the middle section, a few rows back from the road. The Thatcher name, and the side of the stone with Hannah's parents names, faces toward the back of the cemetery, Hannah's side faces toward Community Corners in Cayuga Heights, the Vanderveere's side faces toward Cornell. 
 
-{{% fig "thatchers/grave-photos/use/thatcher-full" "800" /%}}
-{{% fig "thatchers/grave-photos/use/thatcher-zoomed" "500" /%}}
+{{% fig "thatcher/grave-photos/use/thatcher-full" "800" /%}}
+{{% fig "thatcher/grave-photos/use/thatcher-zoomed" "500" /%}}
 
 It's likely the main stone has been moved somewhat, and the footstones realigned with it. According to the Pleasant Grove Cemetery records show below, William Vanderveere's stone is the one that appears to missing. 
 
-{{% fig "thatchers/grave-photos/use/pleasant-grove-record" "800" /%}}
+{{% fig "thatcher/grave-photos/use/pleasant-grove-record" "800" /%}}
 
 The transcriptions in the following photographs have also been compared against a spreadsheet of transcribed memorials from over 100 local cemeteries, compiled over several decades by Alan Chafee, Newfield Historian, relevant portions of which he shared with me via personal correspondence, April 2022.
 
 Thomas and Elizabeth Thatcher's full side:
 <div class="cols">
-{{% fig "thatchers/grave-photos/use/thatcher" "350" /%}}
-{{% fig "thatchers/grave-photos/use/thatcher-closer" "350" /%}}
+{{% fig "thatcher/grave-photos/use/thatcher" "350" /%}}
+{{% fig "thatcher/grave-photos/use/thatcher-closer" "350" /%}}
 </div>
 
 In an attempt to aid legibility, I have provided the original digital photographs taken April 2022, along with modified versions in grayscale with enhanced contrast.
 
 Thomas Thatcher's portion:
 <div class="cols">
-{{% fig "thatchers/grave-photos/use/thomas-thatcher-zoomed" "350" /%}}
-{{% fig "thatchers/grave-photos/use/thomas-thatcher-zoomed-grayscale" "350" /%}}
+{{% fig "thatcher/grave-photos/use/thomas-thatcher-zoomed" "350" /%}}
+{{% fig "thatcher/grave-photos/use/thomas-thatcher-zoomed-grayscale" "350" /%}}
 </div>
 
 Elizabeth (Crosby) Thatcher's portion:
 <div class="cols">
-{{% fig "thatchers/grave-photos/use/elizabeth-crosby-zoomed"  "350" /%}}
-{{% fig "thatchers/grave-photos/use/elizabeth-crosby-zoomed-grayscale" "350" /%}}
+{{% fig "thatcher/grave-photos/use/elizabeth-crosby-zoomed"  "350" /%}}
+{{% fig "thatcher/grave-photos/use/elizabeth-crosby-zoomed-grayscale" "350" /%}}
 </div>
 
 William and Elizabeth Vanderveere's full side:
-{{% fig "thatchers/grave-photos/use/vanderveere-full" "500" /%}}
+{{% fig "thatcher/grave-photos/use/vanderveere-full" "500" /%}}
 
 William P. Vanderveere's portion:
 <div class="cols">
-{{% fig "thatchers/grave-photos/use/william-vanderveere-zoomed" "350" /%}}
-{{% fig "thatchers/grave-photos/use/william-vanderveere-zoomed-grayscale" "350" /%}}
+{{% fig "thatcher/grave-photos/use/william-vanderveere-zoomed" "350" /%}}
+{{% fig "thatcher/grave-photos/use/william-vanderveere-zoomed-grayscale" "350" /%}}
 </div>
 
 Elizabeth Vanderveere:
 <div class="cols">
-{{% fig "thatchers/grave-photos/use/elizabeth-vanderveere-zoomed" "350" /%}}
-{{% fig "thatchers/grave-photos/use/elizabeth-vanderveere-zoomed-grayscale" "350" /%}}
+{{% fig "thatcher/grave-photos/use/elizabeth-vanderveere-zoomed" "350" /%}}
+{{% fig "thatcher/grave-photos/use/elizabeth-vanderveere-zoomed-grayscale" "350" /%}}
 </div>
 
 The following images from 2016 are much clearer:
 <div class="cols">
-{{% fig "thatchers/grave-photos/use/2016-07-don-short-william-vanderveere" "350" /%}}
-{{% fig "thatchers/grave-photos/use/2016-07-don-short-elizabeth-vanderveere" "350" /%}}
+{{% fig "thatcher/grave-photos/use/2016-07-don-short-william-vanderveere" "350" /%}}
+{{% fig "thatcher/grave-photos/use/2016-07-don-short-elizabeth-vanderveere" "350" /%}}
 </div>
 
 The 2016 photos show the "MOTHER" footstone leaning against the main family stone, confirming that the stones have been moved in the past. In fact, because these photos are close-up, the direction of the camera and therefore, the orientation of the main stone, is not clear, and the main stone itself may have been turned. (As I write this, the main stone faces the rear of the cemetery, away from the road.)
 
 Hannah (Thatcher) Mills:
-{{% fig "thatchers/grave-photos/use/hannah-full" "500" /%}}
+{{% fig "thatcher/grave-photos/use/hannah-full" "500" /%}}
 <div class="cols">
-{{% fig "thatchers/grave-photos/use/hannah-zoomed" "350" /%}}
-{{% fig "thatchers/grave-photos/use/hanna-zoomed-grayscale" "350" /%}}
+{{% fig "thatcher/grave-photos/use/hannah-zoomed" "350" /%}}
+{{% fig "thatcher/grave-photos/use/hanna-zoomed-grayscale" "350" /%}}
 </div>
 
 ## The Thatchers
@@ -287,8 +287,8 @@ Both the Thatchers and the Tompkins are associated with the towns of Newfield an
 
 Hannah's immigration information is based on naturalization documents of her brother David Thatcher from 1839, that are on still on file with the Tompkins County Clerk's Office. I conclude this document identifies Hannah Mills' brother based on the document matching several known data points: first and last name, town of residence, age, country of origin, and the voyage happened within the expected timeframe. As a result, I am also using this document as the source for David's exact birthdate, as prior to seeing this, I only knew the year.
 
-{{% fig "thatchers/1839-david-thatcher-naturalization-002" /%}}
-{{% fig "thatchers/1839-david-thatcher-naturalization-003" /%}}
+{{% fig "thatcher/1839-david-thatcher-naturalization-002" /%}}
+{{% fig "thatcher/1839-david-thatcher-naturalization-003" /%}}
 
 Elizabeth Vanderveere appears to be Hannah's sister, based on the following data points:
 
@@ -297,20 +297,20 @@ Elizabeth Vanderveere appears to be Hannah's sister, based on the following data
   - And obviously, the Vanderveere's are buried in the Thatcher family plot. 
 
 <div class="cols">
-{{% fig "thatchers/census/census-1850-us-thatcher" "350" /%}}
-{{% fig "thatchers/census/census-1870-us-thatcher" "350" /%}}
+{{% fig "thatcher/census/census-1850-us-thatcher" "350" /%}}
+{{% fig "thatcher/census/census-1870-us-thatcher" "350" /%}}
 </div>
 
 Sometime between 1850 and 1855, David Thatcher married Agnes Tannahill, and along with his parents, moved to Catharine NY. 
-{{% fig "thatchers/census/census-1855-nys-thatcher" "500" /%}}
+{{% fig "thatcher/census/census-1855-nys-thatcher" "500" /%}}
 
 And the 1860 federal census shows William Vanderveere working as a farm laborer in Dryden.
 
-{{% fig "thatchers/census/census-1860-us-vanderveere" "500" /%}}
+{{% fig "thatcher/census/census-1860-us-vanderveere" "500" /%}}
 
 
-{{% fig "thatchers/1911-03-22-The-Democrat-And-Chronicle-Rochester-NY-p8" "500" /%}}
-{{% fig "thatchers/1934-04-02-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "thatcher/1911-03-22-The-Democrat-And-Chronicle-Rochester-NY-p8" "500" /%}}
+{{% fig "thatcher/1934-04-02-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
 
 <figure class="quote-only">
 <blockquote>
@@ -330,12 +330,12 @@ Dr. William Addison Smith's father was George Addison Smith, 1835 - 1911 who is 
 </figcaption>
 </figure>
 
-{{% fig "thatchers/1935-05-31-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
-{{% fig "thatchers/1936-06-24-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
-{{% fig "thatchers/1937-06-05-the-ithaca-journal-ithaca-ny-p9" "500" /%}}
-{{% fig "thatchers/1942-07-15-Star-Gazette-Elmira-NY-p15" "500" /%}}
-{{% fig "thatchers/1963-06-09-The-Post-Standard-Syracuse-NY-p106" "500" /%}}
-{{% fig "thatchers/1963-06-10-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
+{{% fig "thatcher/1935-05-31-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
+{{% fig "thatcher/1936-06-24-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+{{% fig "thatcher/1937-06-05-the-ithaca-journal-ithaca-ny-p9" "500" /%}}
+{{% fig "thatcher/1942-07-15-Star-Gazette-Elmira-NY-p15" "500" /%}}
+{{% fig "thatcher/1963-06-09-The-Post-Standard-Syracuse-NY-p106" "500" /%}}
+{{% fig "thatcher/1963-06-10-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
 
 
 ## Notes for Future Researchers

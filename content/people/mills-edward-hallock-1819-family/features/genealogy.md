@@ -159,12 +159,11 @@ The last name listed as a possible heir in the Mills' home deeds, Mary Huntting 
   - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
   - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), married: James M. Cross.
 
-Several documents pertaining to Emily Tabitha Mills' marriage were included above.
+Several documents pertaining to Emily Tabitha Mills' marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932), and her birth is presumably related to Emily T. Hunttting's death the same year. 
 
-I believe that it is Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) by her full middle name "Emily Huntting". She predeceased Emily Mills as the result of a strange accident with a bus in front of her home:
+I believe it is either Mary Emily Huntting (Smith) Cross (1875-1924) or [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".
 
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
 
-Partial genealogical data on the Mills and Thatcher families can be <a href="/genealogy-data.csv">downloaded here</a>. 
 

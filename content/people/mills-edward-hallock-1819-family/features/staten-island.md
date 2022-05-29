@@ -104,7 +104,7 @@ As already mentioned, Charles M. Pine and James Hillyer were listed as co-owners
 
 (James M. Hillyer is a presumed misprint of James A. Hillyer.)
 
-Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine. Charles Pine married Almira (sometimes spelled "Elmira", although "Almira" appears to be correct) Jane Loper in 1835 in South Hempstead, New York: 
+Further investigation is needed, but an obvious concrete question to explore is whether or not Charles M. Pine is related to Edward's wife Mary Ann, whose maiden name is Pine. Charles Pine married Elmira (sometimes spelled "Almira", although "Elmira" appears to be correct) Jane Loper in 1835 in South Hempstead, New York: 
 
 {{% fig "staten-island/1835-02-21-charles-pine" "700" /%}}
 
