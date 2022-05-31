@@ -18,11 +18,11 @@ Mary Ann (Pine) Mills, born 08 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookto
 
 {{% table "census-data.csv" "census-mary" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Mary" %}}
 
-Mary Ann Pine of Hempstead Long Island marries Edward Hallock Mills, then of Castleton Staten Island, on 29 Dec 1850:
+Mary Ann Pine of Hempstead Long Island married Edward Hallock Mills, then of Castleton Staten Island, on 29 Dec 1850:
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
-All of the Mills children were born in Staten Island, and by 1860, the family was living with Barlett Brown in a home adjoining a store Bartlett had recently purchased. The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime between 01 Sept 1862 and 01 May 1863, where  Edward opened a new general store E. H. Mills & Co. and Mary Ann became a member of the Presbyterian Church of Corfu.
+All of the Mills children were born in Staten Island, and by 1860, the family was living with Bartlett Brown in a home adjoining a store Bartlett had recently purchased. The family arrived in [Corfu NY]({{% ref "corfu-eh-mills-co" %}}) sometime between 01 Sept 1862 and 01 May 1863, where  Edward opened a new general store E. H. Mills & Co. and Mary Ann became a member of the Presbyterian Church of Corfu.
 
 [Horace]({{% ref "mills-horace-f-1854" %}}) committed suicide in Corfu in Oct 1876. 
 
@@ -44,3 +44,33 @@ Mary Ann's son Jonas died after a brief illness in Oct 1885:
 
  
 [Mary Ann](https://www.findagrave.com/memorial/75958702/mary-ann-mills) is interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu NY 14036.
+
+## The Pines
+
+When Edward married Hannah, the announcement in the Hempstead Sentinel states that Edward is "brother-in-law of the late Samuel M. Pine".
+
+{{% fig "1897-01-14-The-Sentinel-Hempstead-NY-p2" "500" /%}}
+
+According to [Samuel Mills Pine's](https://www.findagrave.com/memorial/180274612/samuel-mills-pine) entry on findagrave.com :
+
+<figure class="quote-only">
+<blockquote>
+Son of Nicholas Ludlow Pine and Rhoda Seaman, husband of Frances Gildersleeve and father of Frances Gertrude, Albert "Burt:, Mary Elizabeth, Lois Alma, and Nicholas Ludlow Pine.
+</blockquote>
+</figcaption>
+</figure>
+
+{{% fig "pine/1880-04-02-The-Long-Islander-Huntington-NY-p2" "500" /%}}
+
+Mary Ann and Samuel's parents are therefore [Nicholas Ludlow Pine](https://www.findagrave.com/memorial/108776395/nicholas-ludlow-pine) (? to 03 Sep 1828) and [Rhoda (Seaman) Pine](https://www.findagrave.com/memorial/108776309/rhoda-pine) (24 May 1786 to 26 Sep 1859).
+
+<figure class="quote-only">
+<blockquote>
+586.  Rhoda  Seaman,  born  May  24,  1786 ;  married  January 30,  1804,  Nicholas  Pine. 
+</blockquote>
+<figcaption>
+From "The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island" available at the <a href="https://archive.org/stream/seamanfamilyinam00seam/seamanfamilyinam00seam_djvu.txt">Internet Archive</a> and ancestry.com .
+
+</figcaption>
+</figure>
+

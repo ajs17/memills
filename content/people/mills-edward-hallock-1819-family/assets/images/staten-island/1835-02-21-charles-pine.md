@@ -1,5 +1,5 @@
 ---
-citation: "U.S., Newspaper Extractions from the Northeast, 1704-1930, ancestry.com."
+citation: "1835 Feb 21, Christian Intelligencer of the Reformed Dutch Church, Newspaper Extractions from the Northeast, 1704-1930, ancestry.com."
 notes: >-
 
     - [Charles M. Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897).

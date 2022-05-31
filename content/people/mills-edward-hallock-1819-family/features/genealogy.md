@@ -153,7 +153,13 @@ Alonzo's daughter [Sarah](https://www.findagrave.com/memorial/215406844/sarah-re
 
 {{% fig "long-island/1911-07-19-The-Times-Union-Brooklyn-NY-p24" "500" /%}}
 {{% fig "long-island/1911-08-02-The-Brooklyn-Daily-Eagle-Brooklyn-NY-p3" "500" /%}}
- 
+
+The "nine-months-old baby" is [Arthur A. Reddy](https://www.findagrave.com/memorial/173810137/arthur-a-reddy) (05 Nov 1910 to 15 Nov 1937) who also died at a young age, leaving behind a small child:
+
+{{% fig "1937-11-19-The-Long-Islander-Huntington-NY-p11" "500x500" "" "top" /%}}
+
+{{% fig "1942-05-07-The-Long-Islander-Huntington-NY-p4" "500" /%}}
+
 The last name listed as a possible heir in the Mills' home deeds, Mary Huntting Smith, is likely a reference to Emily's cousin, or perhaps a descendent of Emily's cousin:
   - Edward's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
   - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
@@ -161,7 +167,16 @@ The last name listed as a possible heir in the Mills' home deeds, Mary Huntting 
 
 Several documents pertaining to Emily Tabitha Mills' marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932), and her birth is presumably related to Emily T. Hunttting's death the same year. 
 
-I believe it is either Mary Emily Huntting (Smith) Cross (1875-1924) or [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".
+{{% fig "genealogy/1849-04-18-The-Corrector-Sag-Harbor-NY-p3" "500" /%}}
+
+{{% fig "genealogy/1898-11-05-The-Brooklyn-Daily-Eagle-Brooklyn-NY-p9" "500" /%}}
+
+<div class="cols">
+{{% fig "genealogy/1932-04-15-The-Messenger-Smithtown-NY-p5" "350" /%}}
+{{% fig "genealogy/1932-04-22-The-Long-Islander-Huntington-NY-p11"  "350" /%}}
+</div>
+
+I believe it is either [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932) or Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting". The latter was yet another family member to die in "an unusual accident": 
 
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}

@@ -108,7 +108,11 @@ Edward and Hannah joined the church just weeks before their wedding:
 
 {{% fig "1896-10-14-The-Ithaca-Daily-Journal-p6" "800" /%}}
 
-{{% fig "1897-01-07-The-Ithaca-Daily-Journal-p6" "800" /%}}
+<div class="cols">
+{{% fig "1897-01-07-The-Ithaca-Daily-Journal-p6" "350" /%}}
+{{% fig "1897-01-14-The-Sentinel-Hempstead-NY-p2" "350" /%}}
+</div>
+
 {{% fig "1897-03-18-ithaca-daily-journal" "500" /%}}
 
 {{% fig "1906-11-24-The-Ithaca-Daily-Journal-p6" "500" /%}}

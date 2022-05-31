@@ -3,9 +3,11 @@ title: "The Mills Family in Staten Island NY"
 weight: 4
 ---
 
-Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where all three Mills children were born. Here, Edward likely learned the grocery business from [Charles M. Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 8 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. 
+Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where all three Mills children were born. Here, Edward likely learned the grocery business from [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1811 or 1812 to 8 Oct 1897), who eventually co-owned E. H. Mills & Co. in Corfu. 
 
 <!--more-->
+
+(Charles' parents are [Charles L. Pine](https://www.findagrave.com/memorial/58487321/charles-l-pine) (1785 to Apr 1853) and Sarah Soper (1787 to ?).) 
 
 It appears the Mills lived in Staten Island throughout the 1850's, and Edward may have lived there for a significant time prior. When the Mills married in 1850, Edward is said to be "of Factoryville". 
 
@@ -108,6 +110,25 @@ Further investigation is needed, but an obvious concrete question to explore is 
 
 {{% fig "staten-island/1835-02-21-charles-pine" "700" /%}}
 
+Weekes, Seaman & Pine was a general store in Hempstead, possibly with some of the same partners as the previous firm of Weeks, Seaman & Co. a few years earlier in the same village:
+
+{{% fig "staten-island/1834-07-16-The-Long-Island-Farmer-and-Queens-County-Advertiser-p4" "500" /%}}
+<div class="cols">
+{{% fig "staten-island/1826-03-23-The-Long-Island-Farmer-and-Queens-County-Advertiser-p3" "350" /%}}
+{{% fig "staten-island/1826-10-05-The-Long-Island-Farmer-and-Queens-County-Advertiser-p3b" "350" /%}}
+</div>  
+
+Also note that Mary Ann's mother's maiden name is Seaman:
+
+<figure class="quote-only">
+<blockquote>
+586.  Rhoda  Seaman,  born  May  24,  1786 ;  married  January 30,  1804,  Nicholas  Pine. 
+</blockquote>
+<figcaption>
+From "The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island" available at the <a href="https://archive.org/stream/seamanfamilyinam00seam/seamanfamilyinam00seam_djvu.txt">Internet Archive</a> and ancestry.com .
+</figcaption>
+</figure>
+
 Charles lists himself as a merchant in Castleton in the 1850 Federal census, and James Hillyer lives with the Pine family, as a clerk, presumably in Charles' store. 
 
 {{% fig "staten-island/1850-us-census-castleton" "400" /%}}
@@ -202,9 +223,14 @@ Charles M. Pine was also one of the incorporators of The  Staten Island Savings 
 1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p671. Emphasis added.
 </figcaption>
 </figure>
+
+{{% fig "staten-island/01-1870-New-York-Tribune" "500" /%}}
+{{% fig "staten-island/1891-11-01-The-Sentinel-Hempstead-NY-p2" "500" /%}}
+{{% fig "staten-island/1892-03-12-The-Long-Islander-Huntington-NY-p" "500" /%}}
+{{% fig "staten-island/1897-10-09-The-New-York-Daily-Tribune-p7" "500" /%}}
+{{% fig "staten-island/1897-10-09-The-World-New-York-NY-p7" "500" /%}}
 {{% fig "staten-island/1914-02-06-The-New-York-Times-New-York-NY-p9" "500" /%}}
 {{% fig "staten-island/1925-03-21-The-Evening-Star-Washington-DC-p32" "500" /%}}
-
  
 Finally, here is some basic information on the Presbyterian churches on Staten Island in the 1886 edition of Webb's Consolidated Directory. Notice that Calvary was not established until after the Mills left Staten Island.  
 

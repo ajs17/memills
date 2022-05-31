@@ -11,7 +11,7 @@ notes: >-
 
   - [Myron N. Tompkins](https://www.findagrave.com/memorial/188088574/myron-n-tompkins) (1859 to 21 Mar 1911). 
 
-  - According to Wikipedia: “Bright's disease is a historical classification of kidney diseases that are described in modern medicine as acute or chronic nephritis. It was characterized by swelling and the presence of albumin in the urine, and was frequently accompanied by high blood pressure and heart disease. …It is now known that Bright's disease is caused by a wide and diverse range of kidney diseases; thus, the term Bright's disease is retained strictly for historical application. The disease was diagnosed frequently in diabetic patients; at least some of these cases would probably correspond to a modern diagnosis of diabetic nephropathy.”
+  - According to [Wikipedia](https://en.wikipedia.org/wiki/Bright%27s_disease): “Bright's disease is a historical classification of kidney diseases that are described in modern medicine as acute or chronic nephritis. It was characterized by swelling and the presence of albumin in the urine, and was frequently accompanied by high blood pressure and heart disease. …It is now known that Bright's disease is caused by a wide and diverse range of kidney diseases; thus, the term Bright's disease is retained strictly for historical application. The disease was diagnosed frequently in diabetic patients; at least some of these cases would probably correspond to a modern diagnosis of diabetic nephropathy.”
 ---
  
 Myron N. Tompkins Dead.

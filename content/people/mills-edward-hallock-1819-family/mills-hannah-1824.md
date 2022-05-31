@@ -66,7 +66,10 @@ Edward and Hannah joined the church just weeks before their wedding:
 
 {{% fig "1895-12-13-edward-hannah-join-church" "800" /%}}
 
-{{% fig "1897-01-07-The-Ithaca-Daily-Journal-p6" "500" /%}}
+<div class="cols">
+{{% fig "1897-01-07-The-Ithaca-Daily-Journal-p6" "350" /%}}
+{{% fig "1897-01-14-The-Sentinel-Hempstead-NY-p2" "350" /%}}
+</div>
 
 {{% fig "1908-12-17-The-Ithaca-Daily-Journal-p7" "500" /%}}
 
@@ -119,6 +122,9 @@ Hannah died 25 Feb 1917, and her funeral was held within the Mills' home. There 
 {{% fig "george-jansen-hannah-death-entry" "800" /%}}
 {{% fig "mills-hannah-cvcc-obit" "800" /%}}
 
+{{% fig "1917-02-24-The-Ithaca-Daily-News-Ithaca-NY-p2" "500" /%}}
+{{% fig "1917-02-25-The-Ithaca-Daily-News-Ithaca-NY-p5" "500" /%}}
+
 {{% fig "1917-02-26-ithaca-journal" "500" /%}}
 {{% fig "1917-02-27-ithaca-journal" "800" /%}}
 
@@ -170,7 +176,7 @@ As one would expect, George Jansen also noted that Hannah's step-son Cyrus Eastm
 {{% fig "1917-05-08-ithaca-journal" "500" /%}}
 {{% fig "1917-06-16-ithaca-journal" "800" /%}}
 
-[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca NY 14850, in the Thatcher family plot and is listed on the same marker as her parents, her sister, and her sister's husband:  
+[Hannah](https://www.findagrave.com/memorial/168944385/hannah-mills) is interred at Pleasant Grove Cemetery, 184 Pleasant Grove Rd, Ithaca NY 14850, in the Thatcher family plot, and is listed on the same marker as her parents, her sister, and her sister's husband:  
 
   - [Thomas Thatcher](https://www.findagrave.com/memorial/239203286/thomas-thatcher) (03 Jul 1785 to 17 Jun 1863), Hannah's father.
   
@@ -191,7 +197,7 @@ As I write this in Spring 2022, the Thatcher stone is badly weathered and diffic
 {{% fig "thatcher/grave-photos/use/thatcher-full" "800" /%}}
 {{% fig "thatcher/grave-photos/use/thatcher-zoomed" "500" /%}}
 
-It's likely the main stone has been moved somewhat, and the footstones realigned with it. According to the Pleasant Grove Cemetery records show below, William Vanderveere's stone is the one that appears to missing. 
+It's likely the main stone has been moved somewhat, and the footstones realigned with it. According to the Pleasant Grove Cemetery records shown below, William Vanderveere's stone is the one that appears to missing. 
 
 {{% fig "thatcher/grave-photos/use/pleasant-grove-record" "800" /%}}
 
@@ -314,19 +320,10 @@ And the 1860 federal census shows William Vanderveere working as a farm laborer 
 
 <figure class="quote-only">
 <blockquote>
-Dr. W. A. Smith's full name was Dr. William Addison Smith and he lived up South St., now called Shaffer Rd. on the right I think a short distance behind the Tioga State Bank.  I know his full name as I remember the old folks calling him William Addison Smith.  He and his wife, Minnie A. are buried over in the Laurel Hill Cemetery east of Odessa in the Town of Catharine.  His stone reads William A. Smith, M. D., blank - 1934.  His wife Minnie A. reads, blank - 1936 and Anna E. Smith 1877 - 1960. Anna's grave marker is right next to the grave marker for Dr. Smith and his wife Minnie.   
+Dr. W. A. Smith's full name was Dr. William Addison Smith and he lived up South St., now called Shaffer Rd. on the right I think a short distance behind the Tioga State Bank.  I know his full name as I remember the old folks calling him William Addison Smith.  He and his wife, Minnie A. are buried over in the Laurel Hill Cemetery east of Odessa in the Town of Catharine.  His stone reads William A. Smith, M. D., blank - 1934.  His wife Minnie A. reads, blank - 1936 and Anna E. Smith 1877 - 1960. Anna's grave marker is right next to the grave marker for Dr. Smith and his wife Minnie.  ...Dr. William Addison Smith's father was George Addison Smith, 1835 - 1911 who is also buried in Laurel Hill Cemetery over in the Town of Catharine
 </blockquote>
 <figcaption>
 — <cite>22 Apr 2022, personal correspondence with Alan Chaffee, Historian, Newfield NY.</cite>
-</figcaption>
-</figure>
-
-<figure class="quote-only">
-<blockquote>
-Dr. William Addison Smith's father was George Addison Smith, 1835 - 1911 who is also buried in Laurel Hill Cemetery over in the Town of Catharine
-</blockquote>
-<figcaption>
-— <cite>25 Apr 2022, personal correspondence with Alan Chaffee, Historian, Newfield NY.</cite>
 </figcaption>
 </figure>
 
@@ -339,6 +336,8 @@ Dr. William Addison Smith's father was George Addison Smith, 1835 - 1911 who is 
 
 
 ## Notes for Future Researchers
+
+As I write this, I have contacted several living descendants of David Thatcher, and Joan Taber of Newfield appears to be the one with the greatest knowledge of the family history, having preserved many artifacts and performed her own research over the years. At one time, she thought she may have had a photo of David Thatcher, and she also believes she has some Eastman materials. According to Joan and another descendant, there are family anecdotes about Thomas Thatcher ringing the church bells in England, and there are references in their documents to a "Mercy Thatcher" although nobody seems to know who this person might be exactly. 
 
 Charles Eastman had a daughter [Hannah (Eastman) Meaker](https://www.findagrave.com/memorial/80753410/hannah-meaker) (15 May 1843 to 20 Dec 1881), who appears to be Cyrus' twin sister and wife of George M. Meaker. George M. Meaker's parents are [Reuben E. Meaker](https://www.findagrave.com/memorial/80752505/reuben-e-meaker) (1823 to 09 Jun 1894) and [Elsie (Briggs) Meaker](https://www.findagrave.com/memorial/80752649/elsie-meaker) (1824 to 09 Mar 1893). Hannah and George's children include two daughters, [Mamie Elsie (Meaker) Crance](https://www.findagrave.com/memorial/187482089/mame-crance) (15 Jan 1873 to 13 Oct 1955) and [Ida Adelia (Meaker) Husted](https://www.findagrave.com/memorial/231453734/ida-adelia-husted) (21 Jul 1878 to 08 Jul 1958) 
 
