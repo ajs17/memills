@@ -7,6 +7,10 @@ voltitle:  "The Long Islander"
 publocation:  "Huntington  NY"
 pages:  "11"
 source:  "nyshistoricnewspapers.org"
+notes: >-
+
+  - [William Reddy](https://www.findagrave.com/memorial/174572034/william-reddy) (? to 13 May 1920), Arthur's father.
+
 ---
 TWO STATE TROOPERS INSTANTLY KILLED AS CAR OVERTURNS 
 

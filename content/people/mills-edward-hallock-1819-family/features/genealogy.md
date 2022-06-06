@@ -99,6 +99,7 @@ Notes:
   - Jonas Davis Mills and Mary Platt Mills may be related, although I have yet to follow up on this. 
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence, 21 Jul 2021)
+  - According to [this site](https://www.wikitree.com/wiki/Hallock-2194) Mary (Hallock) Mills was born in Mills Pond and "is interred at the Old Cemetery, Smithtown, Suffolk, NY." This source also confirms that her father is Thomas and gives his birth year at 1775.
   - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over decade before Emily was born. 
 
 Several of the marriages above and below are referenced, if not corroborated, in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:

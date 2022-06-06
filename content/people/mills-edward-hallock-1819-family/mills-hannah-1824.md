@@ -21,9 +21,10 @@ Hannah immigrated with her parents and siblings from the "Parish of Hawkhurst in
 
 Hannah's first marriage was to [Charles Eastman](https://www.findagrave.com/memorial/99264784/charles-c-eastman) (05 Aug 1807 to 22 May 1890), a prominent farmer in Danby. This was Charles' second marriage after the death of his first wife, and the mother of all of his children, [Polly (Coy) Eastman](https://www.findagrave.com/memorial/99264890/polly-eastman) (14 Feb 1808 to 03 Dec 1862).
 
-{{% fig "1876-07-19-The-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
-{{% fig "1896-07-24-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "500" /%}}
-
+<!-- {{/* fig "1876-07-19-The-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" */}}
+{{/* fig "1896-07-24-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "500" */}}
+-->
+ 
 Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward Mills' marriage to Hannah and identifies Edward's parents:
 
 <figure class="quote-only">
@@ -342,7 +343,7 @@ As I write this, I have contacted several living descendants of David Thatcher, 
 Charles Eastman had a daughter [Hannah (Eastman) Meaker](https://www.findagrave.com/memorial/80753410/hannah-meaker) (15 May 1843 to 20 Dec 1881), who appears to be Cyrus' twin sister and wife of George M. Meaker. George M. Meaker's parents are [Reuben E. Meaker](https://www.findagrave.com/memorial/80752505/reuben-e-meaker) (1823 to 09 Jun 1894) and [Elsie (Briggs) Meaker](https://www.findagrave.com/memorial/80752649/elsie-meaker) (1824 to 09 Mar 1893). Hannah and George's children include two daughters, [Mamie Elsie (Meaker) Crance](https://www.findagrave.com/memorial/187482089/mame-crance) (15 Jan 1873 to 13 Oct 1955) and [Ida Adelia (Meaker) Husted](https://www.findagrave.com/memorial/231453734/ida-adelia-husted) (21 Jul 1878 to 08 Jul 1958) 
 
 
-There is another Hannah Eastman in Caroline at this time: [Hannah V. (Smith) Eastman](https://www.findagrave.com/memorial/91574581/hannah-v-eastman) (1826 to 05 Feb 1892) who was married to [Reuben B. Eastman](https://www.findagrave.com/memorial/91575045/reuben-b-eastman) (Jun 1829 to 15 Nov 1913). Both had property in their names in Danby and Caroline. 
+There is another Hannah Eastman in Caroline at this time: [Hannah V. (Smith) Eastman](https://www.findagrave.com/memorial/91574581/hannah-v-eastman) (1826 to 05 Feb 1892) who was married to [Reuben B. Eastman](https://www.findagrave.com/memorial/91575045/reuben-b-eastman) (Jun 1829 to 15 Nov 1913), Charles C. Eastman's brother. Both Reuben and his wife Hannah had property in their names in Danby and Caroline. 
 
 
 

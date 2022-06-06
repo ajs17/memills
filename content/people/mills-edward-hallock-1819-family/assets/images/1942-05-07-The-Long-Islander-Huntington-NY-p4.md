@@ -7,6 +7,9 @@ voltitle:  "The Long Islander"
 publocation:  "Huntington  NY"
 pages:  "4"
 source:  "nyshistoricnewspapers.org"
+notes: >-
+
+  - The Firefighters Association of the State of New York (FASNY) [Firemen's Home](https://firemenshome.com/about/) in Hudson NY "is dedicated to providing a home-like setting and personalized care for those volunteer firefighters who have served their communities, but can no longer care for themselves. ... By 1934, there were 168 Home members. Going into 1940, as the effects of the Great Depression were being felt across the world, there were 192 Home members. In 1941, FASNY purchased an adjacent 120-acre farm. The Firemen’s Home now had over 300 acres under cultivation with Home members doing much of the agricultural labor. The farming operations ended in 1967 with the sale of all the equipment and livestock."
 ---
 Alonzo W. Mills 
 
