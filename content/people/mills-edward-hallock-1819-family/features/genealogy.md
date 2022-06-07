@@ -162,8 +162,8 @@ The "nine-months-old baby" is [Arthur A. Reddy](https://www.findagrave.com/memor
 {{% fig "1942-05-07-The-Long-Islander-Huntington-NY-p4" "500" /%}}
 
 The last name listed as a possible heir in the Mills' home deeds, Mary Huntting Smith, is likely a reference to Emily's cousin, or perhaps a descendent of Emily's cousin:
-  - Edward's sister [Emily Tabitha (Mills) Huntting](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) (1821 to 1849) married [John Smith Huntting](https://www.findagrave.com/memorial/23991462/john-smith-huntting) (1817–1893), 
-  - their child [Mary Halliock (Huntting) Smith](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) (1845–1938), named after their Grandmother, married [Henry Chatfield Smith](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith) (1843 to 1896),
+  - Edward's sister [Emily Tabitha (Mills) Huntting](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) (1821 to 1849) married [John Smith Huntting](https://www.findagrave.com/memorial/23991462/john-smith-huntting) (1817 to 1893), 
+  - their child [Mary Halliock (Huntting) Smith](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) (1845 to 1938), named after their Grandmother, married [Henry Chatfield Smith](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith) (1843 to 1896),
   - their child [Mary Emily Huntting (Smith) Cross](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross) (1875 to 1924), married: James M. Cross.
 
 Several documents pertaining to Emily Tabitha Mills' marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932), and her birth is presumably related to Emily T. Hunttting's death the same year. 
