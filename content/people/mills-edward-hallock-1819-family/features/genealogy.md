@@ -150,7 +150,7 @@ And the 1900 census is worth highlighting for the density of information it cont
 
 {{% fig "long-island/1900-us-census-huntington-mills" "800" /%}}
 
-Alonzo's daughter [Sarah](https://www.findagrave.com/memorial/215406844/sarah-reddy) (18 Jun 1883 to 02 Aug 1911)—Emily's neice—died in a gruesome accident. Understandably, her gravestone has inscribed “I have suffered”.
+Alonzo's daughter [Sarah](https://www.findagrave.com/memorial/215406844/sarah-reddy) (18 Jun 1883 to 02 Aug 1911)—Emily's neice—died in a gruesome accident. Understandably, her gravestone is inscribed “I have suffered”.
 
 {{% fig "long-island/1911-07-19-The-Times-Union-Brooklyn-NY-p24" "500" /%}}
 {{% fig "long-island/1911-08-02-The-Brooklyn-Daily-Eagle-Brooklyn-NY-p3" "500" /%}}
@@ -162,9 +162,9 @@ The "nine-months-old baby" is [Arthur A. Reddy](https://www.findagrave.com/memor
 {{% fig "1942-05-07-The-Long-Islander-Huntington-NY-p4" "500" /%}}
 
 The last name listed as a possible heir in the Mills' home deeds, Mary Huntting Smith, is likely a reference to Emily's cousin, or perhaps a descendent of Emily's cousin:
-  - Edward's sister [Emily Tabitha (Mills) Huntting (1821–1849)](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) married [John Smith Huntting (1817–1893)](https://www.findagrave.com/memorial/23991462/john-smith-huntting),
-  - their child [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith), named after their Grandmother, married [Henry Chatfield Smith (1843–1896)](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith),
-  - their child [Mary Emily Huntting (Smith) Cross (1875-1924)](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross), married: James M. Cross.
+  - Edward's sister [Emily Tabitha (Mills) Huntting](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) (1821 to 1849) married [John Smith Huntting](https://www.findagrave.com/memorial/23991462/john-smith-huntting) (1817–1893), 
+  - their child [Mary Halliock (Huntting) Smith](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) (1845–1938), named after their Grandmother, married [Henry Chatfield Smith](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith) (1843 to 1896),
+  - their child [Mary Emily Huntting (Smith) Cross](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross) (1875 to 1924), married: James M. Cross.
 
 Several documents pertaining to Emily Tabitha Mills' marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932), and her birth is presumably related to Emily T. Hunttting's death the same year. 
 
@@ -177,7 +177,7 @@ Several documents pertaining to Emily Tabitha Mills' marriage were included abov
 {{% fig "genealogy/1932-04-22-The-Long-Islander-Huntington-NY-p11"  "350" /%}}
 </div>
 
-I believe it is either [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932) or Mary Emily Huntting (Smith) Cross (1875-1924) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting". The latter was yet another family member to die in "an unusual accident": 
+I believe it is [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".  Her sister, [Mary Emily Huntting (Smith) Cross](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross) (1875-1924) was yet another family member to die in "an unusual accident": 
 
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
