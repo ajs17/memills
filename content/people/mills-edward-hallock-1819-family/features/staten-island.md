@@ -112,10 +112,10 @@ Further investigation is needed, but an obvious concrete question to explore is 
 
 Weekes, Seaman & Pine was a general store in Hempstead, possibly with some of the same partners as the previous firm of Weeks, Seaman & Co. a few years earlier in the same village:
 
-{{% fig "staten-island/1834-07-16-The-Long-Island-Farmer-and-Queens-County-Advertiser-p4" "500" /%}}
+{{% fig "staten-island/1834-07-16-The-Long-Island-Farmer-p4" "500" /%}}
 <div class="cols">
-{{% fig "staten-island/1826-03-23-The-Long-Island-Farmer-and-Queens-County-Advertiser-p3" "350" /%}}
-{{% fig "staten-island/1826-10-05-The-Long-Island-Farmer-and-Queens-County-Advertiser-p3b" "350" /%}}
+{{% fig "staten-island/1826-03-23-The-Long-Island-Farmer-p3" "350" /%}}
+{{% fig "staten-island/1826-10-05-The-Long-Island-Farmer-p3b" "350" /%}}
 </div>  
 
 Also note that Mary Ann's mother's maiden name is Seaman:
