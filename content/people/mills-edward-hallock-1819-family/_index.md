@@ -80,9 +80,12 @@ The source documents are:
 Hannah's entries as an Eastman:
 
 <div class="cols">
-{{% fig "census/1870-us-census-danby-eastman" "500" /%}}
-{{% fig "census/1880-nys-census-danby" "500" /%}}
-{{% fig "census/1892-nys-census-danby" "500" /%}}
+{{% fig "census/1865-nys-census" "250" /%}}
+{{% fig "census/1870-us-census-danby-eastman" "250" /%}}
+</div>
+<div class="cols">
+{{% fig "census/1880-nys-census-danby" "250" /%}}
+{{% fig "census/1892-nys-census-danby" "250" /%}}
 </div>
 
 

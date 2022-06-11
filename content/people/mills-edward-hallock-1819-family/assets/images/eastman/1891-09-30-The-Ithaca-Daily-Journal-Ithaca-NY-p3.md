@@ -10,17 +10,17 @@ source:  "nyshistoricnewspapers.org."
 ---
 ...The following estates have been judicially settled: 
 
-    - Charles Labar, late of Dryden. 
+  - Charles Labar, late of Dryden. 
 
-    - Francis A. Bates, late of Caroline. 
+  - Francis A. Bates, late of Caroline. 
 
-    - Floretta B. Smith, late of Groton. 
+  - Floretta B. Smith, late of Groton. 
 
-    - Eliza O. Hazen, late of Ithaca. 
+  - Eliza O. Hazen, late of Ithaca. 
 
-    - David B. Torrey, late of Caroline. 
+  - David B. Torrey, late of Caroline. 
 
-    - Jared 8, Halsey, late of Ulysses. 
+  - Jared 8, Halsey, late of Ulysses. 
 
-    - Charles C. Eastman, late of Caroline.
+  - Charles C. Eastman, late of Caroline.
 

@@ -115,6 +115,23 @@ Edward and Hannah joined the church just weeks before their wedding:
 
 {{% fig "1897-03-18-ithaca-daily-journal" "500" /%}}
 
+The following, taken from the sales journals of [E. H. Mills]({{% ref "me-mills" %}}) general store in Brookton, seems to indicate the family purchased a barn on 23 Sep 1907 and rented it to John Roe for $0.50 a month starting in 1908. I have not found a deed that corresponds to this date in the deed indexes for Caroline or Danby that are preserved by the Tompkins County Clerk. Interestingly, there is a real estate transaction between Amanda Lounsbery and John Roe earlier in 1907, that is perhaps related to the barn rental: 
+
+<div class="cols">
+{{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
+{{% fig "mills-home/deeds-164-253-lounsbery-roe" "800" /%}}
+</div>
+
+Edward also lent money to Samuel Onan and his wife for a land purchase, later transferring it to Culver Little, Edward Lounsbery's brother-in-law:
+
+{{% fig "edward-other/mortgagee-index-p38-001" "800" /%}}
+<div class="cols">
+{{% fig "edward-other/mortgates-book-93-page-196-001" "250" /%}}
+{{% fig "edward-other/mortgates-book-93-page-196-002" "250" /%}}
+{{% fig "edward-other/mortgates-book-93-page-196-003" "250" /%}}
+</div>
+{{% fig "edward-other/1898-02-22-mills-edward-to-culver-little" "800"  /%}}
+
 {{% fig "1906-11-24-The-Ithaca-Daily-Journal-p6" "500" /%}}
 
 Emily officially joined the church rolls in the months immediately following Edward's illness. Emily is the first to note Edward's death in the sales journal of E. H. Mills general store, on an otherwise normal day of the store's operation:
@@ -137,11 +154,6 @@ Emily officially joined the church rolls in the months immediately following Edw
 
 ## Notes for Future Researchers
 
-Edward seems to have been engaged in other work aside from the store and post office, or possibly working on behalf of Edward Lounsbery, as evidenced by the following:
-
-{{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
-
-{{% fig "1898-02-22-mills-edward-to-culver-little" "800"  /%}}
 
 There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversville NY in the 1880's that was a "knitting factory" and one that is written about in some detail in local historical accounts. This appears to be a completely different family, based in part on the following city directories that list family members associated with this business who are unaccounted for in the Mills Genealogy and are not documented in anything else that I have seen on Mills family. 
 
@@ -156,5 +168,6 @@ Edward Hallock's family are accounted for in the same census in Genesee County:
  
 {{% fig "census/census-1875a-nys" "800" /%}}
  
+
 
 

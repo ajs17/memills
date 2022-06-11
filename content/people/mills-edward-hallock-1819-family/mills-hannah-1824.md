@@ -300,12 +300,14 @@ Hannah's immigration information is based on naturalization documents of her bro
 Elizabeth Vanderveere appears to be Hannah's sister, based on the following data points:
 
   - The 16 Oct 1850 United States Federal census shows the Thatcher family in Newfield with a 21 year old woman named Elizabeth. The age and birthplace are consistent with this being the Thomas and Elizabeth's daughter, and matches the age of Elizabeth Vanderveere.
+  - The 01 Jun 1865 New York State Census shows Hannah and Charles living with 36 year old Elizabeth Thatcher, identified as "sister in law" and 75 year old Elizabeth Thatcher identified as "mother in law".
   - The 04 Aug 1870 United States Federal census shows William and Elizabeth Vanderveere living with the widowed Elizabeth (Crosby) Thatcher. Both Elizabeth Thatcher and Elizabeth Vanderveere list England as their birthplace.
   - And obviously, the Vanderveere's are buried in the Thatcher family plot. 
 
 <div class="cols">
-{{% fig "thatcher/census/census-1850-us-thatcher" "350" /%}}
-{{% fig "thatcher/census/census-1870-us-thatcher" "350" /%}}
+{{% fig "thatcher/census/census-1850-us-thatcher" "250" /%}}
+{{% fig "census/1865-nys-census" "250" /%}}
+{{% fig "thatcher/census/census-1870-us-thatcher" "250" /%}}
 </div>
 
 Sometime between 1850 and 1855, David Thatcher married Agnes Tannahill, and along with his parents, moved to Catharine NY. 
@@ -335,15 +337,23 @@ Dr. W. A. Smith's full name was Dr. William Addison Smith and he lived up South 
 {{% fig "thatcher/1963-06-09-The-Post-Standard-Syracuse-NY-p106" "500" /%}}
 {{% fig "thatcher/1963-06-10-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
 
-
-## Notes for Future Researchers
-
 As I write this, I have contacted several living descendants of David Thatcher, and Joan Taber of Newfield appears to be the one with the greatest knowledge of the family history, having preserved many artifacts and performed her own research over the years. At one time, she thought she may have had a photo of David Thatcher, and she also believes she has some Eastman materials. According to Joan and another descendant, there are family anecdotes about Thomas Thatcher ringing the church bells in England, and there are references in their documents to a "Mercy Thatcher" although nobody seems to know who this person might be exactly. 
+
+## The Eastmans
 
 Charles Eastman had a daughter [Hannah (Eastman) Meaker](https://www.findagrave.com/memorial/80753410/hannah-meaker) (15 May 1843 to 20 Dec 1881), who appears to be Cyrus' twin sister and wife of George M. Meaker. George M. Meaker's parents are [Reuben E. Meaker](https://www.findagrave.com/memorial/80752505/reuben-e-meaker) (1823 to 09 Jun 1894) and [Elsie (Briggs) Meaker](https://www.findagrave.com/memorial/80752649/elsie-meaker) (1824 to 09 Mar 1893). Hannah and George's children include two daughters, [Mamie Elsie (Meaker) Crance](https://www.findagrave.com/memorial/187482089/mame-crance) (15 Jan 1873 to 13 Oct 1955) and [Ida Adelia (Meaker) Husted](https://www.findagrave.com/memorial/231453734/ida-adelia-husted) (21 Jul 1878 to 08 Jul 1958) 
 
-
 There is another Hannah Eastman in Caroline at this time: [Hannah V. (Smith) Eastman](https://www.findagrave.com/memorial/91574581/hannah-v-eastman) (1826 to 05 Feb 1892) who was married to [Reuben B. Eastman](https://www.findagrave.com/memorial/91575045/reuben-b-eastman) (Jun 1829 to 15 Nov 1913), Charles C. Eastman's brother. Both Reuben and his wife Hannah had property in their names in Danby and Caroline. 
 
+Charles C. Eastman had a son [Charles Henry Eastman](https://www.findagrave.com/memorial/116398712/charles-henry-eastman), so references to "Mrs. Charles Eastman" may also need to be disambiguated. As evidenced by the deeds below, Charles Henry Eastman's family moved from Danby to Michigan by 1891.
 
+All that in mind, I believe all of the deeds that follow are referencing Hannah Mills:
 
+{{% fig "1876-07-19-The-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
+{{% fig "eastman/deeds/danby-deeds-book-2-page-442-001" "800" /%}}
+{{% fig "eastman/deeds/danby-deeds-book-2-page-442-002" "800" /%}}
+{{% fig "eastman/deeds/deeds-book-135-page-453-001" "800" /%}}
+{{% fig "eastman/deeds/deeds-book-136-page-516-001" "800" /%}}
+{{% fig "eastman/deeds/deeds-book-136-page-516-002" "800" /%}}
+{{% fig "eastman/1891-09-30-The-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "eastman/deeds/deeds-book-139-page-88-001" "800" /%}}

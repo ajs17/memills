@@ -7,7 +7,7 @@ Although there is likely no direct connection between the two families, it is in
 
 <!--more-->
 
-The most appears to be known about [William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901), a prominent farmer in Danby who is closely associated with Thomas H. Howell, of Howell Brothers general store, also in Danby. Intriguingly, Hallock and Howell would eventually partner on a dry goods store Willseyville.
+The most appears to be known about [William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901), a prominent farmer in Danby who is closely associated with Thomas H. Howell, of Howell Brothers general store, also in Danby. Intriguingly, Hallock and Howell would eventually partner on a dry goods store in Willseyville.
 
 What follows is a sampling of some of the more interesting news items related to William Hallock.
 
@@ -20,7 +20,7 @@ What follows is a sampling of some of the more interesting news items related to
 {{% fig "caroline-hallocks/1877-06-07-The-Ithaca-Journal-p4" "500" /%}}
 {{% fig "caroline-hallocks/1901-04-04-The-Ithaca-Daily-Journal-p5" "500" /%}}
 
-William Hallock owned considerable lands in the town of Caroline at a time when the Mills were living in Corfu:
+William Hallock owned considerable lands in the town of Caroline at a time when the Mills were living in Corfu, for example:
 
 <div class="cols">
 {{% fig "caroline-hallocks/CAROLINE-DEEDS-1-258" "350" /%}}
