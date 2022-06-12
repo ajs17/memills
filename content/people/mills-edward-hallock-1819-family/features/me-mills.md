@@ -3,7 +3,7 @@ title: "E. H. Mills and M. E. Mills General Stores"
 weight: 1
 ---
 
-After moving to Mott's Corners in Mar 1889, Edward restarted his general store on his own, now simply called E. H. Mills. Both Jonas and Emily clerked at E. H. Mills. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jesse Brewer took over the store and ran it under her name for many years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road. At present, the location is commonly known as "the old postoffice". 
+After moving to Mott's Corners in Mar 1889, Edward restarted his general store on his own, now simply called E. H. Mills. Both Jonas and Emily clerked at E. H. Mills. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jesse Brewer took over the store and ran it under her name for many years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road.
 
 <!--more-->
 
@@ -12,12 +12,22 @@ Mills' store, Summer 2021:
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "800" /%}}
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southwest" "800" /%}}
 
-Long-time community members call this building "the old post office" referring to when it was used as such after it was M. E. Mills and then Jesse Brewer's store. But the post office had also been in that building many years prior, moving there when Edward Mills became postmaster. It appears George Richardson was an employee of Edward's, as he is never identified as postmaster in the USPS records:
+Long-time community members call this building "the old post office" referring to when it was used as such after it was M. E. Mills and then Jesse Brewer's store. But the post office had also been in that building many years prior, moving there when Edward Mills became postmaster. 
 
 <div class="cols">
 {{% fig "1885-08-13-Ithaca-Daily-Journal-p3" "350" /%}}
 {{% fig "1887-05-27-The-Ithaca-Daily-Journal-p3" "350" /%}}
 </div>
+
+It appears [George Richardson](https://www.findagrave.com/memorial/189275611/george-h-richardson) (1862 to 26 Feb 1938) was an employee of Edward's, as he is never identified as the official postmaster in the USPS records. George also appears to be yet another person who was mentored in the grocery business and eventually began his own store.
+
+
+{{% fig "george-richardson/1897-05-01-The-Ithaca-Daily-Journal-Ithaca-NY-p8" "500" /%}}
+<div class="cols">
+{{% fig "george-richardson/1903-07-06-The-Ithaca-Daily-Journal-Ithaca-NY-p5" "350" /%}}
+{{% fig "george-richardson/1903-07-24-The-Ithaca-Daily-Journal-Ithaca-NY-p5" "350" /%}}
+</div>
+{{% fig "george-richardson/1905-04-26-The-Ithaca-Daily-Journal-Ithaca-NY-p5" "500" /%}}
 
 It seems likely Mills' store was always in this building. The following are some of the earliest references to Mills' store, detailing misadventures that took place while Emily was known to be a "clerk" at the store:
 
@@ -39,7 +49,7 @@ Interestingly, the oldest of the volumes, labeled "No. 41" is the most important
 {{% fig "me-mills/1908-records-high-res" "800" /%}}
 {{% fig "me-mills/1908-records-high-res-lower-third" "800" /%}}
 
-The "Mills Family a/c" pages show the Mills' business expenses, mostly paying for store inventory. In these earlier books, this information was at the end of the book, starting with the inside back cover and progressed toward the front over time, whereas retail sales, including what the family themselves took out of the store, were entered in the books in the normal order.
+The "Mills Family a/c" pages show the Mills' business expenses, mostly paying for store inventory. In these earlier books, this information was at the end of the book, starting with the inside back cover and progressed toward the front over time, whereas retail sales, including what the family themselves took out of the store, were entered in the books in the normal order, starting from the front and working toward the back.
 
 The Mills Family account in the months following Edward's death: 
 
@@ -79,7 +89,7 @@ In the 1920's, more sophisticated business records emerge, both new types of rec
   {{% fig "me-mills/1927-02-01-record-of-cash-payments" "350" /%}}
 </div>
 
-As Molly Adams wrote in her "Note", Emily began aggressively advertising the newly branded store in 1909. She advertised perhaps dozens of times in the Ithaca Daily Journal alongside the Vorhis Mill and the meat market that is attributed at one time to Clarence Wheeler, someone mentioned many times in the journals of George Jansen. The first such advertisement I could find was in the 29 Mar 1909 edition, and the last was on 30 Jun 1910. What follows are a sample of some of them, many of which were repeated for weeks at a time, and they give us a good sense of the diverse products offered in the small country store:
+As Molly Adams wrote in her "Note", Emily began aggressively advertising the newly branded store in 1909. She advertised perhaps dozens of times in the Ithaca Daily Journal alongside the Vorhis Mill and the meat market that is attributed at one time to Clarence Wheeler, someone mentioned many times in the journals of George Jansen. The first such advertisement I could find was in the 29 Mar 1909 edition (exactly 30 years after the Mills moved to Motts Corners), and the last was on 30 Jun 1910. What follows are a sample of some of them, many of which were repeated for weeks at a time, and they provide a good sense of the diverse products offered in the small country store:
 
 {{% fig "1909-03-29-The-Ithaca-Daily-Journal-p9" "500" /%}}
 <div class="cols">
@@ -94,7 +104,7 @@ As Molly Adams wrote in her "Note", Emily began aggressively advertising the new
 {{% fig "1909-10-13-The-Ithaca-Daily-Journal-p9" "350" /%}}
 {{% fig "1909-11-04-The-Ithaca-Daily-Journal-p9" "350" /%}}
 </div>
-{{% fig "1910-06-30-The-Ithaca-Daily-Journal-p9" "350" /%}}
+{{% fig "1910-06-30-The-Ithaca-Daily-Journal-p9" "500" /%}}
 
 In The Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village" M. E. Mills is listed as a "present merchant".
 
@@ -185,12 +195,12 @@ And in the following, Molly Adams seems to indicate "at the store" refers to wha
 <blockquote class="quote-only">
 <p>...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mills's store had been. 
 </p>  
-<p>— Molly Adams, "Town of Caroline" in *The Towns of Tompkins County: From Podunk to the Magnetic Springs* edited by Jane Marsh Dieckmann, p63
+<p>— Molly Adams, "Town of Caroline" in <strong>The Towns of Tompkins County: From Podunk to the Magnetic Springs</strong> edited by Jane Marsh Dieckmann, p63
 </p>
 </blockquote>
 
 {{% fig "1935-07-31-The-Ithaca-Journal-p14" "500" /%}}
-{{% fig "1935-11-23-The-Ithaca-Journal-p5" "500x500" "" "top" /%}}
+{{% fig "1935-11-23-The-Ithaca-Journal-p5" "800x840" "" "top" /%}}
 
 The memorial, presumably with the text provided by the professor, currently sits outside of Dalebrook Apartments, near the southwest corner of the structure, directly across the street from the former location of Mills' store, and facing the former Lockwood residence. There is also a bronze sundial on top of the stone (not visible in the photo) that appears to have been attached along with the tablet.  
 
