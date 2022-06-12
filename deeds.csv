@@ -1,28 +1,10 @@
 property,instrument-num,book,book-num,page-num,document-date,recorded-date,first-party,second-party,amount
-Mills Home,na,Caroline Deeds,1,572,1869-05-22,1869-11-27,Jacob Vandemark and Charles W. Personius,William B. Wolcott,100
-,,,5,70,1883-01-01,,William B. Wolcott,g,
-,,,5,138,1885-01-01,,Horace N. Humiston,Esther C. Vorhis,
-Mills Home,BF169473-001,Deeds,138,329,1891-06-01,1891-06-01,Esther C. Vorhis and Frank C. Vorhis,Edward Lounsbery,800
+Mills Home,na,Caroline Deeds,1,572,1869-05-22,1869-11-27,"Jacob Vandemark, Charles W. Personius & Marcie E. his wife",William B. Wolcott,100
+Mills Home,na,Caroline Deeds,5,70,1883-10-23,1883-11-10,"William B. Wolcott and Ellen Wolcott, his wife",Horace N. Humiston senior,830
+Mills Home,na,Caroline Deeds,5,138,1885-01-01,1885-04-11,Horace N. Humiston,Esther C. Vorhis,830
+Mills Home,BF169473-001,Deeds,138,329,1891-06-13,1891-06-30,Esther C. Vorhis and Frank C. Vorhis,Edward Lounsbery,800
 Mills Home,BF163267-001,Deeds,157,593,1903-01-05,1903-02-13,Edward Lounsbery and Amanda S. Lounsbery,Edward H. Mills,800
-Mills Home,scanned paper copy,Deeds,172,306,1909-07-21,1909-07-30,Hannah Mills and M. Emily Mills ,Fordyce A. Cobb,1
-Mills Home,scanned paper copy,Deeds,171,44,1909-07-21,1909-07-30,"Fordyce A. Cobb, a single man","Hannah Mills and M. Emilly Mills as joint tenants, survirvor to take the whole",1
-Mills Home,scanned paper copy,Deeds,248,238,1938-07-31,1938-08-02,"Charles E. Thomas as Administrator of Goods, Chattels and credits of Mary Emily Mills, deceased","Lewis Brewer and Jessie Brewer, his wife, as tenants by the entirety, the survivor to take the whole",900
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,1
-,,,,,,,,,1
-,,,,,,,,,1
+Mills Home,na,Deeds,172,306,1909-07-21,1909-07-30,Hannah Mills and M. Emily Mills ,Fordyce A. Cobb,1
+Mills Home,na,Deeds,171,44,1909-07-21,1909-07-30,"Fordyce A. Cobb, a single man","Hannah Mills and M. Emilly Mills as joint tenants, survirvor to take the whole",1
+Mills Home,BF106540-001,Deeds,248,238,1938-07-31,1938-08-02,"Charles E. Thomas as Administrator of Goods, Chattels and credits of Mary Emily Mills, deceased","Lewis Brewer and Jessie Brewer, his wife, as tenants by the entirety, the survivor to take the whole",900
+Dalebrook,,,,,,,,,
