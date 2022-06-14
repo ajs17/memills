@@ -8,6 +8,18 @@ Edward H. Mills' ancestors were early settlers of Edward's birthplace, the Town 
 
 <!--more-->
 
+
+<figure class="quote-only">
+<blockquote>
+TIMOTHY MILLS<sup>3</sup> (Samuel<sup>2</sup>) born at Jamaica in 1667, was the pregenitor fo the Suffolk Co. Mills and moved to that part of the Smithtown since called Mills Pond in 1693. …The settlement of Mills Pond is a collection of dignfied old houses surrounded by a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor." 
+</blockquote>
+<figcaption>
+<cite>— Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island p105, Logan Utah FamilySearch Library, familysearch.org.
+</cite>
+</figcaption>
+</figure>
+
+
 The original Mills family home built by Timothy Mills still exists today "to exhibit the artwork of regional and national artists. The arts council also holds art classes and special events for residents of all ages." ([Mills Pond Gallery](https://www.millspondgallery.org/))  
 
 {{% fig "mills-pond-house-1" /%}}
@@ -48,14 +60,19 @@ Edward H. Mills has partial entries on the following Mills family genealogies:
  
 1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
 
-2. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939:
+2. *Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene* 
+
+3. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939 and appears to use #2 above as a source. 
+
+
+{{% fig  "genealogy/Genealogies-of-Long-Island-Families-p109" "800" /%}}
 
 <div class="cols">
 {{% fig "genealogy/1939-source2-pagea" "350" "img,link" /%}}
 {{% fig "genealogy/1939-source2-pageb" "350" "img,link" /%}}
 </div>
 
-What follows is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the second source in brackets, beginning with Edward's parents: 
+What follows is based initially on the data from the archived version of MillsAncestry.org with supplemental or contradictory information from the other sources in brackets, beginning with Edward's parents: 
 
 <blockquote class="quote-only">
 
@@ -118,6 +135,9 @@ As you can see, there is yet another Pine mentioned. For more information on Cha
 
 {{% fig "staten-island/1835-02-21-charles-pine" "800" /%}}
 
+Edward is also mentioned in *Genealogies of 
+It is perhaps interesting to note that in *Genealogies of Long Island Families*, the following is said about William Henry Mills (03 Apr 1836): "At the age of nineteen William Henry Mills engaged in the mercantile business in Staten Island and continued thusly for four years when he returned to Smithtown.""
+
 {{% fig "long-island/1882-02-06-The-New-York-Times-p8" "500" /%}}
 {{% fig "1882-02-10-The-Long-Islander-Huntington-NY-p3" "500" /%}}
 
@@ -155,7 +175,7 @@ Alonzo's daughter [Sarah](https://www.findagrave.com/memorial/215406844/sarah-re
 {{% fig "long-island/1911-07-19-The-Times-Union-Brooklyn-NY-p24" "500" /%}}
 {{% fig "long-island/1911-08-02-The-Brooklyn-Daily-Eagle-Brooklyn-NY-p3" "500" /%}}
 
-The "nine-months-old baby" is [Arthur A. Reddy](https://www.findagrave.com/memorial/173810137/arthur-a-reddy) (05 Nov 1910 to 15 Nov 1937) who also died at a young age, leaving behind a small child:
+The "nine-months-old baby" was [Arthur A. Reddy](https://www.findagrave.com/memorial/173810137/arthur-a-reddy) (05 Nov 1910 to 15 Nov 1937) who also died at a young age, leaving behind a small child:
 
 {{% fig "1937-11-19-The-Long-Islander-Huntington-NY-p11" "500x500" "" "top" /%}}
 
@@ -177,7 +197,9 @@ Several documents pertaining to Emily Tabitha Mills' marriage were included abov
 {{% fig "genealogy/1932-04-22-The-Long-Islander-Huntington-NY-p11"  "350" /%}}
 </div>
 
-I believe it is [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".  Her sister, [Mary Emily Huntting (Smith) Cross](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross) (1875-1924) was yet another family member to die in "an unusual accident": 
+I believe it is [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932) who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".  
+
+[Mary Emily Huntting (Smith) Cross](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross) (1875-1924) was yet another family member to die in "an unusual accident": 
 
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
