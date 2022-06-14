@@ -14,7 +14,7 @@ Edward H. Mills' ancestors were early settlers of Edward's birthplace, the Town 
 TIMOTHY MILLS<sup>3</sup> (Samuel<sup>2</sup>) born at Jamaica in 1667, was the pregenitor fo the Suffolk Co. Mills and moved to that part of the Smithtown since called Mills Pond in 1693. …The settlement of Mills Pond is a collection of dignfied old houses surrounded by a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor." 
 </blockquote>
 <figcaption>
-<cite>— Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island p105, Logan Utah FamilySearch Library, familysearch.org.
+<cite>— 1919, *Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene*, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, p105, Logan Utah FamilySearch Library, familysearch.org.
 </cite>
 </figcaption>
 </figure>
@@ -60,7 +60,7 @@ Edward H. Mills has partial entries on the following Mills family genealogies:
  
 1. *Descendants of George Mills of Yorkshire and Long Island, New York* at MillsAncestry.org. That site is now defunct and the contact information for it is no longer valid, however, an archived version exists, and I was able to locate its creator on Facebook to let him know about this documentation on Edward. This genealogy is dated 07 Aug 2003.
 
-2. *Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene* 
+2. *Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene*, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, Logan Utah FamilySearch Library, familysearch.org. This genealogy is dated 1919.
 
 3. *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* (ancestry.com. North America, Family Histories, 1500-1500 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2016.) This genealogy is dated 01 May 1939 and appears to use #2 above as a source. 
 

@@ -1,5 +1,5 @@
 ---
-citation: "Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island p109, Logan Utah FamilySearch Library, familysearch.org."
+citation: "1919, Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, p109, Logan Utah FamilySearch Library, familysearch.org."
 notes: >-
 
   - "This genealogy relates to the Suffolk County branch of the family, descendants of TIMOTHY MILLS who settled at Smithtown in 1683. The other branch remained at Jamaica. Members of both branches were fairly numerous during the 18th and first half of the 19th centuries, but now are greatly reduced." (p105.)

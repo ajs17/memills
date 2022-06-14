@@ -22,7 +22,7 @@ Genealogical data accumulated through this research can be <a href="/data/geneal
 
 ## Family Photographs
 
-{{% fig "portraits/jamesthomasmills" "300" /%}}
+{{% fig "portraits/james-thomas-mills" "350" /%}}
 
 {{% list-children "" "Family Members" %}}
 {{% list-children "features" %}}

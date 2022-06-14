@@ -357,3 +357,5 @@ All that in mind, I believe all of the deeds that follow are referencing Hannah 
 {{% fig "eastman/deeds/deeds-book-136-page-516-002" "800" /%}}
 {{% fig "eastman/1891-09-30-The-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
 {{% fig "eastman/deeds/deeds-book-139-page-88-001" "800" /%}}
+
+Jodi Leaf, a descendant of Charles and Polly Eastman, is the most knowledgable Eastman family historian, having done much of her own research, and contributing genealogies, photos, etc. to findagrave.com and ancestry.com. Numerous family photos exist starting with the children of Charles and Polly.
