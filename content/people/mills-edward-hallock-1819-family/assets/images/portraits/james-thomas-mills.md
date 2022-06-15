@@ -9,9 +9,9 @@ pages:  "5"
 source:  "nyhistoricnewspapers.org"
 notes: >-
 
-  - This version of the newspaper photo was uploaded anonymously to findagrave.com.
-
   - This is Edward H. Mills' brother, [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills), born 13 Feb 1827 in New York City, died 22 Apr 1915 in Huntington NY.
+
+  - This version of the newspaper photo was uploaded anonymously to findagrave.com.
 ---
 
 J. Thomas Mills, An Old Resident Who Passed Away This Week.

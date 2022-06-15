@@ -82,6 +82,6 @@ Selected data on the participants:
 
 [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964)
 
-  - Descendents confirm she commonly went by Esther.
+  - Descendants confirm she commonly went by Esther.
   - Married George W. Pancoe (1895-1969).
   - Esther’s father was Frank C. Vorhis, who was owner of the general store prior to the Mulks brothers and who was a former owner of the Mills' home.
