@@ -4,7 +4,9 @@ notes: >-
 
   - "This genealogy relates to the Suffolk County branch of the family, descendants of TIMOTHY MILLS who settled at Smithtown in 1683. The other branch remained at Jamaica. Members of both branches were fairly numerous during the 18th and first half of the 19th centuries, but now are greatly reduced." (p105.)
 
-  - Another clue to Mary Hallock's identity can be seen here, as she appears to have a sister Sarah who married George Phillips Mills.
+  - Jonas' parents: [George Phillips Mills](https://www.findagrave.com/memorial/25193050/george-phillips-mills) and [Tabitha Davis Mills](https://www.findagrave.com/memorial/103243323/tabitha-mills) (16 Feb 1774 to 11 Jan 1830).
+
+  - [Sarah Ann (Hallock) Mills](https://www.findagrave.com/memorial/127233833/sarah-ann-mills) (29 Aug 1812 to 22 Apr 1897), who married Jonas Mills' brother [George Phillips Mills](https://www.findagrave.com/memorial/127233764/george-phillips-mills) appears to be Mary Hallock's sister. Both appear to be referenced as daughters of [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854) of Smithtown. 
 ---
 
 CHILDREN OF GEORGE MILLS<sup>6</sup> (Isaac,<sup>5</sup> Isaac,<sup>4</sup> Timothy<sup>3</sup>) AND TABITHA DAVIS HIS WIFE. 

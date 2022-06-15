@@ -14,7 +14,7 @@ Edward H. Mills' ancestors were early settlers of Edward's birthplace, the Town 
 TIMOTHY MILLS<sup>3</sup> (Samuel<sup>2</sup>) born at Jamaica in 1667, was the pregenitor fo the Suffolk Co. Mills and moved to that part of the Smithtown since called Mills Pond in 1693. …The settlement of Mills Pond is a collection of dignfied old houses surrounded by a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor." 
 </blockquote>
 <figcaption>
-<cite>— 1919, *Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene*, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, p105, Logan Utah FamilySearch Library, familysearch.org.
+<cite>— 1919, <em>Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene</em>, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, p105, Logan Utah FamilySearch Library, familysearch.org.
 </cite>
 </figcaption>
 </figure>
@@ -78,7 +78,7 @@ What follows is based initially on the data from the archived version of MillsAn
 
 <span>583.</span> [Jonas Davis Mills](https://www.findagrave.com/memorial/138421270/%20jonas-d.-mills) (George , Isaac , Isaac , Timothy , Jonathan , George ) was born on 2 May 1795. He died on 30 Jan 1882.
 
-Jonas married (1) Mary Hallock [daughter of Thomas Hallock], on 25 Dec [Feb] 1818 in [Smithtown], Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827.
+Jonas married (1) Mary Hallock [daughter of [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock), on 25 Dec [Feb] 1818 in [Smithtown], Long Island, New York. Mary was born on 8 Dec 1798. She died on 2 Mar 1827.
 
 They had the following children:
 
@@ -203,5 +203,23 @@ I believe it is [Emily Mills Huntting](https://www.findagrave.com/memorial/23991
 
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
+
+I am following up with Long Island Museum, which houses works of the artist William Sidney Mount, who in the mid-1800's painted many portraits, including members of the Mills family. For example, there is a portrait from 1843 of "Elizabeth Mills", although I have not yet identified her exactly.
+
+The Archives at Queens Library contains two boxes of materials of the "Mills Family of Jamaica and Mills Pond" that includes a reference to Jonas Mills in the scope notes:
+
+<figure class="quote-only">
+<blockquote>
+The Mills Family of Jamaica and Mills Pond, Long Island (2 boxes, 1675-1900) contains material documenting the genealogy of the Mills Family of Jamaica, Long Island. The collection is made up of letters and logs of Mills Family descendants. Research consists of various logs and lists of family members. There are also letters and listings of Mill Family members from other parts on the United States. This collection was donated to the Buffalo History Museum by Louise Olmsted, whose family were close friends of the Mills Family located in Buffalo. The collection was donated to the Queens Library Archives in August 2015. The original finding aid for this collection is included with this finding aid. A description of each folder’s contents is located within each folder of the collection. The Mills Family (19 folders, 1879-1895) series has been broken down by specific family members. The specific members are: Isaac Mills (5 folders, 1879-1893) Jonas Mills (1 folder, 1893) Jonathan Mills (3 folders, 1879-1895) Timothy Mills (10 folders, 1739-1896) The series for each contains information on various relatives for each member. The information includes spouses and children. The Research series (5 folders, 1675-1876) contains the forms and documents used for accumulating the history of the Mills Family. The other series in the collection Various Relatives (6 folders, 1636-1900) consists of material related to other relatives of the Mills Family that lived outside of the Jamaica and Long Island area.
+</blockquote>
+<figcaption>
+<cite>— <a href="https://www.queenslibrary.org/manuscripts/0205#bg-largeview-about">Guide to the Mills Family of Jamaica and Mills Pond</a>, Queens Public Library, Jamaica NY.
+</cite>
+</figcaption>
+</figure>
+
+Of course, there are several Jonas Mills in the genealogy, but the dates given suggests this could be a reference to Edward's father. But even if this is a different branch of the Mills family, the genealogical records, etc., may provide important data on the family members investigated here.
+
+A document worth highlighting in this collection is the will of Timothy Mills, the common ancestor of everyone above. And in addition to the unexpected reference to Buffalo, which I have not otherwise encountered, the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu.
 
 

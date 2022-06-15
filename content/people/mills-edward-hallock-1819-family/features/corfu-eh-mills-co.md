@@ -37,6 +37,8 @@ There is also a June 1863 Civil War Draft Registration record in Genesee County 
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 
+The reasons for the family's move to Corfu are unknown. However, according to archival materials at Queens Public Library, there were related Mills family members living in the Naples NY and Buffalo NY areas at one time, which may be relevant. 
+
 In Mar 1864, the Mills purchased their home in Corfu at what is presently 31 West Main Street:
 
 {{% fig "corfu/1864-03-09-pembroke-deeds-book-124-page-415" "800" /%}}

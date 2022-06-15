@@ -30,13 +30,15 @@ Horace is [interred](https://www.findagrave.com/memorial/75958913/horace-f-mills
 
 As already discussed above in relation to the Evergreen Hill Cemetery records and Horaces date of death, the vital details of Horace's life all come from single sources of information. As they are uncorroborated, they should be treated with skepticism until verified. However, it is likely that many of these details will never be able to be verified, so for now, I am treating what data I do have as true.
 
-There is another Horace F. Mills in upstate New York in the 1800's, who was of some prominence, but who does not appear to be related to this Mills family. That Horace Mills was born in 1847, lived in Penn Yan NY, attended the University at Albany in 1861 but left to serve in the Civil War, ultimately rising to the rank of Major in the 9th USCT. Several photos of this Horace Mills can be found online.
+There is another Horace F. Mills in upstate New York in the 1800's, who was of some prominence, but who does not appear to be closely related to this Mills family. That Horace Mills was born in 1847, lived in Penn Yan NY, attended the University at Albany in 1861 but left to serve in the Civil War, ultimately rising to the rank of Major in the 9th USCT. Several photos of this Horace Mills can be found online.
+
+This Horace Mills may actually be a distant relative, as there are archival materials on the Mills Family at Queens Public Library that suggests that some branches of the family were in Naples NY and Buffalo NY. If true, this might also be a clue to the family's move to [Corfu]({{% ref "features/corfu-eh-mills-co" %}}).
 
 Yet another Horace F. Mills lived in Wawayanda NY mentioned in Port Jervis newspapers in the 1870's and 1880's. He was married to M. J. Mills and had a daughter Bertha who died at four months old. 
 
-And most frustrating of all is an unrelated Horace Mills listed in the 1850 United Stated Federal Census as a one year old living in Darien, which is very close to Corfu:
+And most frustrating of all is an presumably unrelated Horace Mills listed in the 1850 United Stated Federal Census as a one year old living in Darien, which is very close to Corfu:
 
 {{% fig "census/census-1850-us" "800" /%}}
 
-If this Horace was still living in the area at the same time as Edward's son, and especially being of similar age, extra care should be taken to correctly identify any reporting on "Horace Mills" at the time in the local papers. Given Edward's stature in the community, it seems likely that in any reporting his son would be identified in relation to him, perhaps something such as "Horace Mills, son of a local merchant...."
+If this Horace was still living in the area at the same time as Edward's son, and especially being of similar age, extra care should be taken to correctly identify any reporting on "Horace Mills" at the time in the local papers. 
 
