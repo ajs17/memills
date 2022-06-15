@@ -1,5 +1,5 @@
 ---
-citation: "Allan Starkweather, Corfu Village Historian. Scanned from personal correspondence May 2022."
+citation: "Timeline of Corner Store - West Portion: 5 W. Main St., Allan Starkweather, Corfu Village Historian. Scanned from personal correspondence May 2022."
 ---
 
 CORNER STORE- WEST PORTION 

@@ -1,5 +1,5 @@
 ---
-citation: "Allan Starkweather, Corfu Village Historian. Scanned from personal correspondence May 2022."
+citation: "Timeline of North Side - East Main St.: Bank Corner 1 E. Main St., Allan Starkweather, Corfu Village Historian. Scanned from personal correspondence May 2022."
 notes: >-
 
   - The oldest deed I can confirm for this property is 14 Oct 1925, Charles O. Palmer (also Fred A. and Alice T.) of Corfu to Bank of Corfu, Genesee County Deeds Book 258, pages 265-266, Batavia NY.
@@ -8,8 +8,7 @@ NORTH SIDE- EAST MAIN ST.
 
 BANK CORNER 
 
-1E. ST.- BUILT 1927 
-
+1 E. MAIN ST.- BUILT 1927 
 
 1845-1866 KINNE GENERAL STORE [RANDOLPH KINNE] 
  

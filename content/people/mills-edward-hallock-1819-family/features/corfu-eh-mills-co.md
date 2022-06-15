@@ -77,7 +77,7 @@ Mary Ann was known to be a member of the Presbyterian Church of Corfu, as were t
 
 {{% fig "corfu/Town-of-Pembroke-Bicentennial-History-1776-1976" "800" /%}}
 
-By 1876, Corfu had grown, but E. H. Mills & Co. and the Mills' home are still in the same locations:
+By 1876, Corfu had grown considerably, but E. H. Mills & Co. and the Mills' home were still in the same locations:
 
 {{% fig "corfu/1876-corfu-map" "800" /%}}
 {{% fig "corfu/1876-corfu-map-notes" "800" /%}}
@@ -96,7 +96,7 @@ Church records also include confirmation that Mary Ann had been a member of Firs
 
 {{% fig "mills-mary-cvcc-join" "800" /%}}
 
-The following advertisements may be for the Mills' store, as both the description and timing fit, or this could possibly be for the Porter Store. According to the information provided by Allan Starkweather, F. H. Edwards started a hardware store at 3 East Main Street in 1879. Note too that Henry Porter, who owned the larger general store on the opposite corner of E. H. Mills & Co., retired in 1879. 
+The following advertisements *could* be for the Mills' store, as both the description and timing fit, or this could possibly be for the Porter Store. According to the information provided by Allan Starkweather, Henry Porter, who owned the larger general store on the opposite corner of E. H. Mills & Co., retired in 1879, and F. H. Edwards started a hardware store at 3 East Main Street in 1879. 
 
 <div class="cols">
 {{% fig "corfu/1879-03-22-buffalo-morning-express-buffalo-ny-p1" "350" /%}}

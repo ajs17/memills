@@ -1,5 +1,5 @@
 ---
-citation: "Allan Starkweather, Corfu Village Historian. Scanned from personal correspondence May 2022."
+citation: "Timeline of Corner Store Property: 1-5 W. Main St. Corfu NY, Allan Starkweather, Corfu Village Historian. Scanned from personal correspondence May 2022."
 ---
  
 CORNER STORE PROPERTY 
