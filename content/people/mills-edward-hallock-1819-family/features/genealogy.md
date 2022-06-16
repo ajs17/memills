@@ -206,20 +206,40 @@ I believe it is [Emily Mills Huntting](https://www.findagrave.com/memorial/23991
 
 I am following up with Long Island Museum, which houses works of the artist William Sidney Mount, who in the mid-1800's painted many portraits, including members of the Mills family. For example, there is a portrait from 1843 of "Elizabeth Mills", although I have not yet identified her exactly.
 
-The Archives at Queens Library contains two boxes of materials of the "Mills Family of Jamaica and Mills Pond" that includes a reference to Jonas Mills in the scope notes:
+The Archives at Queens Library contains two boxes of materials of the "Mills Family of Jamaica and Mills Pond" that includes a reference to Jonas Mills in the scope notes, and talks of correspondence among the descendants of Timothy Mills in the 1870's (when Edward's family was in Corfu), and of course, photographs:
 
 <figure class="quote-only">
 <blockquote>
-The Mills Family of Jamaica and Mills Pond, Long Island (2 boxes, 1675-1900) contains material documenting the genealogy of the Mills Family of Jamaica, Long Island. The collection is made up of letters and logs of Mills Family descendants. Research consists of various logs and lists of family members. There are also letters and listings of Mill Family members from other parts on the United States. This collection was donated to the Buffalo History Museum by Louise Olmsted, whose family were close friends of the Mills Family located in Buffalo. The collection was donated to the Queens Library Archives in August 2015. The original finding aid for this collection is included with this finding aid. A description of each folder’s contents is located within each folder of the collection. The Mills Family (19 folders, 1879-1895) series has been broken down by specific family members. The specific members are: Isaac Mills (5 folders, 1879-1893) Jonas Mills (1 folder, 1893) Jonathan Mills (3 folders, 1879-1895) Timothy Mills (10 folders, 1739-1896) The series for each contains information on various relatives for each member. The information includes spouses and children. The Research series (5 folders, 1675-1876) contains the forms and documents used for accumulating the history of the Mills Family. The other series in the collection Various Relatives (6 folders, 1636-1900) consists of material related to other relatives of the Mills Family that lived outside of the Jamaica and Long Island area.
+
+<h3>Historical Biographical Note</h3>
+
+<p>This collection documents the Mills Family of Long Island. The family originated in Buffalo, New York and moved to Long Island in the 1800’s. Most of the information included in this collection was organized and collected by James H. Mills through correspondence with fellow family members and work done by B.F. Thompson. The collection contains several logs of Mills Family descendants and related families from other territories in America. There are also letters from Henry/Harry Mills dated from 1871-1874. Henry/Harry Mills seems to have done a lot of research on family history. The bulk of the collection focuses on the descendants of Timothy Mills an early settler of Mills Pond, Long Island.</p>
+
+<h3>Scope And Content Note</h3>
+
+<p>The Mills Family of Jamaica and Mills Pond, Long Island (2 boxes, 1675-1900) contains material documenting the genealogy of the Mills Family of Jamaica, Long Island. The collection is made up of letters and logs of Mills Family descendants. Research consists of various logs and lists of family members. There are also letters and listings of Mill Family members from other parts on the United States. This collection was donated to the Buffalo History Museum by Louise Olmsted, whose family were close friends of the Mills Family located in Buffalo. The collection was donated to the Queens Library Archives in August 2015. The original finding aid for this collection is included with this finding aid. A description of each folder’s contents is located within each folder of the collection. The Mills Family (19 folders, 1879-1895) series has been broken down by specific family members. The specific members are: Isaac Mills (5 folders, 1879-1893) Jonas Mills (1 folder, 1893) Jonathan Mills (3 folders, 1879-1895) Timothy Mills (10 folders, 1739-1896) The series for each contains information on various relatives for each member. The information includes spouses and children. The Research series (5 folders, 1675-1876) contains the forms and documents used for accumulating the history of the Mills Family. The other series in the collection Various Relatives (6 folders, 1636-1900) consists of material related to other relatives of the Mills Family that lived outside of the Jamaica and Long Island area.</p>
+
 </blockquote>
 <figcaption>
-<cite>— <a href="https://www.queenslibrary.org/manuscripts/0205#bg-largeview-about">Guide to the Mills Family of Jamaica and Mills Pond</a>, Queens Public Library, Jamaica NY.
+<cite>— <a href="https://www.queenslibrary.org/manuscripts/0205#bg-largeview-about">The Mills Family of Jamaica and Mills Pond, Long Island</a>, Archives at Queens Library, Queens Borough Public Library, Jamaica NY.
 </cite>
 </figcaption>
 </figure>
 
 Of course, there are several Jonas Mills in the genealogy, but the dates given suggests this could be a reference to Edward's father. But even if this is a different branch of the Mills family, the genealogical records, etc., may provide important data on the family members investigated here.
 
-A document worth highlighting in this collection is the will of Timothy Mills, the common ancestor of everyone above. And in addition to the unexpected reference to Buffalo, which I have not otherwise encountered, the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu.
+A document worth highlighting in this collection is the will of Timothy Mills, the common ancestor of everyone above. And in addition to the unexpected reference to Buffalo, which I have not otherwise encountered, the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
 
+The collection also contains genealogies and other information on the following surnames related to the Mills:
+  
+  - Burnet
+  - Davis
+  - Halstead
+  - Hawkins
+  - Miller
+  - Roe
+  - Rudyard
+  - Smith
+
+Initial exploration of this collection is being planned for later in the Summer 2022.
 
