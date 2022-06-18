@@ -3,7 +3,7 @@ title: "E. H. Mills and M. E. Mills General Stores"
 weight: 1
 ---
 
-After moving to Mott's Corners in Mar 1889, Edward restarted his general store on his own, now simply called E. H. Mills. Both Jonas and Emily clerked at E. H. Mills. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jesse Brewer took over the store and ran it under her name for a dozen years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road.
+After moving to Mott's Corners in Mar 1889, Edward restarted his general store on his own, now simply called E. H. Mills. Both Jonas and Emily clerked at E. H. Mills. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jesse Brewer took over the store and ran it under her name for a dozen years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road, better known to current residents as "the old postoffice".
 
 <!--more-->
 
@@ -78,7 +78,7 @@ And some examples of Emily's own entries in the sales logs. Essentially, this is
   {{% fig "me-mills/emily-mills-entry-3" "350" /%}}
 </div>
 
-By 1920, her daily records looked much the same. References are made to individual accounts
+By 1920, her daily records looked much the same.
 
 {{% fig "me-mills/1920-01-19-Sales-Journals-p233" "800" /%}}
 
@@ -114,7 +114,7 @@ Several descriptions of M. E. Mills exist, the most complete of which is Gertrud
 
 In one of the present-day photos of 484 Brooktondale Road, you can see the staircase on the side of building leading to the second floor, that Gertrude mentions.
 
-“A Drive-by Tour of the Town of Caroline” sponsored by the Town of Caroline Bicentennial Committee 1994-1995, contains a listing for M. E. Mills on a page identified as “Tour 4 - P7” in a 2016 reprint by The White Church Cabin Country Store and is the source (with some alterations) of the description Molly Adams used in her “Note”. In Molly’s research notes, she gives the attribution: “[Driveby, ie Conant]" and I have confirmed with Barbara Kone that Gertrude wrote the Brooktondale portions of the "Drive-by" book:
+*A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, contains a listing for M. E. Mills on a page identified as “Tour 4 - P7” in a 2016 reprint by The White Church Cabin Country Store and appears to be the source (with some alterations) of the description Molly Adams used in her “Note”. In Molly’s research notes, she gives the attribution: “[Driveby, ie Conant]" and I have confirmed with Barbara Kone that Gertrude wrote the Brooktondale portions of the "Drive-by" book:
 
 <blockquote class="quote-only">
 <strong>BROOKTONDALE POST OFFICE, left -- 484 Brooktondale Road</strong>

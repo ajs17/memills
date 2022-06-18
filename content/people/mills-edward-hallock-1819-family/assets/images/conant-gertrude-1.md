@@ -7,6 +7,10 @@ notes: >-
     - Dr. Benjamin Lockwood's house is present day 480 Brooktondale Road. Later, "Dr. Mary" Ridgway Tinker lived and practiced there for a time. Dr. Lockwood was also a member of Brookton Congregational Church, and he built the Dalebrook apartments on the foundation of the Grist Mill in the 1920's. After Dr. Lockwood's death, E. D. Shurter facilitated the placement of a plaque in Dr. Lockwood's honor outside Dalebrook that remains today.
   
     - The "woman who lived in and kept house" whose name Gertrude couldn't remember, is a reference to Ellen Gould.
+
+    - [Mina E. (Vandemark) Bacon](https://www.findagrave.com/memorial/52478562/mina-e-bacon) 
+
+    - Ralph Conant in personal correspondence 24 Jul 2021 identifies "Grandma Bacon" as Mary Louise (Vandemark) Bacon (1867-1950).
 ---
 Emily Mills' store was in the building where the Post Office is today. I remember it as a dark place with long rows of counters on each side and tables and glass-topped counters in the middle. Emily Mills was a little woman, with her hair in a bun on top of her head, like Grandma Bacon's. She was quiet, neat, cheerful and always smiling.
 

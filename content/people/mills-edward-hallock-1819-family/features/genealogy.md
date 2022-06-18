@@ -8,6 +8,15 @@ Edward H. Mills' ancestors were early settlers of Edward's birthplace, the Town 
 
 <!--more-->
 
+<figure class="quote-only">
+<blockquote>
+The Mills on Long Island were of English descent and it would seem quite clear that they came from Yorkshire, England, to this country about 1630, locating at first in New England and some of them soon after on Long Island. The Hempstead settlement on Long Island, which began about 1644 and where the name of George Mills was found on the town records, was called a Yorkshire settlement. When Long Island was captured by the English from the Dutch they found on the west end a Yorkshire settlement called Long Island Yorkshire. 
+</blockquote>
+<figcaption>
+<cite>— 28 Jul 1894, Port Jervis Union, Port Jervis NY, p2, nyshistoricnewspapers.org.
+</cite>
+</figcaption>
+</figure>
 
 <figure class="quote-only">
 <blockquote>
@@ -131,12 +140,7 @@ Several of the marriages above and below are referenced, if not corroborated, in
 {{% fig "genealogy/mills-marriages-36" "350" /%}}
 </div>
 
-As you can see, there is yet another Pine mentioned. For more information on Charles Pine, see the account of the [Mills family in Staten Island]({{% ref "staten-island" %}}). 
-
-{{% fig "staten-island/1835-02-21-charles-pine" "800" /%}}
-
-Edward is also mentioned in *Genealogies of 
-It is perhaps interesting to note that in *Genealogies of Long Island Families*, the following is said about William Henry Mills (03 Apr 1836): "At the age of nineteen William Henry Mills engaged in the mercantile business in Staten Island and continued thusly for four years when he returned to Smithtown.""
+It is perhaps interesting to note that in *Genealogies of Long Island Families*, the following is said about William Henry Mills (03 Apr 1836): "At the age of nineteen William Henry Mills engaged in the mercantile business in Staten Island and continued thusly for four years when he returned to Smithtown." (1919, Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, p109, Logan Utah FamilySearch Library, familysearch.org.)
 
 {{% fig "long-island/1882-02-06-The-New-York-Times-p8" "500" /%}}
 {{% fig "1882-02-10-The-Long-Islander-Huntington-NY-p3" "500" /%}}
@@ -183,7 +187,7 @@ The "nine-months-old baby" was [Arthur A. Reddy](https://www.findagrave.com/memo
 
 The last name listed as a possible heir in the Mills' home deeds, Mary Huntting Smith, is likely a reference to Emily's cousin, or perhaps a descendent of Emily's cousin:
   - Edward's sister [Emily Tabitha (Mills) Huntting](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) (1821 to 1849) married [John Smith Huntting](https://www.findagrave.com/memorial/23991462/john-smith-huntting) (1817 to 1893), 
-  - their child [Mary Halliock (Huntting) Smith](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) (1845 to 1938), named after their Grandmother, married [Henry Chatfield Smith](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith) (1843 to 1896),
+  - their child [Mary Halliock (Huntting) Smith](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) (1845 to 1938), married [Henry Chatfield Smith](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith) (1843 to 1896),
   - their child [Mary Emily Huntting (Smith) Cross](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross) (1875 to 1924), married: James M. Cross.
 
 Several documents pertaining to Emily Tabitha Mills' marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (1849 to 1932), and her birth is presumably related to Emily T. Hunttting's death the same year. 
@@ -226,6 +230,8 @@ The Archives at Queens Library contains two boxes of materials of the "Mills Fam
 </figcaption>
 </figure>
 
+The curators have told me that there is actually only one photograph in the collection, which I am attempting to get scanned.
+
 Of course, there are several Jonas Mills in the genealogy, but the dates given suggests this could be a reference to Edward's father. But even if this is a different branch of the Mills family, the genealogical records, etc., may provide important data on the family members investigated here.
 
 A document worth highlighting in this collection is the will of Timothy Mills, the common ancestor of everyone above. And in addition to the unexpected reference to Buffalo, which I have not otherwise encountered, the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
@@ -235,11 +241,19 @@ The collection also contains genealogies and other information on the following 
   - Burnet
   - Davis
   - Halstead
-  - Hawkins
+  - Hawkins (This may reveal of relation to Bartlett Brown, who is described in [The Mills Family in Staten Island]({{% ref "staten-island" %}}). The Hawkins surname is also featured prominently in 1919, <em>Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene</em>, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, Logan Utah FamilySearch Library, familysearch.org.)
   - Miller
   - Roe
   - Rudyard
   - Smith
 
-Initial exploration of this collection is being planned for later in the Summer 2022.
+Initial exploration of this collection is being planned for later in the Summer 2022. Based on a review of the collection's inventory, it appears it may contain the primary sources used in writing the following history:
+
+{{% fig "long-island/1894-07-27-Port-Jervis-Union-Port-Jervis-NY-p3" "800x300" "" "top" /%}}
+{{% fig "long-island/1894-07-28-Port-Jervis-Union-Port-Jervis-NY-p2" "800x300" "" "top" /%}}
+
+These two articles were also re-printed as one item in the 02 Aug 1894 edition of the Tri States Union in Port Jervis NY, p2, which I show here for purposes of comparing the text to the previous two articles.
+
+{{% fig "long-island/1894-08-02-Tri-States-Union-Port-Jervis-NY-p2" "800x300" "img,cite,link" "top" /%}}
+
 

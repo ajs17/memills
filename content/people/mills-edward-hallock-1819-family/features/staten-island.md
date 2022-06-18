@@ -35,6 +35,7 @@ The 1860 census also shows that the Mills family were living with [Bartlett Brow
 
 {{% fig "staten-island/1862-1863-irs-tax-assessment" /%}}
 
+Bartlett Brown's parents are [Abram Brown](https://www.findagrave.com/memorial/20577929/a-brow) (10 May 1802 to 10 Feb 1874) and [Hannah Hawkins](https://www.findagrave.com/memorial/122608336/hannah-brown) (04 Feb 1804 to 14 Aug 1879). It is interesting to note that there are items Hawkins items in the <a href="https://www.queenslibrary.org/manuscripts/0205#bg-largeview-about">The Mills Family of Jamaica and Mills Pond, Long Island</a>, Archives at Queens Library, Queens Borough Public Library, Jamaica NY: a "Hawkins family" folder and a folder containing Hawkins genealogical data. I have yet to personally examine these.
 
 {{% fig "staten-island/1902-11-29-richmond-county-advance-p4" "700x400" "" "top" %}}
 Mr. Brown was born at Oak Farm, Long Island, and was one of ten children. His parents were among the most intelligent and estimable people of that section, and he was trained to many kinds of usefulness on the farm from a very early age. Indeed, the experiences which then came to him were invaluable, and fitted him in a superior degree for the diligent, manly and honorable life which succeeded.
