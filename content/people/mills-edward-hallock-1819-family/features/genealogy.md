@@ -20,7 +20,7 @@ The Mills on Long Island were of English descent and it would seem quite clear t
 
 <figure class="quote-only">
 <blockquote>
-TIMOTHY MILLS<sup>3</sup> (Samuel<sup>2</sup>) born at Jamaica in 1667, was the pregenitor fo the Suffolk Co. Mills and moved to that part of the Smithtown since called Mills Pond in 1693. …The settlement of Mills Pond is a collection of dignfied old houses surrounded by a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor." 
+TIMOTHY MILLS<sup>3</sup> (Samuel<sup>2</sup>) born at Jamaica in 1667, was the pregenitor of the Suffolk Co. Mills and moved to that part of the Smithtown since called Mills Pond in 1693. …The settlement of Mills Pond is a collection of dignfied old houses surrounded by a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor." 
 </blockquote>
 <figcaption>
 <cite>— 1919, <em>Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene</em>, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, p105, Logan Utah FamilySearch Library, familysearch.org.
@@ -208,7 +208,9 @@ I believe it is [Emily Mills Huntting](https://www.findagrave.com/memorial/23991
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
 
-I am following up with Long Island Museum, which houses works of the artist William Sidney Mount, who in the mid-1800's painted many portraits, including members of the Mills family. For example, there is a portrait from 1843 of "Elizabeth Mills", although I have not yet identified her exactly.
+I am following up with Long Island Museum, which houses works of the artist [William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868), "generally considered the first major artist to paint the activities of everyday American life" who in the mid-1800's painted many portraits, including members of the Mills family. For example, there is a portrait from 1843 of "Elizabeth Mills", although I have not yet identified her exactly. Notably, he painted a portrait of William Wickam Mills, already discussed above:
+
+William Mount's grandparents are [Jonas Hawkins](https://www.findagrave.com/memorial/68728823/jonas-hawkins) (28 Aug 1752 to 24 Apr 1817) and [Ruth (Mills) Hawkins](https://www.findagrave.com/memorial/8844210/ruth-hawkins) (1748 to 22 Jan 1840). 
 
 The Archives at Queens Library contains two boxes of materials of the "Mills Family of Jamaica and Mills Pond" that includes a reference to Jonas Mills in the scope notes, and talks of correspondence among the descendants of Timothy Mills in the 1870's (when Edward's family was in Corfu), and of course, photographs:
 
