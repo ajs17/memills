@@ -214,7 +214,7 @@ Charles and his son also had significant business dealings beyond groceries. Acc
 </figcaption>
 </figure>
 
-Charles M. Pine was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. His son Charles Theodore Pin was a trustee of Richmond County Savings Bank. 
+Charles M. Pine was also one of the incorporators of The  Staten Island Savings Bank, which was organized on December  21, 1866, at Stapleton. His son Charles Theodore Pine was a trustee of Richmond County Savings Bank. 
 
 <figure class="quote-only">
 <blockquote>
