@@ -99,7 +99,7 @@ A few months later, Hannah became ill and the first mentions of [Ellen Gould]({{
 
 {{% fig "1914-11-12-ithaca-journal" "500" /%}}
 
-At this time, there is a marked increase in the number of prayer and temperance meetings reported held in the Mills' home, presumably to accommodate Hannah's inability to attend events outside the home. Hannah was clearly viewed as an important community leader to these women.
+At this time, there is a marked increase in the number of prayer and temperance meetings reported held in the Mills' home, which is perhaps not surprising as all three women of the household were so actively involved, and this would also accommodate Hannah's limited mobility. Hannah was clearly viewed as an important community leader to these women.
 
 {{% fig "1914-12-05-ithaca-journal" "500" /%}}
 
@@ -290,7 +290,7 @@ Currently unknown:
 
   - Silas Thatcher, a "farm laborer" listed in the 1850 federal census living with the Thatcher family, and in the 1860 federal census was living with a family by the name Fleming. He also indicates England is his origin, and given his age, he is likely Thomas Thatcher's brother. (A possible daughter: [Sarah C. (Thatcher) O'Brien](https://www.findagrave.com/memorial/79475027/sarah-c-o'brien).) 
 
-Both the Thatchers and the Tompkins are associated with the towns of Newfield and Catharine, with Edward living in Cayutaville, and a few descendants living in Ithaca.
+Both the Thatchers and the Tompkins families are associated with the towns of Newfield and Catharine, with Edward living in Cayutaville, and a few descendants living in Ithaca.
 
 Hannah's immigration information is based on naturalization documents of her brother David Thatcher from 1839, that are on still on file with the Tompkins County Clerk's Office. I conclude this document identifies Hannah Mills' brother based on the document matching several known data points: first and last name, town of residence, age, country of origin, and the voyage happened within the expected timeframe. As a result, I am also using this document as the source for David's exact birthdate, as prior to seeing this, I only knew the year.
 
@@ -300,7 +300,7 @@ Hannah's immigration information is based on naturalization documents of her bro
 Elizabeth Vanderveere appears to be Hannah's sister, based on the following data points:
 
   - The 16 Oct 1850 United States Federal census shows the Thatcher family in Newfield with a 21 year old woman named Elizabeth. The age and birthplace are consistent with this being the Thomas and Elizabeth's daughter, and matches the age of Elizabeth Vanderveere.
-  - The 01 Jun 1865 New York State Census shows Hannah and Charles living with 36 year old Elizabeth Thatcher, identified as "sister in law" and 75 year old Elizabeth Thatcher identified as "mother in law".
+  - The 01 Jun 1865 New York State Census shows Hannah and Charles Eastman living with 36 year old Elizabeth Thatcher, identified as "sister in law" and 75 year old Elizabeth Thatcher identified as "mother in law".
   - The 04 Aug 1870 United States Federal census shows William and Elizabeth Vanderveere living with the widowed Elizabeth (Crosby) Thatcher. Both Elizabeth Thatcher and Elizabeth Vanderveere list England as their birthplace.
   - And obviously, the Vanderveere's are buried in the Thatcher family plot. 
 
@@ -311,6 +311,7 @@ Elizabeth Vanderveere appears to be Hannah's sister, based on the following data
 </div>
 
 Sometime between 1850 and 1855, David Thatcher married Agnes Tannahill, and along with his parents, moved to Catharine NY. 
+
 {{% fig "thatcher/census/census-1855-nys-thatcher" "500" /%}}
 
 And the 1860 federal census shows William Vanderveere working as a farm laborer in Dryden.
@@ -337,7 +338,7 @@ Dr. W. A. Smith's full name was Dr. William Addison Smith and he lived up South 
 {{% fig "thatcher/1963-06-09-The-Post-Standard-Syracuse-NY-p106" "500" /%}}
 {{% fig "thatcher/1963-06-10-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
 
-As I write this, I have contacted several living descendants of David Thatcher, and Joan Taber of Newfield appears to be the one with the greatest knowledge of the family history, having preserved many artifacts and performed her own research over the years. At one time, she thought she may have had a photo of David Thatcher, and she also believes she has some Eastman materials. According to Joan and another descendant, there are family anecdotes about Thomas Thatcher ringing the church bells in England, and there are references in their documents to a "Mercy Thatcher" although nobody seems to know who this person might be exactly. 
+I have contacted several living descendants of David Thatcher, and Joan Taber of Newfield appears to be the one with the greatest knowledge of the family history, having preserved many artifacts and performed her own research over the years. At one time, she thought she may have had a photo of David Thatcher, and she also believes she has some Eastman materials. According to Joan and another descendant, there are family anecdotes about Thomas Thatcher ringing the church bells in England, and there are references in their documents to a "Mercy Thatcher" although nobody seems to know who this person might be exactly. 
 
 ## The Eastmans
 
@@ -358,4 +359,4 @@ All that in mind, I believe all of the deeds that follow are referencing Hannah 
 {{% fig "eastman/1891-09-30-The-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
 {{% fig "eastman/deeds/deeds-book-139-page-88-001" "800" /%}}
 
-Jodi Leaf, a descendant of Charles and Polly Eastman, is the most knowledgable Eastman family historian, having done much of her own research, and contributing genealogies, photos, etc. to findagrave.com and ancestry.com. Numerous family photos exist starting with the children of Charles and Polly.
+I have contacted one descendant of Charles C. and Polly Eastman, Jodi Leaf, and she is the most knowledgable Eastman family historian, having done much of her own research, and contributing genealogies, photos, etc. to findagrave.com and ancestry.com. Numerous family photos exist starting with the children of Charles C. and Polly Eastman.

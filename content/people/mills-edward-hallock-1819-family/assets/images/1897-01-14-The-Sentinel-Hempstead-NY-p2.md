@@ -18,5 +18,5 @@ Mr. E. H. Mills, a former resident of this village, and a brother-in-law of the 
 
 ...
 
-MILLS—EASTMAN—At the bride’s residence in Brookton, Tompkins county, N. Y., Dec. 30th, 1896, by the Rev. W. A. House, Mr. E. Hl Mills, formerly of Hempstead, and Mrs Hannah Eastman, both of Brookton.
+MILLS—EASTMAN—At the bride’s residence in Brookton, Tompkins county, N. Y., Dec. 30th, 1896, by the Rev. W. A. House, Mr. E. H. Mills, formerly of Hempstead, and Mrs Hannah Eastman, both of Brookton.
 
