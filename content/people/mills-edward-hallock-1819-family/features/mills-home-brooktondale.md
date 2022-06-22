@@ -11,6 +11,9 @@ The Mills' home in Brooktondale is located at present-day (2021) 475 Brooktondal
 <p>
 She lived across the street from Dr. Lockwood, in a little house that sat back near the hill. 
 </p>
+<p>
+Being a part of the grist mill lot…beginning in the center of the Creek Road eighty-two links easterly from the center of the bridge crossing the Mill race;
+</p>
 </blockquote>
 
 <figure class="image" width="500px">
@@ -28,6 +31,7 @@ A summary of the historical deeds referenced below, up to the time it was owned 
 
 [Jacob VanDemark](https://www.findagrave.com/memorial/89241014/jacob-vandemark) (1802 to 15 Dec 1873)
 
+<!--
 [Charles W. Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 1924) was a Union veteran of the Civil War, having enlisted and mustered in 25 Aug 1862, Middletown NY (other sources say Caroline NY) to Company G of the 50th Engineers Regiment with the rank of Private. He mustered out 13 Jun 1865, Fort Barry VA, under Colonel Pettes, with the rank of Sergeant, having been promoted twice. (New York: Report of the Adjutant-General 1893-1906, ancestry.com)
 
 According to the website [The Civil War in the East](https://civilwarintheeast.com/us-regiments-batteries/new-york-regiments-and-batteries/artillery-and-engineers/50th-new-york-engineers/): "The 50th New York Infantry Regiment, which became the 50th New York Engineer Regiment, lost 1 officer and 19 enlisted men killed or mortally wounded and 1 officer and 206 enlisted men to disease during the Civil War. It is honored by a monument at Gettysburg shared with the 15th New York Engineers." The regiment organized as the 50th New York Infantry Regiment 18 Sep 1861 in Elmira NY and on 22 Oct 1861: "Detailed as sappers, miners and pontooners, and designated 50th New York Engineers at Washington, D.C. Attached to Woodbury’s Brigade, Army of the Potomac for duty at Alexandria, Va." The regiment participated in many of the pivotal events of the civil war, including the Maryland and Chancellorsville campaigns, as well as the battles fought at Fredericksburg and Gettysburg. The regiment also witnessed the surrender of General Lee at Appomattox Court House 09 Apr 1865.
@@ -41,7 +45,7 @@ The Brookton G.A.R. post filed a "notice of intent" on 29 Aug 1887. The officers
 On 6 Nov 1896, the Slaterville Springs G. A. R. Post filed with Town Clerk, B. Van Demark, a "notice of intent" showing the officers of that post. They were: Commander--Emanuel Davis, Senior Vice-Commander--John E. Bull, Junior Vice-Commander--George Barns (or Barnes), Chaplain--Preston Darling, Quarter Master--Isaac Lynch, Adjutant--Henry D. Lock (or Locke), and the Rifle Company consisting of: Leonard Griffon (or Griffen or Griffin), Preston Darling, and Isaac 122 Lynch. Later records indicate that other members who held positions were: George E. Harris, Joel Percell (or Purcell), John Personius, John Randall, John Huslander, Henry S. Krum, David B. Hammond, George Matson.
 
 The last recorded reports from the posts were on 31 October 1899. In that time period, the "Notice of Intents" that were filed show that Post #158, (Brookton) paid $284.07 for the care and maintenance of veterans and their families and they asked the Town Board for $150.00. Post #68 (Slaterville Springs) paid $168.98. Some of the items that were provided were: board, fuel, clothing, food & tobacco, Doctor and nursing care, transportation to the Veterans Home in Bath, and burials. In February 1912, the David Ireland Post #158 was charged with payment to Fred Warriner for $7.00 worth of goods, and paid. (1994, *A History of the Town of Caroline Tompkins County, New York United States of America*, (the "Bicentennial Book"), Revised and Compiled by Barbara B. M. Kone, Town of Caroline Historian.)
-
+-->
 
 The first owner of the parcel that would become the Mills' home appears to be [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911), the son of George and Sarah Wolcott. The historical deeds for Dalebrook refer to the adjoining property as the "Wolcott lot". William lists himself as a carpenter and a painter in the census data, and he was a Civil War veteran in the 137th New York Volunteer Infantry Regiment. After the untimely death of William's son Willis, William's wife raised her three young grandsons. One of those sons, Earl A. Wolcott died in combat in World War One, the "first Tompkins County boy to give his live in actual fighting against the Germans", dying in a French hospital on May 13, 1917 after being "seriously burned by a gas shell". 
 

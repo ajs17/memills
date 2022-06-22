@@ -208,18 +208,16 @@ I believe it is [Emily Mills Huntting](https://www.findagrave.com/memorial/23991
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
 
-I am following up with Long Island Museum, which houses works of the artist [William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868), "generally considered the first major artist to paint the activities of everyday American life" who in the mid-1800's painted many portraits, including members of the Mills family. For example, there is a portrait from 1843 of "Elizabeth Mills", although I have not yet identified her exactly. Notably, he painted a portrait of William Wickam Mills, already mentioned above in the history of Mills Pond:
+I am following up with Long Island Museum, which houses works of the artist [William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868), who occupies a place in the Mills family tree and who is "generally considered the first major artist to paint the activities of everyday American life". In the mid-1800's, Mount painted many portraits, including members of the Mills family. For example, there is a portrait from 1843 of "Elizabeth Mills", although I have not yet identified her exactly. Notably, he painted a portrait of William Wickam Mills, already mentioned above in the history of Mills Pond:
 
 {{% fig "portraits/william-wickham-mills" "500" /%}}
 
-William Mount's [Wikipedia entry](https://en.wikipedia.org/wiki/William_Sidney_Mount) shows a photograph of the artist taken by Mathew Brady. Mount also produced several self portraits in the collection of the Long Island Museum.
-
+William Mount's [Wikipedia entry](https://en.wikipedia.org/wiki/William_Sidney_Mount) shows a photograph of the artist taken by Mathew Brady, one of the earliest photographers in American history, famous for his photographs of the Civil War and prominent public figures. Mount also produced several self portraits in the collection of the Long Island Museum.
 
 The Archives at Queens Library contains two boxes of materials of the "Mills Family of Jamaica and Mills Pond" that includes a reference to Jonas Mills in the scope notes, and talks of correspondence among the descendants of Timothy Mills in the 1870's (when Edward's family was in Corfu).
 
 <figure class="quote-only">
 <blockquote>
-
 <h3>Historical Biographical Note</h3>
 
 <p>This collection documents the Mills Family of Long Island. The family originated in Buffalo, New York and moved to Long Island in the 1800’s. Most of the information included in this collection was organized and collected by James H. Mills through correspondence with fellow family members and work done by B.F. Thompson. The collection contains several logs of Mills Family descendants and related families from other territories in America. There are also letters from Henry/Harry Mills dated from 1871-1874. Henry/Harry Mills seems to have done a lot of research on family history. The bulk of the collection focuses on the descendants of Timothy Mills an early settler of Mills Pond, Long Island.</p>
@@ -288,4 +286,4 @@ These two articles were also re-printed as one item in the 02 Aug 1894 edition o
 
 The author, a prominent resident of Port Jervis in Orange County:
 
-{{% fig "portraits/swmillsportrait" "350" /%}}
+{{% fig "portraits/swmillsportrait" "500" /%}}
