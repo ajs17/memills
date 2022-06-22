@@ -86,7 +86,10 @@ By 1876, Corfu had grown considerably, but E. H. Mills & Co. and the Mills' home
 
 In 1876, Horace shot himself, presumably in the Mills' home in Corfu:
 
-{{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "500" /%}}
+<div class="cols">
+{{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "350" /%}}
+{{% fig "corfu/1876-10-27-The-Progressive-Batavian-Batavia-NY-1" "350" /%}}
+</div>
 
 According to Edward and Mary Ann's obituaries in the records of Caroline Valley Community Church, the Mills moved to Mott's Corners in Mar 1879. 
 
@@ -130,6 +133,12 @@ When Emily returned to Corfu with Edward's remains, both the building that house
 A fire in 1899 destroyed the building that had once housed E. H. Mills & Co.
 
 {{% fig "corfu/1899-corfu-fire" "800" /%}}
+
+{{% fig "corfu/1899-04-28-The-Daily-News-Batavia-NY-p1" "800x800" ""  "top" /%}}
+{{% fig "corfu/1899-04-28-The-Daily-News-Batavia-NY-p4" "800x200" ""  "top"/%}}
+{{% fig "corfu/1899-04-28-Buffalo-Evening-News-Buffalo-NY-p24" "800x600" "" "top" /%}}
+{{% fig "corfu/1899-04-28-The-Daily-Leader-Gloversville-NY-p1" "500" /%}}
+{{% fig "corfu/1899-05-05-Republican-Watchman-Monticello-NY-p2" "500" /%}}
 
 Finally, Allan Starkweather confirms the Mills' home in Corfu no longer exists at the time this is written. Real estate listings indicate the present structure was erected in 1900. 
 

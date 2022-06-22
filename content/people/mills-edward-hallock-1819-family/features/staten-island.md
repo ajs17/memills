@@ -37,6 +37,8 @@ The 1860 census also shows that the Mills family were living with [Bartlett Brow
 
 Bartlett Brown's parents are [Abram Brown](https://www.findagrave.com/memorial/20577929/a-brow) (10 May 1802 to 10 Feb 1874) and [Hannah Hawkins](https://www.findagrave.com/memorial/122608336/hannah-brown) (04 Feb 1804 to 14 Aug 1879). It is interesting to note that there are items Hawkins items in the <a href="https://www.queenslibrary.org/manuscripts/0205#bg-largeview-about">The Mills Family of Jamaica and Mills Pond, Long Island</a>, Archives at Queens Library, Queens Borough Public Library, Jamaica NY: a "Hawkins family" folder and a folder containing Hawkins genealogical data. I have yet to personally examine these.
 
+{{% fig "staten-island/1902-12-06-South-Side-Signal-Babylon-NY-p3" "500" /%}}
+
 {{% fig "staten-island/1902-11-29-richmond-county-advance-p4" "700x400" "" "top" %}}
 Mr. Brown was born at Oak Farm, Long Island, and was one of ten children. His parents were among the most intelligent and estimable people of that section, and he was trained to many kinds of usefulness on the farm from a very early age. Indeed, the experiences which then came to him were invaluable, and fitted him in a superior degree for the diligent, manly and honorable life which succeeded.
 
@@ -47,7 +49,7 @@ He set a fine example with regard to everything in which he was engaged during t
 (Partial transcription, emphasis added. Click on the accompanying link to view the full article.)
 {{% /fig %}}
 
-Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained consistent over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. In fact this area, described elsewhere as "the bend between Van Street and Broadway", is the location of Pine, Hillyer & Co. general store in 1859, co-owned by Charles Pine and James Hillyer. (1930, Charles W. Leng and William T. Davis, Staten Island and Its People, Volume II, Lewis Historical Publishing Company Inc., NY, p651.) 
+Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained consistent over these many years. For example, note the consistency over time in the bends in the road where Broadway intersects Richmond Terrace near Kill Van Kull. This area, described elsewhere as "the bend between Van Street and Broadway", was the location of Pine, Hillyer & Co. general store in 1859, co-owned by Charles Pine and James Hillyer. (1930, Charles W. Leng and William T. Davis, *Staten Island and Its People, Volume II*, Lewis Historical Publishing Company Inc., NY, p651.) 
 
 If Bartlett's obituary is accurate, then it seems likely that in 1860, the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" would seem to be the structure at the corner of State Street and Castleton Avenue. This interpretation appears to be corroborated by the 1886 edition of Webb's Consolidated Directory referenced below.
 
@@ -68,8 +70,14 @@ Other maps showing this property include the Colton and  Dripps maps which both 
 {{% fig "staten-island/1866-colton-map-cropped" "800" /%}}
 {{% fig "staten-island/1872-dripps-map-cropped" "800" /%}}
 
+Bartlett Brown's son [Bartlett Brown Jr.](https://www.findagrave.com/memorial/199802139/bartlett-brown) (04 Mar 1870 to 15 Dec 1946), apparently known locally as "Bartie", succeeded him in business: 
+
+{{% fig "staten-island/1891-08-06-Richmond-County-Advance-West-New-Brighton-NY-p1" "500" /%}}
+{{% fig "staten-island/1891-09-26-Richmond-County-Advance-West-New-Brighton-NY-p4" "500" /%}}
+{{% fig "staten-island/1892-04-16-Richmond-County-Advance-West-New-Brighton-NY-p4" "500" /%}}
 
 A partial timeline of events in Staten Island while the Mills lived there:
+
 <figure class="quote-only">
 <blockquote>
 
@@ -236,3 +244,6 @@ Charles M. Pine was also one of the incorporators of The  Staten Island Savings 
 Finally, here is some basic information on the Presbyterian churches on Staten Island in the 1886 edition of Webb's Consolidated Directory. Notice that Calvary was not established until after the Mills left Staten Island.  
 
 {{% fig "staten-island/1886-staten-island-directory-p351" "500" /%}}
+
+
+

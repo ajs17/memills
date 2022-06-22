@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 4
 ---
 
-Horace F. Mills, born 1854, Staten Island NY, died 27 October 1876, Corfu NY. Second child of Edward H. and Mary Ann Mills. Horace worked as clerk in E. H. Mills & Co., Corfu.
+Horace F. Mills, born 1854, Staten Island NY, died 21 October 1876, Corfu NY. Second child of Edward H. and Mary Ann Mills. Horace worked as clerk in E. H. Mills & Co., Corfu.
 
 <!--more-->
 
@@ -12,7 +12,13 @@ Horace F. Mills, born 1854, Staten Island NY, died 27 October 1876, Corfu NY. Se
 
 Horace is the single biggest mystery in the family, all the more so because his death seems to be a pivotal event in the family's history:
 
-{{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "500" /%}}
+<div class="cols">
+{{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "350" /%}}
+{{% fig "corfu/1876-10-27-The-Progressive-Batavian-Batavia-NY-1" "350" /%}}
+</div>
+
+Horace lingered for several days. It should be noted that the records of Evergreen Hill Cemetery are inaccurate.
+
 {{% fig "evergreen-hill-cemetery-51" "800" /%}}
 
 Presumably, the fact that the family moved away from Corfu a few years after his death is more than coincidental, but that is speculation. However, this could also explain why Emily was so active in the [temperance movement]({{% ref "features/temperance/" %}}), if alcohol was a factor in Horace's death. I have taken an initial photographic inventory of every page of the Good Templars meeting minutes, and I intend to read these more closely for clues.
@@ -28,8 +34,6 @@ Horace is [interred](https://www.findagrave.com/memorial/75958913/horace-f-mills
 
 ### Notes for Future Researchers
 
-As already discussed above in relation to the Evergreen Hill Cemetery records and Horaces date of death, the vital details of Horace's life all come from single sources of information. As they are uncorroborated, they should be treated with skepticism until verified. However, it is likely that many of these details will never be able to be verified, so for now, I am treating what data I do have as true.
-
 There is another Horace F. Mills in upstate New York in the 1800's, who was of some prominence, but who does not appear to be closely related to this Mills family. That Horace Mills was born in 1847, lived in Penn Yan NY, attended the University at Albany in 1861 but left to serve in the Civil War, ultimately rising to the rank of Major in the 9th USCT. Several photos of this Horace Mills can be found online.
 
 This Horace Mills may actually be a distant relative, as there are archival materials on the Mills Family at Queens Public Library that suggests that some branches of the family were in Naples NY and Buffalo NY. If true, this might also be a clue to the family's move to [Corfu]({{% ref "features/corfu-eh-mills-co" %}}).
@@ -42,3 +46,4 @@ And most frustrating of all is an presumably unrelated Horace Mills listed in th
 
 If this Horace was still living in the area at the same time as Edward's son, and especially being of similar age, extra care should be taken to correctly identify any reporting on "Horace Mills" at the time in the local papers. 
 
+At least some of these Mills may in fact be distant relations. 

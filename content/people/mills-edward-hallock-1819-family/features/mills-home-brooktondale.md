@@ -7,6 +7,12 @@ The Mills' home in Brooktondale is located at present-day (2021) 475 Brooktondal
 
 <!--more-->
 
+<blockquote>
+<p>
+She lived across the street from Dr. Lockwood, in a little house that sat back near the hill. 
+</p>
+</blockquote>
+
 <figure class="image" width="500px">
     <img src="/people/mills-edward-hallock-1819-family/assets/images/mills-home/hero.jpg" width="500" />
     <figcaption style="max-width: 500px">02 Jan 1964 entry in the Mills' home deeds. Andrea Talmage, who owned the Mills' home in the 1990’s, had the opportunity to talk with both Carl English and Grace Vandemark who confirmed that the Mills' home had been commonly called “The Mills' Place” for many years.</figcaption>
@@ -24,15 +30,22 @@ The first owner of the parcel that would become the Mills' home appears to be [W
 
 {{% fig "mills-home/caroline-deeds-1-572" "800" /%}}
 
-[Reverend Horace N. Humiston Sr.](https://www.findagrave.com/memorial/113971483/horace-n-humiston) (08 Jun 1806 to 26 Feb 1888). His son, [Horace N. Humiston Jr.](https://www.findagrave.com/memorial/113830259/horace-n-humiston) (11 Aug 1826 to 29 Jun 1889) was a prominent attorney in Ithaca: "July 1, 1889—50 years ago…  Horace N. Humiston died at half past 3 o'clock Sunday afternoon of organic disease of the heart. The deceased was so well known throughout this county that any sketch of his career would be superfluous…”(01 Jul 1939, The Ithaca Journal, Ithaca NY, p6).
+[Reverend Horace N. Humiston Sr.](https://www.findagrave.com/memorial/113971483/horace-n-humiston) (08 Jun 1806 to 26 Feb 1888). His son, [Horace N. Humiston Jr.](https://www.findagrave.com/memorial/113830259/horace-n-humiston) (11 Aug 1826 to 29 Jun 1889) was a prominent attorney in Ithaca.
+
+{{% fig "mills-home/1889-07-1-The-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
 
 {{% fig "mills-home/car-deeds-5-70" "800" /%}}
 
-[Esther C. (Cary) Vorhis](https://www.findagrave.com/memorial/148400355/esther-vorhis) (1836 to 23 Jan 1917) Esther is the mother of Frank Vorhis below.
+[Esther C. (Cary) Vorhis](https://www.findagrave.com/memorial/148400355/esther-vorhis) (1836 to 23 Jan 1917) Esther is the wife of [Andrew Cameron Vorhis](https://www.findagrave.com/memorial/21978492/andrew-cameron-vorhis) (1825 to 05 Aug 1889) mother of [Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 1919), owners of the old grist mill,  on the site of .
 
 {{% fig "mills-home/car-deeds-5-138" "800" /%}}
 
-[Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 18 May 1919). Frank owned the old grist mill on the site of Dalebrook Apartments, and according to his obituary, "Mr. Vorhis had been in the milling business at Brookton for 32 years." (19 May 1919, The Ithaca Journal, Ithaca NY, p7.) According to the Brookton's Market 2011 Calendar, Frank also owned the general store at that location from the 1880's to its sale to the Mulks brothers in 1902, when it became known as Frank F. Mulks. Frank Vorhis is the father of [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964) who was [baptized]({{% ref "baptism" %}}) with Emily and Jessie Brewer and is often referred to as "Miss Esther Vorhis" during that time. Frank's son [Charles Vorhis](https://www.findagrave.com/memorial/162243893/charles-vorhis) (1913 to 1973) eventually bought the Mill's store building and moved the post office to that location in 1961, according to Molly Adams' "A Note on Emily Mills."
+Starting with Cameron Vorhis, andhhh [Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 18 May 1919). Frank owned the old grist mill on the site of Dalebrook Apartments, and according to his obituary, "Mr. Vorhis had been in the milling business at Brookton for 32 years." (19 May 1919, The Ithaca Journal, Ithaca NY, p7.) 
+
+According to the Brookton's Market 2011 Calendar, Frank also owned the general store at that location from the 1880's to its sale to the Mulks brothers in 1902, when it became known as Frank F. Mulks. Frank Vorhis is the father of [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964) who was [baptized]({{% ref "baptism" %}}) with Emily and Jessie Brewer and is often referred to as "Miss Esther Vorhis" during that time. 
+
+
+Frank's son [Charles Vorhis](https://www.findagrave.com/memorial/162243893/charles-vorhis) (1913 to 1973) eventually bought the Mill's store building and moved the post office to that location in 1961, according to Molly Adams' "A Note on Emily Mills."
 
 {{% fig "mills-home/138-329" "800" /%}}
 
@@ -99,3 +112,32 @@ There is only one other deed unrelated to the Mills’ home that I found associa
 
 Notice that these deeds include an affidavit from Dr. Lockwood.
 
+
+
+  
+{{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3a" "500" /%}}
+{{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3b" "500" /%}}
+{{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "500" /%}}
+{{% fig "mills-home/1917-01-20-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
+{{% fig "mills-home/1917-01-24-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "mills-home/1917-01-25-Star-Gazette-Elmira-NY-p7" "500" /%}}
+{{% fig "mills-home/1918-03-08-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "mills-home/1919-03-22-The-Ithaca-Journal-Ithaca-NY-p6" "500" /%}}
+{{% fig "mills-home/1919-05-10-The-Ithaca-Journal-Ithaca-NY-p9" "500" /%}}
+{{% fig "mills-home/1919-05-19-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
+{{% fig "mills-home/1919-05-22-The-Ithaca-Journal-Ithaca-NY-p9" "500" /%}}
+{{% fig "mills-home/1919-05-26-The-Ithaca-Journal-Ithaca-NY-p9" "500" /%}}
+{{% fig "mills-home/1941-11-15-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
+{{% fig "mills-home/1941-11-18-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+{{% fig "mills-home/1960-01-27-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "mills-home/1960-01-28-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "mills-home/1963-09-10-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
+{{% fig "mills-home/1963-09-11-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+{{% fig "mills-home/1964-05-13-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+{{% fig "mills-home/1964-05-19-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
+{{% fig "mills-home/1974-07-12-The-Ithaca-Journal-Ithaca-NY-p4" "500" /%}}
+{{% fig "mills-home/1974-07-23-The-Ithaca-Journal-Ithaca-NY-p4" "500" /%}}
+{{% fig "mills-home/1974-08-06-The-Ithaca-Journal-Ithaca-NY-p27" "500" /%}}
+{{% fig "mills-home/1974-09-16-The-Ithaca-Journal-Ithaca-NY-p4" "500" /%}}
+{{% fig "mills-home/1974-09-17-The-Ithaca-Journal-Ithaca-NY-p30" "500" /%}}
+{{% fig "mills-home/1974-09-19-The-Ithaca-Journal-Ithaca-NY-p18" "500" /%}}

@@ -111,7 +111,7 @@ Edward married (1) **Mary Ann (Pine) Mills** (born Hempstead NY, 08 Feb 1819, di
 
 Children:
   - **Jonas E. Mills** (born Staten Island NY, 1852, died Brookton NY, 14 Oct 1885).
-  - **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, 27 Oct 1876).
+  - **Horace F. Mills** (born Staten Island NY, 1854, died Corfu NY, 21 Oct 1876).
   - **Mary Emily Mills** who went by "Emily" and often signed her name as "M. Emily Mills" (born Staten Island NY, Dec 1858, died Brooktondale NY, 03 Nov 1937).
   
 None of Edward's children married or had children.
@@ -122,11 +122,11 @@ Edward married (2) **Hannah (Thatcher) Eastman Mills** (born England, 21 May 182
 
 Notes:
   - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries.
-  - Jonas Davis Mills and Mary Platt Mills may be related, although I have yet to follow up on this. 
+  - Jonas Davis Mills and Mary Platt Mills may be related, although I have yet to follow up on this completely. 
   - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence, 21 Jul 2021)
-  - According to [this site](https://www.wikitree.com/wiki/Hallock-2194) Mary (Hallock) Mills was born in Mills Pond and "is interred at the Old Cemetery, Smithtown, Suffolk, NY." This source also confirms that her father is Thomas and gives his birth year at 1775.
-  - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over decade before Emily was born. 
+  - According to [WikiTree](https://www.wikitree.com/wiki/Hallock-2194) Mary (Hallock) Mills was born in Mills Pond and "is interred at the Old Cemetery, Smithtown, Suffolk, NY." This source also confirms that her father is Thomas, but gives his birth year as 1775.
+  - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over a decade before Emily was born. 
 
 Several of the marriages above and below are referenced, if not corroborated, in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 
@@ -208,11 +208,14 @@ I believe it is [Emily Mills Huntting](https://www.findagrave.com/memorial/23991
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
 
-I am following up with Long Island Museum, which houses works of the artist [William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868), "generally considered the first major artist to paint the activities of everyday American life" who in the mid-1800's painted many portraits, including members of the Mills family. For example, there is a portrait from 1843 of "Elizabeth Mills", although I have not yet identified her exactly. Notably, he painted a portrait of William Wickam Mills, already discussed above:
+I am following up with Long Island Museum, which houses works of the artist [William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868), "generally considered the first major artist to paint the activities of everyday American life" who in the mid-1800's painted many portraits, including members of the Mills family. For example, there is a portrait from 1843 of "Elizabeth Mills", although I have not yet identified her exactly. Notably, he painted a portrait of William Wickam Mills, already mentioned above in the history of Mills Pond:
 
-William Mount's grandparents are [Jonas Hawkins](https://www.findagrave.com/memorial/68728823/jonas-hawkins) (28 Aug 1752 to 24 Apr 1817) and [Ruth (Mills) Hawkins](https://www.findagrave.com/memorial/8844210/ruth-hawkins) (1748 to 22 Jan 1840). 
+{{% fig "portraits/william-wickham-mills" "500" /%}}
 
-The Archives at Queens Library contains two boxes of materials of the "Mills Family of Jamaica and Mills Pond" that includes a reference to Jonas Mills in the scope notes, and talks of correspondence among the descendants of Timothy Mills in the 1870's (when Edward's family was in Corfu), and of course, photographs:
+William Mount's [Wikipedia entry](https://en.wikipedia.org/wiki/William_Sidney_Mount) shows a photograph of the artist taken by Mathew Brady. Mount also produced several self portraits in the collection of the Long Island Museum.
+
+
+The Archives at Queens Library contains two boxes of materials of the "Mills Family of Jamaica and Mills Pond" that includes a reference to Jonas Mills in the scope notes, and talks of correspondence among the descendants of Timothy Mills in the 1870's (when Edward's family was in Corfu).
 
 <figure class="quote-only">
 <blockquote>
@@ -232,24 +235,49 @@ The Archives at Queens Library contains two boxes of materials of the "Mills Fam
 </figcaption>
 </figure>
 
-The curators have told me that there is actually only one photograph in the collection, which I am attempting to get scanned.
+The curators have told me that there is only one photograph in the collection, which I am attempting to get scanned.
 
 Of course, there are several Jonas Mills in the genealogy, but the dates given suggests this could be a reference to Edward's father. But even if this is a different branch of the Mills family, the genealogical records, etc., may provide important data on the family members investigated here.
 
 A document worth highlighting in this collection is the will of Timothy Mills, the common ancestor of everyone above. And in addition to the unexpected reference to Buffalo, which I have not otherwise encountered, the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
 
-The collection also contains genealogies and other information on the following surnames related to the Mills:
+The collection also contains genealogies and other information on the following surnames that can be found, often multiple times, throughout the Mills genealogy: 
   
   - Burnet
   - Davis
   - Halstead
-  - Hawkins (This may reveal of relation to Bartlett Brown, who is described in [The Mills Family in Staten Island]({{% ref "staten-island" %}}). The Hawkins surname is also featured prominently in 1919, <em>Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene</em>, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, Logan Utah FamilySearch Library, familysearch.org.)
+  - Hawkins
   - Miller
   - Roe
   - Rudyard
   - Smith
 
-Initial exploration of this collection is being planned for later in the Summer 2022. Based on a review of the collection's inventory, it appears it may contain the primary sources used in writing the following history:
+Of particular interest is Hawkins: Hawkins is the maiden name of the mother of Bartlett Brown, who is described in [The Mills Family in Staten Island]({{% ref "staten-island" %}}), although I have not explored the genealogy well enough to make a definitive connection. William Mount's grandparents are [Jonas Hawkins](https://www.findagrave.com/memorial/68728823/jonas-hawkins) (28 Aug 1752 to 24 Apr 1817) and [Ruth (Mills) Hawkins](https://www.findagrave.com/memorial/8844210/ruth-hawkins) (1748 to 22 Jan 1840), daughter of Jonathon Mills. During his childhood, William Mount lived for a time with his uncle Micah Hawkins (01 Jan 1777 to 29 Jul 1825), widely credited as "the author and composer of the first original American Opera", and who at one time "kept a grocery store in Catharine St. New York."
+
+<figure class="quote-only">
+<blockquote>
+<p>
+Micah Hawkins was a musical genius and could perform creditably upon the piano, flute or violin. He composed many songs and musical pieces which were published and proved to be popular. Several copies of original editions of these publications are still in possession of members of the family. He is best known however, as the author and composer of the first original American Opera, entitled "The Saw Mill," which had a satisfactory run at Henry Wallack's Chatham Theatre in New York city, during 1824. Besides his musical activities Micah Hawkins kept a grocery store in Catharine St. New York, in which was installed a piano and he was wont to regale his customers with a little music when they visited his shop.
+</p>
+<p>
+He was a pleasant conversationalist, possessed a ready vein of wit and withal a good singer. It especially pleased him to sing his own songs which he did with great gusto. His portrait painted by Louis Child and retouched by his nephew William S. Mount, hangs in the Hawkins-Mount house at Stony Brook L. I. where he was born. It is said of him that he always wore a white cravat, which fact is attested by the portrait. Micah Hawkins was a close friend of Benjamin F. Thompson, the historian, who did much to encourage him in his musical efforts. For a further account of this interesting individual see Oscar Wegelin's "Micah Hawkins and The Saw Mill."
+</p>
+<p>
+Of the printed edition of the "Saw Mill" only two copies are know to be in existence today, one belonging to Brown University and the other in the hands of a private collector. The book is therefore much sought after by collectors of Americana, particularly those interested in early drama.
+</p> 
+</blockquote>
+<figcaption>
+<cite>
+1919, <em>Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene</em>, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, Logan Utah FamilySearch Library, p91-92, familysearch.org 
+</cite>
+</figcaption>
+</figure>
+
+The portrait mentioned above:
+
+{{% fig "portraits/micah-hawkins-p84" "500" /%}}
+
+Initial exploration of Mills family collection at Queens Public Library is being planned for later in the Summer 2022. Based on a review of the collection's inventory, it appears it may contain the primary sources used in writing the following history:
 
 {{% fig "long-island/1894-07-27-Port-Jervis-Union-Port-Jervis-NY-p3" "800x300" "" "top" /%}}
 {{% fig "long-island/1894-07-28-Port-Jervis-Union-Port-Jervis-NY-p2" "800x300" "" "top" /%}}
@@ -258,4 +286,6 @@ These two articles were also re-printed as one item in the 02 Aug 1894 edition o
 
 {{% fig "long-island/1894-08-02-Tri-States-Union-Port-Jervis-NY-p2" "800x300" "img,cite,link" "top" /%}}
 
+The author, a prominent resident of Port Jervis in Orange County:
 
+{{% fig "portraits/swmillsportrait" "350" /%}}

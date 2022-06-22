@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 5
 ---
 
-Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale NY, who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktonale Congregational Church, now Caroline Valley Community Church.
+Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale NY, who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% ref "features/me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% ref "features/temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktondale Congregational Church, now Caroline Valley Community Church.
 
 <!--more-->
 
@@ -20,8 +20,7 @@ Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale 
 
 Emily's middle name may be in honor of Edward's sister who died over a decade before Emily was born. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she typically used "M. Emily Mills", particularly in later years.
 
-
-Documentation suggests the Mills family moved from Staten Island to Corfu sometime between 01 Sept 1862 and 01 May 1863, a period overlapping Emily's fourth birthday. The family moved to Motts Corners in Mar 1879, a few months after Emily's 20th birthday, and in the few years immediately following Horace's suicide. 
+Documentation suggests the Mills family moved from Staten Island to Corfu sometime between 01 Sept 1862 and 01 May 1863, a period overlapping Emily's fourth birthday. The family moved to Motts Corners in Mar 1879, a few months after Emily's 20th birthday, and in the few years immediately following her brother Horace's suicide. 
 
 Emily returned to Corfu in later years to bury Jonas, Mary Ann and Edward. But she also returned to visit her friends, at least this one time, surely with many mixed emotions.
 
@@ -43,11 +42,13 @@ Her E's C's L's and J's tend to have big loops. Her lowercase p's practically pi
 
 Interestingly, her T's are sometimes written quite differently. See for example, the way "to" is written in the entries for John and James Caveny vs. those for J. T. Miller and Emily herself. These very different looking T's appear to all be written by Emily given other matches that can be verified, including most obviously, the capital J's which all begin in the center with an extra initial loop.
 
-Jonas died on 14 October 1885 after a brief illness. Whether Emily worked in the store prior to Jonas' death, by 1892, she lists herself as clerk in the state census. And here we get a small glimpse of Emily's interests around that time:
+Jonas died on 14 October 1885 after a brief illness. Whether Emily worked in the store prior to Jonas' death, by 1892, she lists herself as clerk in the state census. 
+
+A small glimpse of Emily's interests around that time:
 
 {{% fig "mills-emily-arthurs-home-magazine" "500" /%}}
 
-And Emily acted as nurse at the end of her mother's life: 
+Emily acted as nurse at the end of her mother's life: 
 
 {{% fig "1895-12-31-daily-news-p1" "800" /%}}
 

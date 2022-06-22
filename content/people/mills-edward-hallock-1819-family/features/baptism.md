@@ -85,3 +85,4 @@ Selected data on the participants:
   - Descendants confirm she commonly went by Esther.
   - Married George W. Pancoe (1895-1969).
   - Esther’s father was Frank C. Vorhis, who was owner of the general store prior to the Mulks brothers and who was a former owner of the Mills' home.
+  - "She was a member of Caroline Valley Federated Church, the Ladies Aid of that church and a former member of Brooktondale Home Bureau. She has been employed throughout the area as a practical nurse for many years." (19 May 1964, The Ithaca Journal, Ithaca NY, p2, newspapers.com.)

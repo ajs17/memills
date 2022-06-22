@@ -3,9 +3,7 @@ citation: "Evergreen Hills Cemetery, Corfu, directory listing, cropped image, pa
 notes: >-
     Notes:
 
-    - Obviously, Edward's date of death is incorrect. The only connection with Jan 6 is the publication of his obituaries.
-    
-    - Given the innaccuracy with Edward's date of death, Horace's should be viewed with skepticism. as well. Presently, this is the only documentation of his death, so until evidence to the contrary is discovered, this will be assumed to be his death date.
+    - The death dates for Edward and Horace are incorrect, and in both cases, the dates seem to correspond with when the deaths were announced in the local papers. Edward died 01 Jan 1908 and Horace died 21 Oct 1876.
 
 ---
  
