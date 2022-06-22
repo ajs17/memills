@@ -192,12 +192,16 @@ Identical notices for the Halloween party ran in The Ithaca Journal on 28 Oct an
 
 And in the following, Molly Adams seems to indicate "at the store" refers to what is presently known as Brookton's Market, owned by Robert (Bob) Tucker at that time, and not M. E. Mills, although her choice of words is noticeably vague on the point. Presumably, I can find the original quote and get a better sense of this, but it's not obvious this isn't referring to Mills' store:
 
-<blockquote class="quote-only">
-<p>...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub. ... Jessie Brewer sold dry goods and had a lending library where Emily Mills's store had been. 
-</p>  
-<p>— Molly Adams, "Town of Caroline" in <strong>The Towns of Tompkins County: From Podunk to the Magnetic Springs</strong> edited by Jane Marsh Dieckmann, p63
-</p>
+<figure>
+<blockquote>
+...At Old Home Day in 1935 Professor Edwin Shurter proposed a memorial to Dr. Lockwood: those who wished to contribute could sign up "at the store." This store in the center of town, with the post office attached, had become, and remains, a village hub.
 </blockquote>
+<figcaption>
+<cite>
+— Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p63.
+</cite>
+</figcaption>
+</figure>
 
 {{% fig "1935-07-31-The-Ithaca-Journal-p14" "500" /%}}
 {{% fig "1935-11-23-The-Ithaca-Journal-p5" "800x840" "" "top" /%}}
@@ -212,6 +216,17 @@ As noted in other histories, Jessie Brewer took over the store at the same locat
 
 {{% fig "me-mills/brewer-ad" "500" /%}}
 {{% fig "me-mills/1950-05-11-The-Ithaca-Journal-Ithaca-NY-p27" "500" /%}}
+
+<figure>
+<blockquote>
+The Brooktondale post office, which had expanded operations when Caroline Depot closed in 1952 (and which now serves all of Caroline except Slaterville village and Speedsville), moved across the street when Jessie Brewer closed her store.
+</blockquote>
+<figcaption>
+<cite>
+— Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p69.
+</cite>
+</figcaption>
+</figure>
 
 
 ## Notes for Future Researchers
