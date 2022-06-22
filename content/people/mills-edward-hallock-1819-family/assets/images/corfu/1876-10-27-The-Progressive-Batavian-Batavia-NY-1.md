@@ -1,5 +1,12 @@
 ---
-citation: "27 Oct 1876, The Progressive Batavian Batavia Ny 001 "
+# citation: "27 Oct 1876, The Progressive Batavian, Batavia NY"
+pubdate:  "1876-10-27"
+author: 
+title: 
+voltitle:  "The Progressive Batavian"
+publocation:  "Batavia  NY"
+pages:  ""
+source:  "fultonhistory.com"
 notes: >-
 
   - "Saturday last" was 21 Oct 1876. 

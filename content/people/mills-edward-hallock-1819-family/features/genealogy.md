@@ -20,7 +20,7 @@ The Mills on Long Island were of English descent and it would seem quite clear t
 
 <figure class="quote-only">
 <blockquote>
-TIMOTHY MILLS<sup>3</sup> (Samuel<sup>2</sup>) born at Jamaica in 1667, was the pregenitor of the Suffolk Co. Mills and moved to that part of the Smithtown since called Mills Pond in 1693. …The settlement of Mills Pond is a collection of dignfied old houses surrounded by a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor." 
+TIMOTHY MILLS<sup>3</sup> (Samuel<sup>2</sup>) born at Jamaica in 1667, was the progenitor of the Suffolk Co. Mills and moved to that part of the Smithtown since called Mills Pond in 1693. …The settlement of Mills Pond is a collection of dignified old houses surrounded by a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor." 
 </blockquote>
 <figcaption>
 <cite>— 1919, <em>Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene</em>, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, p105, Logan Utah FamilySearch Library, familysearch.org.

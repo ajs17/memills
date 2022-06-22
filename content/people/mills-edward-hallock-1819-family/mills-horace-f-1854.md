@@ -17,7 +17,7 @@ Horace is the single biggest mystery in the family, all the more so because his 
 {{% fig "corfu/1876-10-27-The-Progressive-Batavian-Batavia-NY-1" "350" /%}}
 </div>
 
-Horace lingered for several days. It should be noted that the records of Evergreen Hill Cemetery are inaccurate.
+Horace lingered for several days. The records of Evergreen Hill Cemetery are therefore inaccurate.
 
 {{% fig "evergreen-hill-cemetery-51" "800" /%}}
 
