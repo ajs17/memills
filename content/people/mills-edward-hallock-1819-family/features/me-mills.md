@@ -117,7 +117,8 @@ In one of the present-day photos of 484 Brooktondale Road, you can see the stair
 *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, contains a listing for M. E. Mills on a page identified as “Tour 4 - P7” in a 2016 reprint by The White Church Cabin Country Store and appears to be the source (with some alterations) of the description Molly Adams used in her “Note”. In Molly’s research notes, she gives the attribution: “[Driveby, ie Conant]" and I have confirmed with Barbara Kone that Gertrude wrote the Brooktondale portions of the "Drive-by" book:
 
 <blockquote class="quote-only">
-<strong>BROOKTONDALE POST OFFICE, left -- 484 Brooktondale Road</strong>
+<p><strong>BROOKTONDALE POST OFFICE, left -- 484 Brooktondale Road</strong>
+</p>
 
 This was Miss Mary Emily Mills'(1861-1937) Dry Goods Store. She also had kerosene, Kerosene lamps with green shades, penny candy, stockings, handkerchiefs, yard goods, pins & sewing notions sheets & pillowcases, groceries, etc. She was a "sweet little lady" who succeeded her father in the business. Jessie Brewer had dry goods here after Miss Mills, and also had a lending library in the back.
 
