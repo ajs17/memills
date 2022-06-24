@@ -1,6 +1,6 @@
 ---
-# citation: "19 Sep 1974, The Ithaca Journal, Ithaca NY, p18, newspapers.com."
-pubdate:  "1974-09-19"
+# citation: "19 Sep 1963, The Ithaca Journal, Ithaca NY, p18, newspapers.com."
+pubdate:  "1963-09-19"
 author: 
 title: 
 voltitle:  "The Ithaca Journal"

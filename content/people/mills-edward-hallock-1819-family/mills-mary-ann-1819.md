@@ -26,7 +26,10 @@ All of the Mills children were born in Staten Island, and by 1860, the family wa
 
 [Horace]({{% ref "mills-horace-f-1854" %}}) committed suicide in Corfu in Oct 1876. 
 
-{{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "500" /%}}
+<div class="cols">
+{{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "350" /%}}
+{{% fig "corfu/1876-10-27-The-Progressive-Batavian-Batavia-NY-1" "350" /%}}
+</div>
 
 In Mar 1879, the family moved again, this time to Motts Corners, one of several earlier names for Brooktondale, where Edward restarted his grocery and dry goods business on his own as [E. H. Mills]({{% ref "features/me-mills" %}}). Both [Jonas]({{% ref "mills-jonas-e-1852" %}}) and [Emily]({{% ref "mills-mary-emily-1858" %}}) clerked for their father. 
 

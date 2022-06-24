@@ -16,5 +16,5 @@ header { padding-top: calc( var(--line-height) * 2 ); }
 
 article .summary a.more-link { display: inline; }
 
-.quote-only { font-style: normal; }
+/*.quote-only { font-style: normal; }*/
 

@@ -148,7 +148,6 @@ There is only one other deed unrelated to the Mills’ home that I found associa
 Notice that these deeds include an affidavit from Dr. Lockwood.
 
 
-
   
 {{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3a" "500" /%}}
 {{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3b" "500" /%}}
@@ -168,6 +167,7 @@ Notice that these deeds include an affidavit from Dr. Lockwood.
 {{% fig "mills-home/1960-01-28-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
 {{% fig "mills-home/1963-09-10-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
 {{% fig "mills-home/1963-09-11-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+{{% fig "mills-home/1963-09-19-The-Ithaca-Journal-Ithaca-NY-p18" "500" /%}}
 {{% fig "mills-home/1964-05-13-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 {{% fig "mills-home/1964-05-19-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
 {{% fig "mills-home/1974-07-12-The-Ithaca-Journal-Ithaca-NY-p4" "500" /%}}
@@ -175,4 +175,6 @@ Notice that these deeds include an affidavit from Dr. Lockwood.
 {{% fig "mills-home/1974-08-06-The-Ithaca-Journal-Ithaca-NY-p27" "500" /%}}
 {{% fig "mills-home/1974-09-16-The-Ithaca-Journal-Ithaca-NY-p4" "500" /%}}
 {{% fig "mills-home/1974-09-17-The-Ithaca-Journal-Ithaca-NY-p30" "500" /%}}
-{{% fig "mills-home/1974-09-19-The-Ithaca-Journal-Ithaca-NY-p18" "500" /%}}
+
+
+

@@ -7,6 +7,12 @@ After moving to Mott's Corners in Mar 1889, Edward restarted his general store o
 
 <!--more-->
 
+<blockquote>
+<p>
+...known as the "Store Property" on the southerly side of the highway, which is now and for a considerable time last past has been used and occupied by Miss Mills as a store. 
+</p>
+</blockquote>
+
 Mills' store, Summer 2021:
  
 {{% fig "today/2021-08-07-484-Brooktondale-Road-looking-southeast" "800" /%}}
