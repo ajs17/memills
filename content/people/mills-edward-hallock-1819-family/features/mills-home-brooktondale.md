@@ -29,9 +29,40 @@ A summary of the historical deeds referenced below, up to the time it was owned 
 
 {{% table "deeds.csv" "mills-home-deeds" "book,book-num,page-num,document-date,recorded-date,first-party,second-party,amount" "" "property" "=" "Mills Home" %}}
 
+The first owner of the parcel that would become the Mills' home appears to be [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911), the son of George and Sarah Wolcott. The historical deeds for Dalebrook refer to the adjoining property as the "Wolcott lot". William lists himself with the following occupations in his census data:
+
+  - 1850: "Carpenter"
+  - 1860: "Carpenter"
+  - 1865: "Carpenter"
+  - 1870: "Wagon maker"
+  - 1875: "Carriage maker"
+  - 1880: "Wagon maker"
+  - 1892: "Carpenter"
+  - 1900: "Day laborer" (and wife Ellen is a "Paperhanger")
+  - 1905: "Painter"
+
+Both William Wolcott and his father George were Civil War veterans. In Caroline on 21 Aug 1862, William enlisted in Company K of the 137th New York Volunteer Infantry Regiment, mustering in 25 Sep 1862 with the rank of Orderly Sergeant. (Town Clerks' Registers of Men Who Served in the Civil War, ca 1865–1867. Microfilm publication, 37 rolls. New York State Archives. Albany, New York, ancestry.com.)
+
+In Caroline, Apr 1861, George Wolcott enlisted in Company I of the 32nd New York Volunteer Infantry Regiment and mustered in 31 May 1861 with the rank of Sergeant under Colonel Roderick Matheson, Lieutenant Colonel Francis E. Pinto and Major George F. Lemon. He was eventually promoted to First Lieutenant. His record notes that he "was in seven days battles before Richmond". () Prior to that, the regiment was in reserve at the Battle of Bull Run, covering the retreat of the army, 21 July 1861. 12-15 Dec 1862, "The regiment was in support roles, helping to repel a Confederate assault on the New Jersey Brigade on the 13th, and lost 1 enlisted man killed and 3 wounded" 
+
+Sources: 
+  - Town Clerks' Registers of Men Who Served in the Civil War, ca 1865–1867. Microfilm publication, 37 rolls. New York State Archives. Albany, New York, ancestry.com. 
+  - [32nd New York Volunteer Infantry Regiment](https://civilwarintheeast.com/us-regiments-batteries/new-york-infantry/32nd-new-york/), civilwarintheeast.com.
+
+<figure>
+<blockquote>
+The Seven Days Battles were a series of seven battles over seven days from June 25 to July 1, 1862, near Richmond, Virginia, during the American Civil War. Confederate General Robert E. Lee drove the invading Union Army of the Potomac, commanded by Maj. Gen. George B. McClellan, away from Richmond and into a retreat down the Virginia Peninsula. …The Seven Days ended with McClellan's army in relative safety next to the James River, having suffered almost 16,000 casualties during the retreat.
+</blockquote>
+<cite>[Seven Days Battles](https://en.wikipedia.org/wiki/Seven_Days_Battles), wikipedia.org.
+
+
+
+After the untimely death of William's son Willis, William's wife [Ellen A. (Shurter) Wolcott Aldrich](https://www.findagrave.com/memorial/187990128/ellen-a-aldrich_wolcott) (07 Sep 1843 to 21 Apr 1928) raised her three young grandsons. One of those sons, [Earl A. Wolcott](https://www.findagrave.com/memorial/56100184/earl-a-wolcott) (Jan 1891 to 12 May 1918) died in combat in World War One, the "first Tompkins County boy to give his live in actual fighting against the Germans", dying in a French hospital on 13 May 1917 after being "seriously burned by a gas shell". 
+
+{{% fig "mills-home/caroline-deeds-1-572" "800" /%}}
+
 [Jacob VanDemark](https://www.findagrave.com/memorial/89241014/jacob-vandemark) (1802 to 15 Dec 1873)
 
-<!--
 [Charles W. Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 1924) was a Union veteran of the Civil War, having enlisted and mustered in 25 Aug 1862, Middletown NY (other sources say Caroline NY) to Company G of the 50th Engineers Regiment with the rank of Private. He mustered out 13 Jun 1865, Fort Barry VA, under Colonel Pettes, with the rank of Sergeant, having been promoted twice. (New York: Report of the Adjutant-General 1893-1906, ancestry.com)
 
 According to the website [The Civil War in the East](https://civilwarintheeast.com/us-regiments-batteries/new-york-regiments-and-batteries/artillery-and-engineers/50th-new-york-engineers/): "The 50th New York Infantry Regiment, which became the 50th New York Engineer Regiment, lost 1 officer and 19 enlisted men killed or mortally wounded and 1 officer and 206 enlisted men to disease during the Civil War. It is honored by a monument at Gettysburg shared with the 15th New York Engineers." The regiment organized as the 50th New York Infantry Regiment 18 Sep 1861 in Elmira NY and on 22 Oct 1861: "Detailed as sappers, miners and pontooners, and designated 50th New York Engineers at Washington, D.C. Attached to Woodbury’s Brigade, Army of the Potomac for duty at Alexandria, Va." The regiment participated in many of the pivotal events of the civil war, including the Maryland and Chancellorsville campaigns, as well as the battles fought at Fredericksburg and Gettysburg. The regiment also witnessed the surrender of General Lee at Appomattox Court House 09 Apr 1865.
@@ -46,26 +77,11 @@ On 6 Nov 1896, the Slaterville Springs G. A. R. Post filed with Town Clerk, B. V
 
 The last recorded reports from the posts were on 31 October 1899. In that time period, the "Notice of Intents" that were filed show that Post #158, (Brookton) paid $284.07 for the care and maintenance of veterans and their families and they asked the Town Board for $150.00. Post #68 (Slaterville Springs) paid $168.98. Some of the items that were provided were: board, fuel, clothing, food & tobacco, Doctor and nursing care, transportation to the Veterans Home in Bath, and burials. In February 1912, the David Ireland Post #158 was charged with payment to Fred Warriner for $7.00 worth of goods, and paid. (1994, *A History of the Town of Caroline Tompkins County, New York United States of America*, (the "Bicentennial Book"), Revised and Compiled by Barbara B. M. Kone, Town of Caroline Historian.)
 
+[Marcia E. (Upson) Personius](https://www.findagrave.com/memorial/89238131/marcia-e-personius) (05 Nov 1848 to	18 Dec 1875)
 
+[Freddie Personius](https://www.findagrave.com/memorial/89238141/freddie-personius) (unknown to 06 Oct 1888)
 
-<figure>
-<blockquote>
-When the Brooktondale Fire Company celebrated its first twenty years in 1966, residents were smug about progress since the war. The village had a fire company, natural gas, cable television, consolidated schools, a community center, telephones with direct dialing (no toll to Ithaca!), and now was looking forward to getting a safer road for school buses. From 1962 to 1967, Route 330 through Brooktondale was upgraded, for the first time since 1914. The improvements were greater than anyone expected. The Route 79 intersection was totally changed, and the entire road from there to 76 Road was “modernized.” Whole avenues of maples were lost; the abandoned upper mill was subjected to a spectacular “practice burn” in the summer of 1964; the bridge in front of the store was reconfigured. The old Shurter House, which had survived several floods in its day, was bought for one dollar and moved to its present location at 447 Brooktondale Road. Those who objected to the “Rape of Valley Road” complained that the road went nowhere, because it ended at 76 Road.
-</blockquote>
-<figcaption>
-<cite>
-— Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p69.
-</cite>
-</figcaption>
-</figure>
-
--->
-
-The first owner of the parcel that would become the Mills' home appears to be [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911), the son of George and Sarah Wolcott. The historical deeds for Dalebrook refer to the adjoining property as the "Wolcott lot". William lists himself as a carpenter and a painter in the census data, and he was a Civil War veteran in the 137th New York Volunteer Infantry Regiment. After the untimely death of William's son Willis, William's wife raised her three young grandsons. One of those sons, Earl A. Wolcott died in combat in World War One, the "first Tompkins County boy to give his live in actual fighting against the Germans", dying in a French hospital on May 13, 1917 after being "seriously burned by a gas shell". 
-
-{{% fig "mills-home/caroline-deeds-1-572" "800" /%}}
-
-[Reverend Horace N. Humiston Sr.](https://www.findagrave.com/memorial/113971483/horace-n-humiston) (08 Jun 1806 to 26 Feb 1888). His son, [Horace N. Humiston Jr.](https://www.findagrave.com/memorial/113830259/horace-n-humiston) (11 Aug 1826 to 29 Jun 1889) was a prominent attorney in Ithaca.
+Reverend Humiston is described in census records as "minister" in 1870 and "Preacher M. E." in 1875, both years in Candor. Given how briefly he owned the home, I'm not certain if he actually occupied it.
 
 {{% fig "mills-home/1889-07-1-The-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
 
@@ -75,7 +91,7 @@ The first owner of the parcel that would become the Mills' home appears to be [W
 
 {{% fig "mills-home/car-deeds-5-138" "800" /%}}
 
-Starting with Cameron Vorhis, andhhh [Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 18 May 1919). Frank owned the old grist mill on the site of Dalebrook Apartments, and according to his obituary, "Mr. Vorhis had been in the milling business at Brookton for 32 years." (19 May 1919, The Ithaca Journal, Ithaca NY, p7.) 
+Starting with A. Cameron Vorhis and [Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 18 May 1919). Frank owned the old grist mill on the site of Dalebrook Apartments, and according to his obituary, "Mr. Vorhis had been in the milling business at Brookton for 32 years." (19 May 1919, The Ithaca Journal, Ithaca NY, p7.) 
 
 According to the Brookton's Market 2011 Calendar, Frank also owned the general store at that location from the 1880's to its sale to the Mulks brothers in 1902, when it became known as Frank F. Mulks. Frank Vorhis is the father of [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964) who was [baptized]({{% ref "baptism" %}}) with Emily and Jessie Brewer and is often referred to as "Miss Esther Vorhis" during that time. 
 
@@ -147,8 +163,12 @@ There is only one other deed unrelated to the Mills’ home that I found associa
 
 Notice that these deeds include an affidavit from Dr. Lockwood.
 
-
-  
+{{% fig "mills-home/1873-12-22-The-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
+{{% fig "mills-home/1874-01-12-The-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
+{{% fig "mills-home/1875-12-20-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
+{{% fig "mills-home/1877-11-22-The-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
+{{% fig "mills-home/1881-09-08-The-Ithaca-Daily-Journal-Ithaca-NY-p4b" "500" /%}}
+{{% fig "mills-home/1881-09-08-The-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
 {{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3a" "500" /%}}
 {{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3b" "500" /%}}
 {{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "500" /%}}
@@ -161,6 +181,8 @@ Notice that these deeds include an affidavit from Dr. Lockwood.
 {{% fig "mills-home/1919-05-19-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
 {{% fig "mills-home/1919-05-22-The-Ithaca-Journal-Ithaca-NY-p9" "500" /%}}
 {{% fig "mills-home/1919-05-26-The-Ithaca-Journal-Ithaca-NY-p9" "500" /%}}
+{{% fig "mills-home/1924-02-11-The-Ithaca-Journal-Ithaca-NY-p11" "500" /%}}
+{{% fig "mills-home/1924-02-12-The-Ithaca-Journal-Ithaca-NY-p11" "500" /%}}
 {{% fig "mills-home/1941-11-15-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
 {{% fig "mills-home/1941-11-18-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 {{% fig "mills-home/1960-01-27-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
@@ -177,4 +199,17 @@ Notice that these deeds include an affidavit from Dr. Lockwood.
 {{% fig "mills-home/1974-09-17-The-Ithaca-Journal-Ithaca-NY-p30" "500" /%}}
 
 
+In Caroline on 17 Aug 1862, Willis Shurter enlisted as a private in Company A of the 109th Infantry Regiment, mustering in 27 Aug 1862. 
+
+
+<figure>
+<blockquote>
+When the Brooktondale Fire Company celebrated its first twenty years in 1966, residents were smug about progress since the war. The village had a fire company, natural gas, cable television, consolidated schools, a community center, telephones with direct dialing (no toll to Ithaca!), and now was looking forward to getting a safer road for school buses. From 1962 to 1967, Route 330 through Brooktondale was upgraded, for the first time since 1914. The improvements were greater than anyone expected. The Route 79 intersection was totally changed, and the entire road from there to 76 Road was “modernized.” Whole avenues of maples were lost; the abandoned upper mill was subjected to a spectacular “practice burn” in the summer of 1964; the bridge in front of the store was reconfigured. The old Shurter House, which had survived several floods in its day, was bought for one dollar and moved to its present location at 447 Brooktondale Road. Those who objected to the “Rape of Valley Road” complained that the road went nowhere, because it ended at 76 Road.
+</blockquote>
+<figcaption>
+<cite>
+— Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p69.
+
+</figcaption>
+</figure>
 
