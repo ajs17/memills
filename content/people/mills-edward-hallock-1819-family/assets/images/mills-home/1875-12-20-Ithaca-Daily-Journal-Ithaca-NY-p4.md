@@ -10,11 +10,17 @@ source:  "nyshistoricnewspapers.org"
 notes: >-
 
   - [Marcia E. (Upson) Personius](https://www.findagrave.com/memorial/89238131/marcia-e-personius) (05 Nov 1848 to 18 Dec 1875).
-  - [Charles W. Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 1924)
-  - [Freddie Personius](https://www.findagrave.com/memorial/89238141/freddie-personius) (unknown to 06 Oct 1868).
+  
+  - [Charles W. Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 1924).
+  
+  - [Freddie Personius](https://www.findagrave.com/memorial/89238141/freddie-personius) (unknown to 06 Oct 1868), the "deformed child" that died at 10 months old.
+  
   - [Dr. Martin Besemer](https://www.findagrave.com/memorial/97409239/martin-besemer) (1847 to 1916).
+  
   - [Alamanza Perry](https://www.findagrave.com/memorial/162605606/alamanza-perry) (1833 to 04 May 1909). 
+  
   - [William H. Shurter](https://www.findagrave.com/memorial/100290235/william-h-shurter) (1845 to 1911).
+  
   - [Willis Shurter](https://www.findagrave.com/memorial/162159964/willis-shurter) (1840 to 17 Jan 1914).
 ---
 SUICIDE AT MOTT'S CORNERS. 
