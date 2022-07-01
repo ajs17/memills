@@ -225,7 +225,7 @@ The Archives at Queens Library contains two boxes of materials of the "Mills Fam
 <h3>Scope And Content Note</h3>
 
 <p>The Mills Family of Jamaica and Mills Pond, Long Island (2 boxes, 1675-1900) contains material documenting the genealogy of the Mills Family of Jamaica, Long Island. The collection is made up of letters and logs of Mills Family descendants. Research consists of various logs and lists of family members. There are also letters and listings of Mill Family members from other parts on the United States. This collection was donated to the Buffalo History Museum by Louise Olmsted, whose family were close friends of the Mills Family located in Buffalo. The collection was donated to the Queens Library Archives in August 2015. The original finding aid for this collection is included with this finding aid. A description of each folder’s contents is located within each folder of the collection. The Mills Family (19 folders, 1879-1895) series has been broken down by specific family members. The specific members are: Isaac Mills (5 folders, 1879-1893) Jonas Mills (1 folder, 1893) Jonathan Mills (3 folders, 1879-1895) Timothy Mills (10 folders, 1739-1896) The series for each contains information on various relatives for each member. The information includes spouses and children. The Research series (5 folders, 1675-1876) contains the forms and documents used for accumulating the history of the Mills Family. The other series in the collection Various Relatives (6 folders, 1636-1900) consists of material related to other relatives of the Mills Family that lived outside of the Jamaica and Long Island area.</p>
-
+</p>
 </blockquote>
 <figcaption>
 <cite>— <a href="https://www.queenslibrary.org/manuscripts/0205#bg-largeview-about">The Mills Family of Jamaica and Mills Pond, Long Island</a>, Archives at Queens Library, Queens Borough Public Library, Jamaica NY.
@@ -235,9 +235,33 @@ The Archives at Queens Library contains two boxes of materials of the "Mills Fam
 
 Of course, there are several Jonas Mills in the genealogy, but the dates given suggests this could be a reference to Edward's father. But even if this is a different branch of the Mills family, the genealogical records, etc., may provide important data on the family members investigated here.
 
-The collection curators have informed me that the collection contains nine portraits of family members, only two of which have identification, but at least some of the photos have photographer credits. Its unlikely Edward's family is among them, but all are being scanned for examination. The collection also contains a photocopy of a photo of the Mills Pond home, and the original is said to be owned by the Buffalo History Museum, which I am also following up on.
+The collection contains nine portraits of family members, only two of which have identification, and all of which seem to be taken in photography studios in Buffalo. I have obtained high resolution scans that will included in this site. 
 
-A document worth highlighting in this collection is the will of Timothy Mills, the common ancestor of everyone above. And in addition to the unexpected reference to Buffalo, which I have not otherwise encountered, the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
+The collection also contains a photocopy of a photo of the Mills Pond home, and the original is presently owned by the Buffalo History Museum, the likely source of the portraits as well:
+
+<figure>
+<blockquote>
+<p>If I recall correctly, the photo of the house in Buffalo was the only thing we retained from the Mills family collection. Everything else, photos and papers, was transferred to Queens. 
+<p>
+</p>
+However, we do have other loose photos of individuals in A-Z order by surname. I checked and these are the only people named Mills:
+<p>
+</p>
+<ul>
+  <li> John H. Mills, Company D, appears to be a Civil War soldier portrait</li>
+  <li> Edward M. Mills, ca. 1915. He is a young man in this photo, so he is not the Edward Mills who died in 1908.</li>
+  <li> Robert Mills, ca. 1880, as an elderly man.</li>
+  </ul>
+</blockquote>
+<figcaption>
+<cite>—28 Jun 2022, person correspondence with Cynthia Van Ness, Director of Library & Archives at The Buffalo History Museum, Buffalo NY.  
+</cite>
+</figcaption>
+</figure>
+
+After further investigation, to see if the 1880 Robert Mills could possibly be Edward H. Mills' half brother Robery Sydney Mills, I confirmed the photo is of [Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (unknown to 11 Dec 1890), an "Ex-Police Commissioner" and also "one of the most prominent builders and operators in lake vessels at this port", including one shipped named "Robert Mills" (11 Dec 1890, The Buffalo Commercial, Buffalo NY, p8).
+
+A document worth highlighting in the Queens collection is the will of Timothy Mills, the common ancestor of everyone above. And in addition to the unexpected reference to Buffalo, which I have not otherwise encountered, the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
 
 The collection also contains genealogies and other information on the following surnames that can be found, often multiple times, throughout the Mills genealogy: 
   
@@ -287,3 +311,5 @@ These two articles were also re-printed as one item in the 02 Aug 1894 edition o
 The author, a prominent resident of Port Jervis in Orange County:
 
 {{% fig "portraits/swmillsportrait" "500" /%}}
+
+I am following up with Minisink Valley Historical Society, which still has materials from Reverend Mills in their collection. 

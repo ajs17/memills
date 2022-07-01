@@ -23,7 +23,7 @@ Being a part of the grist mill lot…beginning in the center of the Creek Road e
 
 The mid-2000’s real estate listing indicated the home was built in 1865, although I can’t confirm that. As noted in the deed descriptions, the Mills' home was originally part of the grist mill property next door, what is presently Dalebrook Apartments. Over the years, the grist mill lot was subdivided several times.  
 
-The foundation of Dalebrook (and it is my understanding the mill stone, etc. within the basement) is what survives today of the grist mill structure. Still present in the stone foundation are rings that horses were tied to while wagons were loaded and unloaded in the upper basement level.  Evidence of the mill pond and the course of the mill race can still be seen in the landscape in 2022.
+The roof and foundation of Dalebrook (and it is my understanding the mill stone, etc. within the basement) are what survives today of the grist mill structure. Still present in the stone foundation are rings that horses were tied to while wagons were loaded and unloaded in the upper basement level.  Evidence of the mill pond and the course of the mill race can still be seen in the landscape in 2022.
 
 {{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "500" /%}} 
  
@@ -313,7 +313,9 @@ Willis Wolcott's wife [Allela (Roe) Wolcott](https://www.findagrave.com/memorial
 {{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3b" "350" /%}}
 </div>
 
-According to the Brookton's Market 2011 Calendar, Frank also owned the general store at that location from the 1880's to its sale to the Mulks brothers in 1902, when it became known as Frank F. Mulks. Frank Vorhis is the father of [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964) who was [baptized]({{% ref "baptism" %}}) with Emily and Jessie Brewer and is often referred to as "Miss Esther Vorhis" during that time. 
+From Molly Adams in *The Towns of Tompkins County*, p56: "The present store [Brookton's Market in 2022], on the site of a plastermill, seems to have started about 1890, under Frank Vorhis. According to the Brookton's Market 2011 Calendar, Frank owned the general store at that location until its sale to the Mulks brothers in 1902, when it became known as Frank F. Mulks. 
+
+Frank Vorhis is the father of [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964) who was [baptized]({{% ref "baptism" %}}) with Emily and Jessie Brewer and is often referred to as "Miss Esther Vorhis" during that time. 
 
 {{% fig "mills-home/1917-01-20-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
 <div class="cols">

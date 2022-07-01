@@ -48,6 +48,17 @@ Edward's obituary mentions that he was "postmaster during the Cleveland administ
 
 {{% table "postmasters.csv" "postmasters" "Name,Title,Date Appointed" "usps.gov" %}}
 
+<figure>
+<blockquote>
+William Mott II…deposed the postmaster [Willet Terry] at Terryville (on Coddington Road) and moved the post office to his store at 559 Brooktondale Road. The town, called Mott's Hollow or Mottville, became Mott's Corners with the opening of the post office in 1836.
+</blockquote>
+<figcaption>
+<cite>
+1998, Molly Adams, <em>Town of Caroline</em> in <strong>The Towns of Tompkins County: From Podunk to the Magnetic Springs</strong> edited by Jane Marsh Dieckmann, DeWitt Historical Society of Tompkins County, Ithaca NY, p54.
+</cite>
+</figcaption>
+</figure>
+
 The following are examples of Edward's postmark during that time:
 
 <div class="cols">
