@@ -233,9 +233,9 @@ The Archives at Queens Library contains two boxes of materials of the "Mills Fam
 </figcaption>
 </figure>
 
-The curators have told me that there is only one photograph in the collection, which I am attempting to get scanned.
-
 Of course, there are several Jonas Mills in the genealogy, but the dates given suggests this could be a reference to Edward's father. But even if this is a different branch of the Mills family, the genealogical records, etc., may provide important data on the family members investigated here.
+
+The collection curators have informed me that the collection contains nine portraits of family members, only two of which have identification, but at least some of the photos have photographer credits. Its unlikely Edward's family is among them, but all are being scanned for examination. The collection also contains a photocopy of a photo of the Mills Pond home, and the original is said to be owned by the Buffalo History Museum, which I am also following up on.
 
 A document worth highlighting in this collection is the will of Timothy Mills, the common ancestor of everyone above. And in addition to the unexpected reference to Buffalo, which I have not otherwise encountered, the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
 

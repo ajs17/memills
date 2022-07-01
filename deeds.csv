@@ -1,4 +1,4 @@
-property,instrument-num,book,book-num,page-num,document-date,recorded-date,first-party,second-party,amount
+property,instrument-num,book,book-num,page-num,document-date,recorded-date,grantor,grantee,amount
 Mills Home,na,Caroline Deeds,1,572,1869-05-22,1869-11-27,"Jacob Vandemark, Charles W. Personius & Marcie E. his wife",William B. Wolcott,100
 Mills Home,na,Caroline Deeds,5,70,1883-10-23,1883-11-10,"William B. Wolcott and Ellen Wolcott, his wife",Horace N. Humiston senior,830
 Mills Home,na,Caroline Deeds,5,138,1885-01-01,1885-04-11,Horace N. Humiston,Esther C. Vorhis,830
