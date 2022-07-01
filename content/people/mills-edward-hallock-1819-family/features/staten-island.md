@@ -72,9 +72,9 @@ Other maps showing this property include the Colton and  Dripps maps which both 
 
 Bartlett Brown's son [Bartlett Brown Jr.](https://www.findagrave.com/memorial/199802139/bartlett-brown) (04 Mar 1870 to 15 Dec 1946), apparently known locally as "Bartie", succeeded him in business: 
 
-{{% fig "staten-island/1891-08-06-Richmond-County-Advance-West-New-Brighton-NY-p1" "500" /%}}
-{{% fig "staten-island/1891-09-26-Richmond-County-Advance-West-New-Brighton-NY-p4" "500" /%}}
-{{% fig "staten-island/1892-04-16-Richmond-County-Advance-West-New-Brighton-NY-p4" "500" /%}}
+{{% fig "staten-island/1891-08-06-Richmond-Cty-WNB-NY-p1" "500" /%}}
+{{% fig "staten-island/1891-09-26-Richmond-Cty-WNB-NY-p4" "500" /%}}
+{{% fig "staten-island/1892-04-16-Richmond-Cty-WNB-NY-p4" "500" /%}}
 
 A partial timeline of events in Staten Island while the Mills lived there:
 

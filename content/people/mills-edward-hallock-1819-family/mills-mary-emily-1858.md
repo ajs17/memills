@@ -220,7 +220,7 @@ The news clippings above give examples, such as her contributions to the Red Cro
 There are also entries in the historical records of Caroline Valley Federated Church of extra donations made to the church by both Hannah and Emily among other members. By agreement with the Church, I have not reproduced any financial records here.
 
 {{% fig "1937-11-26-ithaca-journal" "500" /%}}
-{{% fig "1937-12-15-Tompkins-County-Rural-News-Dryden-NY-p7" "800" /%}}
+{{% fig "1937-12-15-Tompkins-County-Rural-News-Dryden-NY-p7" "500" /%}}
 {{% fig "1938-01-19-ithaca-journal" "500" /%}}
 {{% fig "1938-07-06-Tompkins-County-Rural-News-Dryden-NY-p6" "800" /%}}
 {{% fig "1938-12-09-Tompkins-County-Rural-News-Dryden-NY-p6" "500" /%}}
@@ -335,7 +335,6 @@ Further, consider these:
   - Emily was "Superintendent of Literature and Publications" for the W.C.T.U. Why that position?
   - Consider how the store and church are mentioned, perhaps most notably, in the column where the glasses were left at the Congregational Church, and could be retrieved at M. E. Mills.
 
-Keep in mind that several significant examples of Emily's writing in longer form exist, albeit in very specific contexts, that can be mined for patterns of phrasing, etc., that might be used to identify her unattributed words elsewhere:
 
   - The meeting minutes of the Good Templars that she recorded.
   - Presumably she wrote Hannah's obituary.

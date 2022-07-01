@@ -219,10 +219,10 @@ According to David Ireland’s Wikipedia entry, the 137th "played a key defensiv
 <figure>
 <blockquote>
 <p>
-The officers and men behaved admirably during the whole of the contest. Colonel Ireland was attacked on his flank and rear. He changed his position and maintained his ground with skill and gallantry, his regiment suffering very severely.
+This regiment won special honor at Gettysburg, then in Greene's Brigade, which held Culp's Hill during a critical period of that battle against desperate attacks of a vastly superior force. The gallant defence of Culp's Hill by Greene's Brigade, and the terrible execution inflicted by its musketry on the assaulting column of the enemy form one of the most noteworthy incidents of the war.
 </p>
 <p>
-…This regiment won special honor at Gettysburg, then in Greene's Brigade, which held Culp's Hill during a critical period of that battle against desperate attacks of a vastly superior force. The gallant defence of Culp's Hill by Greene's Brigade, and the terrible execution inflicted by its musketry on the assaulting column of the enemy form one of the most noteworthy incidents of the war.
+…The officers and men behaved admirably during the whole of the contest. Colonel Ireland was attacked on his flank and rear. He changed his position and maintained his ground with skill and gallantry, his regiment suffering very severely.
 </p>
 </blockquote>
 <figcaption>
@@ -279,11 +279,11 @@ The Seven Days Battles were a series of seven battles over seven days from June 
 </figcaption>
 </figure>
 
-According to [Civil War in the East](https://civilwarintheeast.com/us-regiments-batteries/new-york-regiments-and-batteries/artillery-and-engineers/50th-new-york-engineers/), Charles Personius' regiment, the 50th Engineers, were also engaged in "Seven days before Richmond" 25 Jun to 01 Jul. 
+According to [Civil War in the East](https://civilwarintheeast.com/us-regiments-batteries/new-york-regiments-and-batteries/artillery-and-engineers/50th-new-york-engineers/), Charles Personius' regiment, the 50th Engineers, were also engaged in "Seven days before Richmond" 25 Jun to 01 Jul, 1862. 
 
 {{% fig "mills-home/richmond-after-evacuation" "800" /%}}
 
-Willis Wolcott's wife [Allela (Roe) Wolcott](https://www.findagrave.com/memorial/187989399/allela-wolcott) (1868 to 25 Apr 1897) predeceased him, and after Willis drowned while working as a commercial fisherman at Redondo Beach California, Ellen raised his three young sons. One of those sons, [Earl A. Wolcott](https://www.findagrave.com/memorial/56100184/earl-a-wolcott) (Jan 1891 to 12 May 1918) died in combat in World War One, the "first Tompkins County boy to give his life in actual fighting against the Germans", dying in a French hospital on 13 May 1917 after being "seriously burned by a gas shell".
+Willis Wolcott's wife [Allela (Roe) Wolcott](https://www.findagrave.com/memorial/187989399/allela-wolcott) (1868 to 25 Apr 1897) predeceased him, and after Willis drowned while working as a commercial fisherman at Redondo Beach California, Ellen raised her three young grandsons. One of those grandsons, [Earl A. Wolcott](https://www.findagrave.com/memorial/56100184/earl-a-wolcott) (Jan 1891 to 12 May 1918) died in combat in World War One, the "first Tompkins County boy to give his life in actual fighting against the Germans", dying in a French hospital on 13 May 1917 after being "seriously burned by a gas shell".
 
 
 {{% fig "mills-home/1918-01-03-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
@@ -306,7 +306,7 @@ Willis Wolcott's wife [Allela (Roe) Wolcott](https://www.findagrave.com/memorial
 
 {{% fig "mills-home/car-deeds-5-138" "800" /%}}
 
-[Esther C. (Cary) Vorhis](https://www.findagrave.com/memorial/148400355/esther-vorhis) (1836 to 23 Jan 1917) is the wife of [Andrew Cameron Vorhis](https://www.findagrave.com/memorial/21978492/andrew-cameron-vorhis) (1825 to 05 Aug 1889) and the mother of [Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 1919), and A. Cameron Vorhis purchased the grist mill from Charles Personius, and Cameron's sons eventually took it over from him, when Cameron retired, a time that roughly corresponds to when the mill is said to have burned.
+[Esther C. (Cary) Vorhis](https://www.findagrave.com/memorial/148400355/esther-vorhis) (1836 to 23 Jan 1917) is the wife of [Andrew Cameron Vorhis](https://www.findagrave.com/memorial/21978492/andrew-cameron-vorhis) (1825 to 05 Aug 1889), who commonly went by Cameron, and the mother of [Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 1919). Cameron Vorhis purchased the grist mill from Charles Personius, and Cameron's sons eventually took it over from him, when Cameron retired, a few years prior to when the mill is said to have burned.
 
 <div class="cols">
 {{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3a" "350" /%}}
@@ -323,6 +323,8 @@ According to the Brookton's Market 2011 Calendar, Frank also owned the general s
 
 {{% fig "mills-home/1919-05-19-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
 
+{{% fig "mills-home/1964-05-19-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
+
 Cameron Vorhis' other son, who for a time was business partner with his brother Frank in the grist mill, was [Dr. Edward F. Vorhis Jr.](https://www.findagrave.com/memorial/175624518/edward-f-vorhis) (1865 to 09 Apr 1922), who eventually became a veterinarian in Owego.
 
 <div class="cols">
@@ -337,22 +339,29 @@ Frank's son, [Edward C. Vorhis](https://www.findagrave.com/memorial/162058636/ed
 {{% fig "mills-home/1919-05-22-The-Ithaca-Journal-Ithaca-NY-p9" "800x350" "" "top" /%}}
 {{% fig "mills-home/1919-05-26-The-Ithaca-Journal-Ithaca-NY-p9" "800x350" "" "top" /%}}
 
+<div class="cols">
 {{% fig "mills-home/1960-01-27-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
 {{% fig "mills-home/1960-01-28-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+</div> 
 
 Frank's son [Charles Vorhis](https://www.findagrave.com/memorial/162243893/charles-vorhis) (1913 to 1973) eventually bought the Mill's store building and moved the post office to that location in 1961, according to Molly Adams' "A Note on Emily Mills." Charles also owned Dalebrook at one time. 
 
-{{% fig "mills-home/1964-05-19-The-Ithaca-Journal-Ithaca-NY-p2" "500" /%}}
 {{% fig "mills-home/1974-07-12-The-Ithaca-Journal-Ithaca-NY-p4" "500" /%}}
-{{% fig "mills-home/1974-07-23-The-Ithaca-Journal-Ithaca-NY-p4" "500" /%}}
-{{% fig "mills-home/1974-08-06-The-Ithaca-Journal-Ithaca-NY-p27" "500" /%}}
+
+<div class="cols">
+{{% fig "mills-home/1974-07-23-The-Ithaca-Journal-Ithaca-NY-p4" "350" /%}}
+{{% fig "mills-home/1974-08-06-The-Ithaca-Journal-Ithaca-NY-p27" "350" /%}}
+</div>
+
 {{% fig "mills-home/1974-09-17-The-Ithaca-Journal-Ithaca-NY-p30" "500" /%}}
 
 {{% fig "mills-home/138-329" "800" /%}}
 
 This shows the first mention of the Mills family. This confirms that Edward and Amanda never occupied this home themselves.
 
-[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner. Records of what is known today as Caroline Valley Community Church show that Edward was one of the original organizers and members of the Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the official organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward, along with his wife [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921), are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personius was chosen chairman and Walker V. Personius secretary." Edward died within the church while addressing the Christian Endeavor Society. 
+[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner, a Civil War veteran and member of the David Ireland Post #158 in Brookton. 
+
+Records of what is known today as Caroline Valley Community Church show that Edward was one of the original organizers and members of the Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the official organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward, along with his wife [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921), are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personius was chosen chairman and Walker V. Personius secretary." Edward died within the church while addressing the Christian Endeavor Society. Edward died within the Congregational Church. 
 
 {{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "800x600" "" "top" /%}}
 
@@ -376,7 +385,7 @@ Edward H. Mills died without a will on 01 Jan 1908, and it would take some time 
 
 Emily Mills died 03 Nov 1937, like her father, without a will. 
 
-[Fred D. Gilbert](https://www.findagrave.com/memorial/183607645/fred-d-gilbert) (24 Apr 1873 to 14 Nov 1941) Fred Gilbert was a prominent Ithaca businessman, working in this capacity as Emily's undertaker. His obituary states that he spent his boyhood in Brookton because his father, Rev. Herbert B. Gilbert, was pastor of Brookton Congregational Church 1872-1873. (*History of the Congregational Church, Brooktondale, New York.* Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968.) Fred took a lifelong interest in his boyhood home, as evidenced for example, by his contribution to the Lockwood Memorial described elsewhere in this material. Fred was also known as an owner of light harness horses and as an organizer of the Tompkins County Fair.   
+[Fred D. Gilbert](https://www.findagrave.com/memorial/183607645/fred-d-gilbert) (24 Apr 1873 to 14 Nov 1941) was a prominent Ithaca businessman, and was Emily's undertaker. His obituary states that he spent his boyhood in Brookton because his father, Rev. Herbert B. Gilbert, was pastor of the Congregational Church in 1872-1873, when the Mills first moved to Mott's Corners. (*History of the Congregational Church, Brooktondale, New York.* Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968.) Fred took a lifelong interest in his boyhood home, as evidenced for example, by his contribution to the Lockwood Memorial described elsewhere in this material. Fred was also known as an owner of light harness horses and as an organizer of the Tompkins County Fair.   
 
 {{% fig "mills-home/1941-11-15-The-Ithaca-Journal-Ithaca-NY-p2" "800x500" "" "top" /%}}
 {{% fig "mills-home/1941-11-18-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
@@ -388,10 +397,10 @@ The first three names of possible heirs listed are Emily's cousins, the children
 
 [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) is another cousin of Emily's, the daughter of Edward's sister, Emily Tabitha (Mills) Huntting. For more information on these branches of the Mills family, see the accompanying account of the Mills' [Long Island origins]({{% ref "genealogy" %}}). 
 
+{{% fig "1937-11-26-ithaca-journal" "500" /%}}
+
 There are many variations of the published legal notices over many months, a few examples of which follow.
 
-
-{{% fig "1937-11-26-ithaca-journal" "500" /%}}
 {{% fig "1937-12-15-Tompkins-County-Rural-News-Dryden-NY-p7" "500" /%}}
 {{% fig "1938-01-19-ithaca-journal" "500" /%}}
 {{% fig "1938-07-06-Tompkins-County-Rural-News-Dryden-NY-p6" "800" /%}}
@@ -406,9 +415,9 @@ There are many variations of the published legal notices over many months, a few
 {{% fig "mills-home/475-deed-pg-5" "800" /%}}
 {{% fig "mills-home/475-deed-pg-6" "800" /%}}
 
-Jessie Brewer purchased Mills' store a few years before Emily died, and purchased Mills' home after Emily's death. They never occupied the home
+[Jessie M. (Shurter) Brewer](https://www.findagrave.com/memorial/99536961/jessie-m-brewer) (27 Jun 1881 to 1974) was baptized with Emily in 1907 and married [Lewis William Brewer](https://www.findagrave.com/memorial/99536898/lewis-william-brewer) (24 Jun 1882 to 10 Sep 1963) in Danby, 27 Jun 1923. Jessie purchased the Mills' store real estate a few years before Emily's death, and when Emily died, Jessie took over [M. E. Mills]({{% ref "me-mills" %}}), renaming it after herself and selling dry goods and notions, but no longer selling groceries as Emily had. 
 
-[Jessie M. (Shurter) Brewer](https://www.findagrave.com/memorial/99536961/jessie-m-brewer) (27 Jun 1881 to 1974) Jessie was baptized with Emily and married [Lewis William Brewer](https://www.findagrave.com/memorial/99536898/lewis-william-brewer) (24 Jun 1882 to 10 Sep 1963) in Danby, 27 Jun 1923. Jessie purchased the Mills' store real estate a few years before Emily's death, and when Emily died, Jessie took over [M. E. Mills]({{% ref "me-mills" %}}) after Emily's death, renaming it after herself and selling dry goods and notions, but no longer selling groceries as Emily had. Jessie and Lewis purchased Mills' home after Emily died, but they never occupied it.  
+Jessie and Lewis Brewer never occupied Mills' home.  
 
 <div class="cols">
 {{% fig "mills-home/1963-09-10-The-Ithaca-Journal-Ithaca-NY-p2" "350" /%}}
@@ -420,8 +429,11 @@ Jessie Brewer purchased Mills' store a few years before Emily died, and purchase
 {{% fig "mills-home/1964-05-13-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 </div>
 
-{{% fig "mills-home/1974-09-16-The-Ithaca-Journal-Ithaca-NY-p4" "500" /%}}
+I know of several photos of Jessie Brewer, including formal portraits as well as candid photos. She is present in the Congregational Church "cleaning day" photo, and I have seen a photo of her, in an album donated to the Caroline History Club in Fall 2021 by the Lounsbery family, which shows Jessie Brewer walking in a parade next to a man (Lewis?) dressed as "Uncle Sam". 
 
+{{% fig "mills-home/jessie-brewer-portrait" "500" /%}}
+
+{{% fig "mills-home/1974-09-16-The-Ithaca-Journal-Ithaca-NY-p4" "800" /%}}
 
 ## Related Research
 
