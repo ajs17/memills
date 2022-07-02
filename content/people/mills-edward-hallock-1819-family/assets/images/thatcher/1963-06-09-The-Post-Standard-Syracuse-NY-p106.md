@@ -11,7 +11,7 @@ notes: >-
 
   - “Millie” is actually [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 1935), wife of [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919), parents of Monroe E. Tompkins, who more commonly went by “Earl”.
 ---
-**MONROE E. TOMPKINS
+**MONROE E. TOMPKINS** 
 
 NEWFIELD—Monroe Earl Tompkins, 66, of the South Hill Road, died at his residence Friday evening.
 

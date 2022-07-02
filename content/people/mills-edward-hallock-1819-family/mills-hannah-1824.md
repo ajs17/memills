@@ -27,7 +27,7 @@ Hannah's first marriage was to [Charles Eastman](https://www.findagrave.com/memo
  
 Barbara Kone compiled information on Caroline Marriages at [CarolineHistorian.org](http://carolinehistorian.org) that lists Edward Mills' marriage to Hannah and identifies Edward's parents:
 
-<figure class="quote-only">
+<figure>
 <blockquote>
 <pre>
 Reg. Num.: 216 
@@ -56,9 +56,9 @@ Age: 72
 The 1896 New York State Marriage Index also traces Hannah back to her maiden name, with the identfication number 25877:
 
 <div class="cols">
-{{% fig "1896-nys-marriage-index-241" "250" /%}}
-{{% fig "1896-nys-marriage-index-563" "250" /%}}
-{{% fig "1896-nys-marriage-index-816" "250" /%}}
+{{% fig "1896-nys-marriage-index-241" "200" /%}}
+{{% fig "1896-nys-marriage-index-563" "200" /%}}
+{{% fig "1896-nys-marriage-index-816" "200" /%}}
 </div>
 
 Edward and Hannah joined the church just weeks before their wedding:
@@ -305,9 +305,9 @@ Elizabeth Vanderveere appears to be Hannah's sister, based on the following data
   - And obviously, the Vanderveere's are buried in the Thatcher family plot. 
 
 <div class="cols">
-{{% fig "thatcher/census/census-1850-us-thatcher" "250" /%}}
-{{% fig "census/1865-nys-census" "250" /%}}
-{{% fig "thatcher/census/census-1870-us-thatcher" "250" /%}}
+{{% fig "thatcher/census/census-1850-us-thatcher" "200" /%}}
+{{% fig "census/1865-nys-census" "200" /%}}
+{{% fig "thatcher/census/census-1870-us-thatcher" "200" /%}}
 </div>
 
 Sometime between 1850 and 1855, David Thatcher married Agnes Tannahill, and along with his parents, moved to Catharine NY. 
