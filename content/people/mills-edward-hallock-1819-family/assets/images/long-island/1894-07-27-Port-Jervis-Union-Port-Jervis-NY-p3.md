@@ -10,6 +10,7 @@ source:  "nyshistoricnewspapers.org"
 notes: >-
 
   - "M. V. H. S." stands for the Minisink Valley Historical society, and according to Reverend Mills' obituary, he served as its president since its organization in 1889. The Society still exists as I write this. From their [website](https://www.minisink.org) "The Minisink Valley Historical Society is located at 125-133 West Main Street in Port Jervis, New York. The Fort Decker Museum of History, a stone house built in 1760, and listed on the National Register of Historic Places is the Society's museum. The Robert Kleinstuber House, which is located behind it, is the center of the Society's day-to-day activities and is the location of the Society's storage facilities."
+
   - [Reverend Samuel Wickham Mills](https://www.findagrave.com/memorial/58270648/samuel-wickham-mills) (05 Apr 1820 to 22 Nov 1902). The Reverend’s obituary in the Tri-States Union was not only the lead story of their 04 Dec 1902 edition, it took fully half of the front page and includes his photo, and reproduces many details from this history of the Mills family.
   
   - Genealogies for the names Halstead and Rudyard are preserved in the collection <a href="https://www.queenslibrary.org/manuscripts/0205#bg-largeview-about">The Mills Family of Jamaica and Mills Pond, Long Island</a>, Archives at Queens Library, Queens Borough Public Library, Jamaica NY.

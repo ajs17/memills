@@ -109,9 +109,9 @@ Age: 72
 </figure>
 
 <div class="cols">
-{{% fig "1896-nys-marriage-index-241" "250" /%}}
-{{% fig "1896-nys-marriage-index-563" "250" /%}}
-{{% fig "1896-nys-marriage-index-816" "250" /%}}
+{{% fig "1896-nys-marriage-index-241" "200" /%}}
+{{% fig "1896-nys-marriage-index-563" "200" /%}}
+{{% fig "1896-nys-marriage-index-816" "200" /%}}
 </div>
 
 Edward and Hannah joined the church just weeks before their wedding:

@@ -248,7 +248,7 @@ However, we do have other loose photos of individuals in A-Z order by surname. I
 <p>
 </p>
 <ul>
-  <li> John H. Mills, Company D, appears to be a Civil War soldier portrait</li>
+  <li> John H. Mills, Company D, appears to be a Civil War soldier portrait.</li>
   <li> Edward M. Mills, ca. 1915. He is a young man in this photo, so he is not the Edward Mills who died in 1908.</li>
   <li> Robert Mills, ca. 1880, as an elderly man.</li>
   </ul>
@@ -290,7 +290,7 @@ Of the printed edition of the "Saw Mill" only two copies are know to be in exist
 </blockquote>
 <figcaption>
 <cite>
-1919, <em>Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene</em>, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, Logan Utah FamilySearch Library, p91-92, familysearch.org 
+—1919, <em>Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene</em>, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, Logan Utah FamilySearch Library, p91-92, familysearch.org 
 </cite>
 </figcaption>
 </figure>
