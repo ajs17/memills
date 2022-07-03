@@ -25,7 +25,7 @@ The mid-2000’s real estate listing indicated the home was built in 1865, altho
 
 The roof and foundation of Dalebrook (and it is my understanding the mill stone, etc. within the basement) are what survives today of the grist mill structure. Still present in the stone foundation are rings that horses were tied to while wagons were loaded and unloaded in the upper basement level.  Evidence of the mill pond and the course of the mill race can still be seen in the landscape in 2022.
 
-{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "500" /%}} 
+{{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12" "800" /%}} 
  
 Several phrases from the Mills' home deeds are quoted in Molly Adams' "A Note on Emily Mills," including that the house was "part of the grist mill lot" and that it was "occupied by E. H. Mills as tenant."
 
@@ -267,7 +267,7 @@ There has been an impression somewhat prevalent that Culp's Hill was a mere outp
 </figcaption>
 </figure>
 
-In Caroline, Apr 1861, George Wolcott, William Wolcott's brother, enlisted in Company I of the 32nd New York Volunteer Infantry Regiment and mustered in 31 May 1861 with the rank of Sergeant under Colonel Roderick Matheson, Lieutenant Colonel Francis E. Pinto and Major George F. Lemon. The 32nd regiment was in reserve at the First Battle of Bull Run (a battle in which David Ireland fought in Sherman’s Third Brigade, prior to his taking command of the 137th infantry), covering the retreat of the army, 21 July 1861 in what was the first major battle of the Civil War. George was eventually promoted to First Lieutenant, and his records note that he "was in seven days battles before Richmond". 
+In Caroline, Apr 1861, George Wolcott, William Wolcott's brother, enlisted in Company I of the 32nd New York Volunteer Infantry Regiment and mustered in 31 May 1861 with the rank of Sergeant under Colonel Roderick Matheson, Lieutenant Colonel Francis E. Pinto and Major George F. Lemon. The 32nd regiment was in reserve at the First Battle of Bull Run (a battle in which David Ireland fought in Sherman’s Third Brigade, prior to his taking command of the 137th infantry), covering the retreat of the army, 21 July 1861 in what was the first major battle of the Civil War. George was eventually promoted to First Lieutenant, and his records note that he "was in seven days battles before Richmond". (Town Clerks' Registers of Men Who Served in the Civil War, ca 1865–1867. Microfilm publication, 37 rolls. New York State Archives. Albany, New York, ancestry.com.)
 
 <figure>
 <blockquote>
@@ -285,10 +285,15 @@ According to [Civil War in the East](https://civilwarintheeast.com/us-regiments-
 
 Willis Wolcott's wife [Allela (Roe) Wolcott](https://www.findagrave.com/memorial/187989399/allela-wolcott) (1868 to 25 Apr 1897) predeceased him, and after Willis drowned while working as a commercial fisherman at Redondo Beach California, Ellen raised her three young grandsons. One of those grandsons, [Earl A. Wolcott](https://www.findagrave.com/memorial/56100184/earl-a-wolcott) (Jan 1891 to 12 May 1918) died in combat in World War One, the "first Tompkins County boy to give his life in actual fighting against the Germans", dying in a French hospital on 13 May 1917 after being "seriously burned by a gas shell".
 
-
 {{% fig "mills-home/1918-01-03-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 {{% fig "mills-home/1918-03-13-The-Ithaca-Journal-Ithaca-NY-p6" "800x500" "" "top" /%}}
 {{% fig "mills-home/1918-06-24-The-Ithaca-Journal-Ithaca-NY-p3" "800x500" "" "top" /%}}
+
+<div class="cols">
+{{% fig "mills-home/1917-09-25-Mary-mccandlish-zoomed" "350" /%}}
+{{% fig "mills-home/1917-09-25-Mary-mccandlish" "350" /%}}
+</div>
+
 {{% fig "mills-home/1918-06-25-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 
 <div class="cols">

@@ -9,9 +9,9 @@ pages:  "6"
 source:  "newspapers.com"
 notes: >-
 
-  - From [wikipedia](https://en.wikipedia.org/wiki/Poilu): Poilu (/ˈpwɑːluː/; French: [pwaly]) is an informal term for a late 18th century–early 20th century French infantryman, meaning, literally, hairy one. It is still widely used as a term of endearment for the French infantry of World War I. The word carries the sense of the infantryman's typically rustic, agricultural background. Bushy moustaches were often worn. The poilu was particularly known for his love of pinard, his ration of cheap wine.
+  - From [wikipedia](https://en.wikipedia.org/wiki/Poilu): "Poilu (/ˈpwɑːluː/; French: [pwaly]) is an informal term for a late 18th century–early 20th century French infantryman, meaning, literally, hairy one. It is still widely used as a term of endearment for the French infantry of World War I. The word carries the sense of the infantryman's typically rustic, agricultural background. Bushy moustaches were often worn. The poilu was particularly known for his love of pinard, his ration of cheap wine."
 
-  - In this context, “moiselles” may be a reference to wine from the Moselle valley. As spelled here, it could be interpreted as a variation of “mademoiselle”.
+  - In this context, “moiselles” may be a reference to wine from the Moselle valley. 
 ---
 HAS TAKEN PART IN THREE “KAISER KANNING PARTIES” 
 
