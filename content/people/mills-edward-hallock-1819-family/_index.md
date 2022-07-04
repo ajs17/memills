@@ -27,7 +27,6 @@ Genealogical data accumulated through this research can be <a href="/data/geneal
 {{% list-children "" "Family Members" %}}
 {{% list-children "features" %}}
 
-
 ## Burials
 
 [Edward](https://www.findagrave.com/memorial/75958691/edward-h-mills), [Mary Ann](https://www.findagrave.com/memorial/75958702/mary-ann-mills), [Jonas](https://www.findagrave.com/memorial/75958930/jonas-e-mills ) and [Horace](https://www.findagrave.com/memorial/75958913/horace-f-mills) are interred at Evergreen Hill Cemetery, 112 Alleghany Rd, Corfu NY 14036.
@@ -88,4 +87,6 @@ Hannah's entries as an Eastman:
 {{% fig "census/1892-nys-census-danby" "250" /%}}
 </div>
 
-
+{{% list-children "bcc" "The Congregational Church" %}}
+{{% list-children "brookton" "Brooktondale" %}}
+{{% list-children "mills" "Mills Family" %}}

@@ -37,7 +37,7 @@ I believe this may be the first deed after the grist mill lot was divided.
 
 {{% fig "mills-home/caroline-deeds-1-572" "800" /%}}
 
-It appears that the grist mill was co-owned by [Jacob Vandemark](https://www.findagrave.com/memorial/89241014/jacob-vandemark) (1802 to 15 Dec 1873) and [Charles W. Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 02 Feb 1924). Jacob's exact role is unclear, but I know that Charles was a miller and is often referred to as the owner of the grist mill in later years, and when it is sold to A. Cameron Vorhis, the mill was  called Personius Flouring Mills.
+It appears that the grist mill was co-owned by [Jacob Vandemark](https://www.findagrave.com/memorial/89241014/jacob-vandemark) (1802 to 15 Dec 1873) and [Charles W. Personeus](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 02 Feb 1924). Jacob's exact role is unclear, but I know that Charles was a miller and is often referred to as the owner of the grist mill in later years, and when it is sold to A. Cameron Vorhis, the mill was  called Personeus Flouring Mills.
 
 <div class="cols">
 {{% fig "mills-home/1873-12-22-The-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
@@ -47,7 +47,7 @@ It appears that the grist mill was co-owned by [Jacob Vandemark](https://www.fin
 {{% fig "mills-home/1874-01-12-The-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
 {{% fig "mills-home/1875-12-20-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x150" "" "top" /%}}
 
-Charles Personius was a Civil War veteran, having enlisted and mustered in 25 Aug 1862 at Middletown NY to Company G of the 50th Engineers Regiment with the rank of Private. He mustered out 13 Jun 1865, Fort Barry VA, under Colonel Pettes, with the rank of Sergeant, having been promoted twice. (New York: Report of the Adjutant-General 1893-1906, ancestry.com)
+Charles Personeus was a Civil War veteran, having enlisted and mustered in 25 Aug 1862 at Middletown NY to Company G of the 50th Engineers Regiment with the rank of Private. He mustered out 13 Jun 1865, Fort Barry VA, under Colonel Pettes, with the rank of Sergeant, having been promoted twice. (New York: Report of the Adjutant-General 1893-1906, ancestry.com)
 
 The following from the 50th Engineer Regiment unit roster does differ slightly in some details. 
 
@@ -279,7 +279,7 @@ The Seven Days Battles were a series of seven battles over seven days from June 
 </figcaption>
 </figure>
 
-According to [Civil War in the East](https://civilwarintheeast.com/us-regiments-batteries/new-york-regiments-and-batteries/artillery-and-engineers/50th-new-york-engineers/), Charles Personius' regiment, the 50th Engineers, were also engaged in "Seven days before Richmond" 25 Jun to 01 Jul, 1862. 
+According to [Civil War in the East](https://civilwarintheeast.com/us-regiments-batteries/new-york-regiments-and-batteries/artillery-and-engineers/50th-new-york-engineers/), Charles Personeus' regiment, the 50th Engineers, were also engaged in "Seven days before Richmond" 25 Jun to 01 Jul, 1862. 
 
 {{% fig "mills-home/richmond-after-evacuation" "800" /%}}
 
@@ -293,6 +293,41 @@ Willis Wolcott's wife [Allela (Roe) Wolcott](https://www.findagrave.com/memorial
 {{% fig "mills-home/1917-09-25-Mary-mccandlish-zoomed" "350" /%}}
 {{% fig "mills-home/1917-09-25-Mary-mccandlish" "350" /%}}
 </div>
+
+<figure>
+<blockquote>
+<p>We do not always have records on individual nurses but Mary Putnam McClandish has an historical file.
+</p>
+
+</p>
+She received American Red Cross Badge and Enrollment Number 13379.
+</p>
+
+</p>
+Born September 20, 1888 in Marietta, Georgia to mother, Mrs. E. P. McCandlish. (Eliza Lizzie Whipple Putnam) and father, Charles  McCandlish.
+</p>
+
+</p>
+She graduated from St. Mary’s Free Hospital for Children, New York City, in May 1916. She worked at N.Y. Nursery and Children’s Hospital, Henry Street Settlement House, NYC, in District Nursing and Heard Ward at St. Mary’s Convalescent Hospital in Norwalk Connecticut before being assigned to the Children’s Bureau in France. She arrived in Pawris October 26, 1917.  In November, she and four other Red Cross nurses were sent to prepare Chateau des Halles to care for children.
+</p>
+
+</p>
+May 11, 1918 -Mary was sent to to A.R. C. Hospital No. 104, Beauvais, L’Ecole Professionelle. Forty Children’s Bureau nurses were needed to care for our wounded. 
+</p>
+
+</p>
+She became quite ill in late November 1918 and was released to return to the U.S. in December 1918. January 1, 1919 marked the end of her service.
+</p>
+
+</p>
+She married Henry D. Archer. (Charles Henry Dabney Archer) May 22, 1920.
+She died in April 1982 in Thibodaux, LaFouche, Louisiana.
+</p>
+</blockquote>
+<figcaption>
+<cite>—04 Jul 2002, Jean Shulman, Historical Programs and Collections at American Red Cross via personal correspondence.</cite>
+</figcaption>
+</figure>
 
 {{% fig "mills-home/1918-06-25-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 
@@ -311,14 +346,14 @@ Willis Wolcott's wife [Allela (Roe) Wolcott](https://www.findagrave.com/memorial
 
 {{% fig "mills-home/car-deeds-5-138" "800" /%}}
 
-[Esther C. (Cary) Vorhis](https://www.findagrave.com/memorial/148400355/esther-vorhis) (1836 to 23 Jan 1917) is the wife of [Andrew Cameron Vorhis](https://www.findagrave.com/memorial/21978492/andrew-cameron-vorhis) (1825 to 05 Aug 1889), who commonly went by Cameron, and the mother of [Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 1919). Cameron Vorhis purchased the grist mill from Charles Personius, and Cameron's sons eventually took it over from him, when Cameron retired, a few years prior to when the mill is said to have burned.
+[Esther C. (Cary) Vorhis](https://www.findagrave.com/memorial/148400355/esther-vorhis) (1836 to 23 Jan 1917) is the wife of [Andrew Cameron Vorhis](https://www.findagrave.com/memorial/21978492/andrew-cameron-vorhis) (1825 to 05 Aug 1889), who commonly went by Cameron, and the mother of [Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 1919). Cameron Vorhis purchased the grist mill from Charles Personeus, and Cameron's sons eventually took it over from him, when Cameron retired, a few years prior to when the mill is said to have burned.
 
 <div class="cols">
 {{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3a" "350" /%}}
 {{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3b" "350" /%}}
 </div>
 
-From Molly Adams in *The Towns of Tompkins County*, p56: "The present store [Brookton's Market in 2022], on the site of a plastermill, seems to have started about 1890, under Frank Vorhis. According to the Brookton's Market 2011 Calendar, Frank owned the general store at that location until its sale to the Mulks brothers in 1902, when it became known as Frank F. Mulks. 
+From Molly Adams in *The Towns of Tompkins County*, p56: "The present store [Brookton's Market in 2022], on the site of a plastermill, seems to have started about 1890, under Frank Vorhis." According to the Brookton's Market 2011 Calendar, Frank owned the general store at that location until its sale to the Mulks brothers in 1902, when it became known as Frank F. Mulks. 
 
 Frank Vorhis is the father of [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964) who was [baptized]({{% ref "baptism" %}}) with Emily and Jessie Brewer and is often referred to as "Miss Esther Vorhis" during that time. 
 
@@ -347,8 +382,8 @@ Frank's son, [Edward C. Vorhis](https://www.findagrave.com/memorial/162058636/ed
 {{% fig "mills-home/1919-05-26-The-Ithaca-Journal-Ithaca-NY-p9" "800x350" "" "top" /%}}
 
 <div class="cols">
-{{% fig "mills-home/1960-01-27-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
-{{% fig "mills-home/1960-01-28-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "mills-home/1960-01-27-The-Ithaca-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "mills-home/1960-01-28-The-Ithaca-Journal-Ithaca-NY-p3" "350" /%}}
 </div> 
 
 Frank's son [Charles Vorhis](https://www.findagrave.com/memorial/162243893/charles-vorhis) (1913 to 1973) eventually bought the Mill's store building and moved the post office to that location in 1961, according to Molly Adams' "A Note on Emily Mills." Charles also owned Dalebrook at one time. 
@@ -368,7 +403,7 @@ This shows the first mention of the Mills family. This confirms that Edward and 
 
 [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner, a Civil War veteran and member of the David Ireland Post #158 in Brookton. 
 
-Records of what is known today as Caroline Valley Community Church show that Edward was one of the original organizers and members of the Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the official organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward, along with his wife [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921), are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personius was chosen chairman and Walker V. Personius secretary." Edward died within the church while addressing the Christian Endeavor Society. Edward died within the Congregational Church. 
+Records of what is known today as Caroline Valley Community Church show that Edward was one of the original organizers and members of the Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personeus that resulted in the official organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward, along with his wife [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921), are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personeus was chosen chairman and Walker V. Personeus secretary." Edward died within the church while addressing the Christian Endeavor Society. Edward died within the Congregational Church. 
 
 {{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "800x600" "" "top" /%}}
 
@@ -397,7 +432,7 @@ Emily Mills died 03 Nov 1937, like her father, without a will.
 {{% fig "mills-home/1941-11-15-The-Ithaca-Journal-Ithaca-NY-p2" "800x500" "" "top" /%}}
 {{% fig "mills-home/1941-11-18-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
  
-The first three names of possible heirs listed are Emily's cousins, the children of [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills), Edward's younger brother:
+After Emily's death, the first three names of possible heirs listed in the deeds are Emily's cousins, the children of [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills), Edward's younger brother:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
   - George E. Mills (Feb 1856 to ?)
   - [Clarissa H. Etsell (Jun 1852 to Jan 1846)](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)

@@ -222,6 +222,16 @@ The memorial, presumably with the text provided by the professor, currently sits
 As noted in other histories, Jessie Brewer took over the store at the same location, running it under her name primarily as a notions store with a lending library in the back, but unlike Mills', Jesse Brewer did not carry groceries. 
 
 {{% fig "me-mills/brewer-ad" "500" /%}}
+
+<figure>
+<blockquote>
+Jesse Brewer ran a dry goods store in Brooktondale, selling fabric, ribbon, greeting cards, and other items. She took it over from a woman who had managed a grocery store in the same building and used the proceeds from the store to increase the family income and help support her widowed [step-]mother. She was also active in the Caroline Valley Federated (now Community) Church.
+</blockquote>
+<figcaption>
+<cite>—2016, Patricia A. Brhel, <em>Around Caroline</em>, Arcadia Publishing, p23.</cite> 
+</figcaption>
+</figure>
+
 {{% fig "me-mills/1950-05-11-The-Ithaca-Journal-Ithaca-NY-p27" "500" /%}}
 
 <figure>
@@ -230,7 +240,7 @@ The Brooktondale post office, which had expanded operations when Caroline Depot 
 </blockquote>
 <figcaption>
 <cite>
-— Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p69.
+— 1998, Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p69.
 </cite>
 </figcaption>
 </figure>
