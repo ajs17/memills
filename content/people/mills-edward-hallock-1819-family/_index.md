@@ -87,6 +87,4 @@ Hannah's entries as an Eastman:
 {{% fig "census/1892-nys-census-danby" "250" /%}}
 </div>
 
-{{% list-children "bcc" "The Congregational Church" %}}
-{{% list-children "brookton" "Brooktondale" %}}
 {{% list-children "mills" "Mills Family" %}}
