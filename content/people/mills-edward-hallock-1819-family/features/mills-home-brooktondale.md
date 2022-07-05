@@ -308,7 +308,7 @@ Born September 20, 1888 in Marietta, Georgia to mother, Mrs. E. P. McCandlish. (
 </p>
 
 </p>
-She graduated from St. Mary’s Free Hospital for Children, New York City, in May 1916. She worked at N.Y. Nursery and Children’s Hospital, Henry Street Settlement House, NYC, in District Nursing and Heard Ward at St. Mary’s Convalescent Hospital in Norwalk Connecticut before being assigned to the Children’s Bureau in France. She arrived in Pawris October 26, 1917.  In November, she and four other Red Cross nurses were sent to prepare Chateau des Halles to care for children.
+She graduated from St. Mary’s Free Hospital for Children, New York City, in May 1916. She worked at N.Y. Nursery and Children’s Hospital, Henry Street Settlement House, NYC, in District Nursing and Heard Ward at St. Mary’s Convalescent Hospital in Norwalk Connecticut before being assigned to the Children’s Bureau in France. She arrived in Paris October 26, 1917.  In November, she and four other Red Cross nurses were sent to prepare Chateau des Halles to care for children.
 </p>
 
 </p>
