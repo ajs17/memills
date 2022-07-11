@@ -123,7 +123,6 @@ Edward married (2) **Hannah (Thatcher) Eastman Mills** (born England, 21 May 182
 Notes:
   - Emily's and Hannah's birthdates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries.
   - Jonas Davis Mills and Mary Platt Mills may be related, although I have yet to follow up on this completely. 
-  - The only source of Horace's exact date of death is a listing from Evergreen Hill Cemetery, so this date should be verified.
   - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". According to Hallockville Farm Museum board member and historian Richard Wines "Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings." (personal correspondence, 21 Jul 2021)
   - According to [WikiTree](https://www.wikitree.com/wiki/Hallock-2194) Mary (Hallock) Mills was born in Mills Pond and "is interred at the Old Cemetery, Smithtown, Suffolk, NY." This source also confirms that her father is Thomas, but gives his birth year as 1775.
   - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over a decade before Emily was born. 
@@ -159,12 +158,12 @@ And so, the cited genealogical entries can be updated accordingly:
 
 Several of James' children died in infancy, and according to a history of Huntington Rural Cemetery on [longislandgenealogy.com](http://longislandgenealogy.com/HuntingtonRural.html) these children were *re-buried* there on 22 May 1857: "One of the oldest "rural cemeteries" in Suffolk County, Huntington Rural Cemetery was established in 1853, during the "Rural Cemetery" movement of pre-Civil War America. ...As with many "rural cemeteries" across the country, burials from older family or farm cemeteries were moved to Huntington Rural Cemetery over the decades. Thus you will find dates long before 1853, some back into the 18th century, among the burials in this cemetery."
 
-There is also a census entry for a daughter Cora M. born Jan 1871. 
+There is also a census entry for a daughter Cora M. born Jan 1871. This is Cora Maria (Mills) Nostrand(Jan 1871 to 20 Oct 1908). 
 
 The first three names of possible heirs listed in the [Mills' home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
-  - George E. Mills (Feb 1856 to ?)
-  - [Clarissa H. (Mills) Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (Jun 1852 to Jan 1946). (Her name is misspelled as "Etsall" on the deeds.)
+  - George E. Mills (Feb 1856 to 10 Apr 1944). 
+  - [Clarissa H. (Mills) Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (Jun 1852 to Jan 1946). (Her name is misspelled as "Etsall" on the deeds, and elsewhere has been spelled "Edsall".)
 
 At the time I am compiling this information, findagrave.com does not have entries for all the Mills in Huntington Rural Cemetery:
 
@@ -174,7 +173,7 @@ And the 1900 census is worth highlighting for the density of information it cont
 
 {{% fig "long-island/1900-us-census-huntington-mills" "800" /%}}
 
-Alonzo's daughter [Sarah](https://www.findagrave.com/memorial/215406844/sarah-reddy) (18 Jun 1883 to 02 Aug 1911)—Emily's neice—died in a gruesome accident. Understandably, her gravestone is inscribed “I have suffered”.
+Alonzo's daughter [Sarah (Mills) Reddy](https://www.findagrave.com/memorial/215406844/sarah-reddy) (18 Jun 1883 to 02 Aug 1911)—Emily's neice—died in a gruesome accident. Understandably, her gravestone is inscribed “I have suffered”.
 
 {{% fig "long-island/1911-07-19-The-Times-Union-Brooklyn-NY-p24" "500" /%}}
 {{% fig "long-island/1911-08-02-The-Brooklyn-Daily-Eagle-Brooklyn-NY-p3" "500" /%}}
@@ -184,6 +183,13 @@ The "nine-months-old baby" was [Arthur A. Reddy](https://www.findagrave.com/memo
 {{% fig "1937-11-19-The-Long-Islander-Huntington-NY-p11" "500x500" "" "top" /%}}
 
 {{% fig "1942-05-07-The-Long-Islander-Huntington-NY-p4" "500" /%}}
+
+{{% fig "long-island/1917-01-12-The-Long-Islander-Huntington-NY-p5" "500" /%}}
+
+<div class="cols">
+{{% fig "long-island/1936-11-15-Times-Union-Brooklyn-NY-p9" "350" /%}}
+{{% fig "long-island/1944-04-10-the-Brooklyn-Daily-Eagle-Brooklyn-NY-p9" "350" /%}}
+</div>
 
 The last name listed as a possible heir in the Mills' home deeds, Mary Huntting Smith, is likely a reference to Emily's cousin, or perhaps a descendent of Emily's cousin:
   - Edward's sister [Emily Tabitha (Mills) Huntting](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) (1821 to 1849) married [John Smith Huntting](https://www.findagrave.com/memorial/23991462/john-smith-huntting) (1817 to 1893), 
@@ -208,7 +214,7 @@ I believe it is [Emily Mills Huntting](https://www.findagrave.com/memorial/23991
 {{% fig "long-island/1924-12-27-The-Brooklyn-Daily-Eagle-p2" "500" /%}}
 {{% fig "long-island/1924-12-27-Times-Union-Brooklyn-NY-p8" "500" /%}}
 
-I am following up with Long Island Museum, which houses works of the artist [William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868), who occupies a place in the Mills family tree and who is "generally considered the first major artist to paint the activities of everyday American life". In the mid-1800's, Mount painted many portraits, including members of the Mills family. For example, there is a portrait from 1843 of "Elizabeth Mills", although I have not yet identified her exactly. Notably, he painted a portrait of William Wickam Mills, already mentioned above in the history of Mills Pond:
+I am following up with Long Island Museum, which houses works of the artist [William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868), who occupies a place in the Mills family tree and who is "generally considered the first major artist to paint the activities of everyday American life". In the mid-1800's, Mount painted many portraits, including members of the Mills family. For example, there is a portrait from 1843 of "Elizabeth Mills", although I have not yet identified her exactly, as there are a number of Elizabeth's in the Mills ancestry. Notably, he painted a portrait of William Wickam Mills, already mentioned above in the history of Mills Pond:
 
 {{% fig "portraits/william-wickham-mills" "500" /%}}
 
@@ -235,9 +241,9 @@ The Archives at Queens Library contains two boxes of materials of the "Mills Fam
 
 Of course, there are several Jonas Mills in the genealogy, but the dates given suggests this could be a reference to Edward's father. But even if this is a different branch of the Mills family, the genealogical records, etc., may provide important data on the family members investigated here.
 
-The collection contains nine portraits of family members, only two of which have identification, and all of which seem to be taken in photography studios in Buffalo. I have obtained high resolution scans that will included in this site. 
+The collection contains [nine portraits of family members]({{% ref "../mills/qpl-portraits" %}}), only two of which have identification, and all of which seem to be taken in photography studios in Buffalo.
 
-The collection also contains a photocopy of a photo of the Mills Pond home, and the original is presently owned by the Buffalo History Museum, the likely source of the portraits as well:
+The collection also contains a photocopy of a photo of the Mills home in Buffalo, and the original is presently owned by the Buffalo History Museum, the likely source of the portraits as well:
 
 <figure>
 <blockquote>
