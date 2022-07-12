@@ -7,6 +7,8 @@ notes: >-
   - Jonas' parents: [George Phillips Mills](https://www.findagrave.com/memorial/25193050/george-phillips-mills) and [Tabitha Davis Mills](https://www.findagrave.com/memorial/103243323/tabitha-mills) (16 Feb 1774 to 11 Jan 1830).
 
   - [Sarah Ann (Hallock) Mills](https://www.findagrave.com/memorial/127233833/sarah-ann-mills) (29 Aug 1812 to 22 Apr 1897), who married Jonas Mills' brother [George Phillips Mills](https://www.findagrave.com/memorial/127233764/george-phillips-mills) appears to be Mary Hallock's sister. Both appear to be referenced as daughters of [Thomas Hallock](https://www.findagrave.com/memorial/240646827/thomas-hallock) (11 Jul 1768 to 07 Jan 1854) of Smithtown. 
+
+  - Mary Platt Mills' father Jedediah Mills (04 Nov 1755 to 21 Dec 1828) "served first as private and later as corporal in Capt. Nathaniel Platt's Smithtown company of Col. Josiah Smith's First Regiment of Suffolk County Minute Men. When the Long Island Militia were disbanded after the disastrous Battle of Long Island fought during the last week of August 1776, Jedediah escaped to Connecticut with many other refugees and served under Capt. Welles and Col. Wolcott. He was a signer of the Smithtown division of the Association in May 1775, which pledged its subscribers to support the Continental Congress and the Provincial Congress of New York." (Ibid., p111)
 ---
 
 CHILDREN OF GEORGE MILLS<sup>6</sup> (Isaac,<sup>5</sup> Isaac,<sup>4</sup> Timothy<sup>3</sup>) AND TABITHA DAVIS HIS WIFE. 

@@ -20,7 +20,18 @@ The Mills on Long Island were of English descent and it would seem quite clear t
 
 <figure class="quote-only">
 <blockquote>
-TIMOTHY MILLS<sup>3</sup> (Samuel<sup>2</sup>) born at Jamaica in 1667, was the progenitor of the Suffolk Co. Mills and moved to that part of the Smithtown since called Mills Pond in 1693. …The settlement of Mills Pond is a collection of dignified old houses surrounded by a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor." 
+<p>
+Among the early settlers of Jamaica L. I. was GEORGE MILLS<sup>1</sup> born in 1585 and died aged 89, Oct. 17, 1674 at Jamaica. He was probably a descendant of John Mills who was made freeman of Boston in 1632. Children were Samuel<sup>2</sup> and Nathaniel<sup>2</sup> who d. Nov. 4, 1728.
+</p>
+<p>
+SAMUEL MILLS<sup>2</sup> was born in 1631, md. in 1658 and was reputed to have had 16 children. He died at Jamaica March 9, 1726, aged 95. Among his children was Timothy.<sup>3</sup> 
+</p>
+<p>
+TIMOTHY MILLS<sup>3</sup> (Samuel<sup>2</sup>) born at Jamaica in 1667, was the progenitor of the Suffolk Co. Mills and moved to that part of Smithtown since called Mills Pond in 1693. He died March 30th 1751 aged 84. His will bears date of March 16, 1741. He married first Elizabeth, family name unknown and secondly Sarah Longbotham. 
+</p>
+<p>
+The settlement of Mills Pond is a collection of dignified old houses surrounded by a small pond situated on the North Country road about four miles east of the village of Smithtown Branch. It lies within the town of Smithtown and has always been the residence of one or more members of the family since the days of Timothy Mills the common ancestor." 
+</p>
 </blockquote>
 <figcaption>
 <cite>— 1919, <em>Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene</em>, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, p105, Logan Utah FamilySearch Library, familysearch.org.
@@ -158,7 +169,7 @@ And so, the cited genealogical entries can be updated accordingly:
 
 Several of James' children died in infancy, and according to a history of Huntington Rural Cemetery on [longislandgenealogy.com](http://longislandgenealogy.com/HuntingtonRural.html) these children were *re-buried* there on 22 May 1857: "One of the oldest "rural cemeteries" in Suffolk County, Huntington Rural Cemetery was established in 1853, during the "Rural Cemetery" movement of pre-Civil War America. ...As with many "rural cemeteries" across the country, burials from older family or farm cemeteries were moved to Huntington Rural Cemetery over the decades. Thus you will find dates long before 1853, some back into the 18th century, among the burials in this cemetery."
 
-There is also a census entry for a daughter Cora M. born Jan 1871. This is Cora Maria (Mills) Nostrand(Jan 1871 to 20 Oct 1908). 
+There is also a census entry for a daughter Cora M. born Jan 1871. This is Cora Maria (Mills) Nostrand (Jan 1871 to 20 Oct 1908). Cora is listed in the *Index to the Huntington Rural Cemetery 1853-1990*.  
 
 The first three names of possible heirs listed in the [Mills' home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
@@ -319,3 +330,5 @@ The author, a prominent resident of Port Jervis in Orange County:
 {{% fig "portraits/swmillsportrait" "500" /%}}
 
 I am following up with Minisink Valley Historical Society, which still has materials from Reverend Mills in their collection. 
+
+Although I am still working my way through the Mills genealogy, it appears unlikely there are living descendants of Edwards' parents, however, I am finding living descendants of Jonas and second wife Mary Platt Mills, in particular, there are descendants of Edward's half-brother Robert Sydney Mills who for a few generations have lived in Salt Lake City Utah and are members of the Church of Jesus Christ of Latter-day Saints.   
