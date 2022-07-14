@@ -3,7 +3,7 @@ title: "The Mills of Buffalo"
 date: "2022-07-02"
 ---
 
-I am skeptical about a connection between the Mills of Buffalo and the Long Island/Queens/etc. Mills, but I have not examined this closely yet, and perhaps Reverend Samuel Mills discovered a connection, or was investigating it. This section contains nine portraits and has historical information on Robert Mills. 
+This section introduces descendants of Timothy Mills that lived in Buffalo NY in the 1800's, notably, Jonas Davis Mill's aunt and uncle, who overlap with the time Edward Mills' family was living in Corfu NY, a short distance from Buffalo. Included are currently unidentified portraits from the Mills Family archive at Queens Library.  
 
 <!--more-->
 
@@ -76,7 +76,23 @@ However, we do have other loose photos of individuals in A-Z order by surname. I
 </figcaption>
 </figure>
 
-[Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (17 Nov 1824 to 11 Dec 1890)
+The photograph of a Mills home in Buffalo still in the possession of The Buffalo History Museum is of 111 Park Street:
+
+<figure>
+<blockquote>
+The house at 111 Park Street turns out to have been the home of William & Deborah Mills. She lived in it as a widow until 1882, when the family sold it after her death.
+</blockquote>
+<figcaption>
+<cite>—14 Jul 2022, person correspondence with Cynthia Van Ness, Director of Library & Archives at The Buffalo History Museum, Buffalo NY.  
+</cite>
+</figcaption>
+</figure>
+
+[William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY) and [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1768, Smithtown NY to 13 Jun 1882, Clarence NY), married 08 Jun 1819 are Jonas Davis Mills' uncle and aunt.
+
+## Robert Mills
+
+As far as I can tell, [Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (17 Nov 1824 to 11 Dec 1890) is not related, at least not closely, to the descendants of Timothy Mills. 
 
 {{% fig "mills-family/buffalo/1890-12-21-The-Buffalo-Express-Buffalo-NY-p8a" "500" /%}}
 {{% fig "mills-family/buffalo/1890-12-11-The-Buffalo-Express-Buffalo-NY-p6" "500" /%}}

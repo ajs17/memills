@@ -123,6 +123,16 @@ My current understanding is that the deed above shows the likely first owner of 
 
 In the years immediately preceding this purchase, William had spent three years as a Union soldier in the Civil War, mustering out 09 June 1865. The following Spring, William and his wife [Ellen A. (Shurter) Wolcott Aldrich](https://www.findagrave.com/memorial/187990128/ellen-a-aldrich_wolcott) (07 Sep 1843 to 21 Apr 1928), had their only child [Willis B. Wolcott](https://www.findagrave.com/memorial/187989322/willis-b-wolcott) (14 Apr 1866 to 10 Nov 1903). The historical deeds for Dalebrook refer to the adjoining property as the "Wolcott lot". If William is indeed the first true owner of the divided lot, given the timing and his expertise, perhaps he had a direct role in its construction.
 
+| | | 
+| --- | --- | 
+| 21&nbsp;Aug&nbsp;1862 | William enlisted in Company K of the 137th New York Volunteer Infantry Regiment. |
+| 30&nbsp;Aug&nbsp;1862 | William married Ellen A. Shurter. |
+| 25&nbsp;Sep&nbsp;1862 | William mustered in at Binghamton NY. |
+| 09&nbsp;Jun&nbsp;1865 | William mustered out near Bladensburg MD. |
+| 26&nbsp;Jun&nbsp;1865 | The day the NY census is taken in Caroline, the census records William was living in the home of Josiah Shurter, Ellen's parents. |
+| 14&nbsp;Apr&nbsp;1866 | Willis B. Wolcott was born, 10 months after his father mustered out. |
+| 22&nbsp;May&nbsp;1869 | William purchased the "Wolcott lot" from Jacob Vandemark and Charles Personeus. |
+
 William Wolcott is described as follows in the census data:
 
   - 1850: "Carpenter"
