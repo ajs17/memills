@@ -274,6 +274,8 @@ There has been an impression somewhat prevalent that Culp's Hill was a mere outp
 </figcaption>
 </figure>
 
+{{% fig "mills-home/1911-03-01-Star-Gazette-Elmira-NY-p5" "500" /%}}
+
 In Caroline, Apr 1861, George Wolcott, William Wolcott's brother, enlisted in Company G of the 32nd New York Volunteer Infantry Regiment and mustered in 31 May 1861 with the rank of Sergeant under Colonel Roderick Matheson, Lieutenant Colonel Francis E. Pinto and Major George F. Lemon. The 32nd regiment was in reserve at the First Battle of Bull Run (a battle in which David Ireland fought in Sherman’s Third Brigade, prior to his taking command of the 137th infantry), covering the retreat of the army, 21 July 1861 in what was the first major battle of the Civil War. George was eventually promoted to First Lieutenant, and his records note that he "was in seven days battles before Richmond". (Town Clerks' Registers of Men Who Served in the Civil War, ca 1865–1867. Microfilm publication, 37 rolls. New York State Archives. Albany, New York, ancestry.com.)
 
 <figure>

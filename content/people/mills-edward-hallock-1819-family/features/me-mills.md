@@ -245,6 +245,19 @@ The Brooktondale post office, which had expanded operations when Caroline Depot 
 </figcaption>
 </figure>
 
+<figure>
+<blockquote>
+1961, Postmaster Charles Vorhis bought Jessie Brewer's store and moved the post office across the street. This store had been Mr. Mills dry goods store and was carried on for thirty years after his death by his daughter Emily Mills, who carried kerosene, kerosene lamps with green shades, penny candy, stockings, handkerchiefs, yard goods, pins and sewing notions, sheets and pillowcases. Emily Mills died in 1937. Jessie Brewer, who grew up in the house next door as Jessie Shurter, kept a dry goods store here after Miss Mills and had a lending library in the back of the store. (The Shurter House, which sat between the post office and the bridge, was moved to 447 Brooktondale Road in 1964 when the road was improved.)
+</blockquote>
+<figcaption>
+<cite>
+— Molly Adams, from her research notes at the Caroline History Room. 
+</cite>
+</figcaption>
+</figure>
+
+{{% fig "me-mills/old-post-office" "800" /%}}
+
 
 ## Notes for Future Researchers
 
