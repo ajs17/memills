@@ -17,8 +17,6 @@ anemoia—<em>n.</em> nostalgia for a time you’ve never known
 </figcaption>
 </figure>
 
-Someone might someday wonder about my interest in Emily. I often wonder about it too. 
-
 When I came to Brooktondale, I valued the time as the beginning of a new phase of my life, but I did not intend to stay forever. 
 
 Shortly after I moved in, Molly Adams sought me out and handed me "A Note on Emily Mills." I took it and read it with some interest, and appreciated it enough at the time to put the document with my deeds and file it away. I'm sure it didn't take long at all for me to forget that it existed. What a wasted opportunity! I never got the chance to ask Molly for more information, yet her words have been, and remain, invaluable to me. Presumably, if she had a photo of Emily, she would have given me that too, as I later learned that Molly kept an eye out for newcomers (as she herself had once been) to educate them about their homes and the people that occupied them in the past. I have since learned just how passionate Molly was about history in general, and Brooktondale's history in particular. She was clearly a rare individual, and we owe so much to her.
@@ -138,7 +136,7 @@ Dates:
 
 States are generally written as their two letter abbreviation without additional punctuation. Towns and states are not separated by a comma: "Brookton NY". (TODO: inconsistently applied.)
 
-Simplified citation format:
+<!--Simplified citation format:
   - As with date formatting, goals are a minimal, standardized, flexible format, easily entered and parsed by both human and machine. 
   - As with date formatting, all fields are optional based on availability and applicability of data.
   - Otherwise, entered as completely as possible for future breadcrumb trail. 
@@ -148,6 +146,7 @@ Simplified citation format:
       - 02 Jan 2006, Authorfirstname Authorlastname, "Item Title", Volume Title, Edition, Publisher, Publication City NY, p7-9, url.com, Owner Name. Further descriptive information about item format, copyright, etc. 
   - If the source of an item suggests a preferred citation format, that may be used instead. 
   - I may take liberties with my own format at times when it favors clarity/readability.
+--> 
 
 Literal examples [brackets indicate optional inclusion]:
   - [the] Mills' store

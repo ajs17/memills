@@ -109,4 +109,7 @@ As far as I can tell, [Robert Mills](https://www.findagrave.com/memorial/7750718
 {{% fig "mills-family/buffalo/1890-12-14-Buffalo-Courier-Buffalo-NY-p5b" "350" /%}}
 {{% fig "mills-family/buffalo/1890-12-14-Buffalo-Courier-Buffalo-NY-p5" "350" /%}}
 </div>
+
 {{% fig "mills-family/buffalo/1890-12-21-The-Buffalo-Express-Buffalo-NY-p8" "500" /%}}
+
+{{% fig "mills-family/buffalo/ship-robert-mills" "800" /%}}

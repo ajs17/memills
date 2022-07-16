@@ -54,7 +54,7 @@ The following from the 50th Engineer Regiment unit roster does differ slightly i
 {{% fig "mills-home/50thEngRoster-Charles-Personius-p1084" "500" /%}}
 
 
-The 50th Regiment organized as the 50th New York Infantry Regiment 18 Sep 1861 in Elmira NY and on 22 Oct 1861: "Detailed as sappers, miners and pontooners, and designated 50th New York Engineers at Washington, D.C. Attached to Woodbury’s Brigade, Army of the Potomac for duty at Alexandria, Va." The Regiment participated in the Chancellorsville, Fredericksburg and Gettysburg campaigns, but they were not on the battlefield at Gettysburg. The Regiment was present for the surrender of General Lee at Appomattox Court House 09 Apr 1865.
+The 50th Regiment, which also included Charles' brother Walker, organized as the 50th New York Infantry Regiment 18 Sep 1861 in Elmira NY and on 22 Oct 1861: "Detailed as sappers, miners and pontooners, and designated 50th New York Engineers at Washington, D.C. Attached to Woodbury’s Brigade, Army of the Potomac for duty at Alexandria, Va." The Regiment participated in the Chancellorsville, Fredericksburg and Gettysburg campaigns, but they were not on the battlefield at Gettysburg. The Regiment was present for the surrender of General Lee at Appomattox Court House 09 Apr 1865.
 
 According to the website [The Civil War in the East](https://civilwarintheeast.com/us-regiments-batteries/new-york-regiments-and-batteries/artillery-and-engineers/50th-new-york-engineers/): "The 50th New York Infantry Regiment, which became the 50th New York Engineer Regiment, lost 1 officer and 19 enlisted men killed or mortally wounded and 1 officer and 206 enlisted men to disease during the Civil War. It is honored by a monument at Gettysburg shared with the 15th New York Engineers." 
 
@@ -98,8 +98,7 @@ Immediately following this event, the Regiment was engaged in the Gettysburg cam
 The two bridges which this brigade laid across the Potomac at Edwards Ferry, over which the entire Army of the Potomac crossed to meet Lee upon this memorable battlefield, and the two afterwards at Berlin, ten miles above Edwards Ferry, over which it crossed in its return to Virginia, were remarkable structures, under all the circumstances.
 </p>
 <p>
-The river at these two points, as I now recollect, was nearly 1,700 feet in width, and for four days and nights the two bridges at each place were in constant use, and, as is often said, the Army of the Potomac had no reason to complain of the bridges which carried them safely over. Except for the timely 
-services rendered by the Engineer Brigade it is not an unreasonable prediction that the Capital City of the Nation would not have escaped falling into the hands of the enemy, as the usual ways of crossing streams over long - established highways and permanent bridges, oftentimes destroyed by the enemy, were entirely obviated by the temporary bridges and highways built by the engineers, and always at the proper time and place needed.
+The river at these two points, as I now recollect, was nearly 1,700 feet in width, and for four days and nights the two bridges at each place were in constant use, and, as is often said, the Army of the Potomac had no reason to complain of the bridges which carried them safely over. Except for the timely services rendered by the Engineer Brigade it is not an unreasonable prediction that the Capital City of the Nation would not have escaped falling into the hands of the enemy, as the usual ways of crossing streams over long - established highways and permanent bridges, oftentimes destroyed by the enemy, were entirely obviated by the temporary bridges and highways built by the engineers, and always at the proper time and place needed.
 </blockquote>
 <figcaption>
 <cite>—1902, Final Report on the Battlefield of Gettysburg (New York at Gettysburg) by the New York Monuments Commission for the Battlefields of Gettysburg and Chattanooga. Albany, NY: J.B. Lyon Company, p1084-1085.
@@ -176,10 +175,18 @@ The Brookton post of the Grand Army of the Republic (a fraternal organization of
 </figcaption>
 </figure>
 
+(Cyrus Eastman, Hannah Mills' step-son, was a Civil War veteran who is listed as a member of *both*  Caroline posts of the G.A.R.)
+
 The following photo of some of the surviving members of the David Ireland Post of the G. A. R., taken on Memorial Day in 1906, includes both Charles Personius and William Wolcott.
 
 {{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12b" "800" /%}}
 
+{{% fig "mills-home/1880-05-03-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x350" "" "top" /%}}
+
+{{% fig "mills-home/autophone" "500" /%}}
+{{% fig "mills-home/1883-02-28-Ithaca-Daily-Journal-Ithaca-NY-p3" "500x150" "" "top" /%}}
+</div>
+ 
 The Post was written of often over the years in the Brookton news in The Ithaca Journal. Although the David Ireland Post held events in both the Baptist and Congregational Churches in Brookton, the Congregational Church is most often associated with them. It is interesting to note the relationship between the G. A. R. and the W. C. T. U. 
 
 <div class="cols">
