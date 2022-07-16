@@ -1,3 +1,7 @@
+---
+cascade:
+  citation: "[The Mills Family of Jamaica and Mills Pond, Long Island](https://www.queenslibrary.org/manuscripts/0205#bg-largeview-about), Archives at Queens Library, Queens Borough Public Library, Jamaica NY."
+---
 
 Print photographs scanned Jun 2022 from The Mills Family of Jamaica and Mills Pond, Long Island, Archives at Queens Library, Queens Borough Public Library.
 
