@@ -10,9 +10,9 @@ source:  "newspapers.com"
 notes: >-
     Notes:
 
-    - Brookton was often confused with Brocton and even Brooklyn, and that is the reason for adopting the name Brooktondale. (See [Historical Names](#historical-names)) Another example can be seen in the Batavia burial notice for Jonas Mills for another example. Otherwise, the use of "village" doesn't make sense. 
+    - Brookton was often confused with Brocton and even Brooklyn, and that is the reason for adopting the name Brooktondale. Another example can be seen in the Batavia burial notice for Jonas Mills. Otherwise, the use of "village" doesn't make sense. 
 
-    - It is referencing the wrong weekend, but it is also a relative time reference, and perhaps the difference is just a result of the text not being updated in the time between writing and its delayed publishing.
+    - It is referencing the wrong weekend, but it is also a relative time reference, and perhaps the difference is just a result of the text not being updated in the time between writing and its delayed publication.
     
     - The reference to the Denmans seems to be [Richard Lounsbery Denman](https://www.findagrave.com/memorial/89338785/richard-lounsbery-denman) (15 Apr 1848 to 19 Aug 1915) and his wife [Adelaide (Webster) Denman](https://www.findagrave.com/memorial/89338786/adelaide-denman) (12 Sep 1852 to 30 Dec 1947). He is often referenced as R. L. Denman.
 ---
