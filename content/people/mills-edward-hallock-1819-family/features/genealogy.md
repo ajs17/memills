@@ -252,7 +252,7 @@ The Archives at Queens Library contains two boxes of materials of the "Mills Fam
 
 Of course, there are several Jonas Mills in the genealogy, but the dates given suggests this could be a reference to Edward's father. But even if this is a different branch of the Mills family, the genealogical records, etc., may provide important data on the family members investigated here.
 
-The collection contains [nine portraits of family members]({{% ref "../mills/qpl-portraits" %}}), only two of which have identification, and all of which seem to be taken in photography studios in Buffalo.
+The collection contains [nine portraits of family members]({{% ref "../mills/buffalo-mills" %}}), only two of which have identification, and all of which seem to be taken in photography studios in Buffalo.
 
 The collection also contains a photocopy of a photo of the Mills home in Buffalo, and the original is presently owned by the Buffalo History Museum, the likely source of the portraits as well:
 
