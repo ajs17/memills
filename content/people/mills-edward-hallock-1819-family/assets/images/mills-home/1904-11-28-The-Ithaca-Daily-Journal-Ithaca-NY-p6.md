@@ -18,5 +18,5 @@ Edward Lounsbery, a prominent resident of Brookton, dropped dead suddenly about 
 
 Mr. Lounsbery came from an old and prominent family who early settled in the vicinity of Brookton. He was born in the village 71 years ago and had always lived there. He was a member of the firm of Lounsbery & Peck, dealers in hides. Mr. Lounsbery was very active in church affairs and also was a member of the Prohibition party being one of its leaders in this county. 
 
-He is survived by his wife and two sisters, Mrs. Culver Little of Brookton and Mrs. Fred J. Marsh of this city. The : funeral arrangements will be announced later.
+He is survived by his wife and two sisters, Mrs. Culver Little of Brookton and Mrs. Fred J. Marsh of this city. The funeral arrangements will be announced later.
 

@@ -422,7 +422,7 @@ Frank's son [Charles Vorhis](https://www.findagrave.com/memorial/162243893/charl
 
 This shows the first mention of the Mills family. This confirms that Edward and Amanda never occupied this home themselves.
 
-[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran and a founding member of the David Ireland Post #158 in Brookton. 
+[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran and a founding member of the David Ireland Post #158 in Brookton. Edward was also a member of the Independent Order of Good Templars in Brookton.
 
 {{% fig "mills-home/edward-lounsbery-portrait" "350" /%}}
 
@@ -430,7 +430,7 @@ Records of what is known today as Caroline Valley Community Church show that Edw
 
 {{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "800x600" "" "top" /%}}
 
-Amanda was clerk in the church for many years, including after Edward's death and many entries in the church records are written by her hand. Edward and Amanda also owned the Mills' Store building for many years.
+Amanda was clerk in the church for many years, including after Edward's death and many entries in the church records are written by her hand. Edward and Amanda also owned the Mills' Store building for many years, and after Amanda's death, Mills' store passed to Amanda's sister Libbie Peck.
 
 {{% fig "mills-home/1921-11-14-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 
@@ -450,7 +450,7 @@ Edward H. Mills died without a will on 01 Jan 1908, and it would take some time 
 
 Emily Mills died 03 Nov 1937, like her father, without a will. 
 
-[Fred D. Gilbert](https://www.findagrave.com/memorial/183607645/fred-d-gilbert) (24 Apr 1873 to 14 Nov 1941) was a prominent Ithaca businessman, and was Emily's undertaker. His obituary states that he spent his boyhood in Brookton because his father, Rev. Herbert B. Gilbert, was pastor of the Congregational Church in 1872-1873, when the Mills first moved to Mott's Corners. (*History of the Congregational Church, Brooktondale, New York.* Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968.) Fred took a lifelong interest in his boyhood home, as evidenced for example, by his contribution to the Lockwood Memorial described elsewhere in this material. Fred was also known as an owner of light harness horses and as an organizer of the Tompkins County Fair.   
+[Fred D. Gilbert](https://www.findagrave.com/memorial/183607645/fred-d-gilbert) (24 Apr 1873 to 14 Nov 1941) was a prominent Ithaca businessman, and was Emily's undertaker. His obituary states that he spent his boyhood in Brookton because his father, Rev. Herbert B. Gilbert, was pastor of the Congregational Church in 1872-1873. (*History of the Congregational Church, Brooktondale, New York.* Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968.) Fred took a lifelong interest in his boyhood home, as evidenced for example, by his contribution to the Lockwood Memorial described elsewhere in this material. Fred was also known as an owner of light harness horses and as an organizer of the Tompkins County Fair.   
 
 {{% fig "mills-home/1941-11-15-The-Ithaca-Journal-Ithaca-NY-p2" "800x500" "" "top" /%}}
 {{% fig "mills-home/1941-11-18-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
