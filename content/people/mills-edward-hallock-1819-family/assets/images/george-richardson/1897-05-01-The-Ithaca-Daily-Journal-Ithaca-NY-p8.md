@@ -7,6 +7,9 @@ voltitle:  "The Ithaca Daily Journal"
 publocation:  "Ithaca  NY"
 pages:  "8"
 source:  "nyshistoricnewspapers.org"
+notes: >-
+
+  - "The old Personius store" refers to present day 559 Brooktondale Road, which for many years was a store run by Walker V. Personius, and also contained the post office while Walker was Postmaster.
 ---
 BROOKTON. 
 

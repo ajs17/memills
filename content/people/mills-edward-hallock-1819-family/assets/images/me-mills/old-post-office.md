@@ -1,5 +1,5 @@
 ---
-citation: "From the Molly Adams Collection."
+citation: "Digital photograph of print photograph from the Molly Adams Collection."
 ---
 In 1961, Postmaster Charles Vorhis bought Jessie Brewer's store and moved the post office across the street.
 
