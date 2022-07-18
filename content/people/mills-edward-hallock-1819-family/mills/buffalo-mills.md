@@ -3,7 +3,7 @@ title: "The Mills of Buffalo"
 date: "2022-07-02"
 ---
 
-This section introduces descendants of Timothy Mills that lived in Buffalo NY in the 1800's, notably, Jonas Davis Mill's aunt and uncle, who overlap with the time Edward Mills' family was living in Corfu NY, a short distance from Buffalo. Included are currently unidentified portraits from the Mills Family archive at Queens Library.  
+This section introduces descendants of Timothy Mills that lived in Buffalo NY in the 1800's, notably, Jonas Davis Mill's cousin, who overlap with the time Edward Mills' family was living in Corfu NY, a short distance from Buffalo. Included are currently unidentified portraits from the Mills Family archive at Queens Library.  
 
 <!--more-->
 
@@ -88,7 +88,7 @@ The house at 111 Park Street turns out to have been the home of William & Debora
 </figcaption>
 </figure>
 
-[William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY) and [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1768, Smithtown NY to 13 Jun 1882, Clarence NY), married 08 Jun 1819, are Jonas Davis Mills' uncle and aunt. These Mills and their descendants lived in Buffalo the entire time that Edward H. Mills' family was living in Corfu, approximately 30 miles away door-to-door. 
+[William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY) who was married on 08 Jun 1819 to [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1768, Smithtown NY to 13 Jun 1882, Clarence NY), is Jonas Davis Mills' cousin. These Mills and their descendants lived in Buffalo the entire time that Edward H. Mills' family was living in Corfu, approximately 30 miles away door-to-door. 
 
 ## Robert Mills
 

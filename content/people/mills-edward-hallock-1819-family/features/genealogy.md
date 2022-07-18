@@ -276,7 +276,7 @@ However, we do have other loose photos of individuals in A-Z order by surname. I
 </figcaption>
 </figure>
 
-After further investigation, to see if the 1880 Robert Mills could possibly be Edward H. Mills' half brother Robery Sydney Mills, I confirmed the photo is of [Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (unknown to 11 Dec 1890), an "Ex-Police Commissioner" and also "one of the most prominent builders and operators in lake vessels at this port", including one shipped named "Robert Mills" (11 Dec 1890, The Buffalo Commercial, Buffalo NY, p8).
+After further investigation, to see if the 1880 Robert Mills could possibly be Edward H. Mills' half brother Robert Sydney Mills, I confirmed the photo is of [Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (unknown to 11 Dec 1890), an "Ex-Police Commissioner" and also "one of the most prominent builders and operators in lake vessels at this port", including one shipped named "Robert Mills" (11 Dec 1890, The Buffalo Commercial, Buffalo NY, p8).
 
 A document worth highlighting in the Queens collection is the will of Timothy Mills, the common ancestor of everyone above. And in addition to the unexpected reference to Buffalo, which I have not otherwise encountered, the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
 
