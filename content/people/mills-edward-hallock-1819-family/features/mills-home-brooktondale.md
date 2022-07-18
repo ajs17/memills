@@ -346,7 +346,7 @@ She died in April 1982 in Thibodaux, LaFouche, Louisiana.
 </p>
 </blockquote>
 <figcaption>
-<cite>—04 Jul 2002, Jean Shulman, Historical Programs and Collections at American Red Cross via personal correspondence.</cite>
+<cite>—04 Jul 2022, Jean Shulman, Historical Programs and Collections at American Red Cross via personal correspondence.</cite>
 </figcaption>
 </figure>
 
@@ -455,10 +455,10 @@ Emily Mills died 03 Nov 1937, like her father, without a will.
 {{% fig "mills-home/1941-11-15-The-Ithaca-Journal-Ithaca-NY-p2" "800x500" "" "top" /%}}
 {{% fig "mills-home/1941-11-18-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
  
-After Emily's death, the first three names of possible heirs listed in the deeds are Emily's cousins, the children of [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills), Edward's younger brother:
+The first three names of possible heirs listed in the [Mills' home deeds]({{% ref "mills-home-brooktondale" %}}) from the time of Emily's death are the children of J. Thomas Mills:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
-  - George E. Mills (Feb 1856 to ?)
-  - [Clarissa H. Etsell (Jun 1852 to Jan 1846)](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (misspelled as "Etsall" on the deeds.)
+  - George E. Mills (Feb 1856 to 10 Apr 1944). 
+  - [Clarissa H. (Mills) Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (Jun 1852 to Jan 1946). (Her name is misspelled as "Etsall" on the deeds, and elsewhere has been spelled "Edsall".)
 
 [Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) is another cousin of Emily's, the daughter of Edward's sister, Emily Tabitha (Mills) Huntting. For more information on these branches of the Mills family, see the accompanying account of the Mills' [Long Island origins]({{% ref "genealogy" %}}). 
 

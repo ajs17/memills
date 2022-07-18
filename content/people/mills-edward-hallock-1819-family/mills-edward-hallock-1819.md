@@ -54,7 +54,7 @@ William Mott II…deposed the postmaster [Willet Terry] at Terryville (on Coddin
 </blockquote>
 <figcaption>
 <cite>
-1998, Molly Adams, <em>Town of Caroline</em> in <strong>The Towns of Tompkins County: From Podunk to the Magnetic Springs</strong> edited by Jane Marsh Dieckmann, DeWitt Historical Society of Tompkins County, Ithaca NY, p54.
+1998, Molly Adams, “Town of Caroline” in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, DeWitt Historical Society of Tompkins County, Ithaca NY, p54.
 </cite>
 </figcaption>
 </figure>
@@ -168,8 +168,7 @@ Emily officially joined the church rolls in the months immediately following Edw
 
 ## Notes for Future Researchers
 
-
-There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversville NY in the 1880's that was a "knitting factory" and one that is written about in some detail in local historical accounts. This appears to be a completely different family, based in part on the following city directories that list family members associated with this business who are unaccounted for in the Mills Genealogy and are not documented in anything else that I have seen on Mills family. 
+There is an Edward H. Mills and a corresponding E. H. Mills & Co. in Gloversville NY in the 1880's that was a "knitting factory" and one that is written about in some detail in local historical accounts. I have not investigated this family very much beyond ruling them out as the subjects of my research.
 
 {{% fig "1882-gloversville-directory-p85" "800" /%}}
 {{% fig "1886-gloversville-directory-p77" "800" /%}}
@@ -182,6 +181,7 @@ Edward Hallock's family are accounted for in the same census in Genesee County:
  
 {{% fig "census/census-1875a-nys" "800" /%}}
  
+
 
 
 

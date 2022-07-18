@@ -71,7 +71,7 @@ Emily, along with many of the others baptized with her, immediately became deepl
 Originally a pipe organ stood on a raised platform (for choir) at the back of the auditorium. After it deteriorated (with assistance from the church mice) a piano was used. During the pastorate of Rev. James L. Burckes (1949-1955) the platform was eliminated and double entrance doors cut in the curving wall. Prior to that time there had been only a single entrance door at each side of the wall. 
 </blockquote>
 <figcaption>
-— <strong>History of the Congregational Church, Brooktondale, New York.</strong> Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.
+— <em>History of the Congregational Church, Brooktondale, New York.</em> Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.
 </figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ Full quote and citation are below. Ralph Conant in personal correspondence 24 Ju
 <p>She was a "sweet little lady"</p>
 </blockquote>
 <figcaption>
-<strong>A Drive-by Tour of the Town of Caroline</strong> sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 4 - P7, 484 Brooktondale Road
+<em>A Drive-by Tour of the Town of Caroline</em> sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 4 - P7, 484 Brooktondale Road
 </figcation>
 </figure>
 
