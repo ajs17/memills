@@ -119,7 +119,7 @@ Further investigation is needed, but an obvious concrete question to explore is 
 
 {{% fig "staten-island/1835-02-21-charles-pine" "700" /%}}
 
-Weekes, Seaman & Pine was a general store in Hempstead, possibly with some of the same partners as the previous firm of Weeks, Seaman & Co. a few years earlier in the same village:
+Weekes, Seaman & Pine was a general store in Hempstead, possibly with some of the same partners as the previous firm of Weekes, Seaman & Co. a few years earlier in the same village:
 
 {{% fig "staten-island/1834-07-16-The-Long-Island-Farmer-p4" "500" /%}}
 <div class="cols">
