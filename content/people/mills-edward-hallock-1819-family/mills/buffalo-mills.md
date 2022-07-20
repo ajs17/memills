@@ -109,7 +109,9 @@ The house at 111 Park Street turns out to have been the home of William & Debora
 
 ## Robert Mills
 
-As far as I can tell, [Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (17 Nov 1824 to 11 Dec 1890) is not related, at least not closely, to the descendants of Timothy Mills. 
+As far as I can tell, [Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (17 Nov 1824 to 11 Dec 1890) is not a descendant of Timothy Mills of Mills Pond, although he may be a descendant of John Mills "who was made freeman of Boston in 1632". (Genealogies of Long Island Families, p105.)
+
+The following is the research I accumulated on Robert Mills prior to determining that he was likely out-of-scope for my research.
 
 {{% fig "mills-family/buffalo/1890-12-21-The-Buffalo-Express-Buffalo-NY-p8a" "500" /%}}
 {{% fig "mills-family/buffalo/1890-12-11-The-Buffalo-Express-Buffalo-NY-p6" "500" /%}}
