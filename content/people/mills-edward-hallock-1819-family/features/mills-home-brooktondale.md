@@ -53,8 +53,7 @@ The following from the 50th Engineer Regiment unit roster does differ slightly i
 
 {{% fig "mills-home/50thEngRoster-Charles-Personius-p1084" "500" /%}}
 
-
-The 50th Regiment, which also included Charles' brother Walker, organized as the 50th New York Infantry Regiment 18 Sep 1861 in Elmira NY and on 22 Oct 1861: "Detailed as sappers, miners and pontooners, and designated 50th New York Engineers at Washington, D.C. Attached to Woodbury’s Brigade, Army of the Potomac for duty at Alexandria, Va." The Regiment participated in the Chancellorsville, Fredericksburg and Gettysburg campaigns, but they were not on the battlefield at Gettysburg. The Regiment was present for the surrender of General Lee at Appomattox Court House 09 Apr 1865.
+The 50th Regiment, which also included Charles' brother Walker, as well as others from Caroline, organized as the 50th New York Infantry Regiment 18 Sep 1861 in Elmira NY and on 22 Oct 1861: "Detailed as sappers, miners and pontooners, and designated 50th New York Engineers at Washington, D.C. Attached to Woodbury’s Brigade, Army of the Potomac for duty at Alexandria, Va." The Regiment participated in the Chancellorsville, Fredericksburg and Gettysburg campaigns, but they were not on the battlefield at Gettysburg. The Regiment was present for the surrender of General Lee at Appomattox Court House 09 Apr 1865.
 
 According to the website [The Civil War in the East](https://civilwarintheeast.com/us-regiments-batteries/new-york-regiments-and-batteries/artillery-and-engineers/50th-new-york-engineers/): "The 50th New York Infantry Regiment, which became the 50th New York Engineer Regiment, lost 1 officer and 19 enlisted men killed or mortally wounded and 1 officer and 206 enlisted men to disease during the Civil War. It is honored by a monument at Gettysburg shared with the 15th New York Engineers." 
 

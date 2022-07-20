@@ -89,6 +89,23 @@ The house at 111 Park Street turns out to have been the home of William & Debora
 </figure>
 
 [William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY) who was married on 08 Jun 1819 to [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1768, Smithtown NY to 13 Jun 1882, Clarence NY), is Jonas Davis Mills' cousin. These Mills and their descendants lived in Buffalo the entire time that Edward H. Mills' family was living in Corfu, approximately 30 miles away door-to-door. 
+ 
+{{% fig "mills-family/buffalo/111-park-street-buffalo-ny" "800" /%}}
+
+{{% fig "mills-family/buffalo/111-park-street-buffalo-ny-closeup" "800" /%}}
+
+<div class="cols">
+{{% fig "mills-family/buffalo/111-park-street-buffalo-ny-face" "350" /%}}
+{{% fig "mills-family/buffalo/orasmus-warren-face" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "mills-family/buffalo/111-park-street-buffalo-ny-face" "350" /%}}
+{{% fig "mills-family/buffalo/closeup-face2" "350" /%}}
+</div>
+
+{{% fig "mills-family/buffalo/Park-111-Back" "800" /%}}
+
 
 ## Robert Mills
 
