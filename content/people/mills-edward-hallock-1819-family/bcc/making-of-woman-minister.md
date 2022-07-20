@@ -2,7 +2,7 @@
 title: "The Making of a Woman Minister by Reverend Annis Ford Eastman"
 ---
 
-Reverend Annis Ford Eastman recounts the circumstances of her first visit to Brookton Congregational Church, her work in the Church, and her ordination as one of the first women ministers of a Congregational Church.
+Reverend Annis Ford Eastman describes her first visit to Brookton Congregational Church, her work in the Church, and her ordination as one of the first women ministers of a Congregational Church.
 
 <!--more-->
 
@@ -20,7 +20,7 @@ There came a day when it was no longer possible to conceal the fact that the min
 
 Together we faced the situation — three children, one baby of three years, no money, no health, only pride and courage and friends. The story of those years that followed, when all the high counsels of the pulpit were translated into the common deeds of the common day, what need to tell it? It is written in the hearts of the farmers and housekeepers and laboring men, who saw him going about the humblest tasks on the streets of his aristocratic parish with the same simple dignity which had marked his pulpit ministrations. . . .
 
-As the minister lay on his couch one day — which had become as much the center of things as an open fire, and for the same reason — I told him of my recent trip through the churches of the state in the interest of home missions. As I spoke a thought suddenly came to me which I as suddenly expressed, although only in fun: "Sam, I believe *I'll* preach!" It had the effect of a galvanic shock. The minister raised himself right up and said, with almost solemn earnestness, yet with the dazed air of one making a surprising discovery: "It's what you were made for"
+As the minister lay on his couch one day — which had become as much the center of things as an open fire, and for the same reason — I told him of my recent trip through the churches of the state in the interest of home missions. As I spoke a thought suddenly came to me which I as suddenly expressed, although only in fun: "Sam, I believe *I'll* preach!" It had the effect of a galvanic shock. The minister raised himself right up and said, with almost solemn earnestness, yet with the dazed air of one making a surprising discovery: "It's what you were made for!"
 
 Then came the weeks of consultation with friends, of discouragements from quarters where help was confidently expected, of surprising offers of furtherance from those who had no faith in women preachers, but thought there might be such a thing as a divine leading. . . . For a time it seemed likely that my high resolve to preach was to be frustrated by a counter-resolve on the part of the churches, but at last there came a letter from a home-mission secretary, telling of a little church which had fallen among thieves and robbers, and was left more than half dead. "They have a debt and a leaking roof, several antiquated church quarrels and about twenty-five members. They will have you for one Sunday, but promise nothing after that."
 

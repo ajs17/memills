@@ -16,7 +16,7 @@ Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale 
 <p>"If everyone to whom Miss Mills extended a helpful hand were to place a floral emblem upon her grave, she would sleep today amidst a wilderness of flowers."</p>
 </blockquote>
 
-{{% table "census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census* accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" "Summary of Census Data" %}}
+{{% table "/static/data/census-data.csv" "census-emily" "year,type,town,name,age,Computed-birthyear,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census* accessed via [ancestry.com](https://www.ancestry.com)" "firstname" "=" "Emily" "Summary of Census Data" %}}
 
 Emily's middle name may be in honor of Edward's sister who died over a decade before Emily was born. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she typically used "M. Emily Mills", particularly in later years.
 

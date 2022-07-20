@@ -37,7 +37,7 @@ There is also a June 1863 Civil War Draft Registration record in Genesee County 
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 
-The reasons for the family's move to Corfu are unknown. However, according to archival materials at Queens Public Library, there were related Mills family members living in the Naples NY and Buffalo NY areas at one time, which may be relevant. 
+The reasons for the family's move to Corfu are unknown. [William Mills](https://www.findagrave.com/memorial/78770560/william-mills) (17 Nov 1792, Smithtown NY to 15 Aug 1867, Buffalo NY) who was married on 08 Jun 1819 to [Deborah (Smith) Mills](https://www.findagrave.com/memorial/78770568/deborah-mills) (02 Dec 1768, Smithtown NY to 13 Jun 1882, Clarence NY), is Jonas Davis Mills' cousin, and his family and [lived in Buffalo]({{% relref "../mills/buffalo-mills" %}}) the entire time that Edward H. Mills' family was living in Corfu, approximately 30 miles away door-to-door. And, according to archival materials at Queens Public Library, there were related Mills family members living in the Naples NY at one time, which may be relevant. 
 
 In Mar 1864, the Mills purchased their home in Corfu at what is presently 31 West Main Street:
 
@@ -99,7 +99,7 @@ Church records also include confirmation that Mary Ann had been a member of Firs
 
 {{% fig "mills-mary-cvcc-join" "800" /%}}
 
-The following advertisements *could* be for the Mills' store, as both the description and timing fit, or this could possibly be for the Porter Store. According to the information provided by Allan Starkweather, Henry Porter, who owned the larger general store on the opposite corner of E. H. Mills & Co., retired in 1879, and F. H. Edwards started a hardware store at 3 East Main Street in 1879. 
+The following advertisements *may* be for the Mills' store, as both the description and timing fit, or this may possibly be for the Porter Store. According to the information provided by Allan Starkweather, Henry Porter, who owned the larger general store on the opposite corner of E. H. Mills & Co., retired in 1879, and F. H. Edwards started a hardware store at 3 East Main Street in 1879. 
 
 <div class="cols">
 {{% fig "corfu/1879-03-22-buffalo-morning-express-buffalo-ny-p1" "350" /%}}

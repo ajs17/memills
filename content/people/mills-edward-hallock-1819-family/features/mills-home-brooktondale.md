@@ -31,7 +31,7 @@ Several phrases from the Mills' home deeds are quoted in Molly Adams' "A Note on
 
 A summary of the historical deeds referenced below, up to the time it was owned by Jesse Brewer:
 
-{{% table "deeds.csv" "mills-home-deeds" "book,book-num,page-num,document-date,recorded-date,grantor,grantee,amount" "" "property" "=" "Mills Home" %}}
+{{% table "/static/data/deeds.csv" "mills-home-deeds" "book,book-num,page-num,document-date,recorded-date,grantor,grantee,amount" "" "property" "=" "Mills Home" %}}
 
 I believe this may be the first deed after the grist mill lot was divided.
 

@@ -8,7 +8,7 @@ Jonas E. Mills, born 1852, Staten Island NY, died 14 October 1885, Brookton NY. 
 
 <!--more-->
 
-{{% table "census-data.csv" "census-jonas" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Jonas" %}}
+{{% table "/static/data/census-data.csv" "census-jonas" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Jonas" %}}
 
 The 1885 New York State Death Index lists Jonas as dying on October 14:
 

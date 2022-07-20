@@ -13,7 +13,7 @@ Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton,
 <p>"...his loss seems irreparable..."</p>
 </blockquote>
 
-{{% table "census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Edward" %}}
+{{% table "/static/data/census-data.csv" "census-edward" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Edward" %}}
 
 Note that the account of the Mills family's travels around the time of J. Thomas Mills' birth in 1827, as described in his obituary in the accompanying account of the Mills' [Long Island origins]({{% ref "genealogy" %}}), appears inconsistent with Edward's purported birthplace referenced in several sources, including the census. 
 
@@ -46,7 +46,7 @@ Edward's son Jonas died after a brief illness in Oct 1885.
 
 Edward's obituary mentions that he was "postmaster during the Cleveland administration" which I can confirm refers to the first Cleveland administration from 1885 to 1889. (As this is written, Cleveland is the only president to have two non-consecutive terms.) A partial list of Brooktondale postmasters from usps.gov, beginning with the very first, up to the 1970's:
 
-{{% table "postmasters.csv" "postmasters" "Name,Title,Date Appointed" "usps.gov" %}}
+{{% table "/static/data/postmasters.csv" "postmasters" "Name,Title,Date Appointed" "usps.gov" %}}
 
 <figure>
 <blockquote>
@@ -181,6 +181,7 @@ Edward Hallock's family are accounted for in the same census in Genesee County:
  
 {{% fig "census/census-1875a-nys" "800" /%}}
  
+
 
 
 

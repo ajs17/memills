@@ -41,7 +41,7 @@ Genealogical data accumulated through this research can be <a href="/data/geneal
 
 The following represents a summary of all of the census data that I have been able to access. 
 
-{{% table "census-data.csv" "census-all" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census* accessed via [ancestry.com](https://www.ancestry.com)" %}}
+{{% table "/static/data/census-data.csv" "census-all" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census* accessed via [ancestry.com](https://www.ancestry.com)" %}}
 
 According to [newyorkfamilyhistory.org](https://www.newyorkfamilyhistory.org/):
     

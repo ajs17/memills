@@ -15,7 +15,7 @@ Hannah (Thatcher) Eastman Mills, born 21 May 1824, England, died 25 Feb 1917, Br
 </p>
 </blockquote>
 
-{{% table "census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Hannah" %}}
+{{% table "/static/data/census-data.csv" "census-hannah" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Hannah" %}}
 
 Hannah immigrated with her parents and siblings from the "Parish of Hawkhurst in the county of Kent, England", arriving in New York City on 28 Jul 1830. Like Ellen Gould, Hannah may have retained an English accent.
 

@@ -29,7 +29,7 @@ This event and its recording are unusual in several respects, and deserving of f
 The following is a summary of information about the participants. Click on column headers to affect the sort order accordingly.
 
 <figure>
-{{% baptismtable "baptism.csv" %}}
+{{% baptismtable "static/data/baptism.csv" %}}
 <footer>
 Notes:
 

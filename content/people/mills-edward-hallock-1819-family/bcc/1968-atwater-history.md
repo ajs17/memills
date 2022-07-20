@@ -4,7 +4,7 @@ title: "History of the Congregational Church, Brooktondale, New York by Amy Atwa
 
 Full text and images from *History of the Congregational Church, Brooktondale, New York.* Compiled and edited by Mrs. Amy Atwater on the occasion of The Centennial Celebration of the Caroline Valley Federated Church, Brooktondale, New York, June 16th, 1968. Used with permission from Caroline Valley Community Church.
 
-<!-- -->
+<!--more-->
 
 <blockquote>
 It started with a Methodist foundation, a Presbyterian church building; a congregation made up of Methodist and a Reformed group. And the whole, formed from these parts, was called Congregational.

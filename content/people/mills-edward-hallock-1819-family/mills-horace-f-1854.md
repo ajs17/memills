@@ -8,7 +8,7 @@ Horace F. Mills, born 1854, Staten Island NY, died 21 October 1876, Corfu NY. Se
 
 <!--more-->
 
-{{% table "census-data.csv" "census-horace" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Horace" %}}
+{{% table "/static/data/census-data.csv" "census-horace" "year,type,town,name,age,birthplace,occupation,industry" "*United States Federal Census* and *New York, U.S., State Census*, ancestry.com" "firstname" "=" "Horace" %}}
 
 Horace is the single biggest mystery in the family, all the more so because his death seems to be a pivotal event in the family's history:
 
